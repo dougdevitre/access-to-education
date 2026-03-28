@@ -1,6 +1,6 @@
 # Sample Outputs — What Good Looks Like
 
-**These examples show the TARGET quality for responses. Match the structure, tone, and depth for the given role.**
+**These examples show the TARGET quality for responses. Match the structure, tone, and depth for the given role. All 7 roles plus the parent audience are represented.**
 
 ---
 
@@ -156,3 +156,97 @@ If no IEP/504:
 - If you send a communication to parents, stick to facts: "A student was found in possession of a prohibited item. The student has been removed. Law enforcement is involved. There is no ongoing threat."
 
 What's the student's IEP/504 status? That determines the next step.
+
+---
+
+## Example 6: School Staff — Mandated Reporting Question
+
+**Input:** "I'm a bus driver. A kid told me his dad hits him. What do I do?"
+
+**Good Output:**
+
+You need to report this **right now**. Don't wait until you're back at the bus lot, and don't pass it off to someone else first.
+
+**What to do immediately:**
+1. **Call the Children's Division hotline: 1-800-392-3738.** You can call from your phone. You do not need to investigate or verify — you just need to report what the child told you.
+2. **Also notify your building principal or supervisor** as soon as possible after making the call. This is in addition to the hotline call, not instead of it.
+
+**What you are required to know:**
+- Under RSMo 210.115, **every school employee** is a mandated reporter — that includes bus drivers, not just teachers and counselors.
+- You must report **immediately** when you have reasonable cause to suspect abuse or neglect. "Reasonable cause" means you don't need proof — a child's statement is enough.
+- **Failure to report is a Class A misdemeanor** (RSMo 210.165). You can face criminal charges for not reporting.
+
+**What NOT to do:**
+- Don't investigate or ask the child probing questions — that's the Division's job
+- Don't tell the parent what the child said
+- Don't assume someone else will handle it
+- Don't wait for your supervisor's permission to call the hotline
+
+**After you report:**
+- Write down what the child said, as close to their exact words as possible, and the date and time
+- Keep this confidential — only share with the principal/supervisor and the hotline
+- The Division may follow up with you for additional details
+
+You did the right thing by asking. Now make the call.
+
+---
+
+## Example 7: District Administrator — Funding Question
+
+**Input:** "We're projecting a $2M shortfall next year. What are our options before we start cutting staff?"
+
+**Good Output:**
+
+Before moving to staff reductions, here's the landscape of options to consider, organized by timeline and political impact.
+
+**Immediate revenue options:**
+- **Operating levy election.** Missouri districts can seek voter approval for an operating levy increase (up to $6.00 per $100 assessed valuation total, RSMo 164.011). Requires simple majority approval. Your current levy rate determines headroom — check your Tax Rate Summary on DESE's MCDS portal.
+- **Title and federal grant optimization.** Review whether you're maximizing Title I, II, III, and IV allocations. Many districts leave allowable costs unclaimed — particularly Title II PD, Title IV well-rounded education, and IDEA proportionate share. Load a funding audit using `references/compliance/funding-programs.md` for the full checklist.
+- **E-Rate and technology savings.** If your district hasn't applied for E-Rate recently, you may be eligible for 20-90% discounts on internet, broadband, and networking equipment.
+
+**Expenditure restructuring (before staff cuts):**
+- **Transportation efficiency.** Route optimization, fleet right-sizing, and shared services agreements with neighboring districts. Rural districts have saved 8-15% on transportation through cooperative arrangements.
+- **Energy and facilities.** Energy performance contracts (RSMo 8.231) allow you to finance efficiency upgrades through guaranteed savings — no upfront capital required.
+- **Insurance consortium.** If you're not in a cooperative health insurance pool, the savings from joining one can be significant.
+- **Shared services.** Consider shared superintendent, business manager, or specialized staff positions with neighboring districts — increasingly common in Missouri's smaller districts.
+
+**Strategic considerations for the board:**
+- Frame the conversation around **options, not panic**. Present the shortfall alongside 3-4 scenarios with tradeoffs (revenue increase, expenditure reduction, combination).
+- **MSIP 6 implications:** Before cutting programs, check which ones affect your accreditation metrics — cutting counseling, for instance, could hurt School Quality/Climate indicators.
+- **Community impact:** If a levy election is being considered, start community engagement early. Bond/levy elections that include transparent communication about needs pass at significantly higher rates.
+
+**Financial implication:** A 10-cent levy increase on a district with $2B assessed valuation generates approximately $2M annually. That may close your gap without any cuts.
+
+What's your current operating levy rate? That determines how much headroom you have.
+
+---
+
+## Example 8: School Counselor — College Planning Question
+
+**Input:** "I have a senior who wants to go to college but her family can't afford it. Where do I start?"
+
+**Good Output:**
+
+Start with FAFSA — everything else flows from there.
+
+**Step 1: FAFSA (do this first)**
+Help her complete the FAFSA at studentaid.gov. It opens October 1. Missouri's priority deadline is typically February 1 — filing early maximizes state aid eligibility. She'll need her family's tax information (or her own if independent). If the family is undocumented, she can still complete the FAFSA using an Individual Taxpayer Identification Number (ITIN).
+
+**Step 2: Missouri state aid she may qualify for**
+- **Access Missouri Grant:** $300-$2,850/year, need-based. Automatically considered through FAFSA — no separate application.
+- **A+ Scholarship:** If she attended an A+ school, met the requirements (2.5 GPA, 95% attendance, 50 tutoring hours, Algebra I EOC), and completed FAFSA — she gets tuition covered at any Missouri public community college or vocational school for up to 48 months.
+- **Bright Flight:** Up to $3,000/year if she scored in the top percentiles on ACT. Automatically considered through FAFSA.
+- **Fast Track Workforce Incentive Grant:** For eligible certificate and degree programs at community colleges.
+
+**Step 3: Institutional aid**
+Have her apply to schools and check each school's financial aid deadline — many have their own scholarships beyond FAFSA-based aid. Encourage applying to 3-5 schools to compare financial aid packages.
+
+**Step 4: Local scholarships**
+Check your school's scholarship database, community foundation awards, and local organizations (Rotary, Lions, chambers of commerce). These smaller scholarships add up. Many go unclaimed because students don't apply.
+
+**Step 5: If cost is still a barrier**
+- Community college first, then transfer (A+ makes this free if she qualifies)
+- Missouri has articulation agreements between community colleges and 4-year universities
+- Work-study programs (she'll be matched through FAFSA if eligible)
+
+Would you like me to pull up the college planning checklist to walk through with her?

@@ -5,7 +5,7 @@
 Answers questions, generates documents, and walks through complex processes for students, parents, teachers, specialists, principals, school staff, and district administrators -- grounded in Missouri law (RSMo 160-178), IDEA, ESSA, and DESE guidance.
 
 [![Version](https://img.shields.io/badge/version-7.1.0-blue)]()
-[![Files](https://img.shields.io/badge/files-69-green)]()
+[![Files](https://img.shields.io/badge/files-71-green)]()
 [![Words](https://img.shields.io/badge/words-120%2C759-orange)]()
 [![License](https://img.shields.io/badge/license-see%20repo-lightgrey)]()
 
@@ -181,7 +181,7 @@ access-to-education/
 |   `-- calculators.md           # 5 calculators (retirement, A+, credits, timelines, funding)
 |
 |-- examples/
-|   `-- sample-outputs.md        # 5 example responses showing target quality
+|   `-- sample-outputs.md        # 8 example responses showing target quality (all roles)
 |
 `-- evals/
     `-- test-cases.json          # 30 test cases across all roles for validation

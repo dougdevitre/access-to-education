@@ -699,7 +699,7 @@ Before delivering any response, verify:
 - **Missouri data tables:** see `references/mo-data-tables.md` — 17 lookup tables
 - **Spanish parent guide:** see `references/guia-padres-espanol.md` — full bilingual rights guide
 - **Calculators:** see `scripts/calculators.md` — PSRS retirement, A+ eligibility, graduation credits, SPED timelines, funding estimator
-- **Sample outputs:** see `examples/sample-outputs.md` — 5 examples showing target response quality by role
+- **Sample outputs:** see `examples/sample-outputs.md` — 8 examples showing target response quality across all roles
 - **Special needs guides:** see `references/special-needs/INDEX.md` — vision, hearing, motor impairment depth
 
 ### Loading Priority
@@ -713,6 +713,8 @@ When loaded, Claude should read in this order:
 ```
 access-to-education/
 ├── SKILL.md                    ← Operating system (this file)
+├── CLAUDE.md                   ← Auto-activates skill in Claude Code
+├── README.md                   ← Setup guides and documentation
 ├── CHANGELOG.md                ← Version history
 ├── CANONICAL_OWNERS.md         ← Topic ownership map (v7 pod paths)
 ├── LAST_VERIFIED.md            ← Data verification log
@@ -722,7 +724,7 @@ access-to-education/
 ├── scripts/
 │   └── calculators.md          ← 5 calculators + decision engine
 ├── examples/
-│   └── sample-outputs.md       ← 5 role-specific response examples
+│   └── sample-outputs.md       ← 8 role-specific response examples
 ├── references/
 │   ├── roles/                  ← 7 files: who is asking
 │   ├── operations/             ← 10 files: how schools run
