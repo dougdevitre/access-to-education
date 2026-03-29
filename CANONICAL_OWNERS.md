@@ -23,7 +23,8 @@
 | 504 plans | `roles/specialists.md` §3 | roles |
 | 13 IDEA disability categories | `roles/specialists.md` §4 | roles |
 | Related services | `roles/specialists.md` §5 | roles |
-| ELL / WIDA / Title III | `roles/specialists.md` §6 | roles |
+| ELL identification / WIDA basics / Title III | `roles/specialists.md` §6 | roles |
+| ELL instruction / WIDA levels for teaching / scaffolding / language objectives / ELL accommodations / newcomers / SIOP | `programs/english-learners.md` | programs |
 | FBA / BIP | `roles/specialists.md` §10 | roles |
 | Transition planning (IDEA) | `roles/specialists.md` §11 | roles |
 | Gifted education | `roles/specialists.md` §7 | roles |
