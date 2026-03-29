@@ -1,0 +1,103 @@
+name: Validate Content
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check MANIFEST.json file count
+        run: |
+          expected=$(jq '.file_count' MANIFEST.json)
+          actual=$(find . -type f -not -path './.git/*' -not -path './.github/*' | wc -l)
+          echo "MANIFEST says: $expected files"
+          echo "Actual count:  $actual files"
+          if [ "$expected" -ne "$actual" ]; then
+            echo "::error::MANIFEST.json file_count ($expected) does not match actual file count ($actual)"
+            exit 1
+          fi
+
+      - name: Check all MANIFEST files exist
+        run: |
+          errors=0
+          # Check root files
+          for file in $(jq -r '.structure.root[]' MANIFEST.json); do
+            if [ ! -f "$file" ]; then
+              echo "::error::Missing root file: $file"
+              errors=$((errors + 1))
+            fi
+          done
+          # Check reference files
+          for file in $(jq -r '
+            [.references.roles[].file,
+             .references.operations[].file,
+             .references.compliance[].file,
+             .references.programs[].file,
+             .references.standalone[].file,
+             .references["ai-in-education"].index,
+             .references["ai-in-education"].sub_files[].file,
+             .references["curriculum-instruction"].index,
+             .references["curriculum-instruction"].sub_files[].file,
+             .references["special-needs"].index,
+             .references["special-needs"].sub_files[].file
+            ] | .[]' MANIFEST.json); do
+            if [ ! -f "$file" ]; then
+              echo "::error::Missing reference file: $file"
+              errors=$((errors + 1))
+            fi
+          done
+          # Check template files
+          for file in $(jq -r '[.templates[][].file] | .[]' MANIFEST.json); do
+            if [ ! -f "$file" ]; then
+              echo "::error::Missing template file: $file"
+              errors=$((errors + 1))
+            fi
+          done
+          if [ "$errors" -gt 0 ]; then
+            echo "::error::$errors file(s) listed in MANIFEST.json are missing"
+            exit 1
+          fi
+          echo "All MANIFEST files exist"
+
+      - name: Check no file exceeds 500 lines
+        run: |
+          errors=0
+          while IFS= read -r file; do
+            lines=$(wc -l < "$file")
+            if [ "$lines" -gt 500 ]; then
+              echo "::warning file=$file::$file has $lines lines (max 500)"
+              errors=$((errors + 1))
+            fi
+          done < <(find . -name '*.md' -not -path './.git/*')
+          if [ "$errors" -gt 0 ]; then
+            echo "::warning::$errors file(s) exceed the 500-line guideline"
+          fi
+          echo "Line count check complete"
+
+      - name: Check LAST_VERIFIED.md for stale high-volatility items
+        run: |
+          echo "High-volatility items that may need review:"
+          grep "| High |" LAST_VERIFIED.md | while IFS='|' read -r _ file datapoint value source date volatility _; do
+            date=$(echo "$date" | xargs)
+            file=$(echo "$file" | xargs)
+            if [ -n "$date" ]; then
+              echo "  - $file ($datapoint) last verified: $date"
+            fi
+          done
+          echo "See LAST_VERIFIED.md for full verification schedule"
+
+      - name: Validate JSON files
+        run: |
+          for file in $(find . -name '*.json' -not -path './.git/*'); do
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "::error file=$file::Invalid JSON: $file"
+              exit 1
+            fi
+            echo "Valid JSON: $file"
+          done

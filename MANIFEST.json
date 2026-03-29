@@ -4,12 +4,12 @@
   "last_updated": "2026-03-28",
   "description": "Comprehensive Missouri K-12 education navigator",
   "maintainer": "Doug Devitre",
-  "file_count": 72,
+  "file_count": 77,
   "word_count": 120759,
   "structure": {
-    "root": ["SKILL.md", "CLAUDE.md", "README.md", "LICENSE", "CANONICAL_OWNERS.md", "LAST_VERIFIED.md", "CHANGELOG.md", "MANIFEST.json"],
+    "root": ["SKILL.md", "CLAUDE.md", "README.md", "GETTING_STARTED.md", "LICENSE", ".gitignore", "CANONICAL_OWNERS.md", "LAST_VERIFIED.md", "CHANGELOG.md", "MANIFEST.json"],
     "commands": ["commands/COMMANDS.md"],
-    "scripts": ["scripts/calculators.md"],
+    "scripts": ["scripts/calculators.md", "scripts/run-evals.sh"],
     "examples": ["examples/sample-outputs.md"],
     "evals": ["evals/test-cases.json"]
   },
@@ -98,7 +98,11 @@
       { "file": "templates/specialist/iep-compliance-checklist.md", "count": 1 },
       { "file": "templates/specialist/plans-and-forms.md", "count": 2 }
     ],
-    "teacher": [{ "file": "templates/teacher/plans.md", "count": 2 }],
+    "teacher": [
+      { "file": "templates/teacher/plans.md", "count": 2 },
+      { "file": "templates/teacher/classroom-communication.md", "count": 9 },
+      { "file": "templates/teacher/observation-prep.md", "count": 3 }
+    ],
     "counselor": [
       { "file": "templates/counselor/graduation-audit.md", "count": 1 },
       { "file": "templates/counselor/checklists.md", "count": 2 }
