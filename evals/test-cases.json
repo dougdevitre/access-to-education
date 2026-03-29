@@ -1,0 +1,406 @@
+[
+  {
+    "id": "S01",
+    "prompt": "What do I need to graduate in Missouri?",
+    "role": "student",
+    "expected_behavior": "Quick-answer layer. 24 credits with breakdown. No reference file needed. Suggest talking to school counselor. Plain language, no statute citations unless asked.",
+    "expected_files": [],
+    "quick_answer": true
+  },
+  {
+    "id": "S02",
+    "prompt": "I'm a junior. Am I eligible for A+ scholarship? My GPA is 2.4.",
+    "role": "student",
+    "expected_behavior": "Quick-answer: 2.5 GPA required — student is currently below. Warm tone. List all A+ requirements. Suggest meeting with A+ coordinator. Encourage — 'you still have time to raise your GPA.'",
+    "expected_files": [],
+    "quick_answer": true
+  },
+  {
+    "id": "S03",
+    "prompt": "Can I take online classes instead of going to school?",
+    "role": "student",
+    "expected_behavior": "Explain MOCAP. Plain language. Load alternative-education.md for detail on virtual options.",
+    "expected_files": ["alternative-education.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "P01",
+    "prompt": "My child was suspended for 10 days and they want to extend it. What are our rights?",
+    "role": "parent",
+    "expected_behavior": "Rights-first response. >10 days = formal hearing required. Written charges, right to representation, right to present evidence (RSMo 167.171). If child has IEP/504, flag MDR. Give parent specific language to use. Template: 'I am requesting a formal hearing and written notice of charges.'",
+    "expected_files": ["students.md", "discipline-behavior.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "P02",
+    "prompt": "My son has ADHD and his teacher won't give him extra time on tests. What can I do?",
+    "role": "parent",
+    "expected_behavior": "Identify whether child has IEP or 504. If neither, explain how to request 504 evaluation. If yes, explain that accommodations in the IEP/504 must be implemented. Give parent language: 'I am requesting a meeting to review my child's [IEP/504] accommodations.' Empowering tone.",
+    "expected_files": ["specialists.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "P03",
+    "prompt": "The school won't let me see my child's grades. I'm the non-custodial parent.",
+    "role": "parent",
+    "expected_behavior": "Quick-answer: both parents generally have equal FERPA rights unless a court order restricts access. School cannot require custody agreement. Apply guardrail: 'Individual situations may vary by court order — consult your attorney if the school cites a specific order.'",
+    "expected_files": [],
+    "quick_answer": true
+  },
+  {
+    "id": "T01",
+    "prompt": "How do I get my career continuous certificate?",
+    "role": "teacher",
+    "expected_behavior": "Collegial tone. Requirements: 4 years on IPC, mentoring completion, district recommendation, PD. Link to DESE certification portal.",
+    "expected_files": ["teachers.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "T02",
+    "prompt": "When can I retire? I have 28 years in and I'm 53.",
+    "role": "teacher",
+    "expected_behavior": "Quick-answer: Rule of 80 → 53 + 28 = 81. Eligible under Rule of 80 (minimum age 48 met). Also eligible for 25-and-out. Mention WEP/GPO implications if they have Social Security from other work. Suggest contacting PSRS directly for benefit estimate.",
+    "expected_files": [],
+    "quick_answer": true
+  },
+  {
+    "id": "T03",
+    "prompt": "How should I use AI to differentiate my reading instruction for 3rd graders?",
+    "role": "teacher",
+    "expected_behavior": "Load ai-in-education/ai-teaching-learning.md. Give practical workflows: generate leveled passages, create tiered comprehension questions, use adaptive platforms (Lexia, iReady). Apply DESE principle: AI enhances, doesn't replace. Prompt engineering tips. Collegial tone.",
+    "expected_files": ["ai-in-education/INDEX.md", "ai-in-education/ai-teaching-learning.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "T04",
+    "prompt": "I'm not tenured and I just got told I'm not being renewed. It's April 20. Is that legal?",
+    "role": "teacher",
+    "expected_behavior": "Quick-answer: April 15 is the statutory deadline (RSMo 168.126). Notification on April 20 is past the deadline. Flag that this may mean the non-renewal is not effective. Apply guardrail: recommend contacting MSTA or MNEA representative and/or an employment attorney immediately. Don't make a legal conclusion — present the facts.",
+    "expected_files": [],
+    "quick_answer": true
+  },
+  {
+    "id": "SP01",
+    "prompt": "I need to write a BIP for a 2nd grader with emotional disturbance who is throwing chairs.",
+    "role": "specialist",
+    "expected_behavior": "Technical, compliance-precise. FBA must come first. Outline FBA→BIP process: define target behavior (chair throwing), collect ABC data, identify function (escape? attention? sensory?), write hypothesis, then BIP with replacement behavior, prevention strategies, teaching strategies, consequence strategies, crisis plan, data collection. Cite IDEA requirements. Flag that if behavior is escalating, IEP team should convene to review placement and services.",
+    "expected_files": ["specialists.md", "discipline-behavior.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "SP02",
+    "prompt": "A parent wants an independent educational evaluation. What do I do?",
+    "role": "specialist",
+    "expected_behavior": "Technical response. Parent right under IDEA §300.502. District has two options: (1) agree and fund the IEE at public expense, or (2) file for due process to defend its own evaluation. Timeline: must respond without unreasonable delay. Cannot just ignore the request. Give the specialist the exact procedural steps.",
+    "expected_files": ["specialists.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "PR01",
+    "prompt": "How do I build our CSIP this year?",
+    "role": "principal",
+    "expected_behavior": "Load template first (templates/csip-template.md). Then walk through: needs assessment → data analysis → goal setting → strategy selection → PD alignment → monitoring plan → stakeholder engagement → board submission. Operational tone. Give implementation steps, not just requirements. Offer to guide them section by section.",
+    "expected_files": ["building-leaders.md"],
+    "template": "csip-template.md",
+    "quick_answer": false
+  },
+  {
+    "id": "PR02",
+    "prompt": "A student made a threat on social media to shoot up the school. What do I do?",
+    "role": "principal",
+    "expected_behavior": "IMMEDIATE ACTIONS FIRST, then compliance. (1) Ensure student safety — locate the student. (2) Notify law enforcement immediately. (3) Activate threat assessment team. (4) Secure the building if needed. (5) Contact parents of the student who made the threat. Then: threat assessment process (CSTAG), documentation requirements, parent/community communication, follow-up. Load crisis-emergency.md. Offer threat-assessment-form.md template.",
+    "expected_files": ["crisis-emergency.md"],
+    "template": "threat-assessment-form.md",
+    "quick_answer": false
+  },
+  {
+    "id": "PR03",
+    "prompt": "We need an AI policy for our building before school starts.",
+    "role": "principal",
+    "expected_behavior": "Load ai-policy-template.md. Explain DESE guidance framework. Walk through the 7-step policy development process. Flag SB 68 interaction. Offer to help them fill out each section of the template. Practical, operational tone.",
+    "expected_files": ["ai-in-education/INDEX.md", "ai-in-education/ai-policy-governance.md"],
+    "template": "ai-policy-template.md",
+    "quick_answer": false
+  },
+  {
+    "id": "ST01",
+    "prompt": "I'm a new paraprofessional. What training do I need?",
+    "role": "school_staff",
+    "expected_behavior": "Clear, step-by-step. ESSA requirements (60 hours, associate's, or assessment). Mandated reporter training (RSMo 210.115). Bloodborne pathogens. Emergency procedures. Building-specific procedures. Clarify they work under teacher supervision. Supportive tone.",
+    "expected_files": ["school-staff.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "AD01",
+    "prompt": "Walk me through MSIP 6 accreditation standards.",
+    "role": "admin",
+    "expected_behavior": "Strategic, comprehensive. 5 standards with key indicators. APR scoring. Consequences of non-accreditation (advisory team, student transfers, lapse of corporate organization). Connect to CSIP/DSIP. Present in a format useful for board communication.",
+    "expected_files": ["administrators.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "AD02",
+    "prompt": "We're considering school consolidation with the neighboring district.",
+    "role": "admin",
+    "expected_behavior": "Strategic with tradeoffs. RSMo 162.223-162.431 pathways (voluntary, annexation, reorganization). Benefits (program variety, efficiency) vs. concerns (community identity, transportation, politics). Process: joint resolution → voter approval → DESE coordination. Financial implications. Community impact. Reference peer district examples.",
+    "expected_files": ["rural-education.md", "administrators.md", "mo-education-law.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "AD03",
+    "prompt": "Is our board meeting legal if we discussed personnel in closed session but didn't cite the specific statute?",
+    "role": "admin",
+    "expected_behavior": "Apply guardrail: note this is a legal determination. But explain the Sunshine Law requirement: must cite specific RSMo 610.021 subsection in the roll-call motion to close. If they didn't cite .3 (personnel), the closure may be procedurally defective. Recommend consulting legal counsel. Suggest corrective action for future meetings.",
+    "expected_files": ["governance-policy.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "X01",
+    "prompt": "My ex-husband won't return my child after his weekend. The school is involved because my daughter missed Monday.",
+    "role": "parent",
+    "expected_behavior": "Cross-skill handoff. Address the school attendance side (excused absence process, McKinney-Vento if housing is disrupted). Then handoff: 'The custody/visitation enforcement issue is outside education law. For co-parenting documentation and court preparation, CoTrackPro can help.' Apply guardrail for custody disputes.",
+    "expected_files": ["students.md"],
+    "handoff_skill": "cotrackpro-mcp",
+    "quick_answer": false
+  },
+  {
+    "id": "X02",
+    "prompt": "I just got my record expunged. Can I work in a school now?",
+    "role": "general",
+    "expected_behavior": "Explain RSMo 168.133 background check requirements. Note that expunged records should not appear on background checks per Missouri expungement law. But apply guardrail: 'Whether a specific expunged offense affects school employment eligibility is a legal question. For expungement details and verification...' → handoff to expunge-skill.",
+    "expected_files": [],
+    "handoff_skill": "expunge-skill",
+    "quick_answer": false
+  },
+  {
+    "id": "AI01",
+    "prompt": "Students are using ChatGPT to write their essays. What should we do?",
+    "role": "teacher",
+    "expected_behavior": "Load ai-in-education/ai-policy-governance.md. Don't panic tone. Frame as an assignment design challenge, not just a cheating problem. Present the spectrum (ban → restrict → integrate → transparent). Give specific AI-resistant and AI-enhanced assignment examples. Warn against relying on AI detection tools. Suggest updating academic integrity policy with disclosure requirements. Collegial tone.",
+    "expected_files": ["ai-in-education/INDEX.md", "ai-in-education/ai-policy-governance.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "AI02",
+    "prompt": "Can I use AI to write IEP goals?",
+    "role": "specialist",
+    "expected_behavior": "Nuanced answer. AI can help DRAFT goal language based on present levels data. But: specialist MUST review, customize, and own all IEP content. AI-generated goals without specialist review violate both DESE guidance and professional practice standards. IEP goals must be individualized based on evaluation data — AI can't do that alone. Give practical workflow: use AI to suggest language → specialist evaluates alignment to evaluation data → specialist customizes → IEP team reviews and adopts.",
+    "expected_files": ["ai-in-education/INDEX.md", "ai-in-education/ai-teaching-learning.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "EQ01",
+    "prompt": "We just had a refugee family enroll. The children speak no English and have no school records.",
+    "role": "principal",
+    "expected_behavior": "Immediate enrollment required (Plyler v. Doe). No records, immunizations, or proof of residency required for enrollment. Administer Home Language Survey → WIDA Screener. Connect to ELL services. Connect family to free/reduced meals (likely eligible). Assign a buddy/mentor for each student. Contact refugee resettlement agency. Trauma-informed approach. Cultural orientation. Interpreter services. Operational steps, not just law citations.",
+    "expected_files": ["special-populations.md", "equity-access.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "CR01",
+    "prompt": "A student told their counselor they want to kill themselves.",
+    "role": "principal",
+    "expected_behavior": "Apply guardrail — immediate action protocol, not informational response. (1) Student should not be left alone. (2) Trained professional conducts suicide risk screening (C-SSRS). (3) Contact parent/guardian. (4) If imminent danger → call 911. (5) Safety plan. (6) Referral to crisis services. 988 Lifeline. Do not provide clinical assessment guidance — direct to trained professionals. Follow building protocol.",
+    "expected_files": ["health-wellness.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "MR01",
+    "prompt": "I'm a bus driver and I noticed bruises on a child's arms. What do I do?",
+    "role": "school_staff",
+    "expected_behavior": "Quick-answer: you are a mandated reporter (RSMo 210.115). Call Children's Division hotline IMMEDIATELY: 1-800-392-3738. You do not need to verify — reasonable suspicion triggers the duty. You do not need to report through your supervisor first (though you may also notify administration). Your identity is confidential. You have immunity for good-faith reports. Do not delay. Clear, direct, no ambiguity.",
+    "expected_files": [],
+    "quick_answer": true
+  },
+  {
+    "id": "RU01",
+    "prompt": "We're a small rural district with 150 students and we can't fill our math teaching position. What are our options?",
+    "role": "admin",
+    "expected_behavior": "Multiple options with tradeoffs: (1) TAC/alternative certification, (2) share a teacher with neighboring district, (3) MOCAP virtual courses, (4) ITV video conferencing from another district, (5) grow-your-own pathway, (6) increase salary competitiveness, (7) international teacher recruitment (J-1). Financial implications for each. Connect to RPDC for support. Practical, solutions-oriented.",
+    "expected_files": ["rural-education.md", "educator-workforce.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "CL01",
+    "prompt": "When is our MOSIS data due?",
+    "role": "admin",
+    "expected_behavior": "Quick-answer: Fall (October count date) for enrollment/demographics/programs. End-of-Year (June-July) for attendance, discipline, grades, assessment, exits. Then suggest loading compliance-calendar.md for the full annual calendar. Direct and specific.",
+    "expected_files": [],
+    "quick_answer": true
+  },
+  {
+    "id": "CC01",
+    "prompt": "Our climate survey scores dropped 15 points. Where do we start?",
+    "role": "principal",
+    "expected_behavior": "Don't panic — diagnose first. (1) Disaggregate by subgroup (race, grade, gender). (2) Identify which domains dropped (safety? belonging? engagement?). (3) Compare to discipline/attendance data for corroboration. (4) Conduct listening sessions with students and staff. (5) Root cause analysis. (6) Select 1-2 targeted strategies based on findings. (7) Set CSIP goal for climate. Operational, data-driven, leadership-oriented.",
+    "expected_files": ["school-culture-climate.md", "building-leaders.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "GP01",
+    "prompt": "Can a board member's spouse work in the district?",
+    "role": "admin",
+    "expected_behavior": "Explain: Missouri doesn't have a comprehensive statewide nepotism statute for school boards, but RSMo 105.454 addresses some conflicts. Board policy governs — many districts have anti-nepotism policies. Board member must disclose any conflict (RSMo 162.215) and abstain from voting on the hiring decision. Apply guardrail: recommend consulting legal counsel for the specific situation.",
+    "expected_files": ["governance-policy.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "VI01",
+    "prompt": "My daughter is blind and starting kindergarten. What services should the school provide?",
+    "role": "parent",
+    "expected_behavior": "Load special-needs/vision-impairment.md. Parent recipe: rights-first. Cover: TVI services, O&M assessment, braille instruction (RSMo 162.1120 — presumption in favor of braille), LMA and FVA assessments, ECC areas, AT assessment, MSB outreach/MoSPIN. Give parent language to request these services in writing. Warm, empowering tone.",
+    "expected_files": ["special-needs/INDEX.md", "special-needs/vision-impairment.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "VI02",
+    "prompt": "I have a student with CVI. How do I set up my classroom?",
+    "role": "teacher",
+    "expected_behavior": "Load special-needs/vision-impairment.md §11. CVI-specific accommodations: reduce visual clutter, use preferred color, allow extra processing time (visual latency), present one item at a time, adjust lighting based on whether student is light-seeking or light-aversive, use movement cues, consistent environment. Mention CVI Range Assessment (Roman-Lantzy). Collegial, practical tone.",
+    "expected_files": ["special-needs/vision-impairment.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "HI01",
+    "prompt": "We just got a student with cochlear implants and I don't know anything about them. Help.",
+    "role": "teacher",
+    "expected_behavior": "Load special-needs/hearing-impairment.md §11. Key points: CI does NOT produce normal hearing, student still needs accommodations. External processor management (on/off, batteries, troubleshooting). FM/DM integration. Water/sports/static precautions. Face the student when speaking, caption all media, repeat peer comments. Connect with the student's TOD and audiologist. Practical, no-panic tone.",
+    "expected_files": ["special-needs/hearing-impairment.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "HI02",
+    "prompt": "Should we put a deaf student in a mainstream classroom with an interpreter or send them to MSD?",
+    "role": "principal",
+    "expected_behavior": "This is an IEP team decision, not an administrative one. Present both options with tradeoffs. Mainstream + interpreter: access to hearing peers, local school, but potential isolation if only deaf student, interpreter quality matters. MSD: full language access in ASL, deaf peers, residential considerations. Must consider LRE. Parent is an equal team member. Don't make the decision — lay out the framework. Apply guardrail: individual IEP team determination.",
+    "expected_files": ["special-needs/hearing-impairment.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "MI01",
+    "prompt": "A student in a wheelchair can't write. What are the alternatives for completing assignments?",
+    "role": "specialist",
+    "expected_behavior": "Load special-needs/motor-impairment.md §7-8. Written output alternatives: speech-to-text (Dragon, built-in dictation), word prediction, scribe, eye-gaze typing (Tobii), adapted keyboard, on-screen keyboard, switch scanning. Key principle: student should never be penalized academically for inability to physically form letters. IEP must specify alternative and AT. Recommend AT assessment. Technical, practical tone.",
+    "expected_files": ["special-needs/motor-impairment.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "MI02",
+    "prompt": "We need to evacuate a student who uses a power wheelchair and we're on the second floor.",
+    "role": "principal",
+    "expected_behavior": "Load special-needs/motor-impairment.md §12. PEEP (Personal Emergency Evacuation Plan) required. Options: evacuation chair/stairway device, area of rescue assistance with communication to first responders, designated staff (primary + backup), practice during drills. Must be documented, trained, and drilled. Immediate, operational tone — this is safety-critical.",
+    "expected_files": ["special-needs/motor-impairment.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "MI03",
+    "prompt": "What's the difference between OT and PT in a school setting?",
+    "role": "teacher",
+    "expected_behavior": "Load special-needs/motor-impairment.md §5. OT: fine motor, handwriting, self-care, sensory processing, AT, visual-motor integration, environmental adaptation. PT: gross motor, mobility, wheelchair/positioning, balance, accessibility, safety, adaptive PE consultation. Both must be educationally relevant — different from medical/clinic therapy. Collegial, clear explanation.",
+    "expected_files": ["special-needs/motor-impairment.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "CMD01",
+    "prompt": "/retire — I'm 55 with 22 years.",
+    "role": "teacher",
+    "expected_behavior": "Use calculators.md §1. Rule of 80: 55 + 22 = 77, need 3 more points (age 58, 25 years). Age 60: eligible at 60 with 5+ years. Early: eligible NOW at 55 with 5+ years but reduced benefit. 25-and-out: not yet (22 < 25). Present all paths with timeline. Recommend contacting PSRS for personalized estimate.",
+    "expected_files": [],
+    "quick_answer": true,
+    "calculator": "PSRS retirement"
+  },
+  {
+    "id": "CMD02",
+    "prompt": "/letter evaluation-request",
+    "role": "parent",
+    "expected_behavior": "Load templates/parent/letters.md §1. Ask for: child's name, grade, school, specific concerns. Then generate the letter with their information filled in. Offer to produce as a downloadable document.",
+    "expected_files": [],
+    "template": "parent/letters.md",
+    "quick_answer": false
+  },
+  {
+    "id": "CMD03",
+    "prompt": "/comply March",
+    "role": "admin",
+    "expected_behavior": "Load compliance/compliance-calendar.md. Show March compliance requirements: MAP testing window begins, MOSIS mid-year data, budget planning deadlines, board meeting requirements, any federal program deadlines. Operational, checklist-style.",
+    "expected_files": ["compliance/compliance-calendar.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "CMD04",
+    "prompt": "/a-plus — my attendance is 93%",
+    "role": "student",
+    "expected_behavior": "Walk A+ troubleshooting decision tree. 93% < 95% required. Calculate: how many days absent, how many days remaining, maximum additional absences to reach 95%. Plain language, encouraging — 'you still have time.' Recommend meeting with A+ coordinator.",
+    "expected_files": [],
+    "calculator": "A+ eligibility",
+    "quick_answer": false
+  },
+  {
+    "id": "SP01B",
+    "prompt": "Mi hijo tiene autismo y la escuela no le da los servicios del IEP. ¿Qué puedo hacer?",
+    "role": "parent",
+    "expected_behavior": "Respond entirely in Spanish per §11. Explain rights under IDEA: school must implement IEP as written. Failure to implement = denial of FAPE. Steps: (1) document which services are missing, (2) request IEP meeting in writing, (3) if unresolved, file state complaint with DESE. Include English legal terms in parentheses. Offer to draft the letter in English (since school may need it in English). Reference guia-padres-espanol.md. Include interpreter rights statement.",
+    "expected_files": ["guia-padres-espanol.md", "roles/specialists.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "SP02B",
+    "prompt": "¿Qué es el programa A+?",
+    "role": "parent",
+    "expected_behavior": "Respond in Spanish. Explain A+ program: becas para universidades comunitarias. Requirements in Spanish with English terms in parentheses. Reference guia-padres-espanol.md A+ section. Include contact info for A+ coordinator.",
+    "expected_files": ["guia-padres-espanol.md"],
+    "quick_answer": true
+  },
+  {
+    "id": "GL01",
+    "prompt": "What does PLAAFP mean?",
+    "role": "parent",
+    "expected_behavior": "Quick-answer from glossary.md. Present Levels of Academic Achievement and Functional Performance — it's the section of the IEP that describes where your child is RIGHT NOW in their learning and daily functioning. It's the foundation that goals are built on. Plain language for parent.",
+    "expected_files": ["glossary.md"],
+    "quick_answer": true
+  },
+  {
+    "id": "GL02",
+    "prompt": "What's the difference between MTSS and RTI?",
+    "role": "teacher",
+    "expected_behavior": "Quick-answer from glossary.md + curriculum-instruction if needed. RTI (Response to Intervention) is the predecessor framework focused on academic tiers. MTSS (Multi-Tiered System of Supports) is the current framework integrating academic AND behavioral support. MTSS is the broader, current term. Missouri uses MTSS terminology. Collegial tone.",
+    "expected_files": ["glossary.md"],
+    "quick_answer": true
+  },
+  {
+    "id": "FAQ01",
+    "prompt": "How do I get my child tested for a learning disability?",
+    "role": "parent",
+    "expected_behavior": "FAQ pre-built answer. Write a letter requesting evaluation under IDEA. The school must respond. If they agree: 60 calendar days from signed consent. If they refuse: Prior Written Notice explaining why + your appeal rights. Offer the template letter from templates/parent/letters.md §1. Walk the decision tree from §8 if the parent wants more depth.",
+    "expected_files": [],
+    "template": "parent/letters.md",
+    "quick_answer": true
+  },
+  {
+    "id": "TMPL01",
+    "prompt": "I need to write an FBA for a student who keeps eloping from the classroom.",
+    "role": "specialist",
+    "expected_behavior": "Load templates/specialist/plans-and-forms.md §FBA. Guide through: define target behavior (elopement — leaving assigned area without permission), collect ABC data, identify function (escape from demand? sensory seeking? access to preferred activity?), develop hypothesis statement, identify replacement behavior (requesting a break using a communication system). Walk through the template section by section.",
+    "expected_files": [],
+    "template": "specialist/plans-and-forms.md",
+    "quick_answer": false
+  },
+  {
+    "id": "TMPL02",
+    "prompt": "Help me build a board presentation about adding adaptive PE to our district.",
+    "role": "admin",
+    "expected_behavior": "Load templates/admin/plans-and-reports.md §Board Presentation + special-needs/motor-impairment.md §10 for APE content. Walk through: Title/purpose (IDEA requirement for PE access), background (current gap), data (number of students who need APE, current service model), options (hire APE specialist, contract with ESC, consultation model, community partnerships), cost analysis, recommendation, ask (board approval for staffing/budget). Strategic, board-ready.",
+    "expected_files": ["special-needs/motor-impairment.md"],
+    "template": "admin/plans-and-reports.md",
+    "quick_answer": false
+  },
+  {
+    "id": "EDGE01",
+    "prompt": "I'm a parent and I think the school is discriminating against my deaf child because they won't provide an ASL interpreter.",
+    "role": "parent",
+    "expected_behavior": "High-stakes. If the IEP team determined the student needs an interpreter and the school isn't providing one: that's a denial of FAPE and potentially disability discrimination under Section 504/ADA. Steps: (1) request IEP meeting in writing immediately, (2) document the denial, (3) if unresolved, options are state complaint, OCR complaint, or due process. Apply guardrail: this is potentially a legal strategy question — recommend MPACT or an attorney. But still give the parent clear steps and rights. Don't just punt.",
+    "expected_files": ["special-needs/hearing-impairment.md", "compliance/equity-access.md"],
+    "quick_answer": false
+  }
+]
+
