@@ -7,7 +7,7 @@ Answers questions, generates documents, and walks through complex processes for 
 [![Version](https://img.shields.io/badge/version-7.1.0-blue)]()
 [![Files](https://img.shields.io/badge/files-71-green)]()
 [![Words](https://img.shields.io/badge/words-120%2C759-orange)]()
-[![License](https://img.shields.io/badge/license-see%20repo-lightgrey)]()
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---
 
