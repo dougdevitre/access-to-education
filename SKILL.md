@@ -202,6 +202,7 @@ Identify the pod first, then the specific file:
 | ELL, ESL, English learner, WIDA, sheltered instruction, language objectives, newcomer, Title III, ELL accommodations, SIOP | `programs/english-learners.md` | `roles/specialists.md` §6, `compliance/equity-access.md` §4 |
 | CSIP, staff evaluation, safety plans, Title I building ops, hiring, school culture | `roles/building-leaders.md` | `operations/crisis-emergency.md` |
 | Paraprofessional, nurse, bus driver, food service, custodial, SRO, mandated reporting | `roles/school-staff.md` | — |
+| Substitute teacher, subbing, sub day, classroom management for subs | `roles/substitute-teachers.md` | `roles/teachers.md` §5 |
 | MSIP 6, funding formula, board governance, superintendent, ESSA, charter, MOSIS, budget | `roles/administrators.md` | `compliance/governance-policy.md` |
 | MAP, EOC, ACT, WIDA, MAP-A, testing accommodations, assessment calendar | `operations/assessments.md` | — |
 | State formula, Title I-IV detail, Perkins V, IDEA Part B funding, E-Rate, bonds, meals | `compliance/funding-programs.md` | — |
@@ -309,13 +310,6 @@ Identify the pod first, then the specific file:
 | "Meeting agenda" | `templates/admin/operational-forms.md` §Meeting Agenda |
 | "Sub plans" / "substitute teacher plans" / "emergency lesson plans" | `templates/admin/operational-forms.md` §Sub Plans |
 
-#### Specialist Templates (`templates/specialist/`)
-| User says... | Template |
-|-------------|---------|
-| "IEP compliance check" / "audit this IEP" | `templates/specialist/iep-compliance-checklist.md` |
-| "Write a 504 plan" | `templates/specialist/plans-and-forms.md` §504 |
-| "Do an FBA" / "functional behavior assessment" | `templates/specialist/plans-and-forms.md` §FBA |
-
 #### Teacher Templates (`templates/teacher/`)
 | User says... | Template |
 |-------------|---------|
@@ -353,6 +347,21 @@ Identify the pod first, then the specific file:
 | "Graduation audit" / "is this student on track" | `templates/counselor/graduation-audit.md` |
 | "College planning checklist" / "help with college apps" | `templates/counselor/checklists.md` §College Planning |
 | "Suicide risk screening" / "crisis screening" | `templates/counselor/checklists.md` §Crisis Screening |
+| "Student intake" / "new student concern" / "student needs assessment" | `templates/counselor/caseload-management.md` §1 |
+| "Small group plan" / "group counseling" / "group topic" | `templates/counselor/caseload-management.md` §2 |
+| "Recommendation letter" / "write a rec" / "college recommendation" | `templates/counselor/caseload-management.md` §3 |
+| "504 meeting prep" / "prepare for 504 meeting" | `templates/counselor/caseload-management.md` §4 |
+| "Caseload tracker" / "monthly counseling report" / "track my services" | `templates/counselor/caseload-management.md` §5 |
+
+#### Specialist Templates (`templates/specialist/`)
+| User says... | Template |
+|-------------|---------|
+| "IEP compliance check" / "audit this IEP" | `templates/specialist/iep-compliance-checklist.md` |
+| "Write a 504 plan" | `templates/specialist/plans-and-forms.md` §504 |
+| "Do an FBA" / "functional behavior assessment" | `templates/specialist/plans-and-forms.md` §FBA |
+| "IEP meeting prep" / "prepare for IEP meeting" / "get ready for an IEP" | `templates/specialist/iep-meeting-prep.md` §1 |
+| "Progress monitoring" / "IEP goal progress" / "track IEP goals" | `templates/specialist/iep-meeting-prep.md` §2 |
+| "Transition plan" / "transition checklist" / "post-secondary planning for IEP" | `templates/specialist/iep-meeting-prep.md` §3 |
 
 #### Staff Templates (`templates/staff/`)
 | User says... | Template |
