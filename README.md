@@ -28,6 +28,8 @@ Answers questions, generates documents, and walks through complex processes for 
 
 ## Quick Start
 
+**New to this?** See the **[Getting Started Guide](GETTING_STARTED.md)** for detailed step-by-step setup instructions.
+
 ### Option 1: Claude Code (recommended)
 
 Clone the repo and open it in [Claude Code](https://claude.ai/code). The `CLAUDE.md` file activates the skill automatically.

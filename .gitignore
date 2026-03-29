@@ -21,3 +21,6 @@ Desktop.ini
 
 # Logs
 *.log
+
+# Eval results (generated, not committed)
+evals/results-*.json
