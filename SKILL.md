@@ -198,7 +198,8 @@ Identify the pod first, then the specific file:
 |---------------------------|-----------|-------------------|
 | Graduation, attendance, discipline rights, A+, transfers, homeschool, scholarships, GED | `roles/students.md` | `compliance/mo-education-law.md` |
 | Certification, tenure, MEES, PD requirements, salary, co-teaching | `roles/teachers.md` | `programs/educator-workforce.md` |
-| IEP, 504, IDEA, related services, ELL, gifted, FBA/BIP, transition, AT, dispute resolution | `roles/specialists.md` | `compliance/equity-access.md` |
+| IEP, 504, IDEA, related services, gifted, FBA/BIP, transition, AT, dispute resolution | `roles/specialists.md` | `compliance/equity-access.md` |
+| ELL, ESL, English learner, WIDA, sheltered instruction, language objectives, newcomer, Title III, ELL accommodations, SIOP | `programs/english-learners.md` | `roles/specialists.md` §6, `compliance/equity-access.md` §4 |
 | CSIP, staff evaluation, safety plans, Title I building ops, hiring, school culture | `roles/building-leaders.md` | `operations/crisis-emergency.md` |
 | Paraprofessional, nurse, bus driver, food service, custodial, SRO, mandated reporting | `roles/school-staff.md` | — |
 | MSIP 6, funding formula, board governance, superintendent, ESSA, charter, MOSIS, budget | `roles/administrators.md` | `compliance/governance-policy.md` |
@@ -332,6 +333,10 @@ Identify the pod first, then the specific file:
 | "Prepare for observation" / "pre-observation" / "get ready for eval" | `templates/teacher/observation-prep.md` §Pre-Observation |
 | "Post-observation reflection" | `templates/teacher/observation-prep.md` §Post-Observation |
 | "Summative evaluation prep" / "end of year eval" / "evidence portfolio" | `templates/teacher/observation-prep.md` §Summative |
+| "ELL student profile" / "English learner profile" | `templates/teacher/ell-planning.md` §1 |
+| "ELL lesson plan" / "differentiate for English learners" / "WIDA lesson plan" | `templates/teacher/ell-planning.md` §2 |
+| "ELL accommodations" / "English learner accommodation tracker" | `templates/teacher/ell-planning.md` §3 |
+| "ELL parent conference" / "English learner parent meeting" | `templates/teacher/ell-planning.md` §4 |
 
 #### Counselor Templates (`templates/counselor/`)
 | User says... | Template |

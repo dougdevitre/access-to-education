@@ -4,7 +4,7 @@
   "last_updated": "2026-03-28",
   "description": "Comprehensive Missouri K-12 education navigator",
   "maintainer": "Doug Devitre",
-  "file_count": 77,
+  "file_count": 79,
   "word_count": 120759,
   "structure": {
     "root": ["SKILL.md", "CLAUDE.md", "README.md", "GETTING_STARTED.md", "LICENSE", ".gitignore", "CANONICAL_OWNERS.md", "LAST_VERIFIED.md", "CHANGELOG.md", "MANIFEST.json"],
@@ -50,7 +50,8 @@
       { "id": "educator-workforce", "file": "references/programs/educator-workforce.md" },
       { "id": "professional-learning", "file": "references/programs/professional-learning.md" },
       { "id": "rural-education", "file": "references/programs/rural-education.md" },
-      { "id": "mo-districts-regions", "file": "references/programs/mo-districts-regions.md" }
+      { "id": "mo-districts-regions", "file": "references/programs/mo-districts-regions.md" },
+      { "id": "english-learners", "file": "references/programs/english-learners.md" }
     ],
     "ai-in-education": {
       "index": "references/ai-in-education/INDEX.md",
@@ -101,7 +102,8 @@
     "teacher": [
       { "file": "templates/teacher/plans.md", "count": 2 },
       { "file": "templates/teacher/classroom-communication.md", "count": 9 },
-      { "file": "templates/teacher/observation-prep.md", "count": 3 }
+      { "file": "templates/teacher/observation-prep.md", "count": 3 },
+      { "file": "templates/teacher/ell-planning.md", "count": 4 }
     ],
     "counselor": [
       { "file": "templates/counselor/graduation-audit.md", "count": 1 },
