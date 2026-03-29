@@ -333,6 +333,15 @@ Identify the pod first, then the specific file:
 | "Prepare for observation" / "pre-observation" / "get ready for eval" | `templates/teacher/observation-prep.md` §Pre-Observation |
 | "Post-observation reflection" | `templates/teacher/observation-prep.md` §Post-Observation |
 | "Summative evaluation prep" / "end of year eval" / "evidence portfolio" | `templates/teacher/observation-prep.md` §Summative |
+| "Sub binder" / "substitute binder" / "sub folder" / "prepare for a sub" | `templates/teacher/sub-binder.md` |
+| "Sub plans" / "substitute lesson plans" / "I'll be out tomorrow" | `templates/teacher/sub-binder.md` §5 |
+| "Sub feedback form" / "form for the sub to fill out" | `templates/teacher/sub-binder.md` §8 |
+| "Attendance tracker" / "track attendance" / "who's absent" | `templates/teacher/classroom-admin.md` §1 |
+| "Progress report" / "grade notification" / "let parents know about grades" | `templates/teacher/classroom-admin.md` §2 |
+| "Parent communication log" / "track parent contacts" | `templates/teacher/classroom-admin.md` §3 |
+| "Field trip checklist" / "plan a field trip" | `templates/teacher/classroom-admin.md` §4 |
+| "Beginning of year checklist" / "classroom setup" / "get ready for school" | `templates/teacher/classroom-admin.md` §5 |
+| "End of year checklist" / "closeout" / "end of year tasks" | `templates/teacher/classroom-admin.md` §6 |
 | "ELL student profile" / "English learner profile" | `templates/teacher/ell-planning.md` §1 |
 | "ELL lesson plan" / "differentiate for English learners" / "WIDA lesson plan" | `templates/teacher/ell-planning.md` §2 |
 | "ELL accommodations" / "English learner accommodation tracker" | `templates/teacher/ell-planning.md` §3 |
