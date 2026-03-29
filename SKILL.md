@@ -320,6 +320,18 @@ Identify the pod first, then the specific file:
 |-------------|---------|
 | "Write a lesson plan" / "plan a lesson" | `templates/teacher/plans.md` §Lesson Plan |
 | "Create a PD growth plan" / "professional growth" | `templates/teacher/plans.md` §PD Growth Plan |
+| "Email a parent about grades" / "parent communication" / "write a parent email" | `templates/teacher/classroom-communication.md` §1-4 |
+| "Positive parent email" / "good news email" | `templates/teacher/classroom-communication.md` §1 |
+| "Email about missing work" / "missing assignments email" | `templates/teacher/classroom-communication.md` §4 |
+| "Behavior concern email" / "parent email about behavior" | `templates/teacher/classroom-communication.md` §3 |
+| "IEP accommodation confirmation" / "504 accommodation email" | `templates/teacher/classroom-communication.md` §5 |
+| "Classroom expectations" / "syllabus" / "class rules" | `templates/teacher/classroom-communication.md` §6 |
+| "Behavior reflection form" / "think sheet" | `templates/teacher/classroom-communication.md` §7 |
+| "Peer observation form" | `templates/teacher/classroom-communication.md` §8 |
+| "Student feedback survey" / "student survey" | `templates/teacher/classroom-communication.md` §9 |
+| "Prepare for observation" / "pre-observation" / "get ready for eval" | `templates/teacher/observation-prep.md` §Pre-Observation |
+| "Post-observation reflection" | `templates/teacher/observation-prep.md` §Post-Observation |
+| "Summative evaluation prep" / "end of year eval" / "evidence portfolio" | `templates/teacher/observation-prep.md` §Summative |
 
 #### Counselor Templates (`templates/counselor/`)
 | User says... | Template |
