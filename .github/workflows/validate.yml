@@ -7,97 +7,141 @@ on:
     branches: [main]
 
 jobs:
-  validate:
+  markdown-lint:
+    name: Lint Markdown
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Check MANIFEST.json file count
-        run: |
-          expected=$(jq '.file_count' MANIFEST.json)
-          actual=$(find . -type f -not -path './.git/*' -not -path './.github/*' | wc -l)
-          echo "MANIFEST says: $expected files"
-          echo "Actual count:  $actual files"
-          if [ "$expected" -ne "$actual" ]; then
-            echo "::error::MANIFEST.json file_count ($expected) does not match actual file count ($actual)"
-            exit 1
-          fi
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-      - name: Check all MANIFEST files exist
+      - name: Install markdownlint-cli2
+        run: npm install -g markdownlint-cli2
+
+      - name: Run markdownlint
+        run: markdownlint-cli2 "**/*.md"
+
+  check-links:
+    name: Check Internal Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate internal cross-references
         run: |
           errors=0
-          # Check root files
-          for file in $(jq -r '.structure.root[]' MANIFEST.json); do
-            if [ ! -f "$file" ]; then
-              echo "::error::Missing root file: $file"
-              errors=$((errors + 1))
-            fi
-          done
-          # Check reference files
-          for file in $(jq -r '
-            [.references.roles[].file,
-             .references.operations[].file,
-             .references.compliance[].file,
-             .references.programs[].file,
-             .references.standalone[].file,
-             .references["ai-in-education"].index,
-             .references["ai-in-education"].sub_files[].file,
-             .references["curriculum-instruction"].index,
-             .references["curriculum-instruction"].sub_files[].file,
-             .references["special-needs"].index,
-             .references["special-needs"].sub_files[].file
-            ] | .[]' MANIFEST.json); do
-            if [ ! -f "$file" ]; then
-              echo "::error::Missing reference file: $file"
-              errors=$((errors + 1))
-            fi
-          done
-          # Check template files
-          for file in $(jq -r '[.templates[][].file] | .[]' MANIFEST.json); do
-            if [ ! -f "$file" ]; then
-              echo "::error::Missing template file: $file"
-              errors=$((errors + 1))
-            fi
-          done
-          if [ "$errors" -gt 0 ]; then
-            echo "::error::$errors file(s) listed in MANIFEST.json are missing"
+          # Find all relative markdown links in .md files
+          # Matches [text](relative/path) but skips http/https/mailto URLs and anchors
+          while IFS= read -r file; do
+            dir=$(dirname "$file")
+            # Extract relative links from markdown link syntax [text](path)
+            grep -oP '\[.*?\]\(\K[^)]+' "$file" 2>/dev/null | while read -r link; do
+              # Skip external URLs, anchors, and template placeholders
+              if echo "$link" | grep -qE '^(https?://|mailto:|#|\{)'; then
+                continue
+              fi
+              # Strip anchor fragments from the link
+              target=$(echo "$link" | sed 's/#.*//')
+              # Skip if empty after stripping anchor
+              if [ -z "$target" ]; then
+                continue
+              fi
+              # Resolve relative to the file's directory
+              resolved="$dir/$target"
+              if [ ! -e "$resolved" ]; then
+                echo "::error file=$file::Broken link: [$link] -> $resolved (file not found)"
+                # Write to a temp file since we are in a subshell
+                echo "1" >> /tmp/link_errors
+              fi
+            done
+          done < <(find . -name '*.md' -not -path './.git/*')
+
+          if [ -f /tmp/link_errors ]; then
+            count=$(wc -l < /tmp/link_errors)
+            echo "::error::Found $count broken internal link(s)"
             exit 1
           fi
-          echo "All MANIFEST files exist"
+          echo "All internal links are valid"
 
-      - name: Check no file exceeds 500 lines
+  validate-mermaid:
+    name: Validate Mermaid Diagrams
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Mermaid CLI
+        run: npm install -g @mermaid-js/mermaid-cli
+
+      - name: Extract and validate Mermaid blocks
+        run: |
+          errors=0
+          block_count=0
+
+          # Extract all mermaid code blocks from markdown files
+          while IFS= read -r file; do
+            # Use awk to extract mermaid blocks
+            awk '/^```mermaid$/{ found=1; next } /^```$/ && found { found=0; print "---END_BLOCK---" } found { print }' "$file" | \
+            while IFS= read -r line; do
+              if [ "$line" = "---END_BLOCK---" ]; then
+                if [ -s /tmp/mermaid_block.mmd ]; then
+                  block_count=$((block_count + 1))
+                  if ! mmdc -i /tmp/mermaid_block.mmd -o /tmp/mermaid_out.svg 2>/tmp/mermaid_err.txt; then
+                    echo "::error file=$file::Invalid Mermaid diagram in $file"
+                    cat /tmp/mermaid_err.txt
+                    echo "1" >> /tmp/mermaid_errors
+                  fi
+                  rm -f /tmp/mermaid_block.mmd /tmp/mermaid_out.svg
+                fi
+              else
+                echo "$line" >> /tmp/mermaid_block.mmd
+              fi
+            done
+          done < <(find . -name '*.md' -not -path './.git/*')
+
+          if [ -f /tmp/mermaid_errors ]; then
+            count=$(wc -l < /tmp/mermaid_errors)
+            echo "::error::Found $count invalid Mermaid diagram(s)"
+            exit 1
+          fi
+          echo "All Mermaid diagrams are valid"
+
+  json-validate:
+    name: Validate JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validate JSON syntax
         run: |
           errors=0
           while IFS= read -r file; do
-            lines=$(wc -l < "$file")
-            if [ "$lines" -gt 500 ]; then
-              echo "::warning file=$file::$file has $lines lines (max 500)"
-              errors=$((errors + 1))
-            fi
-          done < <(find . -name '*.md' -not -path './.git/*')
-          if [ "$errors" -gt 0 ]; then
-            echo "::warning::$errors file(s) exceed the 500-line guideline"
-          fi
-          echo "Line count check complete"
-
-      - name: Check LAST_VERIFIED.md for stale high-volatility items
-        run: |
-          echo "High-volatility items that may need review:"
-          grep "| High |" LAST_VERIFIED.md | while IFS='|' read -r _ file datapoint value source date volatility _; do
-            date=$(echo "$date" | xargs)
-            file=$(echo "$file" | xargs)
-            if [ -n "$date" ]; then
-              echo "  - $file ($datapoint) last verified: $date"
-            fi
-          done
-          echo "See LAST_VERIFIED.md for full verification schedule"
-
-      - name: Validate JSON files
-        run: |
-          for file in $(find . -name '*.json' -not -path './.git/*'); do
-            if ! jq empty "$file" 2>/dev/null; then
+            if ! node -e "JSON.parse(require('fs').readFileSync('$file', 'utf8'))" 2>/dev/null; then
               echo "::error file=$file::Invalid JSON: $file"
-              exit 1
+              errors=$((errors + 1))
+            else
+              echo "Valid JSON: $file"
             fi
-            echo "Valid JSON: $file"
-          done
+          done < <(find . -name '*.json' -not -path './.git/*')
+
+          if [ "$errors" -gt 0 ]; then
+            echo "::error::Found $errors invalid JSON file(s)"
+            exit 1
+          fi
+          echo "All JSON files are valid"

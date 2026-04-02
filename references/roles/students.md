@@ -115,7 +115,7 @@ Each A+ school designates a coordinator who tracks student eligibility, mentorin
 5. Referral to juvenile office or Division of Family Services (habitual truancy)
 
 ### Chronic Absenteeism
-ESSA defines chronic absenteeism as missing 10% or more of school days (excused or unexcused). Missouri reports chronic absenteeism as part of MSIP 6 / school quality indicators.
+ESSA defines chronic absenteeism as missing 10% or more of school days (excused or unexcused). Missouri reports chronic absenteeism as part of [MSIP 6](../roles/administrators.md) / school quality indicators.
 
 ---
 
@@ -181,7 +181,7 @@ Missouri DESE requires retention of student records per the Missouri Secretary o
 - Right to participate in school governance (PTO, advisory councils, board meetings)
 - Right to file complaints with DESE or OCR for civil rights violations
 
-### Rights at IEP/504 Meetings
+### Rights at [IEP](../roles/specialists.md)/[504](../../templates/specialist/plans-and-forms.md) Meetings
 - Right to participate as equal member of the IEP team
 - Right to receive Prior Written Notice (PWN) of proposed changes
 - Right to consent (or refuse consent) for evaluation, initial placement, and services

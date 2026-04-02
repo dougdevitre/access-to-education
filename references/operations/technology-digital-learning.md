@@ -34,11 +34,6 @@ flowchart TD
 11. Infrastructure & Connectivity
 12. Professional Development for Technology
 13. SB 68 — Electronic Communication Device Ban
-8. Cybersecurity
-9. Assistive Technology
-10. E-Rate & Technology Funding
-11. Infrastructure & Connectivity
-12. Professional Development for Technology
 
 ---
 
