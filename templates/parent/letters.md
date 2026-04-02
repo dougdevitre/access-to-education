@@ -2,6 +2,20 @@
 
 *Review these letters with an advocate or attorney before sending for high-stakes situations. These are templates — customize for your specific situation.*
 
+```mermaid
+flowchart LR
+    A[Parent Letter Templates] --> B[1. SPED Evaluation Request]
+    A --> C[2. Records Request - FERPA]
+    A --> D[3. IEP Meeting Request]
+    A --> E[4. 504 Evaluation Request]
+    A --> F[5. Dispute / Disagreement]
+    B --> G[District responds within 60 days]
+    C --> H[School responds within 45 days]
+    D --> I[IDEA right to request anytime]
+    E --> J[Section 504 accommodation plan]
+    F --> K[Mediation / Due Process / IEE]
+```
+
 ---
 
 ## 1. Request for Special Education Evaluation
