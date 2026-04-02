@@ -401,3 +401,13 @@ Sexting (sending/receiving sexually explicit images via text or social media) am
 9. Right to judicial review if desired
 
 **Emergency removal:** If a student poses an imminent danger to self or others, the student may be removed immediately. Due process must follow as soon as practicable (within 24-72 hours).
+
+---
+
+## Related Resources
+
+- [Crisis & Emergency](../operations/crisis-emergency.md) -- crisis response protocols, threat assessment, and safety planning
+- [Specialists (IEP & 504)](../roles/specialists.md) -- FBA/BIP, manifestation determination, and discipline of students with disabilities
+- [IEP Compliance Checklist](../../templates/specialist/iep-compliance-checklist.md) -- behavior consideration and FBA/BIP documentation
+- [Students & Parents Reference](../roles/students.md) -- student discipline rights and due process protections
+- [Missouri Education Law](../compliance/mo-education-law.md) -- RSMo 160.261, 167.161, 167.171, and related statutes

@@ -18,6 +18,18 @@ flowchart TD
     E --> E3[Goals for Next Year]
 ```
 
+## Table of Contents
+- [Pre-Observation Planning Guide](#pre-observation-planning-guide)
+  - [Section 1: Context for the Evaluator](#section-1-context-for-the-evaluator)
+  - [Section 2: Standards & Objectives](#section-2-standards-objectives)
+  - [Section 3: MEES Alignment — What to Watch For](#section-3-mees-alignment-what-to-watch-for)
+  - [Section 4: Differentiation Plan](#section-4-differentiation-plan)
+  - [Section 5: Lesson Flow](#section-5-lesson-flow)
+  - [Section 6: Questions for Post-Observation](#section-6-questions-for-post-observation)
+- [Evidence Portfolio](#evidence-portfolio)
+- [Data to Prepare](#data-to-prepare)
+- [Talking Points for the Meeting](#talking-points-for-the-meeting)
+
 ## Pre-Observation Planning Guide
 
 Use this to prepare for a formal observation. Aligned to the 8 Missouri Teaching Standards (MEES).
