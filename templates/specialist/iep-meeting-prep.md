@@ -1,5 +1,26 @@
 # Specialist Templates — IEP Meeting Prep & Progress Monitoring
 
+```mermaid
+flowchart TD
+    A[IEP Meeting Prep] --> B[2+ Weeks Before]
+    B --> B1[Parent Invitation & Team Invites]
+    B --> B2[Teacher Input Forms]
+    A --> C[1 Week Before]
+    C --> C1[Collect Data & Draft IEP Updates]
+    C --> C2[Prepare Parent Summary]
+    A --> D[Day of Meeting]
+    D --> D1[Facilitate & Document Decisions]
+    A --> E[Immediately After]
+    E --> E1[Distribute IEP to All Providers]
+    E --> E2[Calendar Next Annual Review]
+    A --> F[Progress Monitoring]
+    F --> F1[Track Goal Progress Quarterly]
+    F --> F2[Verify Service Delivery]
+    A --> G[Transition Planning - Age 16+]
+    G --> G1[Assessments & Post-Secondary Goals]
+    G --> G2[Agency Connections]
+```
+
 ## Template 1: IEP Meeting Preparation Checklist
 
 **Student:** ___________________________ **Meeting Date:** _______________
