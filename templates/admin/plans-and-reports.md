@@ -99,7 +99,7 @@ flowchart TD
 **District/School:** ___________________________ **Date:** _______________
 **Audit Team Lead:** ___________________________
 
-## 1. Academic Achievement Equity
+### 1. Academic Achievement Equity
 | Metric | White | Black | Hispanic | IEP | ELL | FRL | Gap? |
 |--------|-------|-------|----------|-----|-----|-----|------|
 | ELA proficiency % | | | | | | | |
@@ -107,7 +107,7 @@ flowchart TD
 | Graduation rate | | | | | | | |
 | ACT composite avg | | | | | | | |
 
-## 2. Access & Opportunity Equity
+### 2. Access & Opportunity Equity
 | Program | White % | Black % | Hispanic % | IEP % | ELL % | FRL % | Proportionate? |
 |---------|---------|---------|-----------|-------|-------|-------|---------------|
 | AP/IB enrollment | | | | | | | |
@@ -116,7 +116,7 @@ flowchart TD
 | CTE concentrator | | | | | | | |
 | Extracurricular | | | | | | | |
 
-## 3. Discipline Equity
+### 3. Discipline Equity
 | Metric | White | Black | Hispanic | Male | Female | IEP | 504 | Disproportionate? |
 |--------|-------|-------|----------|------|--------|-----|-----|------------------|
 | Referral rate (per 100) | | | | | | | | |
@@ -124,7 +124,7 @@ flowchart TD
 | OSS rate (per 100) | | | | | | | | |
 | Expulsion rate | | | | | | | | |
 
-## 4. Staffing Equity
+### 4. Staffing Equity
 | Metric | District | School A | School B | School C |
 |--------|---------|----------|----------|----------|
 | % experienced teachers (5+ yr) | | | | |
@@ -132,7 +132,7 @@ flowchart TD
 | Teacher turnover rate | | | | |
 | Staff diversity (% non-white) | | | | |
 
-## 5. Resource Equity
+### 5. Resource Equity
 | Resource | Highest-poverty school | Lowest-poverty school | Equitable? |
 |----------|----------------------|----------------------|-----------|
 | Per-pupil spending | | | |
@@ -141,7 +141,7 @@ flowchart TD
 | Counselor ratio | | | |
 | Facility condition | | | |
 
-## 6. Climate Equity (Survey Data Disaggregated)
+### 6. Climate Equity (Survey Data Disaggregated)
 | Climate Domain | White | Black | Hispanic | IEP | ELL | Gap > 10pts? |
 |---------------|-------|-------|----------|-----|-----|-------------|
 | Safety | | | | | | |
@@ -149,7 +149,7 @@ flowchart TD
 | Engagement | | | | | | |
 | Teacher-student relationships | | | | | | |
 
-## 7. Policy Review
+### 7. Policy Review
 | Policy | Reviewed for disparate impact? | Findings |
 |--------|-------------------------------|----------|
 | Discipline code | ☐ | |
@@ -158,7 +158,7 @@ flowchart TD
 | Gifted identification | ☐ | |
 | AP/advanced course access | ☐ | |
 
-## 8. Findings & Recommendations
+### 8. Findings & Recommendations
 | Finding | Recommendation | Priority | Responsible | Timeline |
 |---------|---------------|----------|------------|---------|
 | | | | | |

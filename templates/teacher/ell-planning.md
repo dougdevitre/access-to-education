@@ -18,6 +18,34 @@ flowchart TD
     E --> E2[Share Progress & Home Supports]
 ```
 
+## Table of Contents
+- [Template 1: ELL Student Profile](#template-1-ell-student-profile)
+  - [Current WIDA Proficiency Levels (from most recent ACCESS)](#current-wida-proficiency-levels-from-most-recent-access)
+  - [Program & Services](#program-services)
+  - [Strengths](#strengths)
+  - [Priority Needs](#priority-needs)
+  - [What Works for This Student](#what-works-for-this-student)
+  - [Cultural Considerations](#cultural-considerations)
+  - [Parent/Family Contact](#parentfamily-contact)
+- [Template 2: Tiered Lesson Plan for ELL Differentiation](#template-2-tiered-lesson-plan-for-ell-differentiation)
+  - [Content Objective (same for all students)](#content-objective-same-for-all-students)
+  - [Language Objective (tiered)](#language-objective-tiered)
+  - [Key Vocabulary](#key-vocabulary)
+  - [Lesson Delivery — Differentiated by Level](#lesson-delivery-differentiated-by-level)
+  - [Scaffolds Used in This Lesson](#scaffolds-used-in-this-lesson)
+  - [Sentence Frames / Starters for This Lesson](#sentence-frames-starters-for-this-lesson)
+  - [Assessment — How I'll Know They Got It](#assessment-how-ill-know-they-got-it)
+  - [Reflection (After Teaching)](#reflection-after-teaching)
+- [Template 3: ELL Accommodation Tracker](#template-3-ell-accommodation-tracker)
+  - [Accommodations by Class](#accommodations-by-class)
+  - [Common ELL Accommodations Checklist](#common-ell-accommodations-checklist)
+  - [Quarterly Progress Check](#quarterly-progress-check)
+- [Template 4: ELL Parent Conference Prep](#template-4-ell-parent-conference-prep)
+  - [Before the Conference](#before-the-conference)
+  - [Conference Agenda](#conference-agenda)
+  - [Notes from Conference](#notes-from-conference)
+  - [Follow-Up Actions](#follow-up-actions)
+
 ## Template 1: ELL Student Profile
 
 **Student:** ___________________________ **Grade:** _____

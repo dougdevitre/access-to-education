@@ -149,14 +149,14 @@ RSMo 160.261 requires reporting: first/second degree assault, weapons possession
 **5. What's required in our CSIP?**
 School profile data, needs assessment, measurable goals aligned to MSIP 6, evidence-based strategies, PD plan, resources, timeline, monitoring plan, stakeholder engagement. Reviewed annually. → Use `templates/admin/csip-template.md`.
 
-**6. How do I handle a student who made a threat?**
+**6. How do I handle a student who made a threat?** ([crisis protocols](operations/crisis-emergency.md))
 (1) Ensure immediate safety. (2) Activate threat assessment team. (3) Notify law enforcement if warranted. (4) Follow CSTAG process. (5) Contact parents of all involved. (6) Document everything. → Use `templates/admin/threat-assessment-form.md`.
 
 **7. Can I search a student's backpack/locker?**
 Yes — school officials need reasonable suspicion (not probable cause). The search must be justified at its inception and reasonable in scope. (New Jersey v. T.L.O., 1985). Document the basis for the search.
 
 **8. What do I do if a parent requests records I don't want to share?**
-FERPA gives parents the right to inspect and review ALL education records. You must respond within 45 days. If you believe a record is inaccurate, the parent can request an amendment — but you cannot withhold records.
+[FERPA](compliance/mo-education-law.md) gives parents the right to inspect and review ALL education records. You must respond within 45 days. If you believe a record is inaccurate, the parent can request an amendment — but you cannot withhold records.
 
 **9. We received a bullying complaint. Now what?**
 Investigate promptly. Interview target, accused, witnesses. Review evidence. Determine if it meets bullying criteria. If based on a protected class → federal civil rights obligations are triggered. Document, respond, monitor. → See `references/scenario-walkthroughs.md` §9.
