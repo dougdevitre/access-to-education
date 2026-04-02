@@ -182,3 +182,13 @@ DESE guidance strongly recommends it. While not mandated by state law yet, DESE'
 
 **5. What's the bond election threshold?**
 4/7 voter approval (57.14%) required. Bonded indebtedness limit: generally 15% of assessed valuation (RSMo 164.011).
+
+---
+
+## Related Resources
+
+- [Students & Parents Reference](roles/students.md) -- graduation, A+ Scholarship, discipline rights, FERPA
+- [Specialists Reference](roles/specialists.md) -- IEP process, 504 plans, ELL services, dispute resolution
+- [Discipline & Behavior](operations/discipline-behavior.md) -- PBIS, due process, restorative practices
+- [Crisis & Emergency](operations/crisis-emergency.md) -- crisis response, safety plans, threat assessment
+- [Missouri Education Law](compliance/mo-education-law.md) -- FERPA, IDEA, Title IX, and key Missouri statutes

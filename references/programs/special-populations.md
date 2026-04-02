@@ -45,7 +45,7 @@ Missouri is a member of the Military Interstate Children's Compact Commission (M
 - **Enrollment:** immediate enrollment regardless of paperwork delays; accepting unofficial records
 - **Placement:** honor course/grade placement from sending state; flexibility in prerequisite waivers
 - **Eligibility:** maintain extracurricular and athletic eligibility when transferring
-- **Graduation:** waive specific course requirements if similar coursework was completed; allow alternative graduation pathways for seniors
+- **Graduation:** waive specific [graduation requirements](../roles/students.md) if similar coursework was completed; allow alternative graduation pathways for seniors
 - **Records:** expedited transfer of records between states
 - **Excused absences:** reasonable accommodation for deployment-related family events
 
@@ -84,7 +84,7 @@ Missouri is a member of the Military Interstate Children's Compact Commission (M
 ### Enrollment Requirements
 - Schools may request proof of residency (utility bill, lease) but must provide alternatives if documents are unavailable
 - Immunization requirements apply but temporary enrollment without records is required
-- Home Language Survey identifies potential ELL students for assessment
+- Home Language Survey identifies potential [ELL](../programs/english-learners.md) students for assessment
 
 ### Students with Interrupted Formal Education (SIFE)
 Students who have gaps in their schooling (due to war, displacement, poverty, lack of access):

@@ -17,6 +17,33 @@ flowchart TD
     L --> M[Service Delivery & Time Allocation]
 ```
 
+## Table of Contents
+- [Template 1: Student Needs Assessment / Intake](#template-1-student-needs-assessment-intake)
+  - [Presenting Concern](#presenting-concern)
+  - [Domain Screening](#domain-screening)
+  - [Background](#background)
+  - [Student's Own Words](#students-own-words)
+  - [Action Plan](#action-plan)
+- [Template 2: Small Group Counseling Plan](#template-2-small-group-counseling-plan)
+  - [Group Members](#group-members)
+  - [ASCA Mindsets & Behaviors Addressed](#asca-mindsets-behaviors-addressed)
+  - [Session Outlines](#session-outlines)
+  - [Pre/Post Assessment](#prepost-assessment)
+  - [Results (Complete After Group Ends)](#results-complete-after-group-ends)
+- [Template 3: Recommendation Letter Data Sheet](#template-3-recommendation-letter-data-sheet)
+  - [Academic Profile](#academic-profile)
+  - [Activities & Leadership](#activities-leadership)
+  - [Work / Volunteer Experience](#work-volunteer-experience)
+- [Template 4: 504 Meeting Prep Checklist](#template-4-504-meeting-prep-checklist)
+  - [Before the Meeting](#before-the-meeting)
+  - [During the Meeting](#during-the-meeting)
+  - [After the Meeting](#after-the-meeting)
+- [Template 5: Counselor Monthly Caseload Tracker](#template-5-counselor-monthly-caseload-tracker)
+  - [Service Delivery This Month](#service-delivery-this-month)
+  - [Time Allocation (estimate %)](#time-allocation-estimate)
+  - [Students of Concern](#students-of-concern)
+  - [Referrals Made](#referrals-made)
+
 ## Template 1: Student Needs Assessment / Intake
 
 **Student:** ___________________________ **Grade:** _____ **Date:** _______________

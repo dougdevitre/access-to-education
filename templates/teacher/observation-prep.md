@@ -132,17 +132,17 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 _______________________________________________________________________________
 
-## If I taught this lesson again, I would change:
+## If I taught this lesson again, I would change
 
 _______________________________________________________________________________
 _______________________________________________________________________________
 
-## Student learning evidence:
+## Student learning evidence
 - Exit ticket results: ___/___  students met the objective (___%)
 - Observations during practice: _______________________________________________
 - Surprising moment: _______________________________________________
 
-## MEES self-rating for this lesson:
+## MEES self-rating for this lesson
 
 | Standard | My Rating | Evidence |
 |----------|-----------|---------|
@@ -155,7 +155,7 @@ _______________________________________________________________________________
 | 7. Student Assessment | ☐E ☐D ☐P ☐Dist | |
 | 8. Professionalism | ☐E ☐D ☐P ☐Dist | |
 
-## Growth area I want to focus on next:
+## Growth area I want to focus on next
 
 _______________________________________________________________________________
 

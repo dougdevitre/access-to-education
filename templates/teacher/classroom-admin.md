@@ -16,6 +16,35 @@ flowchart TD
     G --> G1[Grades / Materials / Professional / Data]
 ```
 
+## Table of Contents
+- [Template 1: Daily Attendance & Participation Tracker](#template-1-daily-attendance-participation-tracker)
+  - [Weekly Summary](#weekly-summary)
+- [Template 2: Grade Notification — Progress Report](#template-2-grade-notification-progress-report)
+  - [Current Standing](#current-standing)
+  - [Missing / Incomplete Work](#missing-incomplete-work)
+  - [Teacher Comments](#teacher-comments)
+  - [Recommended Actions](#recommended-actions)
+- [Template 3: Parent Communication Log](#template-3-parent-communication-log)
+- [Template 4: Field Trip Planning Checklist](#template-4-field-trip-planning-checklist)
+  - [8+ Weeks Before](#8-weeks-before)
+  - [4+ Weeks Before](#4-weeks-before)
+  - [1 Week Before](#1-week-before)
+  - [Day Of](#day-of)
+  - [After](#after)
+- [Template 5: Beginning-of-Year Classroom Setup Checklist](#template-5-beginning-of-year-classroom-setup-checklist)
+  - [Physical Space](#physical-space)
+  - [Technology](#technology)
+  - [Paperwork & Systems](#paperwork-systems)
+  - [Instructional Prep](#instructional-prep)
+  - [Administrative](#administrative)
+- [Template 6: End-of-Year Closeout Checklist](#template-6-end-of-year-closeout-checklist)
+  - [Grades & Records](#grades-records)
+  - [Student Materials](#student-materials)
+  - [Classroom](#classroom)
+  - [Professional](#professional)
+  - [Planning Ahead](#planning-ahead)
+  - [Data](#data)
+
 ## Template 1: Daily Attendance & Participation Tracker
 
 **Teacher:** ___________________________ **Period/Class:** _______________
