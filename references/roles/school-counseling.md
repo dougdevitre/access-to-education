@@ -77,7 +77,7 @@ ASCA has defined student standards organized as:
 | **Individual student planning** | Academic planning, course selection, career exploration, post-secondary planning |
 | **Consultation** | Counselor consults with parents, teachers, administrators, and community agencies |
 | **Referral** | Connect students and families to community resources (mental health, social services, medical, legal) |
-| **Collaboration** | Work with school teams (IEP, 504, MTSS, PBIS, grade-level, crisis) |
+| **Collaboration** | Work with school teams ([IEP](../roles/specialists.md), [504](../../templates/specialist/plans-and-forms.md), MTSS, [PBIS](../operations/discipline-behavior.md), grade-level, [crisis](../operations/crisis-emergency.md)) |
 
 ---
 
@@ -85,7 +85,7 @@ ASCA has defined student standards organized as:
 
 ### Academic Planning
 - **Course selection guidance** — helping students choose courses aligned to graduation requirements, interests, and post-secondary goals
-- **Graduation tracking** — monitoring credit accumulation, A+ eligibility, testing requirements
+- **Graduation tracking** — monitoring credit accumulation, [A+ eligibility](../roles/students.md), testing requirements ([graduation audit template](../../templates/counselor/graduation-audit.md))
 - **Individual Learning Plans (ILPs)** — career-connected academic plans (see `references/career-pathways.md`)
 - **Schedule changes** — managing student requests for schedule modifications
 - **Advanced coursework advising** — AP, IB, dual credit, honors course recommendations
@@ -126,7 +126,7 @@ Common group topics:
 - Substance use awareness
 
 ### Crisis Response
-See `references/health-wellness.md` for detailed crisis protocols. School counselor's role:
+See [Crisis & Emergency](../operations/crisis-emergency.md) for detailed crisis protocols. School counselor's role:
 - Member of the Building Crisis Team
 - Conduct suicide risk screenings (C-SSRS, ASQ)
 - Provide immediate emotional support
@@ -219,7 +219,7 @@ Many Missouri districts exceed this ratio significantly:
 
 ### FAFSA Completion
 - Missouri has emphasized FAFSA completion rates as a school quality indicator
-- A+ Scholarship requires FAFSA completion (or waiver)
+- [A+ Scholarship](../roles/students.md) requires FAFSA completion (or waiver)
 - School counselors host FAFSA completion events and provide individual assistance
 - FAFSA opens October 1 annually; Missouri priority deadline typically February 1
 - FAFSA Simplification (2024-25 forward) reduces questions and uses IRS data transfer
@@ -328,7 +328,7 @@ Evidence-informed approach for crisis response:
 
 ### Records
 - Counseling notes (sole possession records) are generally exempt from FERPA if kept solely for the counselor's own use and not shared
-- Once counseling notes are shared with others or placed in the student's education file, they become education records subject to FERPA
+- Once counseling notes are shared with others or placed in the student's education file, they become education records subject to [FERPA](../compliance/mo-education-law.md)
 - Maintain notes separately from cumulative files
 
 ---
@@ -398,3 +398,13 @@ School counselors in Missouri may be evaluated using:
 - Use time studies (ASCA Use of Time calculator) to document how time is spent
 - Present data showing the impact of counseling activities on student outcomes
 - Missouri School Counselor Association (MSCA) advocates at the state level for appropriate counselor roles and ratios
+
+---
+
+## Related Resources
+
+- [Graduation Audit Template](../../templates/counselor/graduation-audit.md) -- credit tracking and A+ eligibility verification
+- [Students & Parents Reference](../roles/students.md) -- A+ Scholarship, graduation requirements, and parent rights
+- [Crisis & Emergency](../operations/crisis-emergency.md) -- crisis response protocols and safety planning
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- PBIS, restorative practices, and behavioral interventions
+- [Specialists (IEP & 504)](../roles/specialists.md) -- IEP process, 504 plans, and counselor's role on IEP teams

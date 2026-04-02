@@ -5,6 +5,45 @@
 **Teacher:** ___________________________ **Room:** _____
 **School:** ___________________________ **Last Updated:** _______________
 
+```mermaid
+flowchart TD
+    A[Sub Binder Sections] --> B[1. Welcome Letter]
+    A --> C[2. Student Alerts - Confidential]
+    A --> D[3. Seating Charts]
+    A --> E[4. Daily Schedule]
+    A --> F[5. Lesson Plans]
+    A --> G[6. Emergency Procedures]
+    A --> H[7. Key People & Contacts]
+    A --> I[8. Sub Feedback Form]
+    C --> C1[Medical / Behavioral / IEP-504 / ELL]
+    F --> F1[Period-by-Period Plans]
+    F --> F2[Emergency Backup Activities]
+    F --> F3[Extended Absence Weekly Grid]
+    G --> G1[Fire / Tornado / Lockdown / Medical]
+```
+
+## Table of Contents
+- [Section 1: Welcome Letter to the Substitute](#section-1-welcome-letter-to-the-substitute)
+- [Section 2: Student Alerts (CONFIDENTIAL)](#section-2-student-alerts-confidential)
+  - [Medical Alerts](#medical-alerts)
+  - [Behavioral / Emotional Alerts](#behavioral-emotional-alerts)
+  - [IEP / 504 Accommodations the Sub Must Follow](#iep-504-accommodations-the-sub-must-follow)
+  - [ELL Students](#ell-students)
+- [Section 3: Seating Charts](#section-3-seating-charts)
+- [Section 4: Daily Schedule](#section-4-daily-schedule)
+- [Section 5: Lesson Plans](#section-5-lesson-plans)
+  - [How to Use These Plans](#how-to-use-these-plans)
+  - [Emergency / "Plans Fell Through" Activities](#emergency-plans-fell-through-activities)
+  - [Extended Absence — Weekly Plan Grid](#extended-absence-weekly-plan-grid)
+- [Section 6: Emergency Procedures](#section-6-emergency-procedures)
+  - [Fire](#fire)
+  - [Tornado / Severe Weather](#tornado-severe-weather)
+  - [Lockdown](#lockdown)
+  - [Medical Emergency](#medical-emergency)
+  - [Student Leaves Without Permission](#student-leaves-without-permission)
+- [Section 7: Key People](#section-7-key-people)
+- [Section 8: Sub Feedback Form](#section-8-sub-feedback-form)
+
 ---
 
 ## Section 1: Welcome Letter to the Substitute
@@ -248,10 +287,10 @@ If the lesson plans are missing or don't work, use one of these backup activitie
 | | | | |
 | | | | |
 
-### Students who were helpful:
+### Students who were helpful
 _______________________________________________________________________________
 
-### Behavior concerns (name + what happened):
+### Behavior concerns (name + what happened)
 _______________________________________________________________________________
 _______________________________________________________________________________
 

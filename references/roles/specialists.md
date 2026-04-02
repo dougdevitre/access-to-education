@@ -104,7 +104,7 @@ IEP teams must consider ESY services when there is evidence of:
 ### Section 504 of the Rehabilitation Act of 1973
 Prohibits discrimination against individuals with disabilities in programs receiving federal financial assistance.
 
-### 504 vs. IEP Comparison
+### 504 vs. IEP Comparison ([504 plan templates](../../templates/specialist/plans-and-forms.md))
 | Feature | Section 504 | IDEA/IEP |
 |---------|-------------|----------|
 | Law | Rehabilitation Act §504 | IDEA |
@@ -191,7 +191,7 @@ Related services are supportive services required for a student to benefit from 
 2. **English Language Proficiency Screener:** students flagged by HLS are screened (WIDA Screener in Missouri)
 3. **Placement:** ELL services provided based on screening results
 
-### WIDA Standards and Assessment
+### WIDA Standards and Assessment ([full ELL reference](../programs/english-learners.md))
 - Missouri is a member of the **WIDA Consortium**
 - **WIDA ACCESS for ELLs:** annual English language proficiency assessment (listening, speaking, reading, writing)
 - **WIDA Screener:** used for initial identification
@@ -281,7 +281,7 @@ ASCA guidelines distinguish between appropriate counseling duties and non-counse
 ### Functional Behavior Assessment (FBA)
 Required when:
 - A student's behavior impedes learning (theirs or others')
-- Behavior results in disciplinary action triggering an MDR
+- Behavior results in [disciplinary action](../operations/discipline-behavior.md) triggering an MDR
 - IEP team determines need for a behavioral assessment
 
 FBA Process:
@@ -372,3 +372,14 @@ Districts must provide a copy of procedural safeguards to parents:
 - Right to file a state complaint or request due process
 - Right to mediation
 - "Stay put" provision: during disputes, the child remains in the current placement unless both parties agree otherwise
+
+---
+
+## Related Resources
+
+- [IEP Compliance Checklist](../../templates/specialist/iep-compliance-checklist.md) -- audit template for IEP timeline and document compliance
+- [504 Plans & Forms](../../templates/specialist/plans-and-forms.md) -- templates for Section 504 accommodation plans
+- [IEP Meeting Prep](../../templates/specialist/iep-meeting-prep.md) -- preparation guide for IEP team meetings
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- PBIS tiers, FBA/BIP protocols, and manifestation determination
+- [English Learners](../programs/english-learners.md) -- ELL identification, WIDA, and program models
+- [Missouri Education Law](../compliance/mo-education-law.md) -- IDEA, Section 504, FERPA, and procedural safeguards

@@ -91,8 +91,8 @@ The Missouri School Improvement Program (MSIP 6) is DESE's accreditation and acc
 ### Weighting Factors
 Students in certain categories receive additional weight:
 - Free/Reduced Price Lunch eligible students
-- Students with IEPs
-- English Language Learners
+- Students with [IEPs](../roles/specialists.md)
+- [English Language Learners](../programs/english-learners.md)
 - Students in transportation-eligible areas
 
 ### Local Revenue Sources
@@ -326,11 +326,11 @@ A persistent challenge across Missouri. Strategies include:
 | Law | Coverage |
 |-----|----------|
 | ESSA | Accountability, assessments, Title programs, teacher quality |
-| IDEA | Special education, FAPE, LRE, procedural safeguards |
-| Section 504 | Disability accommodation in programs receiving federal funds |
+| IDEA | Special education, FAPE, LRE, procedural safeguards -- see [Specialists](../roles/specialists.md) |
+| Section 504 | Disability accommodation in programs receiving federal funds -- see [504 Plans & Forms](../../templates/specialist/plans-and-forms.md) |
 | ADA | Accessibility of facilities and programs |
 | Title IX | Prohibition of sex discrimination in education |
-| FERPA | Student records privacy |
+| FERPA | Student records privacy -- see [Missouri Education Law](../compliance/mo-education-law.md) |
 | Title VI (Civil Rights Act) | Prohibition of race/national origin discrimination |
 | Title VII (Civil Rights Act) | Employment discrimination prohibition |
 | McKinney-Vento | Homeless student protections |
@@ -376,3 +376,13 @@ Missouri school districts use fund accounting:
 - Annual Secretary of the Board Report (ASBR) published and submitted to DESE
 - Budget documents available for public inspection
 - Expenditure data increasingly available online (DESE Financial Data portal)
+
+---
+
+## Related Resources
+
+- [MSIP 6 & Accreditation Details](../compliance/governance-policy.md) -- governance structures and accreditation deep dive
+- [Missouri Education Law](../compliance/mo-education-law.md) -- FERPA, IDEA, Section 504, and other legal frameworks
+- [Compliance Calendar](../compliance/compliance-calendar.md) -- monthly reporting deadlines and MOSIS due dates
+- [Funding & Programs](../compliance/funding-programs.md) -- Title I-IV, IDEA Part B, Perkins V funding details
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- PBIS, restorative practices, and discipline policy requirements

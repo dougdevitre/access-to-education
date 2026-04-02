@@ -45,7 +45,7 @@ Missouri is a member of the Military Interstate Children's Compact Commission (M
 - **Enrollment:** immediate enrollment regardless of paperwork delays; accepting unofficial records
 - **Placement:** honor course/grade placement from sending state; flexibility in prerequisite waivers
 - **Eligibility:** maintain extracurricular and athletic eligibility when transferring
-- **Graduation:** waive specific course requirements if similar coursework was completed; allow alternative graduation pathways for seniors
+- **Graduation:** waive specific [graduation requirements](../roles/students.md) if similar coursework was completed; allow alternative graduation pathways for seniors
 - **Records:** expedited transfer of records between states
 - **Excused absences:** reasonable accommodation for deployment-related family events
 
@@ -84,7 +84,7 @@ Missouri is a member of the Military Interstate Children's Compact Commission (M
 ### Enrollment Requirements
 - Schools may request proof of residency (utility bill, lease) but must provide alternatives if documents are unavailable
 - Immunization requirements apply but temporary enrollment without records is required
-- Home Language Survey identifies potential ELL students for assessment
+- Home Language Survey identifies potential [ELL](../programs/english-learners.md) students for assessment
 
 ### Students with Interrupted Formal Education (SIFE)
 Students who have gaps in their schooling (due to war, displacement, poverty, lack of access):
@@ -127,8 +127,8 @@ Title IX prohibits discrimination against pregnant and parenting students:
 - Connection to WIC, Medicaid, TANF, child care subsidy
 - School counseling (academic and personal)
 - Teen parent support groups
-- A+ eligibility: pregnancy and parenting should not be penalized in attendance or citizenship requirements (reasonable accommodations)
-- Graduation planning and credit recovery if needed
+- [A+ eligibility](../roles/students.md): pregnancy and parenting should not be penalized in attendance or citizenship requirements (reasonable accommodations)
+- [Graduation](../../templates/counselor/graduation-audit.md) planning and credit recovery if needed
 
 ### Prevention
 - Comprehensive health education (within RSMo 170.015 guidelines)
@@ -235,7 +235,7 @@ Approximately 1 in 14 U.S. children has experienced parental incarceration. In M
 - Academic support and attendance monitoring
 - Avoid punitive responses to behavioral manifestations of grief/trauma
 - Coordinate with caregivers (grandparents, foster parents, kinship care)
-- FERPA considerations: non-custodial incarcerated parents generally retain educational rights unless a court order says otherwise
+- [FERPA](../compliance/mo-education-law.md) considerations: non-custodial incarcerated parents generally retain educational rights unless a court order says otherwise
 
 ---
 
@@ -368,7 +368,7 @@ Students with complex medical conditions requiring ongoing monitoring, medical p
 
 ### School Responsibilities
 - Individualized Healthcare Plan (IHP) developed by school nurse with family and healthcare provider
-- May also require an IEP (if disability affects learning) or 504 plan (if disability affects major life activities)
+- May also require an [IEP](../roles/specialists.md) (if disability affects learning) or [504 plan](../../templates/specialist/plans-and-forms.md) (if disability affects major life activities)
 - Trained staff for medical procedures (delegation by RN per Missouri Nurse Practice Act)
 - Emergency protocols clearly documented and communicated
 - Appropriate medical equipment and supplies in the school
@@ -376,3 +376,13 @@ Students with complex medical conditions requiring ongoing monitoring, medical p
 - Transportation accommodations (specialized vehicles, nurse or aide on bus)
 - Homebound instruction if student cannot attend school (temporary or extended)
 - FAPE requirements apply — cannot deny enrollment or exclude student based on medical complexity
+
+---
+
+## Related Resources
+
+- [English Learners](../programs/english-learners.md) -- ELL identification, WIDA standards, and program models for immigrant/refugee students
+- [Specialists (IEP & 504)](../roles/specialists.md) -- IEP process and 504 plans for students with disabilities
+- [Equity & Access](../compliance/equity-access.md) -- McKinney-Vento, foster care provisions, and civil rights protections
+- [Crisis & Emergency](../operations/crisis-emergency.md) -- crisis response for trauma-affected student populations
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- trauma-informed discipline and restorative practices

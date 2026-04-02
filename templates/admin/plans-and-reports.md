@@ -23,6 +23,19 @@ flowchart TD
     D --> D3[Board Action Request]
 ```
 
+## Table of Contents
+- [1. District Profile](#1-district-profile)
+- [2. Mission, Vision, Values](#2-mission-vision-values)
+- [3. Needs Assessment Summary (Data-Driven)](#3-needs-assessment-summary-data-driven)
+- [4. District Goals (3-5 year)](#4-district-goals-3-5-year)
+- [5. How Building CSIPs Align](#5-how-building-csips-align)
+- [6. Professional Development Plan (District-Wide)](#6-professional-development-plan-district-wide)
+- [7. Resource Allocation](#7-resource-allocation)
+- [8. Monitoring & Reporting Schedule](#8-monitoring-reporting-schedule)
+- [9. Stakeholder Engagement Evidence](#9-stakeholder-engagement-evidence)
+- [Equity Audit Template](#equity-audit-template)
+- [Board Presentation Outline](#board-presentation-outline)
+
 ---
 
 ## 1. District Profile
@@ -94,12 +107,12 @@ flowchart TD
 
 ---
 
-# Equity Audit Template
+## Equity Audit Template
 
 **District/School:** ___________________________ **Date:** _______________
 **Audit Team Lead:** ___________________________
 
-## 1. Academic Achievement Equity
+### 1. Academic Achievement Equity
 | Metric | White | Black | Hispanic | IEP | ELL | FRL | Gap? |
 |--------|-------|-------|----------|-----|-----|-----|------|
 | ELA proficiency % | | | | | | | |
@@ -107,7 +120,7 @@ flowchart TD
 | Graduation rate | | | | | | | |
 | ACT composite avg | | | | | | | |
 
-## 2. Access & Opportunity Equity
+### 2. Access & Opportunity Equity
 | Program | White % | Black % | Hispanic % | IEP % | ELL % | FRL % | Proportionate? |
 |---------|---------|---------|-----------|-------|-------|-------|---------------|
 | AP/IB enrollment | | | | | | | |
@@ -116,7 +129,7 @@ flowchart TD
 | CTE concentrator | | | | | | | |
 | Extracurricular | | | | | | | |
 
-## 3. Discipline Equity
+### 3. Discipline Equity
 | Metric | White | Black | Hispanic | Male | Female | IEP | 504 | Disproportionate? |
 |--------|-------|-------|----------|------|--------|-----|-----|------------------|
 | Referral rate (per 100) | | | | | | | | |
@@ -124,7 +137,7 @@ flowchart TD
 | OSS rate (per 100) | | | | | | | | |
 | Expulsion rate | | | | | | | | |
 
-## 4. Staffing Equity
+### 4. Staffing Equity
 | Metric | District | School A | School B | School C |
 |--------|---------|----------|----------|----------|
 | % experienced teachers (5+ yr) | | | | |
@@ -132,7 +145,7 @@ flowchart TD
 | Teacher turnover rate | | | | |
 | Staff diversity (% non-white) | | | | |
 
-## 5. Resource Equity
+### 5. Resource Equity
 | Resource | Highest-poverty school | Lowest-poverty school | Equitable? |
 |----------|----------------------|----------------------|-----------|
 | Per-pupil spending | | | |
@@ -141,7 +154,7 @@ flowchart TD
 | Counselor ratio | | | |
 | Facility condition | | | |
 
-## 6. Climate Equity (Survey Data Disaggregated)
+### 6. Climate Equity (Survey Data Disaggregated)
 | Climate Domain | White | Black | Hispanic | IEP | ELL | Gap > 10pts? |
 |---------------|-------|-------|----------|-----|-----|-------------|
 | Safety | | | | | | |
@@ -149,7 +162,7 @@ flowchart TD
 | Engagement | | | | | | |
 | Teacher-student relationships | | | | | | |
 
-## 7. Policy Review
+### 7. Policy Review
 | Policy | Reviewed for disparate impact? | Findings |
 |--------|-------------------------------|----------|
 | Discipline code | ☐ | |
@@ -158,51 +171,51 @@ flowchart TD
 | Gifted identification | ☐ | |
 | AP/advanced course access | ☐ | |
 
-## 8. Findings & Recommendations
+### 8. Findings & Recommendations
 | Finding | Recommendation | Priority | Responsible | Timeline |
 |---------|---------------|----------|------------|---------|
 | | | | | |
 
 ---
 
-# Board Presentation Outline
+## Board Presentation Outline
 
 **Topic:** ___________________________
 **Presenter:** ___________________________
 **Board Meeting Date:** _______________
 **Estimated Time:** ___ minutes
 
-## Slide 1: Title + Purpose
+### Slide 1: Title + Purpose
 - What is this about? (one sentence)
 - Why is it before the board? (information / discussion / action required)
 
-## Slide 2: Background
+### Slide 2: Background
 - Context the board needs (2-3 bullet points max)
 - How did we get here?
 
-## Slide 3: Data
+### Slide 3: Data
 - Key data points that support the recommendation
 - Visual: chart, table, or comparison
 - Source cited
 
-## Slide 4: Options/Recommendation
+### Slide 4: Options/Recommendation
 | Option | Pros | Cons | Cost |
 |--------|------|------|------|
 | A | | | |
 | B | | | |
 | Recommended | | | |
 
-## Slide 5: Impact
+### Slide 5: Impact
 - Who is affected? Students / Staff / Community / Budget
 - Timeline for implementation
 - Risks and mitigation
 
-## Slide 6: Ask
+### Slide 6: Ask
 - What do you need from the board? (approve / direct staff / table for further study)
 - Next steps if approved
 - Questions?
 
-## Appendix (leave-behind, not presented)
+### Appendix (leave-behind, not presented)
 - Detailed data tables
 - Legal citations
 - Peer district comparisons

@@ -26,6 +26,24 @@ flowchart TD
 **School:** ___________________________ **Reporting Staff Member:** ___________________________
 **Student of Concern:** ___________________________ **Grade:** _____ **DOB:** _______________
 
+## Table of Contents
+- [Step 1: Threat Report](#step-1-threat-report)
+- [Step 2: Threat Classification](#step-2-threat-classification)
+- [Step 3: Substantive Threat Assessment](#step-3-substantive-threat-assessment)
+- [Step 4: Information Gathering](#step-4-information-gathering)
+  - [Student Interview](#student-interview)
+  - [Target Interview](#target-interview)
+  - [Records Review](#records-review)
+  - [Parent/Guardian Contact](#parentguardian-contact)
+- [Step 5: Risk Factors & Protective Factors](#step-5-risk-factors-protective-factors)
+- [Step 6: Response Actions](#step-6-response-actions)
+  - [Immediate Safety Actions](#immediate-safety-actions)
+  - [Support Actions](#support-actions)
+  - [Disciplinary Actions](#disciplinary-actions)
+- [Step 7: Safety Plan](#step-7-safety-plan)
+- [Step 8: Follow-Up](#step-8-follow-up)
+- [Threat Assessment Team Members](#threat-assessment-team-members)
+
 ---
 
 ## Step 1: Threat Report

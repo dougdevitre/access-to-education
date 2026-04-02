@@ -26,6 +26,21 @@ flowchart TD
     L --> N[Board Approval]
 ```
 
+## Table of Contents
+- [1. School Profile](#1-school-profile)
+  - [Demographics](#demographics)
+  - [Student Demographic Breakdown](#student-demographic-breakdown)
+- [2. Needs Assessment Summary](#2-needs-assessment-summary)
+  - [Academic Achievement (MAP/EOC/ACT Data)](#academic-achievement-mapeocact-data)
+  - [School Quality Indicators](#school-quality-indicators)
+  - [Root Cause Analysis](#root-cause-analysis)
+- [3. Improvement Goals](#3-improvement-goals)
+- [4. Professional Development Plan](#4-professional-development-plan)
+- [5. Stakeholder Engagement](#5-stakeholder-engagement)
+- [6. Monitoring Plan](#6-monitoring-plan)
+- [7. Budget Alignment](#7-budget-alignment)
+- [Approval](#approval)
+
 ---
 
 ## 1. School Profile

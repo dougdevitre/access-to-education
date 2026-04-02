@@ -1,4 +1,23 @@
-# Professional Development Growth Plan
+# Teacher Plans
+
+```mermaid
+flowchart TD
+    A[Teacher Plans] --> B[PD Growth Plan]
+    A --> C[Lesson Plan Framework]
+    B --> B1[Focus Area - MEES Standard]
+    B1 --> B2[Set Goal & Action Steps]
+    B2 --> B3[Check-In Schedule]
+    B3 --> B4{Goal Achieved?}
+    B4 -- Yes --> B5[Document & Set New Goal]
+    B4 -- No --> B2
+    C --> C1[Standards & Objectives]
+    C1 --> C2[Assessment - Formative & Summative]
+    C2 --> C3[Lesson Structure: I Do / We Do / You Do]
+    C3 --> C4[Differentiation by Group]
+    C4 --> C5[Reflection After Teaching]
+```
+
+## Professional Development Growth Plan
 
 **Teacher:** ___________________________ **School:** ___________________________
 **Evaluator/Coach:** ___________________________ **Date:** _______________
@@ -44,7 +63,7 @@ _______________________________________________________________________________
 
 ---
 
-# Lesson Plan Framework (Missouri Learning Standards Aligned)
+## Lesson Plan Framework (Missouri Learning Standards Aligned)
 
 **Teacher:** ___________________________ **Date(s):** _______________
 **Subject:** ___________________________ **Grade:** _____

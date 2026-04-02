@@ -99,3 +99,13 @@ flowchart TD
 |---------|-------------------|------------|----------|
 | | | | |
 | | | | |
+
+---
+
+## Related Resources
+
+- [Specialists Reference (IEP Process)](../../references/roles/specialists.md) -- full IEP process, timelines, required components, and dispute resolution
+- [IEP Meeting Prep](../../templates/specialist/iep-meeting-prep.md) -- preparation guide for IEP team meetings
+- [504 Plans & Forms](../../templates/specialist/plans-and-forms.md) -- Section 504 plan templates and forms
+- [Discipline & Behavior](../../references/operations/discipline-behavior.md) -- PBIS, FBA/BIP, manifestation determination, and seclusion/restraint
+- [Missouri Education Law](../../references/compliance/mo-education-law.md) -- IDEA, Section 504, FERPA, and procedural safeguards

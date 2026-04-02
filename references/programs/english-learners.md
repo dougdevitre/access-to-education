@@ -27,6 +27,33 @@ flowchart TD
     M --> Z
 ```
 
+## Table of Contents
+- [1. WIDA Proficiency Levels — What Teachers Need to Know](#1-wida-proficiency-levels-what-teachers-need-to-know)
+  - [The 4 Language Domains](#the-4-language-domains)
+- [2. Writing Language Objectives](#2-writing-language-objectives)
+  - [Language Objective Formula](#language-objective-formula)
+  - [Language Functions by Cognitive Demand](#language-functions-by-cognitive-demand)
+  - [Examples by Subject](#examples-by-subject)
+- [3. Scaffolding Strategies by WIDA Level](#3-scaffolding-strategies-by-wida-level)
+  - [For Levels 1-2 (Entering/Emerging)](#for-levels-1-2-enteringemerging)
+  - [For Levels 3-4 (Developing/Expanding)](#for-levels-3-4-developingexpanding)
+  - [For Level 5 (Bridging)](#for-level-5-bridging)
+- [4. Content-Area Differentiation for ELLs](#4-content-area-differentiation-for-ells)
+  - [How to Adapt a Lesson for Multiple WIDA Levels](#how-to-adapt-a-lesson-for-multiple-wida-levels)
+  - [Subject-Specific ELL Strategies](#subject-specific-ell-strategies)
+- [5. Assessment Accommodations for ELLs](#5-assessment-accommodations-for-ells)
+  - [Classroom Assessments (Teacher-Made)](#classroom-assessments-teacher-made)
+  - [State Assessments (MAP/EOC)](#state-assessments-mapeoc)
+- [6. Newcomer Students](#6-newcomer-students)
+  - [First 30 Days Checklist](#first-30-days-checklist)
+  - [Students with Interrupted Formal Education (SIFE)](#students-with-interrupted-formal-education-sife)
+- [7. ELL Family Engagement](#7-ell-family-engagement)
+  - [Communication Requirements](#communication-requirements)
+  - [Building Trust with ELL Families](#building-trust-with-ell-families)
+- [8. Program Models in Missouri](#8-program-models-in-missouri)
+  - [SIOP (Sheltered Instruction Observation Protocol) — Key Components](#siop-sheltered-instruction-observation-protocol-key-components)
+- [9. Legal Requirements — Quick Reference](#9-legal-requirements-quick-reference)
+
 ## 1. WIDA Proficiency Levels — What Teachers Need to Know
 
 WIDA defines 6 levels of English proficiency. **Every instructional decision for an ELL should start with their WIDA level.**

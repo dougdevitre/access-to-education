@@ -102,7 +102,7 @@ Missouri's statewide PBIS initiative, supported by DESE and the University of Mi
 | **Wraparound services** | Multi-agency, family-centered planning |
 | **Individual counseling/therapy** | School-based or community-based mental health |
 | **Crisis plan** | Individualized safety and de-escalation plan |
-| **Special education referral** | If behavior may be related to a disability |
+| **[Special education](../roles/specialists.md) referral** | If behavior may be related to a disability |
 
 ### PBIS Data Tools
 - SWIS (Schoolwide Information System) — ODR data tracking platform used by many Missouri schools
@@ -275,7 +275,7 @@ Missouri has addressed seclusion and restraint in schools through DESE guidance 
 - Every incident of seclusion or restraint must be documented
 - Parents must be notified promptly (same day)
 - Written incident report filed
-- IEP team review if the student has an IEP — may trigger FBA/BIP development or revision
+- [IEP](../roles/specialists.md) team review if the student has an IEP — may trigger FBA/BIP development or revision (see [IEP Compliance Checklist](../../templates/specialist/iep-compliance-checklist.md))
 - Data on seclusion/restraint incidents tracked and reviewed by administration
 
 ---
@@ -297,7 +297,7 @@ Sexting (sending/receiving sexually explicit images via text or social media) am
 - Provide support for students depicted in images (victim-centered approach)
 - Consider educational interventions alongside discipline
 - Assess for exploitation, coercion, or bullying (power dynamics)
-- 504/IEP team review if applicable
+- [504](../../templates/specialist/plans-and-forms.md)/[IEP](../roles/specialists.md) team review if applicable
 
 ### Prevention
 - Digital citizenship curriculum addressing sexting
@@ -387,7 +387,7 @@ Sexting (sending/receiving sexually explicit images via text or social media) am
 4. Decision by principal/administrator
 5. Parent notification (oral or written)
 6. No formal hearing required
-7. Students with IEP/504: if cumulative days exceed 10 in a year → MDR required
+7. Students with [IEP](../roles/specialists.md)/[504](../../templates/specialist/plans-and-forms.md): if cumulative days exceed 10 in a year → MDR required
 
 **Long-term suspension (>10 days) or expulsion:**
 1. Written notice of charges with specific allegations and evidence
@@ -401,3 +401,13 @@ Sexting (sending/receiving sexually explicit images via text or social media) am
 9. Right to judicial review if desired
 
 **Emergency removal:** If a student poses an imminent danger to self or others, the student may be removed immediately. Due process must follow as soon as practicable (within 24-72 hours).
+
+---
+
+## Related Resources
+
+- [Crisis & Emergency](../operations/crisis-emergency.md) -- crisis response protocols, threat assessment, and safety planning
+- [Specialists (IEP & 504)](../roles/specialists.md) -- FBA/BIP, manifestation determination, and discipline of students with disabilities
+- [IEP Compliance Checklist](../../templates/specialist/iep-compliance-checklist.md) -- behavior consideration and FBA/BIP documentation
+- [Students & Parents Reference](../roles/students.md) -- student discipline rights and due process protections
+- [Missouri Education Law](../compliance/mo-education-law.md) -- RSMo 160.261, 167.161, 167.171, and related statutes

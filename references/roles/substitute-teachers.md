@@ -18,6 +18,27 @@ flowchart TD
     L --> M[Leave Notes for Teacher<br/>Sign Out at Office]
 ```
 
+## Table of Contents
+- [Before You Arrive](#before-you-arrive)
+- [First 10 Minutes in the Room](#first-10-minutes-in-the-room)
+- [Taking Attendance](#taking-attendance)
+- [Classroom Management — The Basics](#classroom-management-the-basics)
+  - [What works](#what-works)
+  - [What doesn't work](#what-doesnt-work)
+  - [If a student refuses to comply](#if-a-student-refuses-to-comply)
+  - [If a fight breaks out](#if-a-fight-breaks-out)
+- [Legal Things You Must Know](#legal-things-you-must-know)
+  - [You are a mandated reporter](#you-are-a-mandated-reporter)
+  - [Student privacy (FERPA)](#student-privacy-ferpa)
+  - [Student medications](#student-medications)
+- [Students With Special Needs — What the Sub Must Do](#students-with-special-needs-what-the-sub-must-do)
+  - [IEP / 504 Students](#iep-504-students)
+  - [ELL Students](#ell-students)
+  - [Students in crisis](#students-in-crisis)
+- [End of the Day](#end-of-the-day)
+- [Missouri Substitute Teacher Requirements](#missouri-substitute-teacher-requirements)
+- [Helpful Phrases for Tough Moments](#helpful-phrases-for-tough-moments)
+
 ---
 
 ## Before You Arrive

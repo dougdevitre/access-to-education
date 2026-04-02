@@ -14,38 +14,47 @@ flowchart LR
     F --> K[Schedule, Plans & Procedures]
 ```
 
-# Behavior Contract
+## Table of Contents
+- [Behavior Contract](#behavior-contract)
+- [Attendance Intervention Plan](#attendance-intervention-plan)
+- [Incident Report Form](#incident-report-form)
+- [Meeting Agenda Template](#meeting-agenda-template)
+- [Emergency Substitute Teacher Plan](#emergency-substitute-teacher-plan)
+
+## Behavior Contract
 
 **Student:** ___________________________ **Grade:** _____ **Date:** _______________
 **Teacher/Staff:** ___________________________ **Parent:** ___________________________
 
-## Behavior Concern
+### Behavior Concern
 _______________________________________________________________________________
 
-## Goal
+### Goal
 _______________________________________________________________________________
 
-## Student Agrees To:
+### Student Agrees To
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 3. _______________________________________________________________________________
 
-## Teacher/School Agrees To:
+### Teacher/School Agrees To
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 
-## Parent Agrees To:
+### Parent Agrees To
 1. _______________________________________________________________________________
 
-## Positive Reinforcement (When goals are met):
+### Positive Reinforcement (When goals are met)
 _______________________________________________________________________________
 
-## Consequence (When goals are not met):
+### Consequence (When goals are not met)
 _______________________________________________________________________________
 
-## Check-In Schedule: ☐ Daily ☐ Weekly ☐ Other: _______________
+### Check-In Schedule
+☐ Daily ☐ Weekly ☐ Other: _______________
 
-## Review Date: _______________
+### Review Date
+_______________
 
 | Signature | Name | Date |
 |-----------|------|------|
@@ -56,12 +65,12 @@ _______________________________________________________________________________
 
 ---
 
-# Attendance Intervention Plan
+## Attendance Intervention Plan
 
 **Student:** ___________________________ **Grade:** _____ **Date:** _______________
 **School:** ___________________________ **Counselor/Team Lead:** ___________________________
 
-## Current Attendance Data
+### Current Attendance Data
 | Metric | Value |
 |--------|-------|
 | Days enrolled | |
@@ -72,30 +81,30 @@ _______________________________________________________________________________
 | Chronic absence threshold (10%) | |
 | A+ threshold (95%) | |
 
-## Root Cause Analysis
+### Root Cause Analysis
 ☐ Medical/health ☐ Mental health ☐ Transportation ☐ Housing instability
 ☐ Family responsibilities ☐ Bullying/safety ☐ Academic frustration
 ☐ School avoidance/anxiety ☐ Employment ☐ Substance use ☐ Legal/court
 ☐ Other: _______________________________________________________________________________
 
-## Barriers Identified
+### Barriers Identified
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 
-## Interventions
+### Interventions
 | Intervention | Responsible | Start Date | Check Date |
 |-------------|------------|-----------|-----------|
 | | | | |
 | | | | |
 | | | | |
 
-## Supports Offered
+### Supports Offered
 ☐ Counseling referral ☐ Transportation assistance ☐ Alarm clock/wake-up call
 ☐ Mentor assignment ☐ Schedule modification ☐ Academic support/tutoring
 ☐ Health referral ☐ Housing referral ☐ Community agency referral: ___
 ☐ Family meeting ☐ Home visit ☐ Other: ___
 
-## Monitoring Plan
+### Monitoring Plan
 | Week | Attendance Status | Notes | Staff Initials |
 |------|------------------|-------|---------------|
 | 1 | | | |
@@ -103,7 +112,7 @@ _______________________________________________________________________________
 | 3 | | | |
 | 4 | | | |
 
-## Escalation
+### Escalation
 If no improvement after ___ weeks: ☐ Re-convene team ☐ Adjust plan ☐ Family meeting
 ☐ Referral to juvenile office ☐ Referral to Children's Division ☐ Other: ___
 
@@ -115,33 +124,34 @@ If no improvement after ___ weeks: ☐ Re-convene team ☐ Adjust plan ☐ Famil
 
 ---
 
-# Incident Report Form
+## Incident Report Form
 
 **School:** ___________________________ **Date of Incident:** _______________
 **Time:** _______________ **Location:** ___________________________
 **Reported by:** ___________________________ **Report Date:** _______________
 
-## Students Involved
+### Students Involved
 | Name | Grade | Role (involved/witness) |
 |------|-------|------------------------|
 | | | |
 | | | |
 
-## Staff Involved/Responding
+### Staff Involved/Responding
 | Name | Role |
 |------|------|
 | | |
 
-## Incident Description
+### Incident Description
 *What happened? Be specific, factual, and chronological.*
 _______________________________________________________________________________
 _______________________________________________________________________________
 _______________________________________________________________________________
 
-## Injuries ☐ None ☐ Yes — describe: _______________________________________________
+### Injuries
+☐ None ☐ Yes — describe: _______________________________________________
 **Medical attention provided:** ☐ No ☐ First aid ☐ Nurse ☐ EMS called
 
-## Notifications
+### Notifications
 | Person | Method | Date/Time |
 |--------|--------|-----------|
 | Parent/Guardian of Student 1 | ☐ Phone ☐ In person ☐ Email | |
@@ -151,21 +161,21 @@ _______________________________________________________________________________
 | DESE (if required under RSMo 160.261) | ☐ Yes ☐ N/A | |
 | Children's Division (if abuse/neglect) | ☐ Yes ☐ N/A | Ref#: ___ |
 
-## Category
+### Category
 ☐ Physical altercation ☐ Verbal threat ☐ Bullying ☐ Harassment
 ☐ Weapons ☐ Substance (drugs/alcohol) ☐ Vandalism ☐ Theft
 ☐ Sexual incident ☐ Self-harm ☐ Medical emergency
 ☐ Other: _______________
 
-## Immediate Actions Taken
+### Immediate Actions Taken
 _______________________________________________________________________________
 
-## Consequence / Outcome
+### Consequence / Outcome
 | Student | Consequence | Dates |
 |---------|-----------|-------|
 | | | |
 
-## Follow-Up Needed
+### Follow-Up Needed
 ☐ Counseling referral ☐ Restorative conference ☐ FBA/BIP review
 ☐ IEP/504 team meeting ☐ Parent conference ☐ Safety plan
 ☐ Other: _______________
@@ -175,19 +185,19 @@ _______________________________________________________________________________
 
 ---
 
-# Meeting Agenda Template
+## Meeting Agenda Template
 
 **Meeting:** ___________________________
 **Date:** _______________ **Time:** _______________ **Location:** _______________
 **Facilitator:** ___________________________ **Notetaker:** ___________________________
 
-## Attendees
+### Attendees
 | Name | Role |
 |------|------|
 | | |
 | | |
 
-## Agenda
+### Agenda
 
 | # | Topic | Time | Lead | Action Needed |
 |---|-------|------|------|--------------|
@@ -197,24 +207,25 @@ _______________________________________________________________________________
 | 4 | | min | | ☐ Info ☐ Discussion ☐ Decision |
 | 5 | Action items / next steps | min | | |
 
-## Decisions Made
+### Decisions Made
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 
-## Action Items
+### Action Items
 | Action | Owner | Due Date |
 |--------|-------|----------|
 | | | |
 
-## Next Meeting: _______________
+### Next Meeting
+_______________
 
 ---
 
-# Emergency Substitute Teacher Plan
+## Emergency Substitute Teacher Plan
 
 **Teacher:** ___________________________ **Room:** _____ **Date:** _______________
 
-## Class Schedule
+### Class Schedule
 | Period | Time | Subject/Course | Room |
 |--------|------|---------------|------|
 | 1 | | | |
@@ -224,27 +235,27 @@ _______________________________________________________________________________
 | 5 | | | |
 | 6 | | | |
 
-## Seating Charts: ☐ On desk ☐ In sub folder ☐ Projected ☐ Posted
+### Seating Charts ☐ On desk ☐ In sub folder ☐ Projected ☐ Posted
 
-## Students to Watch For
+### Students to Watch For
 | Student | Notes (medical, behavioral, IEP accommodation — brief) |
 |---------|-------|
 | | |
 
-## Lesson Plans by Period
+### Lesson Plans by Period
 *(Keep each plan simple and self-contained — assume the sub has no context)*
 
 **Period ___:** _______________________________________________________________________________
 **Period ___:** _______________________________________________________________________________
 **Period ___:** _______________________________________________________________________________
 
-## Emergency Procedures
+### Emergency Procedures
 - **Fire:** exit via ___; assemble at ___
 - **Tornado:** go to ___
 - **Lockdown:** lock door, lights off, students away from door/windows
 - **Medical:** call office (ext ___), send student with buddy
 
-## Key People
+### Key People
 | Person | Role | Location/Extension |
 |--------|------|--------------------|
 | Neighbor teacher | Help if needed | Room ___ / ext ___ |
@@ -252,5 +263,5 @@ _______________________________________________________________________________
 | Nurse | Medical | ext ___ |
 | Office | Attendance, supplies | ext ___ |
 
-## End of Day
+### End of Day
 ☐ Lock room ☐ Return keys to ___ ☐ Leave notes for teacher about: _______________
