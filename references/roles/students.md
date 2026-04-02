@@ -282,3 +282,13 @@ Missouri homeschool requirements:
 - Testing centers: Missouri Job Centers, community colleges, adult education providers
 - HSE diploma is issued by DESE upon passing all subtests
 - A+ benefits are NOT available to HiSET/GED recipients (must be a traditional high school graduate from an A+ school)
+
+---
+
+## Related Resources
+
+- [Graduation Audit Template](../../templates/counselor/graduation-audit.md) -- credit tracking worksheet and A+ eligibility check
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- student discipline rights, PBIS, and due process details
+- [Specialists (IEP & 504)](../roles/specialists.md) -- special education process, IEP components, and 504 plans
+- [Missouri Education Law](../compliance/mo-education-law.md) -- FERPA, IDEA, and parent rights legal references
+- [Crisis & Emergency](../operations/crisis-emergency.md) -- safety procedures and crisis response protocols

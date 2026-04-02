@@ -55,7 +55,7 @@ graph TD
 ## 2. Comprehensive School Improvement Plan (CSIP)
 
 ### Requirement
-Every Missouri public school is required to develop and maintain a CSIP (RSMo 160.526). The CSIP is the primary vehicle for school improvement under MSIP 6.
+Every Missouri public school is required to develop and maintain a CSIP (RSMo 160.526). The CSIP is the primary vehicle for school improvement under [MSIP 6](../roles/administrators.md). ([CSIP template](../../templates/admin/csip-template.md))
 
 ### Required Components
 1. **School profile data:** demographics, enrollment, attendance, assessment results, discipline data, graduation rate (high school), teacher qualifications
@@ -114,7 +114,7 @@ Every district must adopt a written discipline policy (RSMo 160.261) that includ
 - Code of conduct with clearly defined prohibited behaviors
 - Range of consequences for violations
 - Due process procedures for suspensions and expulsions
-- Provisions for students with disabilities (IDEA/504)
+- Provisions for students with disabilities ([IDEA](../roles/specialists.md)/[504](../../templates/specialist/plans-and-forms.md))
 - Reporting requirements for serious incidents (weapons, drugs, violence)
 
 ### Mandatory Reporting to Law Enforcement
@@ -143,7 +143,7 @@ RSMo 160.261 requires reporting to law enforcement when a student is found to ha
 
 ## 5. School Safety
 
-### School Safety Plans (RSMo 160.660)
+### School Safety Plans (RSMo 160.660) ([detailed crisis protocols](../operations/crisis-emergency.md))
 Every school building must have a **school safety plan** that includes:
 - Building-level crisis response procedures
 - Protocols for active threat situations (Run/Hide/Fight or similar framework)
@@ -263,7 +263,7 @@ Every school building must have a **school safety plan** that includes:
 
 ## 10. School Culture & Climate
 
-### PBIS (Positive Behavioral Interventions and Supports)
+### PBIS (Positive Behavioral Interventions and Supports) ([full PBIS reference](../operations/discipline-behavior.md))
 Missouri's PBIS framework (MO SW-PBS) is a statewide initiative:
 - Tier 1: Universal supports for all students (schoolwide expectations, teaching behavioral expectations, positive reinforcement, consistent consequences)
 - Tier 2: Targeted supports for at-risk students (Check-In/Check-Out, social skills groups, mentoring)

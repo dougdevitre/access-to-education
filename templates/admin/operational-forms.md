@@ -14,38 +14,40 @@ flowchart LR
     F --> K[Schedule, Plans & Procedures]
 ```
 
-# Behavior Contract
+## Behavior Contract
 
 **Student:** ___________________________ **Grade:** _____ **Date:** _______________
 **Teacher/Staff:** ___________________________ **Parent:** ___________________________
 
-## Behavior Concern
+### Behavior Concern
 _______________________________________________________________________________
 
-## Goal
+### Goal
 _______________________________________________________________________________
 
-## Student Agrees To:
+### Student Agrees To
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 3. _______________________________________________________________________________
 
-## Teacher/School Agrees To:
+### Teacher/School Agrees To
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 
-## Parent Agrees To:
+### Parent Agrees To
 1. _______________________________________________________________________________
 
-## Positive Reinforcement (When goals are met):
+### Positive Reinforcement (When goals are met)
 _______________________________________________________________________________
 
-## Consequence (When goals are not met):
+### Consequence (When goals are not met)
 _______________________________________________________________________________
 
-## Check-In Schedule: ☐ Daily ☐ Weekly ☐ Other: _______________
+### Check-In Schedule
+☐ Daily ☐ Weekly ☐ Other: _______________
 
-## Review Date: _______________
+### Review Date
+_______________
 
 | Signature | Name | Date |
 |-----------|------|------|
@@ -56,12 +58,12 @@ _______________________________________________________________________________
 
 ---
 
-# Attendance Intervention Plan
+## Attendance Intervention Plan
 
 **Student:** ___________________________ **Grade:** _____ **Date:** _______________
 **School:** ___________________________ **Counselor/Team Lead:** ___________________________
 
-## Current Attendance Data
+### Current Attendance Data
 | Metric | Value |
 |--------|-------|
 | Days enrolled | |
@@ -72,30 +74,30 @@ _______________________________________________________________________________
 | Chronic absence threshold (10%) | |
 | A+ threshold (95%) | |
 
-## Root Cause Analysis
+### Root Cause Analysis
 ☐ Medical/health ☐ Mental health ☐ Transportation ☐ Housing instability
 ☐ Family responsibilities ☐ Bullying/safety ☐ Academic frustration
 ☐ School avoidance/anxiety ☐ Employment ☐ Substance use ☐ Legal/court
 ☐ Other: _______________________________________________________________________________
 
-## Barriers Identified
+### Barriers Identified
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 
-## Interventions
+### Interventions
 | Intervention | Responsible | Start Date | Check Date |
 |-------------|------------|-----------|-----------|
 | | | | |
 | | | | |
 | | | | |
 
-## Supports Offered
+### Supports Offered
 ☐ Counseling referral ☐ Transportation assistance ☐ Alarm clock/wake-up call
 ☐ Mentor assignment ☐ Schedule modification ☐ Academic support/tutoring
 ☐ Health referral ☐ Housing referral ☐ Community agency referral: ___
 ☐ Family meeting ☐ Home visit ☐ Other: ___
 
-## Monitoring Plan
+### Monitoring Plan
 | Week | Attendance Status | Notes | Staff Initials |
 |------|------------------|-------|---------------|
 | 1 | | | |
@@ -103,7 +105,7 @@ _______________________________________________________________________________
 | 3 | | | |
 | 4 | | | |
 
-## Escalation
+### Escalation
 If no improvement after ___ weeks: ☐ Re-convene team ☐ Adjust plan ☐ Family meeting
 ☐ Referral to juvenile office ☐ Referral to Children's Division ☐ Other: ___
 
