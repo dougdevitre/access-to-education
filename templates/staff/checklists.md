@@ -1,3 +1,20 @@
+# Staff Checklists
+
+```mermaid
+flowchart TD
+    A[Staff Checklists] --> B[Mandated Reporter Reference]
+    A --> C[New Employee Orientation]
+    B --> B1{Reasonable Suspicion of Abuse/Neglect?}
+    B1 -- Yes --> B2[Call Hotline: 1-800-392-3738]
+    B2 --> B3[Document & Notify Admin]
+    B3 --> B4[Cooperate with Investigation]
+    B1 -- No --> B5[Continue to Monitor]
+    C --> C1[Before Day 1: Background Check & Paperwork]
+    C --> C2[Day 1: Building Orientation]
+    C --> C3[Week 1: Required Training]
+    C --> C4[First Month: Role-Specific Onboarding]
+```
+
 # Mandated Reporter Quick Reference
 
 **All Missouri school employees are mandated reporters (RSMo 210.115).**

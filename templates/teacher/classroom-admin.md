@@ -1,5 +1,21 @@
 # Teacher Templates — Classroom Admin & Time-Savers
 
+```mermaid
+flowchart TD
+    A[Classroom Admin Templates] --> B[1. Attendance Tracker]
+    A --> C[2. Grade Notification / Progress Report]
+    A --> D[3. Parent Communication Log]
+    A --> E[4. Field Trip Planning]
+    A --> F[5. Beginning-of-Year Setup]
+    A --> G[6. End-of-Year Closeout]
+    B --> B1[Weekly Summary & Action Items]
+    C --> C1[Missing Work & Recommended Actions]
+    D --> D1[Quarterly Stats for MEES Portfolio]
+    E --> E1[8 Weeks Before --> Day Of --> After]
+    F --> F1[Space / Tech / Paperwork / Instruction]
+    G --> G1[Grades / Materials / Professional / Data]
+```
+
 ## Template 1: Daily Attendance & Participation Tracker
 
 **Teacher:** ___________________________ **Period/Class:** _______________
