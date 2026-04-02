@@ -1,4 +1,4 @@
-# Scenario Walkthroughs — Top 10 Education Journeys
+# Scenario Walkthroughs — 25 Education Journeys
 
 <!-- These are complete, step-by-step narratives for the most common paths people take through Missouri's education system. When a user is clearly on one of these journeys, walk them through the relevant steps rather than dumping all information at once. -->
 
@@ -13,17 +13,33 @@ flowchart TD
 
     PARENT --> S1["#1 Learning Disability<br/>Concern → Eval → IEP → Services"]
     PARENT --> S3["#3 School Discipline<br/>Incident → Due Process → Appeal"]
+    PARENT --> S11["#11 Military PCS Transfer<br/>Orders → Enroll → Credits → Support"]
+    PARENT --> S12["#12 Homeschool to Public<br/>Assess → Enroll → Place → Monitor"]
+    PARENT --> S15["#15 Homeschool Withdrawal<br/>Notify → Comply → Transition"]
+    PARENT --> S16["#16 Diabetes 504 vs IEP<br/>Diagnose → Plan → Implement"]
+    PARENT --> S17["#17 Custody & Records<br/>Order → Rights → Access"]
+    PARENT --> S22["#22 Parent Requesting IEE<br/>Disagree → Request → Evaluate"]
+    PARENT --> S25["#25 Non-English Parent at IEP<br/>Notice → Interpreter → Participate"]
+
     STUDENT --> S4["#4 College Prep<br/>Explore → Apply → Fund → Decide"]
+    STUDENT --> S20["#20 Dual-Credit Failure<br/>Fail → Transcript → Recovery"]
+    STUDENT --> S21["#21 Athlete Transfer Eligibility<br/>Transfer → MSHSAA → Appeal"]
 
     TEACHER --> S2["#2 Certification<br/>Prep → IPC → Mentoring → CCPC"]
     TEACHER --> S6["#6 Retirement<br/>Plan → Eligibility → PSRS Benefits"]
+    TEACHER --> S18["#18 Mandated Reporter<br/>Suspect → Report → Follow Up"]
 
     ADMIN --> S5["#5 Crisis Response<br/>Detect → Respond → Recover → Review"]
     ADMIN --> S7["#7 AI Policy<br/>Convene → Draft → Adopt → Train"]
     ADMIN --> S9["#9 Bullying Report<br/>Receive → Investigate → Respond"]
     ADMIN --> S10["#10 New Superintendent<br/>Listen → Plan → Execute → Sustain"]
+    ADMIN --> S23["#23 School Consolidation<br/>Vote → Plan → Transition → Merge"]
+    ADMIN --> S24["#24 Service Animal<br/>Request → Verify → Accommodate"]
 
     STAFF --> S8["#8 Homeless Student<br/>Identify → Enroll → Serve → Monitor"]
+    STAFF --> S13["#13 Juvenile Detention Return<br/>Notify → Enroll → Credit → Support"]
+    STAFF --> S14["#14 International Student<br/>Arrive → Assess → Place → Support"]
+    STAFF --> S19["#19 McKinney-Vento Mid-Year<br/>Identify → Rights → Serve → Stable"]
 ```
 
 ---

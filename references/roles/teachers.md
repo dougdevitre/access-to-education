@@ -45,7 +45,7 @@ graph TD
 - **Performance assessment:** edTPA or Missouri Pre-Service Teacher Assessment (MoPTA) — required for program completers
 
 ### Certification Areas (Common)
-Elementary Education (1-6), Middle School (5-9) by content, Secondary (9-12) by content, K-12 areas (Art, Music, PE, Special Education, Library Media, School Counseling, etc.)
+Elementary Education (1-6), Middle School (5-9) by content, Secondary (9-12) by content, K-12 areas (Art, Music, PE, [Special Education](../roles/specialists.md), Library Media, School Counseling, etc.)
 
 ### Adding Endorsements
 Teachers can add content area endorsements by completing required coursework (typically 24+ semester hours in the content area) and passing the relevant content assessment. DESE's Certification section processes applications.
@@ -130,12 +130,12 @@ Missouri has a network of RPDCs that provide free and low-cost professional deve
 - Trauma-informed practices
 - Cultural competency / culturally responsive teaching
 - Reading science (Science of Reading) — particularly for elementary teachers
-- De-escalation and positive behavior supports
+- De-escalation and [positive behavior supports](../operations/discipline-behavior.md)
 - Technology integration
 - Differentiated instruction
 - Assessment literacy
 - Mandated reporter training (RSMo 210.115)
-- Suicide prevention awareness (RSMo 170.048)
+- Suicide prevention awareness (RSMo 170.048) -- see [Crisis & Emergency](../operations/crisis-emergency.md)
 - Dyslexia awareness (RSMo 167.950)
 
 ---
@@ -234,3 +234,13 @@ Agriculture, Architecture & Construction, Arts/AV/Communications, Business Manag
 
 ### Area Career Centers
 Missouri operates Area Career Centers (ACCs) that provide CTE programs to students from multiple sending districts. ACCs are critical infrastructure for CTE delivery in rural and suburban areas.
+
+---
+
+## Related Resources
+
+- [Missouri Learning Standards (detailed)](../curriculum-instruction/mo-learning-standards.md) -- full standards reference by subject area
+- [Assessments](../operations/assessments.md) -- MAP, EOC, and assessment accommodations
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- PBIS, restorative practices, and classroom behavior support
+- [English Learners](../programs/english-learners.md) -- supporting ELL students in the classroom
+- [IEP Compliance Checklist](../../templates/specialist/iep-compliance-checklist.md) -- for teachers serving on IEP teams
