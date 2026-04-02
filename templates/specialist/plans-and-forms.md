@@ -16,6 +16,23 @@ flowchart TD
     C5 --> C6[Develop BIP]
 ```
 
+## Table of Contents
+- [504 Accommodation Plan Template](#504-accommodation-plan-template)
+  - [Disability / Condition](#disability-condition)
+  - [Major Life Activity Affected](#major-life-activity-affected)
+  - [Accommodations](#accommodations)
+  - [Testing Accommodations](#testing-accommodations)
+  - [Health/Safety Plan (if applicable)](#healthsafety-plan-if-applicable)
+  - [504 Team Members](#504-team-members)
+- [Functional Behavior Assessment (FBA) Template](#functional-behavior-assessment-fba-template)
+  - [1. Target Behavior Definition](#1-target-behavior-definition)
+  - [2. Data Collection Summary](#2-data-collection-summary)
+  - [3. Setting Events / Background Factors](#3-setting-events-background-factors)
+  - [4. Interviews Conducted](#4-interviews-conducted)
+  - [5. Records Review](#5-records-review)
+  - [6. Hypothesis Statement](#6-hypothesis-statement)
+  - [7. Replacement Behavior](#7-replacement-behavior)
+
 ## 504 Accommodation Plan Template
 
 **Student:** ___________________________ **DOB:** _____________ **Grade:** _____
