@@ -85,7 +85,7 @@ ASCA has defined student standards organized as:
 
 ### Academic Planning
 - **Course selection guidance** — helping students choose courses aligned to graduation requirements, interests, and post-secondary goals
-- **Graduation tracking** — monitoring credit accumulation, A+ eligibility, testing requirements
+- **Graduation tracking** — monitoring credit accumulation, [A+ eligibility](../roles/students.md), testing requirements ([graduation audit template](../../templates/counselor/graduation-audit.md))
 - **Individual Learning Plans (ILPs)** — career-connected academic plans (see `references/career-pathways.md`)
 - **Schedule changes** — managing student requests for schedule modifications
 - **Advanced coursework advising** — AP, IB, dual credit, honors course recommendations

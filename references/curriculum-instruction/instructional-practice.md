@@ -35,6 +35,47 @@ flowchart LR
     Support -->|"Adjusts"| Delivery
 ```
 
+## Table of Contents
+- [10. Science of Reading / Structured Literacy](#10-science-of-reading-structured-literacy)
+  - [Missouri's Reading Initiative](#missouris-reading-initiative)
+  - [Key Components of Structured Literacy](#key-components-of-structured-literacy)
+  - [RSMo 167.950 — Dyslexia Screening](#rsmo-167950-dyslexia-screening)
+  - [Evidence-Based Reading Programs Common in Missouri](#evidence-based-reading-programs-common-in-missouri)
+  - [Reading Intervention (MTSS Context)](#reading-intervention-mtss-context)
+- [11. Curriculum Design & Adoption](#11-curriculum-design-adoption)
+  - [Curriculum vs. Standards](#curriculum-vs-standards)
+  - [Curriculum Development Process](#curriculum-development-process)
+  - [Curriculum Mapping](#curriculum-mapping)
+- [12. Instructional Strategies (Evidence-Based)](#12-instructional-strategies-evidence-based)
+  - [High-Leverage Teaching Practices (Based on Research)](#high-leverage-teaching-practices-based-on-research)
+- [13. Differentiated Instruction](#13-differentiated-instruction)
+  - [Framework (Carol Ann Tomlinson)](#framework-carol-ann-tomlinson)
+  - [Universal Design for Learning (UDL)](#universal-design-for-learning-udl)
+- [14. Co-Teaching Models](#14-co-teaching-models)
+  - [Six Models (Marilyn Friend)](#six-models-marilyn-friend)
+  - [Co-Teaching in Special Education](#co-teaching-in-special-education)
+- [15. Formative Assessment Practices](#15-formative-assessment-practices)
+  - [Formative vs. Summative](#formative-vs-summative)
+  - [Formative Assessment Techniques](#formative-assessment-techniques)
+- [16. Textbook & Materials Adoption](#16-textbook-materials-adoption)
+  - [Missouri Law](#missouri-law)
+  - [Selection Process (Best Practice)](#selection-process-best-practice)
+  - [Open Educational Resources (OER)](#open-educational-resources-oer)
+- [17. Culturally Responsive Teaching](#17-culturally-responsive-teaching)
+  - [Framework (Geneva Gay, Gloria Ladson-Billings)](#framework-geneva-gay-gloria-ladson-billings)
+  - [Core Practices](#core-practices)
+- [18. Project-Based Learning](#18-project-based-learning)
+  - [Key Elements (Buck Institute / PBLWorks)](#key-elements-buck-institute-pblworks)
+  - [PBL vs. "Doing a Project"](#pbl-vs-doing-a-project)
+- [19. Standards-Based Grading](#19-standards-based-grading)
+  - [Principles](#principles)
+  - [Proficiency Scale Example](#proficiency-scale-example)
+  - [Missouri Context](#missouri-context)
+- [20. Intervention Programs (Academic)](#20-intervention-programs-academic)
+  - [Reading Intervention Programs (Common in Missouri)](#reading-intervention-programs-common-in-missouri)
+  - [Math Intervention Programs](#math-intervention-programs)
+  - [ESSA Evidence Tiers](#essa-evidence-tiers)
+
 ## 10. Science of Reading / Structured Literacy
 
 ### Missouri's Reading Initiative

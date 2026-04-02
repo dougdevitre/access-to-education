@@ -284,3 +284,13 @@ MTSS integrates academic and behavioral support:
 - Support staff wellness and secondary trauma awareness
 - Avoid re-traumatization through punitive or shaming practices
 - Collaborate with community mental health providers
+
+---
+
+## Related Resources
+
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- PBIS framework, restorative practices, threat assessment, and due process
+- [Crisis & Emergency](../operations/crisis-emergency.md) -- crisis response plans, drill requirements, and safety protocols
+- [MSIP 6 & Accreditation](../roles/administrators.md) -- accreditation standards and APR reporting
+- [IEP Compliance Checklist](../../templates/specialist/iep-compliance-checklist.md) -- ensuring IEP compliance at the building level
+- [Assessments](../operations/assessments.md) -- MAP, EOC, and assessment administration requirements

@@ -117,33 +117,34 @@ If no improvement after ___ weeks: ☐ Re-convene team ☐ Adjust plan ☐ Famil
 
 ---
 
-# Incident Report Form
+## Incident Report Form
 
 **School:** ___________________________ **Date of Incident:** _______________
 **Time:** _______________ **Location:** ___________________________
 **Reported by:** ___________________________ **Report Date:** _______________
 
-## Students Involved
+### Students Involved
 | Name | Grade | Role (involved/witness) |
 |------|-------|------------------------|
 | | | |
 | | | |
 
-## Staff Involved/Responding
+### Staff Involved/Responding
 | Name | Role |
 |------|------|
 | | |
 
-## Incident Description
+### Incident Description
 *What happened? Be specific, factual, and chronological.*
 _______________________________________________________________________________
 _______________________________________________________________________________
 _______________________________________________________________________________
 
-## Injuries ☐ None ☐ Yes — describe: _______________________________________________
+### Injuries
+☐ None ☐ Yes — describe: _______________________________________________
 **Medical attention provided:** ☐ No ☐ First aid ☐ Nurse ☐ EMS called
 
-## Notifications
+### Notifications
 | Person | Method | Date/Time |
 |--------|--------|-----------|
 | Parent/Guardian of Student 1 | ☐ Phone ☐ In person ☐ Email | |
@@ -153,21 +154,21 @@ _______________________________________________________________________________
 | DESE (if required under RSMo 160.261) | ☐ Yes ☐ N/A | |
 | Children's Division (if abuse/neglect) | ☐ Yes ☐ N/A | Ref#: ___ |
 
-## Category
+### Category
 ☐ Physical altercation ☐ Verbal threat ☐ Bullying ☐ Harassment
 ☐ Weapons ☐ Substance (drugs/alcohol) ☐ Vandalism ☐ Theft
 ☐ Sexual incident ☐ Self-harm ☐ Medical emergency
 ☐ Other: _______________
 
-## Immediate Actions Taken
+### Immediate Actions Taken
 _______________________________________________________________________________
 
-## Consequence / Outcome
+### Consequence / Outcome
 | Student | Consequence | Dates |
 |---------|-----------|-------|
 | | | |
 
-## Follow-Up Needed
+### Follow-Up Needed
 ☐ Counseling referral ☐ Restorative conference ☐ FBA/BIP review
 ☐ IEP/504 team meeting ☐ Parent conference ☐ Safety plan
 ☐ Other: _______________
