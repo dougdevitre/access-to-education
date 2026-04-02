@@ -1,5 +1,22 @@
 # Counselor Templates — Caseload Management & Student Support
 
+```mermaid
+flowchart TD
+    A[Student Referral] --> B[Template 1: Needs Assessment / Intake]
+    B --> C{Safety Concern?}
+    C -- Yes --> D[Crisis Screening Immediately]
+    C -- No --> E[Domain Screening & Action Plan]
+    E --> F[Individual Counseling]
+    E --> G[Template 2: Small Group Plan]
+    G --> H[Pre/Post Assessment & Results]
+    A --> I[Template 3: Recommendation Letter Data Sheet]
+    A --> J[Template 4: 504 Meeting Prep]
+    J --> K[Before / During / After Meeting]
+    F --> L[Template 5: Monthly Caseload Tracker]
+    G --> L
+    L --> M[Service Delivery & Time Allocation]
+```
+
 ## Template 1: Student Needs Assessment / Intake
 
 **Student:** ___________________________ **Grade:** _____ **Date:** _______________

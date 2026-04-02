@@ -10,6 +10,34 @@
 7. Complaint & Enforcement Mechanisms
 8. Recent Legislative Trends
 
+```mermaid
+graph TD
+    LAW["<b>Missouri Education Law</b>"]
+
+    LAW --> MO["<b>Missouri Statutes</b><br/>RSMo 160-178"]
+    LAW --> FED["<b>Federal Laws</b>"]
+    LAW --> RULES["<b>DESE Admin Rules</b><br/>5 CSR 20"]
+
+    MO --> STU["Student-Related<br/>Attendance, Discipline,<br/>Health, Safety<br/>(Ch. 167, 170)"]
+    MO --> TCH["Teacher/Employee<br/>Certification, Tenure,<br/>Background Checks<br/>(Ch. 168)"]
+    MO --> DIST["District/Board<br/>Governance, Finance,<br/>Bonds<br/>(Ch. 162-165)"]
+    MO --> CP["Child Protection<br/>Mandated Reporting<br/>(Ch. 210)"]
+    MO --> SUN["Sunshine Law<br/>Open Meetings/Records<br/>(Ch. 610)"]
+
+    FED --> ESSA["ESSA<br/>Accountability,<br/>Title Programs"]
+    FED --> IDEA["IDEA<br/>Special Education"]
+    FED --> CIVIL["Civil Rights<br/>Title VI, IX,<br/>504, ADA"]
+    FED --> PRIV["Privacy<br/>FERPA, PPRA,<br/>CIPA"]
+
+    RULES --> DESE["DESE Divisions"]
+    DESE --> ENF["Enforcement:<br/>Corrective Action,<br/>Withhold Funds,<br/>Accreditation Changes"]
+
+    style LAW fill:#2c5f8a,color:#fff
+    style MO fill:#4a8c3f,color:#fff
+    style FED fill:#b8860b,color:#fff
+    style RULES fill:#6b4c8a,color:#fff
+```
+
 ---
 
 ## 1. Missouri Revised Statutes — Education Chapters

@@ -1,5 +1,22 @@
 # College Planning Checklist (Junior/Senior)
 
+```mermaid
+flowchart TD
+    A[Junior Year] --> B[Fall: Transcript Review & PSAT]
+    A --> C[Spring: ACT & College Research]
+    C --> D[Senior Year]
+    D --> E[Aug-Oct: Applications & FAFSA]
+    E --> F[Nov-Jan: Remaining Apps & Scholarships]
+    F --> G[Feb-Apr: Decisions & Financial Aid]
+    G --> H[May-Jun: Commit & Enroll]
+    H --> I[Final Transcript & A+ Verification]
+    D --> J[Crisis Screening Protocol]
+    J --> K{Risk Level?}
+    K -- Imminent/High --> L[911 / Do Not Leave Alone]
+    K -- Moderate --> M[Safety Plan & Referral]
+    K -- Low --> N[Monitor & Counseling Check-ins]
+```
+
 **Student:** ___________________________ **Grade:** _____ **Counselor:** ___________________________
 **Date:** _______________
 
