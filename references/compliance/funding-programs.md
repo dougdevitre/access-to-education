@@ -15,6 +15,42 @@
 12. Bond Issues and Capital Funding
 13. Grants and Supplemental Funding Sources
 
+```mermaid
+graph TD
+    FED["<b>Federal Government</b>"]
+    STATE["<b>State of Missouri</b>"]
+    LOCAL["<b>Local Sources</b>"]
+    DESE["DESE"]
+    DIST["<b>School District</b>"]
+    SCHOOL["<b>Schools / Students</b>"]
+
+    FED -->|"Title I, II, III, IV"| DESE
+    FED -->|"IDEA Part B"| DESE
+    FED -->|"Perkins V (CTE)"| DESE
+    FED -->|"USDA Meal Programs"| DESE
+    FED -->|"E-Rate"| DIST
+
+    STATE -->|"Foundation Formula<br/>(SAT x WADA - Local Effort)"| DIST
+    STATE -->|"A+ Tuition Reimbursement"| SCHOOL
+    STATE -->|"Transportation Aid"| DIST
+
+    DESE -->|"Formula allocation"| DIST
+
+    LOCAL -->|"Property Tax"| DIST
+    LOCAL -->|"Prop C Sales Tax"| DIST
+    LOCAL -->|"Bond Issues"| DIST
+    LOCAL -->|"Grants & Donations"| DIST
+
+    DIST -->|"Programs & Services"| SCHOOL
+
+    style FED fill:#2c5f8a,color:#fff
+    style STATE fill:#4a8c3f,color:#fff
+    style LOCAL fill:#b8860b,color:#fff
+    style DESE fill:#5f7d9c,color:#fff
+    style DIST fill:#6b4c8a,color:#fff
+    style SCHOOL fill:#c0392b,color:#fff
+```
+
 ---
 
 ## 1. State Funding Formula (Overview)

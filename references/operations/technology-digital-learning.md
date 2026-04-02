@@ -1,5 +1,25 @@
 # Technology & Digital Learning — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Technology & Digital Learning] --> B[Infrastructure]
+    A --> C[Devices & Access]
+    A --> D[Safety & Privacy]
+    A --> E[Teaching & Learning]
+    B --> F[Network & Connectivity]
+    B --> G[E-Rate Funding]
+    C --> H[1:1 Device Programs]
+    C --> I[Assistive Technology]
+    D --> J[CIPA Filtering]
+    D --> K[FERPA / COPPA Compliance]
+    D --> L[Cybersecurity]
+    D --> M[SB 68 Phone Ban]
+    E --> N[LMS Platforms]
+    E --> O[Digital Citizenship]
+    E --> P[Virtual & Blended Learning]
+    E --> Q[AI in Education]
+```
+
 ## Table of Contents
 1. 1:1 Device Programs
 2. Learning Management Systems (LMS)

@@ -3,6 +3,25 @@
 *Aligned to Comprehensive School Threat Assessment Guidelines (CSTAG — Dr. Dewey Cornell)*
 *CONFIDENTIAL — Maintain in secure threat assessment files*
 
+```mermaid
+flowchart TD
+    A[Step 1: Threat Report] --> B[Step 2: Classification]
+    B --> C{Transient or Substantive?}
+    C -- Transient --> D[Resolve: Apology & Consequence]
+    C -- Substantive --> E[Step 3: Assess Seriousness]
+    E --> F[Step 4: Gather Information]
+    F --> G[Interviews & Records Review]
+    G --> H[Step 5: Risk & Protective Factors]
+    H --> I[Step 6: Response Actions]
+    I --> J[Immediate Safety Actions]
+    I --> K[Support & Discipline]
+    K --> L[Step 7: Safety Plan]
+    L --> M[Step 8: Follow-Up & Monitoring]
+    M --> N{Case Closed?}
+    N -- No --> M
+    N -- Yes --> O[Close & Archive]
+```
+
 **Date of Report:** _______________ **Time:** _______________
 **School:** ___________________________ **Reporting Staff Member:** ___________________________
 **Student of Concern:** ___________________________ **Grade:** _____ **DOB:** _______________

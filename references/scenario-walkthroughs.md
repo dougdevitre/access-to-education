@@ -2,6 +2,30 @@
 
 <!-- These are complete, step-by-step narratives for the most common paths people take through Missouri's education system. When a user is clearly on one of these journeys, walk them through the relevant steps rather than dumping all information at once. -->
 
+```mermaid
+flowchart TD
+    USER[User Need Identified] --> ROLE{User Role}
+    ROLE --> PARENT[Parent]
+    ROLE --> TEACHER[Teacher/Educator]
+    ROLE --> ADMIN[Admin/Principal]
+    ROLE --> STAFF[Staff]
+    ROLE --> STUDENT[Student]
+
+    PARENT --> S1["#1 Learning Disability<br/>Concern → Eval → IEP → Services"]
+    PARENT --> S3["#3 School Discipline<br/>Incident → Due Process → Appeal"]
+    STUDENT --> S4["#4 College Prep<br/>Explore → Apply → Fund → Decide"]
+
+    TEACHER --> S2["#2 Certification<br/>Prep → IPC → Mentoring → CCPC"]
+    TEACHER --> S6["#6 Retirement<br/>Plan → Eligibility → PSRS Benefits"]
+
+    ADMIN --> S5["#5 Crisis Response<br/>Detect → Respond → Recover → Review"]
+    ADMIN --> S7["#7 AI Policy<br/>Convene → Draft → Adopt → Train"]
+    ADMIN --> S9["#9 Bullying Report<br/>Receive → Investigate → Respond"]
+    ADMIN --> S10["#10 New Superintendent<br/>Listen → Plan → Execute → Sustain"]
+
+    STAFF --> S8["#8 Homeless Student<br/>Identify → Enroll → Serve → Monitor"]
+```
+
 ---
 
 ## 1. "I Think My Child Has a Learning Disability" (Parent Journey)

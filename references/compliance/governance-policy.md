@@ -14,6 +14,43 @@
 11. Board-Superintendent Relationship
 12. School Board Elections
 
+```mermaid
+graph TD
+    FEDLAW["<b>Federal Law</b><br/>ESSA, IDEA, Title IX,<br/>ADA, FERPA"]
+    MOLAW["<b>Missouri Constitution<br/>& Statutes</b><br/>RSMo 160-178"]
+    DESE["<b>DESE Administrative Rules</b><br/>5 CSR 20"]
+    BOARD["<b>School Board</b><br/>(7 elected members)"]
+    POLICY["<b>Board Policy</b>"]
+    SUPT["<b>Superintendent</b>"]
+    ADMIN["<b>Admin Regulations<br/>& Procedures</b>"]
+    BLDG["<b>Building-Level<br/>Procedures</b>"]
+    COMMUNITY["Community /<br/>Stakeholders"]
+
+    FEDLAW --> POLICY
+    MOLAW --> POLICY
+    DESE --> POLICY
+
+    BOARD -->|"Adopts"| POLICY
+    BOARD -->|"Hires & evaluates"| SUPT
+    COMMUNITY -->|"Elects (Apr)"| BOARD
+    COMMUNITY -->|"Public input"| POLICY
+
+    SUPT -->|"Implements"| ADMIN
+    ADMIN --> BLDG
+
+    BOARD -.->|"Governance"| BOARD
+    SUPT -.->|"Management"| SUPT
+
+    style FEDLAW fill:#2c5f8a,color:#fff
+    style MOLAW fill:#2c5f8a,color:#fff
+    style DESE fill:#5f7d9c,color:#fff
+    style BOARD fill:#4a8c3f,color:#fff
+    style POLICY fill:#6b4c8a,color:#fff
+    style SUPT fill:#b8860b,color:#fff
+    style ADMIN fill:#c0392b,color:#fff
+    style BLDG fill:#c0392b,color:#fff
+```
+
 ---
 
 ## 1. Board Policy Development

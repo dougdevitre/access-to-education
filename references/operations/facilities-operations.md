@@ -1,5 +1,26 @@
 # Facilities & Operations — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Facilities & Operations] --> B[Capital Planning]
+    A --> C[Safety & Compliance]
+    A --> D[Daily Operations]
+    B --> E[Facility Condition Assessment]
+    B --> F[Bond Issue - 4/7 Voter Approval]
+    B --> G[New Construction / Renovation]
+    C --> H[ADA Accessibility]
+    C --> I[Environmental Health]
+    C --> J[Lead & Asbestos - AHERA]
+    C --> K[Security Infrastructure]
+    D --> L[Maintenance & Custodial]
+    D --> M[Transportation]
+    D --> N[Food Service]
+    D --> O[Energy Management]
+    I --> P[Fire Safety]
+    I --> Q[Indoor Air Quality]
+    I --> R[Playground Safety]
+```
+
 ## Table of Contents
 1. ADA Accessibility
 2. Environmental Health & Safety

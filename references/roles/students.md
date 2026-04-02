@@ -1,5 +1,20 @@
 # Students & Parents — Missouri K-12 Education Reference
 
+```mermaid
+graph TD
+    A[Students & Parents] --> B[Graduation<br/>24 Credits + EOCs]
+    A --> C[A+ Scholarship<br/>Program]
+    A --> D[Attendance &<br/>Truancy]
+    A --> E[Discipline Rights<br/>Due Process]
+    A --> F[Records & Privacy<br/>FERPA]
+    A --> G[Parent Rights]
+    B --> H[College & Career<br/>Readiness]
+    H --> I[Dual Credit / CTE /<br/>Missouri Connections]
+    H --> J[Scholarships &<br/>Financial Aid / FAFSA]
+    A --> K[Transfer &<br/>Open Enrollment]
+    A --> L[Homeschool /<br/>HiSET Options]
+```
+
 ## Table of Contents
 1. Graduation Requirements
 2. A+ Schools Program

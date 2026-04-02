@@ -1,5 +1,27 @@
 # Special Populations — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Special Populations] --> B[Military-Connected]
+    A --> C[Immigrant & Refugee]
+    A --> D[Teen Parents]
+    A --> E[LGBTQ+ Students]
+    A --> F[Students in Poverty]
+    A --> G[Foster Care]
+    A --> H[Homeless Students]
+    A --> I[Other Populations]
+    I --> I1[Incarcerated Parents]
+    I --> I2[Substance Recovery]
+    I --> I3[Young Carers]
+    I --> I4[Medically Fragile]
+    B --> J[Interstate Compact - MIC3]
+    C --> K[Plyler v. Doe Protections]
+    D --> L[Title IX Protections]
+    G --> M[ESSA - Best Interest Determination]
+    H --> N[McKinney-Vento Act]
+    F --> O[Title I / Community Eligibility]
+```
+
 ## Table of Contents
 1. Military-Connected Students
 2. Immigrant & Refugee Students
