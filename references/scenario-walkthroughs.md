@@ -428,3 +428,436 @@ Use `references/compliance-calendar.md` as your roadmap. Key first-year items:
 - Find a mentor superintendent (someone who's been where you are)
 - Protect your own wellness (the job is demanding — build boundaries)
 - Remember: year one is about trust-building. Year two is about acceleration. Year three is about results.
+
+---
+
+## Scenario 11: Military Family PCS Mid-Year Transfer
+
+**Role:** Parent | **Complexity:** Medium
+
+```mermaid
+flowchart TD
+    A[Receive PCS Orders] --> B[Contact New School District]
+    B --> C[Request Records from Old School]
+    C --> D{Records Received?}
+    D -->|No| E[Enroll with Unofficial Records]
+    D -->|Yes| F[Enroll with Full Records]
+    E --> G[Interstate Compact Protections Apply]
+    F --> G
+    G --> H[Course Placement - Comparable Courses]
+    H --> I[Extracurricular Eligibility Protected]
+    I --> J[Student Settled]
+```
+
+**Step 1:** Receive PCS orders and identify the new school district near your installation (e.g., Fort Leonard Wood, Whiteman AFB).
+
+**Step 2:** Contact the new school district's enrollment office. Mention you are a military family — the Interstate Compact on Educational Opportunity for Military Children applies.
+
+**Step 3:** Request records from the previous school. The new school **cannot delay enrollment** while waiting for records. Unofficial transcripts, hand-carried records, or even a phone call from the previous school are sufficient.
+
+**Step 4:** Course placement must be **comparable** — if your child was in honors algebra, they should be placed in honors algebra. The school cannot demote placement due to administrative convenience.
+
+**Step 5:** Immunization timelines are extended — the school must allow a reasonable period to obtain records or complete missing vaccinations.
+
+**Step 6:** Extracurricular eligibility is protected. Your child should not be subject to sit-out periods for athletics or activities solely due to the military transfer.
+
+**Step 7:** If any issues arise, contact the Missouri state military liaison or your installation's School Liaison Officer.
+
+**Key Laws:** Interstate Compact on Educational Opportunity for Military Children, RSMo 160.2000–160.2050
+
+---
+
+## Scenario 12: Homeschool-to-Public School Transition
+
+**Role:** Parent | **Complexity:** Medium
+
+```mermaid
+flowchart TD
+    A[Decision to Enroll in Public School] --> B[Contact District Enrollment Office]
+    B --> C[Provide Homeschool Records]
+    C --> D[Grade Placement Assessment]
+    D --> E{High School Credits?}
+    E -->|Yes| F[Transcript Evaluation]
+    E -->|No| G[Age-Appropriate Placement]
+    F --> H[Credit Determination by District]
+    G --> I[Screening for SPED/ELL if Needed]
+    H --> I
+    I --> J[Full Enrollment Complete]
+```
+
+**Step 1:** Contact the local district's enrollment office. You have the right to enroll your child in the attendance-area school.
+
+**Step 2:** Provide homeschool documentation — log of instruction hours, portfolio of work, and any standardized test results. Missouri requires 1,000 hours (600 in core subjects) under RSMo 167.031.
+
+**Step 3:** Grade placement is determined by the district based on age and demonstrated skills. The district may administer placement assessments.
+
+**Step 4:** For high school students, the district evaluates homeschool coursework for credit. Districts have discretion in how many credits they award — this varies. Ask for the policy in writing.
+
+**Step 5:** If you suspect your child may need special education services or ELL support, request a screening or evaluation in writing. The district must respond.
+
+**Step 6:** Complete standard enrollment paperwork including immunization records.
+
+**Key Laws:** RSMo 167.031, RSMo 167.042
+
+---
+
+## Scenario 13: Mandated Reporter — Suspected Child Abuse
+
+**Role:** Teacher | **Complexity:** High
+
+```mermaid
+flowchart TD
+    A[Observe Signs of Abuse/Neglect] --> B[Do NOT Investigate]
+    B --> C[Call Children's Division Hotline]
+    C --> D[1-800-392-3738]
+    D --> E[Provide Information to Hotline]
+    E --> F[Notify Building Admin]
+    F --> G[Document Observations Factually]
+    G --> H[Maintain Confidentiality]
+    H --> I[Follow Up as Needed]
+```
+
+**Step 1:** You observe physical indicators (bruises, burns, malnutrition) or behavioral indicators (withdrawal, fear of adults, inappropriate sexual knowledge) in a student.
+
+**Step 2:** Do **NOT** investigate. Do not question the child about the injuries. Do not confront the parent. Your duty is to **report**, not to determine whether abuse occurred.
+
+**Step 3:** Call the Children's Division hotline **immediately**: **1-800-392-3738**. You do not need permission from your principal or anyone else. The law requires YOU to report — not delegate.
+
+**Step 4:** Provide the hotline with: child's name, age, address, description of what you observed, any statements the child made voluntarily.
+
+**Step 5:** Notify your building administrator that you have made a report. They cannot tell you not to report or override your report.
+
+**Step 6:** Document your observations factually — what you saw, when, where. Do not include opinions or conclusions.
+
+**Step 7:** Maintain strict confidentiality. Do not discuss with other staff, parents of other students, or anyone not involved in the investigation.
+
+**Step 8:** You have legal immunity for good-faith reports (RSMo 210.135). Failure to report is a Class A misdemeanor (RSMo 210.115).
+
+**Key Laws:** RSMo 210.115 (mandated reporter), RSMo 210.135 (immunity)
+
+---
+
+## Scenario 14: Student with Diabetes — 504 vs. IEP
+
+**Role:** Parent | **Complexity:** Medium
+
+```mermaid
+flowchart TD
+    A[Child Diagnosed with Diabetes] --> B[Obtain Physician Orders]
+    B --> C{Does Diabetes Affect Learning?}
+    C -->|Needs Specialized Instruction| D[IEP Evaluation]
+    C -->|Needs Accommodations Only| E[504 Plan]
+    E --> F[Develop Diabetes Medical Management Plan]
+    F --> G[Train School Staff]
+    G --> H[Emergency Protocols]
+    H --> I[Field Trip & Activity Plans]
+    I --> J[Self-Carry/Self-Administer Rights]
+```
+
+**Step 1:** Get a Diabetes Medical Management Plan (DMMP) from your child's physician. This is the medical foundation for the school plan.
+
+**Step 2:** Request a 504 meeting in writing. Type 1 diabetes qualifies under Section 504 as a condition affecting a major life activity (endocrine function).
+
+**Step 3:** Most students with diabetes need a **504 plan**, not an IEP. An IEP is only needed if diabetes significantly impacts educational performance requiring specialized instruction.
+
+**Step 4:** The 504 plan should include: blood sugar monitoring schedule, insulin administration (who, when, where), free access to snacks and water, bathroom access, nurse access, excusal from activities when blood sugar is out of range.
+
+**Step 5:** Train all staff who interact with your child — classroom teachers, PE teacher, cafeteria staff, bus driver, substitute teachers.
+
+**Step 6:** Establish emergency protocols for hypoglycemia and hyperglycemia. Post in classroom and nurse's office.
+
+**Step 7:** Missouri law allows students to self-carry and self-administer diabetes supplies.
+
+**Key Laws:** Section 504, ADA, RSMo 167.621 (self-administration)
+
+---
+
+## Scenario 15: Custody Dispute and Records Access
+
+**Role:** Counselor | **Complexity:** High
+
+```mermaid
+flowchart TD
+    A[Records Request from Parent] --> B[Review Court Orders on File]
+    B --> C{Court Order Restricts Access?}
+    C -->|Yes| D[Follow Court Order Exactly]
+    C -->|No| E[Both Parents Have Equal FERPA Rights]
+    D --> F[Document Request & Response]
+    E --> F
+    F --> G[Do NOT Share One Parent's Info with Other]
+    G --> H[Flag Record if Restricted]
+    H --> I[Consult District Legal Counsel if Unsure]
+```
+
+**Step 1:** When a parent requests records, check for any court orders on file in the student's record. This is your first action.
+
+**Step 2:** Under FERPA, both parents — custodial and non-custodial — have equal rights to access educational records **unless** a court order specifically restricts access to educational records.
+
+**Step 3:** A general restraining order or protective order does **NOT** automatically restrict FERPA rights. The court order must specifically address educational records.
+
+**Step 4:** If a court order restricts access, follow it exactly. Provide records only to the parent with rights. Document the request and your response.
+
+**Step 5:** Never share one parent's contact information, address, or phone number with the other parent — especially if there is a protective order.
+
+**Step 6:** Flag the student's record in your SIS for restricted access so all staff are aware.
+
+**Step 7:** When in doubt, consult district legal counsel before releasing records. It is better to delay briefly than to violate a court order.
+
+**Key Laws:** FERPA (34 CFR 99.4), RSMo 452 (custody)
+
+---
+
+## Scenario 16: Student Experiencing Homelessness (McKinney-Vento)
+
+**Role:** Counselor | **Complexity:** High
+
+```mermaid
+flowchart TD
+    A[Identify Homeless Student] --> B[Designate McKinney-Vento Liaison]
+    B --> C[Immediate Enrollment - No Documents Required]
+    C --> D[School of Origin Rights]
+    D --> E{Stay at School of Origin?}
+    E -->|Yes| F[Arrange Transportation]
+    E -->|No| G[Enroll in Attendance Area School]
+    F --> H[Auto-Qualify Free Meals]
+    G --> H
+    H --> I[Connect to Community Services]
+    I --> J[Ongoing Support & Check-ins]
+```
+
+**Step 1:** Identify the student as experiencing homelessness. This includes: doubled-up with another family, living in a shelter, motel, car, campground, or awaiting foster care placement.
+
+**Step 2:** Enroll the student **immediately**. You cannot require proof of residency, immunization records, birth certificate, school records, or any other documentation as a condition of enrollment.
+
+**Step 3:** The student has the right to remain at their **school of origin** (the school they attended before becoming homeless) for the duration of homelessness and through the end of the school year.
+
+**Step 4:** If the student stays at the school of origin, the district **must** arrange transportation, even across district lines.
+
+**Step 5:** The student automatically qualifies for free meals — no application needed.
+
+**Step 6:** Connect the family to community resources: housing assistance, food banks, clothing, health care, mental health services.
+
+**Step 7:** Check in regularly. Students experiencing homelessness face high mobility and chronic stress. Assign a staff mentor if possible.
+
+**Key Laws:** McKinney-Vento Homeless Assistance Act (42 USC 11431), ESSA Title IX Part A
+
+---
+
+## Scenario 17: International Student Enrollment — No Prior US Records
+
+**Role:** Administrator | **Complexity:** High
+
+```mermaid
+flowchart TD
+    A[Family Arrives to Enroll] --> B[Enroll Regardless of Immigration Status]
+    B --> C[Age Verification - Any Document]
+    C --> D[Grade Placement by Age + Assessment]
+    D --> E[Home Language Survey]
+    E --> F[WIDA Screener for Language]
+    F --> G{Needs ELL Services?}
+    G -->|Yes| H[Place in ELL Program]
+    G -->|No| I[General Education]
+    H --> J[Immunization Grace Period]
+    I --> J
+    J --> K[Connect to Community Resources]
+```
+
+**Step 1:** Enroll the student immediately. Under Plyler v. Doe (1982), you **cannot** ask about immigration status or deny enrollment based on documentation status.
+
+**Step 2:** Verify age with any available document — passport, birth certificate, baptismal record, or parent affidavit if no documents exist.
+
+**Step 3:** Place the student in an age-appropriate grade. For high school students, conduct a transcript evaluation if foreign records are available. If no records exist, use placement assessments.
+
+**Step 4:** Administer the Home Language Survey to identify the home language.
+
+**Step 5:** Administer the WIDA Screener to assess English proficiency. If the student speaks a language other than Spanish, arrange for appropriate interpreter support during screening.
+
+**Step 6:** Place in appropriate ELL program (newcomer program if available, ESL, sheltered instruction).
+
+**Step 7:** Allow immunization grace period — student can attend while completing the vaccination schedule.
+
+**Step 8:** Connect the family to community resources: refugee resettlement agencies, interpreters, cultural liaisons.
+
+**Key Laws:** Plyler v. Doe (1982), Title VI, ESSA Title III
+
+---
+
+## Scenario 18: Parent Requesting Independent Educational Evaluation (IEE)
+
+**Role:** Specialist | **Complexity:** High
+
+```mermaid
+flowchart TD
+    A[Parent Requests IEE] --> B[Review Request]
+    B --> C{District Response}
+    C -->|Agree| D[Fund IEE at Public Expense]
+    C -->|Disagree| E[File Due Process to Defend Evaluation]
+    D --> F[Provide List of Qualified Evaluators]
+    F --> G[Set Criteria Matching District's]
+    E --> H[Hearing Officer Decides]
+    H -->|District Wins| I[Parent Can Still Get IEE at Own Expense]
+    H -->|Parent Wins| D
+    G --> J[Review IEE Results at IEP Meeting]
+    I --> J
+    J --> K[Consider for Eligibility/Services]
+```
+
+**Step 1:** Parent submits a written request for an independent educational evaluation because they disagree with the district's evaluation.
+
+**Step 2:** The district must respond **without unreasonable delay**. You cannot ignore or delay the request.
+
+**Step 3:** The district has two options: (1) agree and fund the IEE at public expense, or (2) file for due process to defend the adequacy of its own evaluation.
+
+**Step 4:** If funding the IEE, provide the parent with a list of qualified evaluators. The IEE must meet the same criteria the district uses for its own evaluations (qualifications, location, etc.).
+
+**Step 5:** The district cannot impose conditions beyond its own evaluation criteria (e.g., cannot require the parent to use a specific evaluator).
+
+**Step 6:** Once the IEE is complete, the IEP team must **consider** the results. "Consider" does not mean "adopt" — but the team must genuinely review and discuss the findings.
+
+**Step 7:** Parents are entitled to one IEE at public expense each time the district conducts an evaluation with which they disagree.
+
+**Key Laws:** 34 CFR 300.502, IDEA Part B
+
+---
+
+## Scenario 19: Student Athlete Transfer Eligibility (MSHSAA)
+
+**Role:** Principal | **Complexity:** Medium
+
+```mermaid
+flowchart TD
+    A[Student Transfers to New School] --> B[MSHSAA 365-Day Rule Applies]
+    B --> C{Exception Applies?}
+    C -->|Bona Fide Move| D[Full Family Relocates]
+    C -->|Hardship Waiver| E[Submit Hardship Application]
+    C -->|Court-Ordered Custody Change| F[Provide Court Documents]
+    C -->|No Exception| G[365-Day Sit-Out Period]
+    D --> H[Eligible Immediately]
+    E --> I[MSHSAA Reviews]
+    F --> H
+    I -->|Approved| H
+    I -->|Denied| J[Appeal Available]
+    G --> J
+    J --> K[Interim Eligibility During Appeal]
+```
+
+**Step 1:** When a student transfers, the MSHSAA 365-day transfer rule applies — the student is ineligible for varsity competition for 365 days.
+
+**Step 2:** Review exceptions: bona fide family move (entire household relocates), court-ordered custody change, hardship waiver, or approved open enrollment.
+
+**Step 3:** For a bona fide move, the entire family must have relocated. The student living with a relative or friend while parents remain does NOT qualify.
+
+**Step 4:** Submit the MSHSAA transfer form with supporting documentation.
+
+**Step 5:** If denied, an appeal process is available through MSHSAA. Interim eligibility may be granted during the appeal.
+
+**Step 6:** Schools cannot recruit or induce transfers for athletic purposes — this violates MSHSAA bylaws and can result in sanctions.
+
+**Key Laws:** MSHSAA Constitution and Bylaws, RSMo 167.020 (transfers)
+
+---
+
+## Scenario 20: Non-English-Speaking Parent at IEP Meeting
+
+**Role:** Specialist | **Complexity:** High
+
+```mermaid
+flowchart TD
+    A[IEP Meeting Scheduled] --> B[Identify Parent's Language]
+    B --> C[Arrange Qualified Interpreter]
+    C --> D{Interpreter Available?}
+    D -->|Yes| E[Translate Documents in Advance]
+    D -->|No| F[Reschedule - Do NOT Proceed Without]
+    E --> G[Conduct Meeting with Interpreter]
+    G --> H[Ensure Meaningful Participation]
+    H --> I[Provide PWN in Native Language]
+    I --> J[Send Translated IEP Copy]
+```
+
+**Step 1:** Identify the parent's primary language as early as possible — at referral or when scheduling the meeting.
+
+**Step 2:** Arrange a qualified interpreter. This must be a trained interpreter — **never** use the student, a sibling, or another child as interpreter. A bilingual staff member may serve if qualified.
+
+**Step 3:** Translate key IEP documents in advance: evaluation summary, proposed goals, Prior Written Notice. Full IEP translation should follow.
+
+**Step 4:** If no interpreter is available, **reschedule the meeting**. Proceeding without an interpreter violates the parent's right to meaningful participation under IDEA and Title VI.
+
+**Step 5:** During the meeting, speak in short sentences, pause for interpretation, check for understanding, and avoid jargon.
+
+**Step 6:** Prior Written Notice (PWN) must be provided in the parent's native language.
+
+**Step 7:** Provide a translated copy of the final IEP within a reasonable timeframe.
+
+**Key Laws:** IDEA §300.322 (parent participation), Title VI of the Civil Rights Act, Executive Order 13166
+
+---
+
+## Scenario 21: School Consolidation Impact on Families
+
+**Role:** Administrator | **Complexity:** High
+
+```mermaid
+flowchart TD
+    A[Board Votes to Explore Consolidation] --> B[Community Input Process]
+    B --> C[Joint Resolution with Partner District]
+    C --> D[Voter Approval Required]
+    D -->|Approved| E[DESE Coordination]
+    D -->|Rejected| F[Districts Remain Separate]
+    E --> G[Student Assignment to Receiving Schools]
+    G --> H[Records Transfer]
+    H --> I[Staff Reassignment/RIF]
+    I --> J[Transportation Adjustments]
+    J --> K[IEP/504 Continuity]
+```
+
+**Step 1:** The board of education votes to explore consolidation. Community engagement begins immediately — town halls, surveys, stakeholder meetings.
+
+**Step 2:** Develop a joint resolution with the partnering district under RSMo 162.223–162.431. Multiple pathways exist: voluntary merger, annexation, or reorganization.
+
+**Step 3:** Voter approval is required in both districts. Prepare clear communication about impacts: school assignments, transportation, programs, staffing, taxes.
+
+**Step 4:** Upon approval, coordinate with DESE on timeline, accreditation transfer, and data systems.
+
+**Step 5:** Assign students to receiving schools. Consider: proximity, capacity, program availability. Minimize disruption.
+
+**Step 6:** Transfer all student records. Ensure IEP and 504 plan continuity — services cannot lapse during transition.
+
+**Step 7:** Handle staff reassignment or reduction in force (RIF) per board policy and collective bargaining agreements.
+
+**Step 8:** Adjust transportation routes and communicate new schedules to families well in advance.
+
+**Key Laws:** RSMo 162.223–162.431, RSMo 168.124 (teacher contracts)
+
+---
+
+## Scenario 22: Student with Service Animal
+
+**Role:** Principal | **Complexity:** Medium
+
+```mermaid
+flowchart TD
+    A[Family Notifies School About Service Animal] --> B[Verify Service Animal Status]
+    B --> C{Trained to Perform Specific Task?}
+    C -->|Yes - Service Animal| D[Develop Access Plan]
+    C -->|No - Emotional Support Animal| E[ESA Not Covered Under ADA Title II]
+    D --> F[Address Allergies/Fears - Separate, Don't Exclude]
+    F --> G[Train Staff]
+    G --> H[Student Handles Animal - No Handler Required]
+    H --> I[Liability & Hygiene Planning]
+```
+
+**Step 1:** When a family notifies you that a student needs a service animal, you may ask only two questions: (1) Is this animal required because of a disability? (2) What task has the animal been trained to perform?
+
+**Step 2:** You **cannot** require documentation, certification, or a vest. There is no registry for service animals.
+
+**Step 3:** Emotional support animals (ESAs) are NOT service animals under ADA Title II and are not required in public schools.
+
+**Step 4:** Develop an access plan: where the animal will be during the day, bathroom breaks, feeding schedule, designated relief area.
+
+**Step 5:** If other students or staff have allergies or fears, manage through physical separation (different seating areas), air filtration, and scheduling — **not** by excluding the student with the service animal.
+
+**Step 6:** The student handles their own service animal. The school does not need to provide a handler.
+
+**Step 7:** Address liability and hygiene: the family is responsible for the animal's behavior, the animal must be housebroken, and the school may exclude only if the animal is out of control or not housebroken.
+
+**Key Laws:** ADA Title II, 28 CFR 35.136, RSMo 209.150
