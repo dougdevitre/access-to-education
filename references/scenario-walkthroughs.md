@@ -1,4 +1,4 @@
-# Scenario Walkthroughs — 25 Education Journeys
+# Scenario Walkthroughs — 33 Education Journeys
 
 <!-- These are complete, step-by-step narratives for the most common paths people take through Missouri's education system. When a user is clearly on one of these journeys, walk them through the relevant steps rather than dumping all information at once. -->
 
