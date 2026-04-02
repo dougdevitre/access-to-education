@@ -121,7 +121,7 @@ No later than the first IEP in effect when the student turns 16. Must include me
 **7. What if a parent refuses consent for evaluation?**
 You cannot evaluate without consent. Document the refusal. You may file for due process to override the refusal, but this is rare and should involve legal counsel. Continue to provide general education supports.
 
-**8. How do I exit a student from ELL services?**
+**8. How do I exit a student from [ELL](programs/english-learners.md) services?**
 Student must demonstrate English proficiency on the ACCESS for ELLs assessment (composite score per DESE criteria). After exit, monitor for 2 years. Student may be re-entered if they struggle during monitoring.
 
 **9. What's the maximum number of students who should take the MAP-A?**
@@ -134,8 +134,8 @@ AI can help draft goal language, but the specialist MUST review, customize, and 
 
 ## Principal FAQs
 
-**1. What are the MSIP 6 standards?**
-Five: (1) Academic Achievement, (2) Subgroup Achievement, (3) College & Career Readiness, (4) Attendance, (5) School Quality/Climate. APR scores on each standard contribute to accreditation classification.
+**1. What are the [MSIP 6](roles/administrators.md) standards?**
+Five: (1) Academic Achievement, (2) Subgroup Achievement, (3) College & Career Readiness, (4) Attendance, (5) School Quality/Climate. APR scores on each standard contribute to [accreditation](compliance/governance-policy.md) classification.
 
 **2. What drills are required and how often?**
 Fire: monthly. Tornado: 2x/year. Earthquake: 2x/year. Lockdown: 2x/year. Bus evacuation: 1x/year. Document all drills.

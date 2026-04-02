@@ -94,7 +94,7 @@ flowchart TD
 
 ---
 
-# Equity Audit Template
+## Equity Audit Template
 
 **District/School:** ___________________________ **Date:** _______________
 **Audit Team Lead:** ___________________________
@@ -165,44 +165,44 @@ flowchart TD
 
 ---
 
-# Board Presentation Outline
+## Board Presentation Outline
 
 **Topic:** ___________________________
 **Presenter:** ___________________________
 **Board Meeting Date:** _______________
 **Estimated Time:** ___ minutes
 
-## Slide 1: Title + Purpose
+### Slide 1: Title + Purpose
 - What is this about? (one sentence)
 - Why is it before the board? (information / discussion / action required)
 
-## Slide 2: Background
+### Slide 2: Background
 - Context the board needs (2-3 bullet points max)
 - How did we get here?
 
-## Slide 3: Data
+### Slide 3: Data
 - Key data points that support the recommendation
 - Visual: chart, table, or comparison
 - Source cited
 
-## Slide 4: Options/Recommendation
+### Slide 4: Options/Recommendation
 | Option | Pros | Cons | Cost |
 |--------|------|------|------|
 | A | | | |
 | B | | | |
 | Recommended | | | |
 
-## Slide 5: Impact
+### Slide 5: Impact
 - Who is affected? Students / Staff / Community / Budget
 - Timeline for implementation
 - Risks and mitigation
 
-## Slide 6: Ask
+### Slide 6: Ask
 - What do you need from the board? (approve / direct staff / table for further study)
 - Next steps if approved
 - Questions?
 
-## Appendix (leave-behind, not presented)
+### Appendix (leave-behind, not presented)
 - Detailed data tables
 - Legal citations
 - Peer district comparisons
