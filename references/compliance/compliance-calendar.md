@@ -14,6 +14,43 @@
 11. OCR / Civil Rights Self-Assessment
 12. Audit Preparation Guide
 
+```mermaid
+gantt
+    title Missouri K-12 Annual Compliance Calendar — Key Deadlines
+    dateFormat YYYY-MM-DD
+    axisFormat %b
+
+    section Fiscal & Budget
+    New fiscal year / Budget adopted           :milestone, 2025-07-01, 0d
+    Budget development begins                  :2025-01-15, 30d
+    ASBR preparation                           :2025-06-15, 75d
+
+    section DESE Reporting
+    MOSIS Fall (October count)                 :milestone, 2025-10-15, 0d
+    Core Data fall submission                  :2025-10-15, 30d
+    MOSIS End-of-Year submission               :2025-06-01, 45d
+    Core Data EOY submission                   :2025-06-15, 60d
+
+    section Assessments
+    WIDA ACCESS for ELLs                       :2025-01-10, 60d
+    MAP / EOC testing window                   :2025-03-01, 75d
+    ACT statewide (juniors)                    :milestone, 2025-04-15, 0d
+
+    section Personnel
+    April 15 non-renewal deadline              :milestone, 2025-04-15, 0d
+    Background checks (new hires)              :2025-07-01, 30d
+    MEES evaluations                           :2025-08-15, 270d
+
+    section Board & Elections
+    Board election filing opens                :milestone, 2025-12-15, 0d
+    School board elections (1st Tue Apr)        :milestone, 2025-04-01, 0d
+
+    section Safety & Training
+    Mandated training (start of year)          :2025-08-01, 21d
+    Fire drills (monthly)                      :2025-09-01, 270d
+    Annual safety plan review                  :2025-07-01, 30d
+```
+
 ---
 
 ## 1. Annual Compliance Calendar (Month-by-Month)

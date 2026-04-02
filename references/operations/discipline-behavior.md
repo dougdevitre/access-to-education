@@ -1,5 +1,22 @@
 # Discipline & Behavior — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Student Behavior] --> B{Severity Level}
+    B -->|Tier 1: Universal| C[PBIS - Schoolwide Expectations]
+    B -->|Tier 2: Targeted| D[Check-In/Check-Out, Mentoring, Social Skills Groups]
+    B -->|Tier 3: Intensive| E[FBA/BIP, Wraparound Services, Counseling]
+    B -->|Serious Incident| F{Threat Assessment}
+    F -->|Transient| G[Resolve & Monitor]
+    F -->|Substantive| H[Safety Plan + Law Enforcement if Needed]
+    B -->|Discipline| I{Due Process}
+    I -->|1-10 Days| J[Short-Term Suspension - Notice & Response]
+    I -->|10+ Days| K[Long-Term Suspension - Formal Hearing]
+    C --> L[Restorative Practices]
+    L --> M[Community Circles]
+    L --> N[Restorative Conferences]
+```
+
 ## Table of Contents
 1. Missouri Discipline Policy Requirements
 2. PBIS Framework (Deep Dive)

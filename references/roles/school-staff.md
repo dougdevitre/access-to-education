@@ -1,5 +1,21 @@
 # School Support Staff — Missouri K-12 Education Reference
 
+```mermaid
+graph TD
+    A[School Support Staff] --> B[Paraprofessionals<br/>Instructional Aides]
+    A --> C[School Nurses]
+    A --> D[Transportation<br/>Bus Drivers]
+    A --> E[Food Service]
+    A --> F[Custodial &<br/>Maintenance]
+    A --> G[Office / Clerical]
+    A --> H[Technology Staff]
+    A --> I[SROs]
+    A --> J[Before/After<br/>School Programs]
+    K[All Staff Requirements] --> L[Mandated Reporting<br/>RSMo 210.115]
+    K --> M[Background Checks<br/>RSMo 168.133]
+    K --> N[Annual Safety &<br/>Compliance Training]
+```
+
 ## Table of Contents
 1. Paraprofessionals / Instructional Aides
 2. School Nurses

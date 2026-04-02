@@ -4,6 +4,29 @@
 <!-- Cross-references: roles/specialists.md §6 (identification/WIDA basics), compliance/equity-access.md §4 (legal rights), compliance/funding-programs.md (Title III funding) -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+flowchart TD
+    A[Student Enrolls] --> B[Home Language Survey]
+    B -->|Other Language| C[WIDA Screener within 30 days]
+    B -->|English Only| Z[General Education]
+    C --> D{ELL Identified?}
+    D -->|Yes| E[Assign WIDA Level 1-5]
+    D -->|No| Z
+    E --> F[ELL Program Placement]
+    F --> G[Sheltered Instruction / SIOP]
+    F --> H[Pull-out or Push-in ESL]
+    F --> I[Dual Language]
+    F --> J[Newcomer Program]
+    G --> K[Annual ACCESS Testing]
+    H --> K
+    I --> K
+    J --> K
+    K -->|Level 6 Reached| L[Exit ELL Services]
+    K -->|Below Level 6| F
+    L --> M[2-Year Monitoring Period]
+    M --> Z
+```
+
 ## 1. WIDA Proficiency Levels — What Teachers Need to Know
 
 WIDA defines 6 levels of English proficiency. **Every instructional decision for an ELL should start with their WIDA level.**

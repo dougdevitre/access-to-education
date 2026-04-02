@@ -2,6 +2,27 @@
 
 **Read this file first when any AI-in-education question arises. Then load the specific sub-file.**
 
+```mermaid
+graph TD
+    INDEX["AI in Education<br/>INDEX<br/><i>Start Here</i>"]
+    TL["ai-teaching-learning.md<br/>Teaching Workflows, Tutoring,<br/>Platforms, Communication"]
+    PG["ai-policy-governance.md<br/>DESE Guidance, Privacy,<br/>Academic Integrity, Equity"]
+    LC["ai-literacy-career.md<br/>K-12 Curriculum, PD,<br/>Tools, Career Readiness"]
+
+    INDEX -->|"Instruction &<br/>Learning"| TL
+    INDEX -->|"Policy &<br/>Governance"| PG
+    INDEX -->|"Literacy &<br/>Careers"| LC
+
+    TL <-.->|"cross-reference"| PG
+    PG <-.->|"cross-reference"| LC
+    LC <-.->|"cross-reference"| TL
+
+    style INDEX fill:#4a90d9,color:#fff
+    style TL fill:#5cb85c,color:#fff
+    style PG fill:#d9534f,color:#fff
+    style LC fill:#f0ad4e,color:#fff
+```
+
 ## Sub-File Router
 
 | Sub-File | When to Read |

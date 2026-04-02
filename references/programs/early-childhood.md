@@ -1,5 +1,33 @@
 # Early Childhood Education — Missouri K-12 Education Reference
 
+```mermaid
+flowchart LR
+    subgraph "Prenatal - Birth"
+        A[Parents as Teachers]
+        B[WIC / Healthy Start]
+    end
+    subgraph "Birth - Age 3"
+        C[First Steps - Part C]
+        D[Early Head Start]
+    end
+    subgraph "Ages 3-5"
+        E[Missouri Preschool Program]
+        F[Head Start]
+        G[ECSE - Part B/619]
+    end
+    subgraph "Age 5-6"
+        H[Kindergarten]
+    end
+    A --> C
+    A --> E
+    C -->|Transition at Age 3| G
+    D --> F
+    E --> H
+    F --> H
+    G --> H
+    C -->|Screening & Referral| G
+```
+
 ## Table of Contents
 1. Missouri Early Childhood Landscape
 2. Missouri Preschool Program (MPP)

@@ -2,6 +2,45 @@
 
 Slash commands provide quick entry points into common workflows. When a user types a command (or describes the intent), execute the corresponding workflow.
 
+```mermaid
+graph TD
+    CMD[22 Slash Commands]
+    CMD --> INTAKE[Intake & Navigation]
+    CMD --> PARENT[Parent Tools]
+    CMD --> COMPLIANCE[Compliance & Policy]
+    CMD --> SPECIALIST[Specialist Tools]
+    CMD --> CALC[Calculators & Lookup]
+    CMD --> OTHER[Scenarios & Language]
+
+    INTAKE --> s1["/start"]
+    INTAKE --> s2["/walkthrough"]
+    INTAKE --> s3["/evaluate"]
+
+    PARENT --> p1["/rights"]
+    PARENT --> p2["/letter"]
+    PARENT --> p3["/enroll"]
+
+    COMPLIANCE --> c1["/comply"]
+    COMPLIANCE --> c2["/policy"]
+    COMPLIANCE --> c3["/csip"]
+    COMPLIANCE --> c4["/safety-plan"]
+    COMPLIANCE --> c5["/crisis"]
+    COMPLIANCE --> c6["/threat"]
+
+    SPECIALIST --> sp1["/iep-check"]
+    SPECIALIST --> sp2["/graduation"]
+    SPECIALIST --> sp3["/compare"]
+
+    CALC --> ca1["/retire"]
+    CALC --> ca2["/a-plus"]
+    CALC --> ca3["/lookup"]
+    CALC --> ca4["/district"]
+    CALC --> ca5["/data"]
+
+    OTHER --> o1["/translate"]
+    OTHER --> o2["/pd"]
+```
+
 ## Command Index
 
 | Command | Description | Workflow |

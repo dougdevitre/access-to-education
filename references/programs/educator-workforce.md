@@ -1,5 +1,26 @@
 # Educator Workforce — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Educator Pipeline] --> B[University Preparation]
+    A --> C[Alternative Certification]
+    A --> D[Grow Your Own Programs]
+    B --> E[Certified Educator]
+    C --> E
+    D --> E
+    E --> F[Mentoring & Induction]
+    F --> G[Active Teaching Career]
+    G --> H{Retention Factors}
+    H -->|Positive| I[Compensation & Benefits]
+    H -->|Positive| J[Professional Development]
+    H -->|Positive| K[Administrative Support]
+    H -->|Negative| L[Shortage Areas]
+    L --> M[Special Ed / Math / Science / ELL / Rural]
+    G --> N{Retirement}
+    N --> O[PSRS - Certificated]
+    N --> P[PEERS - Non-Certificated]
+```
+
 ## Table of Contents
 1. PSRS (Public School Retirement System)
 2. PEERS (Public Education Employee Retirement System)

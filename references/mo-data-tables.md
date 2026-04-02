@@ -3,6 +3,33 @@
 <!-- Structured lookup data. When a question requires a specific number, date, or fact, check here before loading a full reference file. -->
 <!-- Last verified: 2026-03. Source for all data: DESE MCDS portal, DESE publications, Missouri statutes. -->
 
+```mermaid
+graph LR
+    TABLES[Data Tables] --> STUDENT_PATH[Student Pathway]
+    TABLES --> EDUCATOR_PATH[Educator Pathway]
+    TABLES --> SYSTEM[System & Compliance]
+
+    STUDENT_PATH --> T1[T1: Graduation Credits - 24 min]
+    STUDENT_PATH --> T2[T2: EOC Exams - 4 subjects]
+    STUDENT_PATH --> T3[T3: A+ Requirements]
+    STUDENT_PATH --> T4[T4: Immunizations]
+    STUDENT_PATH --> T5[T5: Assessment Calendar]
+    STUDENT_PATH --> T8[T8: IDEA Disability Categories]
+    STUDENT_PATH --> T9[T9: ACT Benchmarks]
+    STUDENT_PATH --> T12[T12: State Scholarships]
+    STUDENT_PATH --> T15[T15: FRPM Eligibility]
+
+    EDUCATOR_PATH --> T7[T7: MEES Scoring]
+    EDUCATOR_PATH --> T16[T16: Certificate Types]
+    EDUCATOR_PATH --> T17[T17: PSRS Retirement]
+
+    SYSTEM --> T6[T6: Key Statutes]
+    SYSTEM --> T10[T10: MSIP 6 Standards]
+    SYSTEM --> T11[T11: Drill Schedule]
+    SYSTEM --> T13[T13: Hotlines]
+    SYSTEM --> T14[T14: SPED Timelines]
+```
+
 ---
 
 ## Table 1: Graduation Credit Requirements (DESE Minimum)

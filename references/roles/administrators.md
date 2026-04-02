@@ -1,5 +1,19 @@
 # District Administration — Missouri K-12 Education Reference
 
+```mermaid
+graph TD
+    A[District Administration] --> B[Accreditation<br/>MSIP 6 / APR]
+    A --> C[Funding<br/>State Formula / Title Programs]
+    A --> D[Governance<br/>School Board / Superintendent]
+    A --> E[Compliance<br/>ESSA / Federal & State Law]
+    A --> F[Operations<br/>HR / Fiscal / Data Reporting]
+    B --> G[5 MSIP 6 Standards]
+    C --> H[Local Revenue + State Aid + Federal]
+    D --> I[Board Sets Policy<br/>Supt Implements]
+    E --> J[CSI / TSI School Identification]
+    F --> K[MOSIS / Core Data / Audits]
+```
+
 ## Table of Contents
 1. MSIP 6 Accreditation
 2. School Funding Formula

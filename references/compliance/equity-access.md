@@ -14,6 +14,36 @@
 11. Disproportionality
 12. Digital Equity
 
+```mermaid
+graph TD
+    EQ["<b>Equity & Access Framework</b>"]
+
+    EQ --> POP["Protected Populations"]
+    EQ --> SYS["Systemic Frameworks"]
+    EQ --> DATA["Data & Accountability"]
+
+    POP --> HM["McKinney-Vento<br/>(Homeless Students)"]
+    POP --> FC["Foster Care<br/>Protections"]
+    POP --> MIG["Migrant<br/>Education"]
+    POP --> ELL["English Learner<br/>Rights"]
+    POP --> DIS["Disability Rights<br/>(ADA / 504 / IDEA)"]
+    POP --> TIX["Title IX<br/>(Sex Discrimination)"]
+    POP --> RAC["Racial & Ethnic<br/>Equity"]
+
+    SYS --> MTSS["MTSS / RTI<br/>3-Tier Support"]
+    SYS --> TIP["Trauma-Informed<br/>Practices"]
+    SYS --> RJ["Restorative<br/>Justice"]
+    SYS --> DE["Digital<br/>Equity"]
+
+    DATA --> DISP["Disproportionality<br/>Analysis"]
+    DATA --> OCR["OCR Complaints<br/>& Civil Rights"]
+
+    style EQ fill:#2c5f8a,color:#fff
+    style POP fill:#3a7ca5,color:#fff
+    style SYS fill:#3a7ca5,color:#fff
+    style DATA fill:#3a7ca5,color:#fff
+```
+
 ---
 
 ## 1. McKinney-Vento (Homeless Students)

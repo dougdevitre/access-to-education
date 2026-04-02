@@ -2,6 +2,32 @@
 
 **When a question matches an FAQ, deliver the answer directly. These are the most common questions — pre-built for speed and consistency.**
 
+```mermaid
+flowchart TD
+    Q[User Question] --> R{Which Role?}
+    R --> P[Parent FAQs]
+    R --> T[Teacher FAQs]
+    R --> S[Specialist FAQs]
+    R --> PR[Principal FAQs]
+    R --> DA[District Admin FAQs]
+    P --> P1[Graduation & College]
+    P --> P2[Discipline & Rights]
+    P --> P3[Special Education]
+    P --> P4[Health & Enrollment]
+    T --> T1[Certification & Renewal]
+    T --> T2[Tenure & Employment]
+    T --> T3[Retirement & Benefits]
+    T --> T4[Evaluation & AI]
+    S --> S1[IEP Timelines & Process]
+    S --> S2[Eligibility & Assessment]
+    S --> S3[ELL & Compliance]
+    PR --> PR1[Accreditation & Safety]
+    PR --> PR2[Discipline & Legal]
+    PR --> PR3[Records & Planning]
+    DA --> DA1[Data & Funding]
+    DA --> DA2[Accreditation & Policy]
+```
+
 ---
 
 ## Parent FAQs

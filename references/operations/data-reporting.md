@@ -1,5 +1,24 @@
 # Data & Reporting — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[District Data Sources] --> B[MOSIS - Student Data]
+    A --> C[Core Data - District Data]
+    B --> D[Demographics & Enrollment]
+    B --> E[Attendance & Discipline]
+    B --> F[Assessment & Grades]
+    B --> G[Special Programs]
+    C --> H[Staffing & Finance]
+    C --> I[Facilities & Transportation]
+    B --> J[DESE / MCDS Portal]
+    C --> J
+    J --> K[Annual Performance Report]
+    J --> L[School Report Cards]
+    J --> M[Federal Reporting - EDFacts/CRDC]
+    K --> N[MSIP 6 Accreditation]
+    L --> O[Public Transparency]
+```
+
 ## Table of Contents
 1. MOSIS (Missouri Student Information System)
 2. Core Data

@@ -1,5 +1,29 @@
 # Alternative Education — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Student Not Succeeding in Traditional Setting] --> B{Placement Type}
+    B --> C[Voluntary]
+    B --> D[Involuntary / Discipline]
+    B --> E[IEP-Driven]
+    C --> F[Alternative School/Program]
+    D --> F
+    E --> F
+    F --> G[District Alternative School]
+    F --> H[Virtual/Online - MOCAP]
+    F --> I[Homebound Instruction]
+    F --> J[Juvenile Detention Education]
+    F --> K[GED/HiSET Program]
+    G --> L{Outcome}
+    H --> L
+    I --> L
+    J --> L
+    K --> L
+    L --> M[Return to Traditional School]
+    L --> N[Graduate / Complete]
+    L --> O[Post-Secondary / Employment]
+```
+
 ## Table of Contents
 1. Alternative Schools & Programs
 2. Missouri Virtual Schools / Online Learning

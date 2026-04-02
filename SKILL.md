@@ -7,6 +7,34 @@ description: "Access to Education — Missouri K-12 education navigator for stud
 
 ## How This Skill Works
 
+```mermaid
+flowchart TD
+    S1["SS1: Detect Role"] --> S2{"SS2: Quick Answer?"}
+    S2 -->|Yes| QA[Deliver Fact + Citation]
+    S2 -->|No| S3["SS3: Apply Role Recipe"]
+    S3 --> S4{"SS4: Need Reference File?"}
+    S4 -->|Yes| RF[Load from references/]
+    S4 -->|No| S5{"SS5: Building a Document?"}
+    RF --> S5
+    S5 -->|Yes| TM[Load from templates/]
+    S5 -->|No| S6{"SS6: Sensitive Topic?"}
+    TM --> S6
+    S6 -->|Yes| GR[Apply Guardrails / Redirect]
+    S6 -->|No| S7{"SS7: Outside Education?"}
+    GR --> S9
+    S7 -->|Yes| HO[Hand Off]
+    S7 -->|No| S8{"SS8: Multi-Step Process?"}
+    S8 -->|Yes| DT[Walk Decision Tree]
+    S8 -->|No| S9["SS9: Anticipate Follow-Up"]
+    DT --> S9
+    S9 --> S10["SS10: Generate Document if Needed"]
+    S10 --> S11{"SS11: Spanish?"}
+    S11 -->|Yes| BI[Bilingual Response]
+    S11 -->|No| OUT[Deliver Response]
+    QA --> OUT
+    BI --> OUT
+```
+
 1. **Detect the role** — identify or ask who is asking (§1)
 2. **Check the quick-answer layer** — direct factual answer? give it immediately (§2)
 3. **Apply the role-adaptive response recipe** — shape the answer for the audience (§3)

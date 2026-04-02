@@ -2,6 +2,31 @@
 
 **Use this file when a user asks "what does ___ mean?" or uses an acronym you need to define for a non-specialist audience.**
 
+```mermaid
+graph TD
+    GLOSSARY[Education Glossary] --> SPED[Special Education & Disability]
+    GLOSSARY --> ASSESS[Assessment & Accountability]
+    GLOSSARY --> CERT[Certification & Workforce]
+    GLOSSARY --> FUND[Funding & Finance]
+    GLOSSARY --> POLICY[Policy & Law]
+    GLOSSARY --> TECH[Technology & Data]
+    GLOSSARY --> PROG[Programs & Services]
+    SPED --> |IEP, 504, IDEA, FAPE, LRE, FBA, BIP, MDR, ESY| sped_terms[ ]
+    ASSESS --> |MAP, EOC, ACT, MSIP, APR, MEES, NAEP| assess_terms[ ]
+    CERT --> |IPC, CCPC, TAC, NBCT, MoGEA, MoCA| cert_terms[ ]
+    FUND --> |ADA, WADA, SAT, FRPM, FPL, CEP| fund_terms[ ]
+    POLICY --> |FERPA, ESSA, COPPA, CIPA, RSMo| policy_terms[ ]
+    TECH --> |MOSIS, SIS, PII, MOCAP, WCAG| tech_terms[ ]
+    PROG --> |CTE, ELL, MTSS, SEL, PBIS, PAT| prog_terms[ ]
+    style sped_terms fill:none,stroke:none
+    style assess_terms fill:none,stroke:none
+    style cert_terms fill:none,stroke:none
+    style fund_terms fill:none,stroke:none
+    style policy_terms fill:none,stroke:none
+    style tech_terms fill:none,stroke:none
+    style prog_terms fill:none,stroke:none
+```
+
 ## A
 | Term | Definition |
 |------|-----------|

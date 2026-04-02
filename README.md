@@ -11,6 +11,29 @@ Answers questions, generates documents, and walks through complex processes for 
 
 ---
 
+```mermaid
+graph TD
+    A[User Query] --> B{Role Detection}
+    B --> C[Student]
+    B --> D[Parent]
+    B --> E[Teacher]
+    B --> F[Specialist]
+    B --> G[Principal]
+    B --> H[Staff]
+    B --> I[District Admin]
+    C & D & E & F & G & H & I --> J{Quick Answer?}
+    J -->|Yes| K[Immediate Response]
+    J -->|No| L[Load Reference Files]
+    L --> M{Need a Document?}
+    M -->|Yes| N[templates/]
+    M -->|No| O{Need Calculation?}
+    O -->|Yes| P[scripts/calculators.md]
+    O -->|No| Q[Role-Adapted Answer]
+    N & P & Q --> R[Response with Citations]
+```
+
+---
+
 ## What It Does
 
 | Capability | Details |

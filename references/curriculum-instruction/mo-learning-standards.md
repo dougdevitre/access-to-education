@@ -3,6 +3,30 @@
 <!-- Canonical source for: all Missouri Learning Standards by subject area -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+graph TD
+    MLS["Missouri Learning Standards<br/>(Adopted 2016+)"]
+
+    MLS --> ELA["ELA<br/>K-12"]
+    MLS --> MATH["Mathematics<br/>K-12"]
+    MLS --> SCI["Science<br/>K-12"]
+    MLS --> SS["Social Studies<br/>K-12"]
+    MLS --> FA["Fine Arts<br/>K-12"]
+    MLS --> HPE["Health & PE<br/>K-12"]
+    MLS --> CS["Computer Science<br/>K-12 (2019)"]
+    MLS --> WL["World Languages<br/>K-12 (ACTFL)"]
+
+    subgraph Hierarchy["Standards Hierarchy"]
+        direction TB
+        STRAND["Strand / Domain"] --> STANDARD["Standard"]
+        STANDARD --> INDICATOR["Indicator / Component"]
+        INDICATOR --> GRADE["Grade Level"]
+    end
+
+    ELA -.->|"e.g. 5.RL.1.A"| Hierarchy
+    MATH -.->|"e.g. 6.EE.A.1"| Hierarchy
+```
+
 ## 1. Missouri Learning Standards (Complete Overview)
 
 ### History

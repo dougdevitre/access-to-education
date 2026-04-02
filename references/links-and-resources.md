@@ -2,6 +2,32 @@
 
 <!-- Last verified: 2026-03 -->
 
+```mermaid
+graph TD
+    RESOURCES[Missouri K-12 Resources] --> DESE[DESE Portals]
+    RESOURCES --> EDUCATOR[Educator Resources]
+    RESOURCES --> STUDENT[Student & Family]
+    RESOURCES --> GOVERNANCE[Governance & Law]
+    RESOURCES --> SAFETY[Crisis & Safety]
+    RESOURCES --> FEDERAL[Federal Education]
+    DESE --> DATA[Data Portals: MCDS, MOSIS, MO DVT]
+    DESE --> STANDARDS[Standards & AI Guidance]
+    EDUCATOR --> CERT[Certification & Prep]
+    EDUCATOR --> RETIRE[Retirement: PSRS/PEERS]
+    EDUCATOR --> ORGS[Professional Orgs: MSTA, MNEA, MASA]
+    EDUCATOR --> RPDC[Regional PDCs - 9 Centers]
+    STUDENT --> ASSESS[Assessment: MAP, ACT, WIDA]
+    STUDENT --> COLLEGE[College: FAFSA, A+, MOCAP]
+    STUDENT --> SPED[Special Ed: MPACT, First Steps]
+    STUDENT --> EARLY[Early Childhood: PAT, Head Start]
+    GOVERNANCE --> MSBA[MSBA & Statutes]
+    GOVERNANCE --> SUNSHINE[Sunshine Law]
+    SAFETY --> CRISIS[988 Lifeline & Crisis Text Line]
+    SAFETY --> ABUSE[Children's Division Hotline]
+    FEDERAL --> IDEA_FERPA[IDEA, FERPA, OCR]
+    FEDERAL --> AI[AI in Education Resources]
+```
+
 ## DESE Primary Portals
 | Resource | URL |
 |----------|-----|
