@@ -32,23 +32,23 @@ flowchart TD
 
 ## Parent FAQs
 
-**1. How many credits does my child need to graduate?**
+**1. How many credits does my child need to graduate?** ([graduation audit template](../templates/counselor/graduation-audit.md))
 24 minimum (DESE). Districts may require more. Breakdown: ELA 4, Math 3, Science 3, Social Studies 3, Fine Arts 1, Practical Arts 1, PE 1, Health 0.5, Personal Finance 0.5, Electives 7. Also required: CPR instruction, EOC participation. → Talk to your child's counselor for your district's specific requirements.
 
-**2. What is the A+ scholarship and how does my child qualify?**
+**2. What is the [A+ scholarship](roles/students.md) and how does my child qualify?**
 Tuition reimbursement at Missouri public community colleges for up to 48 months after graduation. Requirements: attend an A+ school 3 years, 2.5 GPA, 95% attendance, 50 tutoring hours, good citizenship, FAFSA completion, Proficient/Advanced on Algebra I EOC. Contact your school's A+ coordinator. (RSMo 160.545)
 
-**3. Can the school suspend my child without telling me?**
+**3. Can the school suspend my child without telling me?** ([discipline & due process details](operations/discipline-behavior.md))
 No. The school must notify you. For 1-10 day suspensions: your child must receive notice of charges and a chance to respond. For 10+ days: you have the right to written charges, a formal hearing, representation, and appeal. (RSMo 167.161-171)
 
-**4. How do I get my child tested for a learning disability?**
+**4. How do I get my child tested for a learning disability?** ([IEP process details](roles/specialists.md))
 Write a letter to the principal or special education director requesting an evaluation under IDEA. The school must respond. If they agree, they have 60 calendar days from your signed consent to complete the evaluation. You do NOT need the school to agree first — put it in writing. → See `templates/parent/letters.md` §1 for a template letter.
 
-**5. What are my rights at an IEP meeting?**
+**5. What are my rights at an [IEP](roles/specialists.md) meeting?** ([IEP compliance checklist](../templates/specialist/iep-compliance-checklist.md))
 You are an equal member of the team. You can: bring an advocate, request meetings at convenient times, receive Prior Written Notice of any changes, consent or refuse consent for evaluation and placement, get an Independent Educational Evaluation if you disagree, and file for mediation or due process if unresolved. (IDEA §300.322)
 
 **6. Can I see my child's school records?**
-Yes. Under FERPA, you can inspect and receive copies of all education records. The school must respond within 45 days. → See `templates/parent/letters.md` §2 for a records request template.
+Yes. Under [FERPA](compliance/mo-education-law.md), you can inspect and receive copies of all education records. The school must respond within 45 days. → See `templates/parent/letters.md` §2 for a records request template.
 
 **7. My child is being bullied. What should I do?**
 Report it to the school in writing (principal or counselor). Missouri law requires every district to have an anti-bullying policy (RSMo 160.775). The school must investigate. If the bullying is based on race, sex, disability, or another protected class, it may also be a federal civil rights violation — contact OCR. Document everything (dates, what happened, who was involved, school response).
@@ -103,8 +103,8 @@ Up to $2,000/year additional compensation for NBCTs (RSMo 168.345, subject to ap
 **1. What's the evaluation timeline?**
 60 calendar days from receiving parent's signed consent to complete the evaluation. (IDEA §300.301)
 
-**2. When is an MDR required?**
-When a student with an IEP or 504 plan is removed from their placement for more than 10 cumulative school days in a school year. The MDR must occur before any further removal.
+**2. When is an MDR required?** ([discipline details](operations/discipline-behavior.md))
+When a student with an [IEP](roles/specialists.md) or [504 plan](../templates/specialist/plans-and-forms.md) is removed from their placement for more than 10 cumulative school days in a school year. The MDR must occur before any further removal.
 
 **3. Can I use RTI data to delay a parent's request for evaluation?**
 No. A parent can request a special education evaluation at any time, regardless of MTSS/RTI status. The district must respond to the request — they cannot use RTI to delay or deny evaluation. (IDEA §300.311)

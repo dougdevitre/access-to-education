@@ -16,7 +16,7 @@ flowchart TD
     C5 --> C6[Develop BIP]
 ```
 
-# 504 Accommodation Plan Template
+## 504 Accommodation Plan Template
 
 **Student:** ___________________________ **DOB:** _____________ **Grade:** _____
 **School:** ___________________________ **504 Coordinator:** ___________________________
@@ -24,22 +24,22 @@ flowchart TD
 
 ---
 
-## Disability / Condition
+### Disability / Condition
 **Diagnosis:** ___________________________
 **Diagnosed by:** ___________________________ **Date:** _____________
 **Medical documentation on file:** ☐ Yes ☐ No
 
-## Major Life Activity Affected
+### Major Life Activity Affected
 ☐ Learning ☐ Reading ☐ Concentrating ☐ Thinking ☐ Communicating
 ☐ Breathing ☐ Walking ☐ Seeing ☐ Hearing ☐ Eating
 ☐ Sleeping ☐ Standing ☐ Bending ☐ Speaking ☐ Caring for oneself
 ☐ Other: ___________________________
 
-## How the Disability Affects School Performance
+### How the Disability Affects School Performance
 _______________________________________________________________________________
 _______________________________________________________________________________
 
-## Accommodations
+### Accommodations
 
 | # | Accommodation | Setting | Responsible Staff |
 |---|--------------|---------|------------------|
@@ -49,18 +49,18 @@ _______________________________________________________________________________
 | 4 | | ☐ All classes ☐ Specific: ___ | |
 | 5 | | ☐ All classes ☐ Specific: ___ | |
 
-## Testing Accommodations
+### Testing Accommodations
 | Accommodation | Applies to: ☐ Classroom ☐ District ☐ State (MAP/EOC) |
 |--------------|------|
 | | |
 | | |
 
-## Health/Safety Plan (if applicable)
+### Health/Safety Plan (if applicable)
 ☐ Not applicable
 ☐ Individualized Healthcare Plan (IHP) on file — see school nurse
 ☐ Emergency plan attached: ___________________________
 
-## 504 Team Members
+### 504 Team Members
 | Name | Role | Signature |
 |------|------|-----------|
 | | Parent/Guardian | |
@@ -68,13 +68,13 @@ _______________________________________________________________________________
 | | Teacher | |
 | | Other: ___ | |
 
-## Distribution
+### Distribution
 ☐ Parent copy provided ☐ Filed in student record ☐ All teachers notified
 ☐ Nurse notified ☐ Counselor notified ☐ Other: ___
 
 ---
 
-# Functional Behavior Assessment (FBA) Template
+## Functional Behavior Assessment (FBA) Template
 
 **Student:** ___________________________ **DOB:** _____________ **Grade:** _____
 **School:** ___________________________ **Completed by:** ___________________________
@@ -82,7 +82,7 @@ _______________________________________________________________________________
 
 ---
 
-## 1. Target Behavior Definition
+### 1. Target Behavior Definition
 **Describe the behavior in observable, measurable terms:**
 _______________________________________________________________________________
 
@@ -95,7 +95,7 @@ _______________________________________________________________________________
 
 **How intense?** (intensity — scale: mild / moderate / severe)  _______________
 
-## 2. Data Collection Summary
+### 2. Data Collection Summary
 
 ### Direct Observation (ABC Data)
 | Date | Time | Setting | Antecedent (What happened BEFORE) | Behavior (What the student DID) | Consequence (What happened AFTER) |
@@ -112,11 +112,11 @@ _______________________________________________________________________________
 ### When does the behavior occur LEAST?
 _______________________________________________________________________________
 
-## 3. Setting Events / Background Factors
+### 3. Setting Events / Background Factors
 ☐ Medication changes ☐ Sleep disruption ☐ Hunger ☐ Family stress ☐ Peer conflict
 ☐ Schedule change ☐ Substitute teacher ☐ Illness ☐ Sensory factors ☐ Other: ___
 
-## 4. Interviews Conducted
+### 4. Interviews Conducted
 | Person | Role | Key Information |
 |--------|------|----------------|
 | | Student | |
@@ -125,7 +125,7 @@ _______________________________________________________________________________
 | | Para/aide | |
 | | Other | |
 
-## 5. Records Review
+### 5. Records Review
 | Source | Relevant Findings |
 |--------|--------------------|
 | Discipline records | |
@@ -134,7 +134,7 @@ _______________________________________________________________________________
 | Prior FBAs/BIPs | |
 | Medical/health | |
 
-## 6. Hypothesis Statement
+### 6. Hypothesis Statement
 
 **When** [antecedent/trigger] ________________________________________,
 
@@ -144,11 +144,11 @@ _______________________________________________________________________________
 
 **The function of the behavior is:** ☐ Attention ☐ Escape/Avoidance ☐ Access to tangible ☐ Sensory
 
-## 7. Replacement Behavior
+### 7. Replacement Behavior
 **What appropriate behavior serves the same function?**
 _______________________________________________________________________________
 
 **Can the student currently perform this behavior?** ☐ Yes ☐ Partially ☐ No — needs instruction
 
-## Next Step
+### Next Step
 → Develop a Behavior Intervention Plan (BIP) based on these findings.

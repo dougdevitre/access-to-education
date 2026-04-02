@@ -53,7 +53,9 @@ for md_file in "${MD_FILES[@]}"; do
     rel_file="${md_file#"$REPO_ROOT"/}"
 
     # Count mermaid fences in this file
-    block_count="$(grep -c '^ *```mermaid' "$md_file" 2>/dev/null || echo 0)"
+    block_count="$(grep -c '^ *```mermaid' "$md_file" 2>/dev/null || true)"
+    block_count="${block_count//[^0-9]/}"    # strip any non-digit chars
+    block_count="${block_count:-0}"
     if [[ "$block_count" -eq 0 ]]; then
         continue
     fi

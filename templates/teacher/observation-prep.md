@@ -115,7 +115,7 @@ _______________________________________________________________________________
 
 ---
 
-# Post-Observation Self-Reflection
+## Post-Observation Self-Reflection
 
 Complete this before your post-observation conference.
 
@@ -161,7 +161,7 @@ _______________________________________________________________________________
 
 ---
 
-# Summative Evaluation Prep Checklist
+## Summative Evaluation Prep Checklist
 
 Use this to gather your evidence before your end-of-year summative evaluation meeting.
 

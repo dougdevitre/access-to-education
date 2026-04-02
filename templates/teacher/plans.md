@@ -17,7 +17,7 @@ flowchart TD
     C4 --> C5[Reflection After Teaching]
 ```
 
-# Professional Development Growth Plan
+## Professional Development Growth Plan
 
 **Teacher:** ___________________________ **School:** ___________________________
 **Evaluator/Coach:** ___________________________ **Date:** _______________
@@ -63,7 +63,7 @@ _______________________________________________________________________________
 
 ---
 
-# Lesson Plan Framework (Missouri Learning Standards Aligned)
+## Lesson Plan Framework (Missouri Learning Standards Aligned)
 
 **Teacher:** ___________________________ **Date(s):** _______________
 **Subject:** ___________________________ **Grade:** _____

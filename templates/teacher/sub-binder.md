@@ -22,6 +22,28 @@ flowchart TD
     G --> G1[Fire / Tornado / Lockdown / Medical]
 ```
 
+## Table of Contents
+- [Section 1: Welcome Letter to the Substitute](#section-1-welcome-letter-to-the-substitute)
+- [Section 2: Student Alerts (CONFIDENTIAL)](#section-2-student-alerts-confidential)
+  - [Medical Alerts](#medical-alerts)
+  - [Behavioral / Emotional Alerts](#behavioral-emotional-alerts)
+  - [IEP / 504 Accommodations the Sub Must Follow](#iep-504-accommodations-the-sub-must-follow)
+  - [ELL Students](#ell-students)
+- [Section 3: Seating Charts](#section-3-seating-charts)
+- [Section 4: Daily Schedule](#section-4-daily-schedule)
+- [Section 5: Lesson Plans](#section-5-lesson-plans)
+  - [How to Use These Plans](#how-to-use-these-plans)
+  - [Emergency / "Plans Fell Through" Activities](#emergency-plans-fell-through-activities)
+  - [Extended Absence — Weekly Plan Grid](#extended-absence-weekly-plan-grid)
+- [Section 6: Emergency Procedures](#section-6-emergency-procedures)
+  - [Fire](#fire)
+  - [Tornado / Severe Weather](#tornado-severe-weather)
+  - [Lockdown](#lockdown)
+  - [Medical Emergency](#medical-emergency)
+  - [Student Leaves Without Permission](#student-leaves-without-permission)
+- [Section 7: Key People](#section-7-key-people)
+- [Section 8: Sub Feedback Form](#section-8-sub-feedback-form)
+
 ---
 
 ## Section 1: Welcome Letter to the Substitute

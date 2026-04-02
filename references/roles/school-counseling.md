@@ -328,7 +328,7 @@ Evidence-informed approach for crisis response:
 
 ### Records
 - Counseling notes (sole possession records) are generally exempt from FERPA if kept solely for the counselor's own use and not shared
-- Once counseling notes are shared with others or placed in the student's education file, they become education records subject to FERPA
+- Once counseling notes are shared with others or placed in the student's education file, they become education records subject to [FERPA](../compliance/mo-education-law.md)
 - Maintain notes separately from cumulative files
 
 ---
@@ -398,3 +398,13 @@ School counselors in Missouri may be evaluated using:
 - Use time studies (ASCA Use of Time calculator) to document how time is spent
 - Present data showing the impact of counseling activities on student outcomes
 - Missouri School Counselor Association (MSCA) advocates at the state level for appropriate counselor roles and ratios
+
+---
+
+## Related Resources
+
+- [Graduation Audit Template](../../templates/counselor/graduation-audit.md) -- credit tracking and A+ eligibility verification
+- [Students & Parents Reference](../roles/students.md) -- A+ Scholarship, graduation requirements, and parent rights
+- [Crisis & Emergency](../operations/crisis-emergency.md) -- crisis response protocols and safety planning
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- PBIS, restorative practices, and behavioral interventions
+- [Specialists (IEP & 504)](../roles/specialists.md) -- IEP process, 504 plans, and counselor's role on IEP teams
