@@ -1,5 +1,24 @@
 # Changelog — Access to Education
 
+```mermaid
+timeline
+    title Access to Education Version History
+    2026-03-28 : v1.0.0 Initial Release
+               : 11 files, core domains
+    2026-03-28 : v2.0.0 12 New Domains
+               : Early childhood, athletics, health, CTE, rural
+    2026-03-28 : v3.0.0 9 New Domains
+               : Counseling, governance, crisis, PD, culture
+    2026-03-28 : v4.0.0 AI in Education
+               : DESE AI guidance, federal landscape
+    2026-03-28 : v5.0.0 OS Refactor
+               : Role recipes, guardrails, quality checklist
+    2026-03-28 : v6.0.0 Behavioral Intelligence
+               : Decision trees, Spanish support, document generation
+    2026-03-28 : v7.0.0 Pod Architecture
+               : 22 commands, 50+ templates, calculators
+```
+
 ## v7.0.0 (2026-03-28) — Pod Architecture + Commands + Templates
 ### Added
 - Pod-based directory structure (roles/, operations/, compliance/, programs/)

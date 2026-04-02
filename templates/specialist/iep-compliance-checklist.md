@@ -4,6 +4,23 @@
 **School:** ___________________________ **Case Manager:** ___________________________
 **Audit Date:** _____________ **Auditor:** ___________________________
 
+```mermaid
+flowchart TD
+    A[IEP Compliance Audit] --> B[Timelines Check]
+    A --> C[Document Components - IDEA 300.320]
+    A --> D[Procedural Safeguards]
+    A --> E[Team Members Present]
+    A --> F[Service Delivery Verification]
+    B --> B1[Annual Review within 365 days]
+    B --> B2[Triennial Reevaluation within 3 years]
+    B --> B3[Transition by Age 16]
+    C --> C1[PLAAFP / Goals / Services / LRE]
+    D --> D1[PWN / Consent / Parent Participation]
+    F --> G{Gaps Found?}
+    G -- No --> H[Compliant]
+    G -- Yes --> I[Corrective Actions Required]
+```
+
 ---
 
 ## Timelines

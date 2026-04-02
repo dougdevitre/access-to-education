@@ -1,5 +1,24 @@
 # School Culture & Climate — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[School Culture - Beliefs & Values] --> B[School Climate - Daily Experience]
+    B --> C[Climate Surveys]
+    C --> D[Students]
+    C --> E[Staff]
+    C --> F[Families]
+    B --> G[Key Dimensions]
+    G --> H[Safety & Belonging]
+    G --> I[Relationships & Engagement]
+    G --> J[Equity & Inclusion]
+    C --> K[Continuous Improvement Cycle]
+    K --> L[Assess & Analyze]
+    L --> M[Plan & Implement]
+    M --> N[Monitor & Evaluate]
+    N --> L
+    K --> O[CSIP Goals - MSIP 6 Standard 5]
+```
+
 ## Table of Contents
 1. Defining Culture vs. Climate
 2. Climate Surveys

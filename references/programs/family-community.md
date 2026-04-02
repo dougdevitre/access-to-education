@@ -1,5 +1,24 @@
 # Family & Community Engagement — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Family & Community Engagement] --> B[Epstein's 6 Types]
+    B --> C[1. Parenting Support]
+    B --> D[2. Communication]
+    B --> E[3. Volunteering]
+    B --> F[4. Learning at Home]
+    B --> G[5. Decision Making]
+    B --> H[6. Community Collaboration]
+    G --> I[Advisory Councils & PTO/PTA]
+    H --> J[Business Partnerships]
+    H --> K[Community Schools Model]
+    K --> L[Integrated Student Supports]
+    K --> M[Expanded Learning Time]
+    K --> N[Collaborative Leadership]
+    D --> O[Translation & Interpretation]
+    A --> P[Cultural Responsiveness]
+```
+
 ## Table of Contents
 1. Family Engagement Frameworks
 2. ESSA Parent & Family Engagement Requirements

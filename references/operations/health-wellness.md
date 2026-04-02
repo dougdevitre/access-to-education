@@ -1,5 +1,24 @@
 # Health & Wellness — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Student Health & Wellness] --> B[Mental Health]
+    A --> C[Physical Health]
+    A --> D[Prevention Programs]
+    B --> E[Tier 1: SEL Curriculum & Climate]
+    B --> F[Tier 2: Small-Group Counseling]
+    B --> G[Tier 3: Individual Therapy & Crisis]
+    D --> H[Suicide Prevention - RSMo 170.048]
+    D --> I[Substance Abuse Prevention]
+    H --> J[Warning Signs Recognition]
+    J --> K[Risk Screening - C-SSRS]
+    K --> L[Safety Plan & Referral]
+    C --> M[School Nurse Services]
+    C --> N[Chronic Conditions Management]
+    C --> O[Immunizations - RSMo 167.181]
+    A --> P[Staff Wellness & Secondary Trauma]
+```
+
 ## Table of Contents
 1. Student Mental Health
 2. Social-Emotional Learning (SEL)

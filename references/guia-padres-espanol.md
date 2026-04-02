@@ -3,6 +3,29 @@
 
 *Esta guía proporciona información educativa. No es asesoramiento legal. / This guide provides educational information. It is not legal advice.*
 
+```mermaid
+flowchart TD
+    INICIO[Padre/Madre busca ayuda] --> DERECHOS{Tipo de necesidad}
+    DERECHOS --> BASICOS[Derechos Basicos]
+    DERECHOS --> ESPECIAL[Educacion Especial]
+    DERECHOS --> DISCIPLINA[Disciplina]
+    DERECHOS --> PROGRAMAS[Programas Especiales]
+    BASICOS --> INSCRIPCION[Inscripcion]
+    BASICOS --> REGISTROS[Registros Escolares - FERPA]
+    BASICOS --> COMUNICACION[Solicitar Interprete]
+    ESPECIAL --> EVALUACION[Solicitar Evaluacion por Escrito]
+    EVALUACION --> |60 dias| IEP[Programa IEP]
+    EVALUACION --> PLAN504[Plan 504 - Acomodaciones]
+    IEP --> DERECHOS_IEP[Aviso Previo / Mediacion / Debido Proceso]
+    DISCIPLINA --> CORTA[Suspension 1-10 dias]
+    DISCIPLINA --> LARGA[Suspension 10+ dias - Audiencia Formal]
+    LARGA --> MDR{Tiene IEP/504?}
+    MDR --> |Si| REVISION[Revision de Manifestacion - MDR]
+    PROGRAMAS --> APLUS[Programa A+]
+    PROGRAMAS --> MCKINNEY[McKinney-Vento - Sin Hogar]
+    PROGRAMAS --> FOSTER[Cuidado de Crianza]
+```
+
 ---
 
 ## Sus Derechos Básicos / Your Basic Rights

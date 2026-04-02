@@ -1,5 +1,20 @@
 # Teachers — Missouri K-12 Education Reference
 
+```mermaid
+graph TD
+    A[Missouri Teacher] --> B[Certification<br/>IPC --> CCPC]
+    A --> C[Evaluation<br/>MEES / 8 Standards]
+    A --> D[Professional<br/>Development]
+    A --> E[Missouri Learning<br/>Standards]
+    A --> F[Rights &<br/>Employment]
+    B --> G[Assessments<br/>MoGEA + Content Exam]
+    C --> H[Observation Cycle<br/>Pre/Post Conference]
+    D --> I[RPDCs / 30 hrs<br/>Annual PD]
+    F --> J[Tenure after 5 yrs /<br/>Due Process Rights]
+    A --> K[National Board<br/>Certification]
+    A --> L[CTE Alternative<br/>Pathways]
+```
+
 ## Table of Contents
 1. Certification & Licensure
 2. Missouri Educator Evaluation System (MEES)

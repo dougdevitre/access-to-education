@@ -4,6 +4,22 @@
 **School:** ___________________________________ **Expected Graduation:** _______________
 **Counselor:** ___________________________________ **Audit Date:** _______________
 
+```mermaid
+flowchart TD
+    A[Graduation Audit] --> B[Credit Requirements - 24.0 min]
+    A --> C[Assessment Participation - EOC/ACT]
+    A --> D[Additional Requirements - CPR, Constitution]
+    A --> E[A+ Program Eligibility Check]
+    B --> F{All Credits Earned?}
+    F -- Yes --> G[Post-Secondary Plan]
+    F -- No --> H[Action Items & Recovery Plan]
+    E --> I{A+ Eligible?}
+    I -- Yes --> J[Verify FAFSA & Final Paperwork]
+    I -- No --> K[Identify Gaps - GPA, Attendance, Hours]
+    G --> L[Applications, FAFSA, Transcripts]
+    H --> L
+```
+
 ---
 
 ## Credit Requirements (24.0 Minimum — Verify District Requirements)

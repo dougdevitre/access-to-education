@@ -1,5 +1,24 @@
 # Missouri Districts & Regions — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Missouri K-12 System<br>~518 Districts / ~880,000 Students] --> B[Metro Areas]
+    A --> C[Rural Regions]
+    B --> D[St. Louis Metro<br>22+ districts in STL County]
+    B --> E[Kansas City Metro<br>Charter schools present]
+    B --> F[Springfield / Columbia<br>Regional centers]
+    C --> G[Bootheel<br>High poverty, agricultural]
+    C --> H[Ozarks<br>Isolated, tourism economy]
+    C --> I[Northern MO<br>Declining enrollment]
+    A --> J[Support Infrastructure]
+    J --> K[9 RPDCs]
+    J --> L[DESE Supervisory Areas]
+    J --> M[MSIP 6 Accreditation]
+    M --> N[Accredited]
+    M --> O[Provisionally Accredited]
+    M --> P[Unaccredited]
+```
+
 ## Table of Contents
 1. Missouri District Landscape
 2. District Types & Organization

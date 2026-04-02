@@ -1,5 +1,21 @@
 # School Counseling — Missouri K-12 Education Reference
 
+```mermaid
+graph TD
+    A[School Counselor] --> B[Academic<br/>Development]
+    A --> C[Career<br/>Development]
+    A --> D[Social-Emotional<br/>Development]
+    B --> E[Course Selection /<br/>Graduation Tracking]
+    C --> F[College & Career<br/>Readiness / FAFSA]
+    D --> G[Individual & Group<br/>Counseling]
+    A --> H[Responsive Services]
+    H --> I[Crisis Intervention]
+    H --> J[Mental Health<br/>Referral & Triage]
+    A --> K[System Support]
+    K --> L[Consultation with<br/>Teachers / Parents / Agencies]
+    K --> M[Program Management<br/>& Data Analysis]
+```
+
 ## Table of Contents
 1. Missouri Comprehensive School Counseling Program
 2. ASCA National Model

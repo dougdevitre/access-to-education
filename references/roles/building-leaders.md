@@ -1,5 +1,19 @@
 # Building Leaders — Missouri K-12 Education Reference
 
+```mermaid
+graph TD
+    A[Building Leader<br/>Principal] --> B[Instructional Leadership]
+    A --> C[Staff Supervision<br/>MEES Evaluation]
+    A --> D[Student Discipline<br/>& Safety]
+    A --> E[School Improvement<br/>CSIP]
+    A --> F[Parent & Community<br/>Engagement]
+    B --> G[Curriculum / Assessment / PD]
+    C --> H[Hiring / Mentoring / Growth Plans]
+    D --> I[PBIS / MTSS /<br/>Restorative Practices]
+    E --> J[Data-Driven<br/>Decision Making]
+    F --> K[Title I / Family<br/>Partnerships]
+```
+
 ## Table of Contents
 1. Principal Certification & Role
 2. Comprehensive School Improvement Plan (CSIP)

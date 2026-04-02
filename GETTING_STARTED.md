@@ -2,6 +2,19 @@
 
 This guide walks you through setting up **Access to Education** as your personal Missouri K-12 assistant. No coding required.
 
+```mermaid
+flowchart LR
+    A[Choose Setup Method] --> B[Option A: Claude Code]
+    A --> C[Option B: Claude Project]
+    A --> D[Option C: Share with Team]
+    B --> B1[Install Claude Code] --> B2[Clone Repo] --> B3[Run 'claude']
+    C --> C1[Create Account] --> C2[New Project] --> C3[Paste SKILL.md] --> C4[Upload References]
+    D --> D1[Set Up Project] --> D2[Share Link]
+    B3 --> E[Ask Questions / Use Commands]
+    C4 --> E
+    D2 --> E
+```
+
 ---
 
 ## Option A: Claude Code (fastest)

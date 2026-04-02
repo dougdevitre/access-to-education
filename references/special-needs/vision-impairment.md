@@ -3,6 +3,22 @@
 <!-- Canonical source for: blind/visually impaired students, TVI, O&M, braille, MSB, MIRC, low vision, cortical visual impairment -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+flowchart TD
+    A["Identification<br/>Child Find / Medical Referral"] --> B["Evaluation"]
+    B --> B1["Functional Vision<br/>Assessment (FVA)"]
+    B --> B2["Learning Media<br/>Assessment (LMA)"]
+    B --> B3["O&M Assessment"]
+    B2 --> C{"Primary Learning<br/>Medium?"}
+    C --> D["Braille"]
+    C --> E["Large Print"]
+    C --> F["Combination"]
+    B1 --> G["IEP with ECC Goals<br/>(9 Expanded Core Areas)"]
+    C --> G
+    G --> H["Services: TVI, O&M,<br/>AT, Accommodations"]
+    H --> I["Transition Planning<br/>RSB, Employment, Independent Living"]
+```
+
 ## Table of Contents
 1. Definitions & Prevalence
 2. Missouri Infrastructure (MSB, Outreach, MIRC, BSS)

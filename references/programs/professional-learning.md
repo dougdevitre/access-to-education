@@ -1,5 +1,26 @@
 # Professional Learning — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Professional Learning Models] --> B[Collaborative]
+    A --> C[Coaching & Mentoring]
+    A --> D[Self-Directed]
+    B --> E[PLCs - DuFour Model]
+    B --> F[Lesson Study]
+    B --> G[Peer Observation / Learning Walks]
+    C --> H[Instructional Coaching]
+    C --> I[New Teacher Mentoring & Induction]
+    D --> J[Action Research]
+    D --> K[Micro-Credentials & Badges]
+    D --> L[Online PD / Conferences]
+    E --> M[PLC Cycle: Identify Standards --> Assess --> Analyze Data --> Respond]
+    A --> N[Missouri Infrastructure]
+    N --> O[9 RPDCs]
+    N --> P[DESE Training]
+    N --> Q[University Partnerships]
+    A --> R[Aligned to MEES 8 Standards]
+```
+
 ## Table of Contents
 1. Professional Learning Communities (PLCs)
 2. Instructional Coaching

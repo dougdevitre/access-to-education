@@ -2,6 +2,22 @@
 
 **Purpose:** A guide for substitute teachers — what you need to know to walk into any Missouri school and have a good day. Keep this on your phone or print it.
 
+```mermaid
+flowchart TD
+    A[Before Arrival] --> B[Confirm Details<br/>Bring ID & Certificate]
+    B --> C[First 10 Minutes]
+    C --> D[Find Sub Binder]
+    C --> E[Read Student Alerts<br/>IEP/504/Medical]
+    C --> F[Review Schedule<br/>& Materials]
+    F --> G[During the Day]
+    G --> H[Take Attendance]
+    G --> I[Classroom Management<br/>Calm / Consistent / Confident]
+    G --> J[Follow IEP/504<br/>Accommodations]
+    G --> K[Legal Duties<br/>Mandated Reporter / FERPA]
+    G --> L[End of Day]
+    L --> M[Leave Notes for Teacher<br/>Sign Out at Office]
+```
+
 ---
 
 ## Before You Arrive

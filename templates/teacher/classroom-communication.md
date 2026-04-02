@@ -1,5 +1,21 @@
 # Teacher Templates — Classroom & Communication
 
+```mermaid
+flowchart TD
+    A[Communication Templates] --> B[Parent Email Templates]
+    A --> C[Classroom Management]
+    A --> D[Observation & Feedback]
+    B --> B1[Positive Update]
+    B --> B2[Academic Concern]
+    B --> B3[Behavior Concern]
+    B --> B4[Missing Work Notice]
+    B --> B5[IEP/504 Accommodation Confirmation]
+    C --> C1[Classroom Expectations Document]
+    C --> C2[Student Behavior Reflection Form]
+    D --> D1[Peer Observation Form]
+    D --> D2[Student Feedback Survey]
+```
+
 ## Parent Communication Email Templates
 
 ### Template 1: Positive Behavior / Academic Update

@@ -1,5 +1,23 @@
 # Career Pathways — Missouri K-12 Education Reference
 
+```mermaid
+flowchart LR
+    A[K-5: Career Awareness] --> B[6-8: Career Exploration]
+    B --> C[9-12: Career Preparation]
+    C --> D[Post-Secondary: Career Advancement]
+    B --> E[Individual Learning Plan]
+    C --> F[CTE Program of Study]
+    C --> G[Dual Credit]
+    C --> H[Work-Based Learning]
+    C --> I[Industry Credentials]
+    F --> J[16 Career Clusters]
+    D --> K[4-Year University]
+    D --> L[Community College]
+    D --> M[Apprenticeship]
+    D --> N[Military]
+    D --> O[Direct Employment]
+```
+
 ## Table of Contents
 1. Missouri Career Pathways Framework
 2. Career and Technical Education (CTE) Programs

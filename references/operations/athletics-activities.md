@@ -1,5 +1,26 @@
 # Athletics & Activities — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Student Athlete] --> B{Eligibility Check}
+    B --> C[Academic: 3.0 Credits]
+    B --> D[Age: Under 19 by July 1]
+    B --> E[8 Semesters Max]
+    B --> F[Physical Exam]
+    B --> G{Transfer?}
+    G -->|Yes| H[365-Day Ineligibility]
+    G -->|No| I[Eligible]
+    H --> J{Exception Applies?}
+    J -->|Yes| I
+    J -->|No| K[Ineligible for Varsity]
+    I --> L[MSHSAA Sanctioned Athletics]
+    I --> M[MSHSAA Sanctioned Activities]
+    L --> N[Safety Protocols]
+    N --> O[Concussion Protocol]
+    N --> P[Cardiac Awareness]
+    N --> Q[Heat Illness Prevention]
+```
+
 ## Table of Contents
 1. MSHSAA Overview
 2. Athletic Eligibility

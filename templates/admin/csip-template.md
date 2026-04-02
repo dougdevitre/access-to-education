@@ -6,6 +6,26 @@
 **School Year:** ___________________________________
 **Date Adopted:** ___________________________________
 
+```mermaid
+flowchart TD
+    A[School Profile & Demographics] --> B[Needs Assessment]
+    B --> C[Academic Data - MAP/EOC/ACT]
+    B --> D[School Quality Indicators]
+    B --> E[Root Cause Analysis]
+    C --> F[Improvement Goals]
+    D --> F
+    E --> F
+    F --> G[Strategies & Action Plans]
+    G --> H[Professional Development]
+    G --> I[Budget Alignment]
+    F --> J[Monitoring Plan]
+    J --> K{On Track?}
+    K -- Yes --> L[Continue & Document]
+    K -- No --> G
+    H --> M[Stakeholder Engagement]
+    L --> N[Board Approval]
+```
+
 ---
 
 ## 1. School Profile

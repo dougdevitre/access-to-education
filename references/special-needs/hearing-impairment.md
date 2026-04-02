@@ -3,6 +3,20 @@
 <!-- Canonical source for: deaf/hard of hearing students, MSD, ASL, cochlear implants, FM systems, captioning, interpreters, deaf culture, audiology, IEP goals for hearing -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+flowchart TD
+    A["Identification<br/>Newborn Screening / School Screening"] --> B["Audiological &<br/>Communication Evaluation"]
+    B --> C["IEP Team Determines<br/>Communication Mode"]
+    C --> D["ASL"]
+    C --> E["Auditory-Oral"]
+    C --> F["Total Communication"]
+    C --> G["Bilingual Bi-Bi"]
+    B --> H["Assistive Technology<br/>Hearing Aids / CI / FM-DM"]
+    H --> I["Classroom Accommodations<br/>Captioning, Seating, Visual Supports"]
+    I --> J["Ongoing Services<br/>TOD, Interpreter, SLP"]
+    J --> K["Transition Planning<br/>Self-Advocacy, Post-Secondary"]
+```
+
 ## Table of Contents
 1. Definitions & Spectrum of Hearing Loss
 2. Missouri Infrastructure (MSD, Resource Center on Deafness)

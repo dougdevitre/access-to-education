@@ -1,5 +1,20 @@
 # Specialists — Missouri K-12 Education Reference
 
+```mermaid
+graph TD
+    A[Specialists] --> B[Special Education<br/>IDEA / FAPE / LRE]
+    A --> C[Section 504<br/>Accommodations]
+    A --> D[ELL Services<br/>WIDA / Title III]
+    A --> E[Gifted Education]
+    A --> F[School Psychology]
+    B --> G[IEP Process]
+    G --> H[Referral --> Evaluation --> Eligibility --> IEP --> Placement]
+    B --> I[Related Services<br/>SLP / OT / PT / AT]
+    B --> J[FBA / BIP<br/>Behavior Intervention]
+    B --> K[Transition Planning<br/>Age 16+]
+    B --> L[Dispute Resolution<br/>Mediation / Due Process]
+```
+
 ## Table of Contents
 1. Special Education (IDEA) Overview
 2. IEP Process

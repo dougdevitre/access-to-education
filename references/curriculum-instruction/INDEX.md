@@ -2,6 +2,22 @@
 
 **Read this file first, then load the specific sub-file.**
 
+```mermaid
+graph TD
+    INDEX["Curriculum & Instruction<br/>INDEX.md"]
+    MLS["mo-learning-standards.md<br/>Standards by Subject"]
+    IP["instructional-practice.md<br/>Evidence-Based Teaching"]
+
+    INDEX -->|"What students must know<br/>(ELA, Math, Science, SS, etc.)"| MLS
+    INDEX -->|"How to teach it<br/>(strategies, curriculum, intervention)"| IP
+
+    MLS ---|"Standards align to"| ASSESS["assessments.md"]
+    MLS ---|"CS Standards link to"| AI["ai-in-education/"]
+    IP ---|"PD on instruction"| PL["professional-learning.md"]
+    IP ---|"Cert by content area"| TEACH["teachers.md"]
+    IP ---|"Dyslexia & intervention"| SPEC["specialists.md"]
+```
+
 ## Sub-File Router
 
 | Sub-File | When to Read |

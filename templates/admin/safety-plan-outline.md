@@ -5,6 +5,27 @@
 
 *Based on FEMA Guide for Developing High-Quality School EOPs and RSMo 160.660*
 
+```mermaid
+flowchart TD
+    A[Emergency Operations Plan] --> B[Part 1: Basic Plan]
+    A --> C[Part 2: Functional Annexes]
+    A --> D[Part 3: Threat-Specific Annexes]
+    A --> E[Part 4: Drill Schedule]
+    B --> B1[Roles & Responsibilities]
+    B --> B2[Incident Command System]
+    C --> C1[Evacuation]
+    C --> C2[Lockdown]
+    C --> C3[Shelter-in-Place]
+    C --> C4[Medical Emergency]
+    C --> C5[Communication]
+    C --> C6[Reunification]
+    C --> C7[Recovery & Mental Health]
+    D --> D1[Active Shooter]
+    D --> D2[Severe Weather]
+    D --> D3[Fire / HazMat / Other]
+    E --> E1[Monthly & Biannual Drills]
+```
+
 ---
 
 ## Part 1: Basic Plan

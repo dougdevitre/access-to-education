@@ -3,6 +3,42 @@
 <!-- Canonical source for: AI literacy K-12 curriculum, AI PD for educators, AI tools inventory, AI assessment design, AI and SEL, AI career readiness, parent communication, emerging applications -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+graph LR
+    subgraph "AI Literacy K-12 Progression"
+        K2["K-2<br/>AI Awareness"]
+        E35["3-5<br/>AI Understanding"]
+        M68["6-8<br/>AI Application"]
+        H912["9-12<br/>AI Fluency"]
+        K2 --> E35 --> M68 --> H912
+    end
+
+    subgraph "Educator Pipeline"
+        PD["Professional<br/>Development"]
+        TOOLS["AI Tools<br/>Inventory"]
+        ASSESS["Assessment<br/>Redesign"]
+    end
+
+    subgraph "Outcomes"
+        SEL["AI + SEL"]
+        CAREER["Career<br/>Readiness"]
+        PARENT["Parent<br/>Communication"]
+    end
+
+    H912 --> CAREER
+    PD --> K2
+    TOOLS --> PD
+    ASSESS --> M68
+    H912 --> SEL
+    CAREER --> PARENT
+
+    style K2 fill:#a8d8ea,color:#000
+    style E35 fill:#7ec8e3,color:#000
+    style M68 fill:#4a90d9,color:#fff
+    style H912 fill:#2c5f8a,color:#fff
+    style CAREER fill:#f0ad4e,color:#000
+```
+
 ## Table of Contents
 1. AI Literacy Curriculum (K-12)
 2. AI Professional Development for Educators

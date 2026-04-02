@@ -3,6 +3,43 @@
 <!-- Canonical source for: AI-enhanced teaching workflows, prompt engineering for educators, AI tutoring, adaptive learning, student-facing AI by grade band, AI for special populations, AI for communication/administration -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+flowchart LR
+    subgraph TEACH["Teacher Side"]
+        direction TB
+        PROMPT["Prompt Engineering<br/>(Five S Model)"]
+        WORKFLOW["AI-Enhanced<br/>Workflows"]
+        PROMPT --> WORKFLOW
+        WORKFLOW --> LESSON["Lesson Planning &<br/>Differentiation"]
+        WORKFLOW --> ASSESS["Assessment &<br/>Feedback"]
+        WORKFLOW --> COMM["Communication &<br/>Administration"]
+    end
+
+    subgraph LEARN["Student Side"]
+        direction TB
+        TUTOR["AI Tutoring &<br/>Adaptive Platforms"]
+        REINFORCE["Reinforcement<br/>(Spaced Practice,<br/>Retrieval, Feedback)"]
+        GRADE["Grade-Band<br/>Appropriate Use<br/>K-2 / 3-5 / 6-8 / 9-12"]
+        TUTOR --> REINFORCE
+        GRADE --> TUTOR
+    end
+
+    subgraph SPECIAL["Special Populations"]
+        direction TB
+        SPED["Special Education<br/>& Assistive Tech"]
+        ELL["English Language<br/>Learners"]
+        GIFTED["Gifted<br/>Education"]
+    end
+
+    TEACH -->|"AI generates,<br/>teacher reviews"| LEARN
+    LEARN --> SPECIAL
+    COMM --> DATA["Data-Driven<br/>Decisions"]
+
+    style TEACH fill:#4a90d9,color:#fff
+    style LEARN fill:#5cb85c,color:#fff
+    style SPECIAL fill:#f0ad4e,color:#000
+```
+
 ## Table of Contents
 1. AI-Enhanced Teaching Workflows
 2. Prompt Engineering for Educators

@@ -2,6 +2,23 @@
 
 **When a user asks a question that requires calculation or multi-factor analysis, use these calculators. Walk through the inputs step by step, then present the result.**
 
+```mermaid
+graph TD
+    Q[User Question] --> R{Which Calculator?}
+    R --> C1["1: PSRS Retirement<br/>Age + Service = Rule of 80"]
+    R --> C2["2: A+ Eligibility<br/>GPA, Attendance, Tutoring, EOC"]
+    R --> C3["3: Graduation Credits<br/>24 credits across 10 subjects"]
+    R --> C4["4: SPED Timelines<br/>60-day eval, annual review, triennial"]
+    R --> C5["5: Funding Estimator<br/>Enrollment x SAT x weight"]
+    R --> DE["Decision Engine:<br/>Complaint Mechanism Routing"]
+    C1 --> O[Collect Inputs --> Calculate --> Present Result]
+    C2 --> O
+    C3 --> O
+    C4 --> O
+    C5 --> O
+    DE --> O
+```
+
 ---
 
 ## Calculator 1: PSRS Retirement Eligibility

@@ -1,5 +1,25 @@
 # Assessments — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Missouri Assessment System] --> B[MAP Grades 3-8]
+    A --> C[EOC Exams]
+    A --> D[WIDA ACCESS for ELLs]
+    A --> E[ACT Grade 11]
+    A --> F[MAP-A Alternate]
+    A --> G[Kindergarten Readiness]
+    B --> H[Performance Levels]
+    C --> H
+    H --> I[Below Basic]
+    H --> J[Basic]
+    H --> K[Proficient]
+    H --> L[Advanced]
+    B --> M[Data Reporting via MCDS]
+    C --> M
+    E --> M
+    M --> N[School/District Accountability - MSIP 6]
+```
+
 ## Table of Contents
 1. Missouri Assessment Program (MAP)
 2. End-of-Course (EOC) Exams

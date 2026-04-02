@@ -3,6 +3,26 @@
 **District:** ___________________________ **Superintendent:** ___________________________
 **School Year:** _______________ **Board Adopted:** _______________
 
+```mermaid
+flowchart TD
+    A[District Plans & Reports] --> B[DSIP]
+    A --> C[Equity Audit]
+    A --> D[Board Presentation]
+    B --> B1[District Profile]
+    B --> B2[Needs Assessment - MSIP 6]
+    B --> B3[Goals & Strategies]
+    B3 --> B4[Building CSIP Alignment]
+    B3 --> B5[PD Plan & Resources]
+    B3 --> B6[Monitoring & Reporting]
+    C --> C1[Achievement Equity]
+    C --> C2[Access & Discipline Equity]
+    C --> C3[Staffing & Resource Equity]
+    C --> C4[Findings & Recommendations]
+    D --> D1[Background & Data]
+    D --> D2[Options & Recommendation]
+    D --> D3[Board Action Request]
+```
+
 ---
 
 ## 1. District Profile

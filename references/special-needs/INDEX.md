@@ -2,6 +2,19 @@
 
 **Read this file first when any disability-specific question arises. Then load the relevant sub-file.**
 
+```mermaid
+graph TD
+    A["Special Needs INDEX"] --> B["vision-impairment.md"]
+    A --> C["hearing-impairment.md"]
+    A --> D["motor-impairment.md"]
+    B --> B1["Blind / Low Vision / CVI<br/>TVI, O&M, Braille, MSB"]
+    C --> C1["Deaf / Hard of Hearing<br/>ASL, Interpreter, FM, MSD"]
+    D --> D1["Physical Disability<br/>OT, PT, Wheelchair, AT"]
+    A -.->|General SPED process| E["roles/specialists.md"]
+    A -.->|Mental health| F["operations/health-wellness.md"]
+    A -.->|Disability rights| G["compliance/equity-access.md"]
+```
+
 ## Sub-File Router
 
 | Sub-File | When to Read |

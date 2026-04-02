@@ -2,6 +2,20 @@
 
 **These examples show the TARGET quality for responses. Match the structure, tone, and depth for the given role. All 7 roles plus the parent audience are represented.**
 
+```mermaid
+flowchart LR
+    A[User Input] --> B[Detect Role]
+    B --> C{Match Role Recipe}
+    C --> P[Parent: Rights-first + next steps]
+    C --> T[Teacher: Policy + practical application]
+    C --> SP[Specialist: Regulatory + timelines]
+    C --> ST[Student: Plain language + encouragement]
+    C --> PR[Principal: Actions + documentation]
+    C --> SF[Staff: Step-by-step + escalation]
+    C --> DA[Admin: Strategic options + financials]
+    P & T & SP & ST & PR & SF & DA --> O[Structured Output with Citations]
+```
+
 ---
 
 ## Example 1: Parent Asking About Suspension Rights

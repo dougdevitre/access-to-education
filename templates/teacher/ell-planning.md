@@ -1,5 +1,23 @@
 # Teacher Templates — ELL Lesson Planning & Student Profiles
 
+```mermaid
+flowchart TD
+    A[ELL Planning Templates] --> B[1. Student Profile]
+    A --> C[2. Tiered Lesson Plan]
+    A --> D[3. Accommodation Tracker]
+    A --> E[4. Parent Conference Prep]
+    B --> B1[WIDA Levels & Program/Services]
+    B --> B2[Strengths & Priority Needs]
+    C --> C1[Content Objective - Same for All]
+    C --> C2[Language Objective - Tiered by WIDA Level]
+    C2 --> C3[Scaffolds & Sentence Frames]
+    C3 --> C4[Tiered Assessment]
+    D --> D1[Track Accommodations Across Classes]
+    D --> D2[Quarterly Progress Check]
+    E --> E1[Arrange Interpreter]
+    E --> E2[Share Progress & Home Supports]
+```
+
 ## Template 1: ELL Student Profile
 
 **Student:** ___________________________ **Grade:** _____

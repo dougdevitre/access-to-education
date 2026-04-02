@@ -1,5 +1,27 @@
 # Crisis & Emergency Management — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Emergency Operations Plan] --> B[Prevention & Preparedness]
+    A --> C[Response]
+    A --> D[Recovery]
+    B --> E[Threat Assessment Team]
+    B --> F[Required Drills]
+    B --> G[Staff Training]
+    C --> H{Incident Type}
+    H --> I[Active Threat: Run/Hide/Fight]
+    H --> J[Natural Disaster: Shelter/Evacuate]
+    H --> K[Medical Emergency: First Aid/911]
+    I --> L[Lockdown Procedures]
+    L --> M[Law Enforcement Response]
+    M --> N[Reunification]
+    J --> N
+    K --> N
+    D --> O[Psychological First Aid]
+    D --> P[After-Action Review]
+    D --> Q[Plan Update]
+```
+
 ## Table of Contents
 1. Missouri School Safety Framework
 2. Emergency Operations Plan (EOP)

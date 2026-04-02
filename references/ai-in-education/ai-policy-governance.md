@@ -3,6 +3,46 @@
 <!-- Canonical source for: DESE AI guidance, federal AI landscape, district AI policy development, academic integrity, AI data privacy, AI equity, responsible AI framework, AI governance -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+graph TD
+    FED["Federal Landscape<br/>DOE, Executive Orders, DOL"]
+    DESE["Missouri DESE<br/>AI Guidance v1.0"]
+    MSBA["MSBA Model Policies"]
+    
+    FED --> DESE
+    DESE --> MSBA
+    DESE --> DIST
+
+    subgraph "District Policy Development"
+        DIST["District AI Task Force"]
+        DIST --> POLICY["Draft AI Policy"]
+        POLICY --> BOARD["Board Adoption"]
+        BOARD --> IMPL["Implement & Train"]
+        IMPL --> REVIEW["Annual Review"]
+        REVIEW --> POLICY
+    end
+
+    subgraph "Policy Domains"
+        INTEGRITY["Academic<br/>Integrity"]
+        PRIVACY["Data Privacy<br/>FERPA / COPPA"]
+        EQUITY["Equity &<br/>Access"]
+        RESPONSIBLE["Responsible<br/>AI Framework"]
+        SB68["SB 68<br/>Device Ban"]
+    end
+
+    MSBA --> DIST
+    POLICY --> INTEGRITY
+    POLICY --> PRIVACY
+    POLICY --> EQUITY
+    POLICY --> RESPONSIBLE
+    POLICY --> SB68
+
+    style DESE fill:#4a90d9,color:#fff
+    style FED fill:#6c757d,color:#fff
+    style BOARD fill:#5cb85c,color:#fff
+    style PRIVACY fill:#d9534f,color:#fff
+```
+
 ## Table of Contents
 1. Missouri DESE AI Guidance
 2. Federal AI in Education Landscape

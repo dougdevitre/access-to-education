@@ -3,6 +3,38 @@
 <!-- Canonical source for: Science of Reading, curriculum design, instructional strategies, differentiation, co-teaching, formative assessment, textbook adoption, culturally responsive teaching, PBL, standards-based grading, intervention programs -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+flowchart LR
+    subgraph Foundation["Foundation"]
+        SOR["Science of Reading<br/>& Structured Literacy"]
+        CD["Curriculum Design<br/>& Adoption"]
+    end
+
+    subgraph Delivery["Classroom Delivery"]
+        ES["Evidence-Based<br/>Strategies"]
+        DI["Differentiated<br/>Instruction & UDL"]
+        CT["Co-Teaching<br/>Models"]
+        CRT["Culturally Responsive<br/>Teaching"]
+        PBL["Project-Based<br/>Learning"]
+    end
+
+    subgraph Assessment["Assessment & Grading"]
+        FA["Formative<br/>Assessment"]
+        SBG["Standards-Based<br/>Grading"]
+        TXT["Textbook &<br/>Materials Adoption"]
+    end
+
+    subgraph Support["Intervention"]
+        RI["Reading<br/>Intervention"]
+        MI["Math<br/>Intervention"]
+        ESSA["ESSA Evidence<br/>Tiers"]
+    end
+
+    Foundation --> Delivery --> Assessment
+    Assessment -->|"Data informs"| Support
+    Support -->|"Adjusts"| Delivery
+```
+
 ## 10. Science of Reading / Structured Literacy
 
 ### Missouri's Reading Initiative

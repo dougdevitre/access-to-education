@@ -1,5 +1,26 @@
 # Rural & Regional Education — Missouri K-12 Education Reference
 
+```mermaid
+flowchart TD
+    A[Rural District Challenges] --> B[Declining Enrollment]
+    A --> C[Teacher Shortages]
+    A --> D[Limited Broadband]
+    A --> E[Transportation Costs]
+    A --> F[Limited Services]
+    B --> G{Solutions}
+    C --> G
+    D --> G
+    E --> G
+    F --> G
+    G --> H[Shared Services & Cooperatives]
+    G --> I[Virtual/Distance Learning - MOCAP]
+    G --> J[Area Career Centers]
+    G --> K[4-Day School Week]
+    G --> L[Grow Your Own Teachers]
+    G --> M[RPDC Network - 9 Regions]
+    G --> N[Federal Rural Funding<br>SRSA / RLIS]
+```
+
 ## Table of Contents
 1. Missouri's Rural Education Landscape
 2. School District Consolidation

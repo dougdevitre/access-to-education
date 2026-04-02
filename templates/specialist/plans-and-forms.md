@@ -1,3 +1,21 @@
+# Specialist Plans & Forms
+
+```mermaid
+flowchart TD
+    A[Specialist Plans & Forms] --> B[504 Accommodation Plan]
+    A --> C[Functional Behavior Assessment - FBA]
+    B --> B1[Identify Disability & Life Activity]
+    B1 --> B2[Determine Accommodations]
+    B2 --> B3[Testing & Health Plan]
+    B3 --> B4[Distribute to Team]
+    C --> C1[Define Target Behavior]
+    C1 --> C2[ABC Data Collection]
+    C2 --> C3[Interviews & Records Review]
+    C3 --> C4[Hypothesis: Function of Behavior]
+    C4 --> C5[Identify Replacement Behavior]
+    C5 --> C6[Develop BIP]
+```
+
 # 504 Accommodation Plan Template
 
 **Student:** ___________________________ **DOB:** _____________ **Grade:** _____

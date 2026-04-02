@@ -3,6 +3,21 @@
 <!-- Canonical source for: physical disabilities, orthopedic impairment, OT/PT in schools, adaptive equipment, wheelchair accessibility, fine/gross motor, adaptive PE, AT for motor, cerebral palsy, spina bifida, muscular dystrophy, TBI motor effects -->
 <!-- Last content review: 2026-03 -->
 
+```mermaid
+flowchart TD
+    A["Identification<br/>Medical Referral / Child Find"] --> B["Evaluation<br/>OT, PT, AT, Adaptive PE"]
+    B --> C["IEP Development"]
+    C --> D["Related Services<br/>OT / PT / School Nurse"]
+    C --> E["Assistive Technology<br/>Low-Tech & High-Tech"]
+    C --> F["Accommodations<br/>Positioning, Time, Workload"]
+    C --> G["Adaptive PE"]
+    D --> H["Accessibility &<br/>Physical Environment"]
+    E --> H
+    F --> H
+    H --> I["Health & Safety<br/>IHP, PEEP, Self-Care"]
+    I --> J["Transition Planning<br/>Employment, Independent Living, AT"]
+```
+
 ## Table of Contents
 1. Definitions & IDEA Categories
 2. Common Motor Conditions in Schools

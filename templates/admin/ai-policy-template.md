@@ -5,6 +5,23 @@
 **Adopted:** ___________________________________
 **Last Revised:** ___________________________________
 
+```mermaid
+flowchart TD
+    A[AI Policy Framework] --> B[Purpose & Scope]
+    A --> C[Guiding Principles]
+    A --> D[Approved Tools]
+    D --> E[Staff Use]
+    D --> F[Student Use]
+    E --> G[Permitted & Prohibited Uses]
+    F --> H[Grade-Level Expectations]
+    F --> I[Academic Integrity]
+    A --> J[Data Privacy & Security]
+    J --> K[FERPA / COPPA / RSMo 161.096]
+    A --> L[Equity & Access]
+    A --> M[Professional Development]
+    A --> N[Annual Policy Review]
+```
+
 ---
 
 ## Section 1: Purpose & Scope
