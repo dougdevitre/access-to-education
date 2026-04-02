@@ -51,7 +51,7 @@ graph TD
 
 **Key notes:**
 - Districts may set higher requirements (e.g., 26 or 28 credits)
-- Students with IEPs may have modified graduation requirements per their IEP team
+- Students with [IEPs](../roles/specialists.md) may have modified graduation requirements per their IEP team
 - CPR instruction required prior to graduation (RSMo 170.310)
 - Students must participate in MAP/EOC assessments (scores do not prevent graduation, but participation is required)
 
@@ -138,8 +138,8 @@ ESSA defines chronic absenteeism as missing 10% or more of school days (excused 
 - Written decision with findings of fact
 - Right to appeal to the school board (if initial hearing was before a hearing officer)
 
-### Discipline of Students with Disabilities (IDEA / Section 504)
-- **Manifestation Determination Review (MDR):** required before any removal exceeding 10 cumulative school days in a year for a student with an IEP or 504 plan
+### Discipline of Students with Disabilities (IDEA / [Section 504](../../templates/specialist/plans-and-forms.md))
+- **Manifestation Determination Review (MDR):** required before any removal exceeding 10 cumulative school days in a year for a student with an [IEP](../roles/specialists.md) or [504 plan](../../templates/specialist/plans-and-forms.md)
 - MDR team must determine: (1) Was the conduct caused by or substantially related to the disability? (2) Was the conduct a direct result of the district's failure to implement the IEP/504?
 - If YES to either → the behavior IS a manifestation → student returns to placement; IEP/504 team reviews and revises the plan; FBA/BIP conducted
 - If NO → district may apply standard discipline, but must continue FAPE (Free Appropriate Public Education) during removal
@@ -155,7 +155,7 @@ Increasingly adopted across Missouri districts as alternative/complementary to e
 
 ## 5. Student Records & Privacy (FERPA)
 
-### Family Educational Rights and Privacy Act (20 U.S.C. §1232g)
+### Family Educational Rights and Privacy Act (20 U.S.C. §1232g) ([full legal reference](../compliance/mo-education-law.md))
 - Parents (or eligible students age 18+) have the right to inspect and review education records
 - Schools must respond to requests within 45 days
 - Parents may request amendment of records they believe are inaccurate
