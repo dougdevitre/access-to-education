@@ -26,6 +26,28 @@ flowchart TD
     E --> E1[Monthly & Biannual Drills]
 ```
 
+## Table of Contents
+- [Part 1: Basic Plan](#part-1-basic-plan)
+  - [1.1 Purpose & Scope](#11-purpose-scope)
+  - [1.2 Situation Overview](#12-situation-overview)
+  - [1.3 Planning Assumptions](#13-planning-assumptions)
+  - [1.4 Roles & Responsibilities](#14-roles-responsibilities)
+  - [1.5 Direction & Control](#15-direction-control)
+- [Part 2: Functional Annexes](#part-2-functional-annexes)
+  - [2.1 Evacuation](#21-evacuation)
+  - [2.2 Lockdown](#22-lockdown)
+  - [2.3 Shelter-in-Place](#23-shelter-in-place)
+  - [2.4 Reverse Evacuation](#24-reverse-evacuation)
+  - [2.5 Drop/Cover/Hold (Earthquake)](#25-dropcoverhold-earthquake)
+  - [2.6 Medical Emergency](#26-medical-emergency)
+  - [2.7 Communication](#27-communication)
+  - [2.8 Accounting for All Persons](#28-accounting-for-all-persons)
+  - [2.9 Reunification](#29-reunification)
+  - [2.10 Recovery & Mental Health](#210-recovery-mental-health)
+- [Part 3: Threat/Hazard-Specific Annexes](#part-3-threathazard-specific-annexes)
+- [Part 4: Drill Schedule](#part-4-drill-schedule)
+- [Appendices](#appendices)
+
 ---
 
 ## Part 1: Basic Plan
