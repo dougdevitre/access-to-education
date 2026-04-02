@@ -14,6 +14,13 @@ flowchart LR
     F --> K[Schedule, Plans & Procedures]
 ```
 
+## Table of Contents
+- [Behavior Contract](#behavior-contract)
+- [Attendance Intervention Plan](#attendance-intervention-plan)
+- [Incident Report Form](#incident-report-form)
+- [Meeting Agenda Template](#meeting-agenda-template)
+- [Emergency Substitute Teacher Plan](#emergency-substitute-teacher-plan)
+
 ## Behavior Contract
 
 **Student:** ___________________________ **Grade:** _____ **Date:** _______________

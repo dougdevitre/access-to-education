@@ -368,7 +368,7 @@ Students with complex medical conditions requiring ongoing monitoring, medical p
 
 ### School Responsibilities
 - Individualized Healthcare Plan (IHP) developed by school nurse with family and healthcare provider
-- May also require an IEP (if disability affects learning) or 504 plan (if disability affects major life activities)
+- May also require an [IEP](../roles/specialists.md) (if disability affects learning) or [504 plan](../../templates/specialist/plans-and-forms.md) (if disability affects major life activities)
 - Trained staff for medical procedures (delegation by RN per Missouri Nurse Practice Act)
 - Emergency protocols clearly documented and communicated
 - Appropriate medical equipment and supplies in the school
@@ -376,3 +376,13 @@ Students with complex medical conditions requiring ongoing monitoring, medical p
 - Transportation accommodations (specialized vehicles, nurse or aide on bus)
 - Homebound instruction if student cannot attend school (temporary or extended)
 - FAPE requirements apply — cannot deny enrollment or exclude student based on medical complexity
+
+---
+
+## Related Resources
+
+- [English Learners](../programs/english-learners.md) -- ELL identification, WIDA standards, and program models for immigrant/refugee students
+- [Specialists (IEP & 504)](../roles/specialists.md) -- IEP process and 504 plans for students with disabilities
+- [Equity & Access](../compliance/equity-access.md) -- McKinney-Vento, foster care provisions, and civil rights protections
+- [Crisis & Emergency](../operations/crisis-emergency.md) -- crisis response for trauma-affected student populations
+- [Discipline & Behavior](../operations/discipline-behavior.md) -- trauma-informed discipline and restorative practices
