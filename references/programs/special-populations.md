@@ -127,8 +127,8 @@ Title IX prohibits discrimination against pregnant and parenting students:
 - Connection to WIC, Medicaid, TANF, child care subsidy
 - School counseling (academic and personal)
 - Teen parent support groups
-- A+ eligibility: pregnancy and parenting should not be penalized in attendance or citizenship requirements (reasonable accommodations)
-- Graduation planning and credit recovery if needed
+- [A+ eligibility](../roles/students.md): pregnancy and parenting should not be penalized in attendance or citizenship requirements (reasonable accommodations)
+- [Graduation](../../templates/counselor/graduation-audit.md) planning and credit recovery if needed
 
 ### Prevention
 - Comprehensive health education (within RSMo 170.015 guidelines)
@@ -235,7 +235,7 @@ Approximately 1 in 14 U.S. children has experienced parental incarceration. In M
 - Academic support and attendance monitoring
 - Avoid punitive responses to behavioral manifestations of grief/trauma
 - Coordinate with caregivers (grandparents, foster parents, kinship care)
-- FERPA considerations: non-custodial incarcerated parents generally retain educational rights unless a court order says otherwise
+- [FERPA](../compliance/mo-education-law.md) considerations: non-custodial incarcerated parents generally retain educational rights unless a court order says otherwise
 
 ---
 

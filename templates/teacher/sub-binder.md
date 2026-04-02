@@ -287,10 +287,10 @@ If the lesson plans are missing or don't work, use one of these backup activitie
 | | | | |
 | | | | |
 
-### Students who were helpful:
+### Students who were helpful
 _______________________________________________________________________________
 
-### Behavior concerns (name + what happened):
+### Behavior concerns (name + what happened)
 _______________________________________________________________________________
 _______________________________________________________________________________
 
