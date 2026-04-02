@@ -23,6 +23,19 @@ flowchart TD
     D --> D3[Board Action Request]
 ```
 
+## Table of Contents
+- [1. District Profile](#1-district-profile)
+- [2. Mission, Vision, Values](#2-mission-vision-values)
+- [3. Needs Assessment Summary (Data-Driven)](#3-needs-assessment-summary-data-driven)
+- [4. District Goals (3-5 year)](#4-district-goals-3-5-year)
+- [5. How Building CSIPs Align](#5-how-building-csips-align)
+- [6. Professional Development Plan (District-Wide)](#6-professional-development-plan-district-wide)
+- [7. Resource Allocation](#7-resource-allocation)
+- [8. Monitoring & Reporting Schedule](#8-monitoring-reporting-schedule)
+- [9. Stakeholder Engagement Evidence](#9-stakeholder-engagement-evidence)
+- [Equity Audit Template](#equity-audit-template)
+- [Board Presentation Outline](#board-presentation-outline)
+
 ---
 
 ## 1. District Profile

@@ -61,8 +61,8 @@ MAP is Missouri's statewide academic assessment system, measuring student profic
 
 ### Participation Requirements
 - All students enrolled in tested grades must participate
-- Students with IEPs may receive accommodations (per IEP) or take the MAP-A (alternate assessment) if they meet specific eligibility criteria
-- ELL students must participate; accommodations available per DESE guidance
+- Students with [IEPs](../roles/specialists.md) may receive accommodations (per IEP) or take the MAP-A (alternate assessment) if they meet specific eligibility criteria
+- [ELL](../programs/english-learners.md) students must participate; accommodations available per DESE guidance
 - Opt-out: Missouri law does not explicitly provide a parental opt-out for MAP, but DESE guidance and local policy may address refusals. Non-participation affects school accountability data.
 
 ---
@@ -82,7 +82,7 @@ Same 4-level scale as MAP: Below Basic, Basic, Proficient, Advanced
 
 ### Score Use
 - EOC scores are incorporated into the student's course grade per local board policy
-- EOC results count toward school/district accountability under MSIP 6
+- EOC results count toward school/district accountability under [MSIP 6](../roles/administrators.md)
 - Student participation is required; a passing EOC score is NOT a graduation requirement, but participation is
 
 ### Retake Policy
@@ -196,9 +196,9 @@ NAEP data is useful for comparing Missouri student performance to national bench
 ## 8. Assessment Accommodations
 
 ### Who Receives Accommodations?
-- Students with **IEPs** — accommodations specified in the IEP
-- Students with **504 plans** — accommodations specified in the 504 plan
-- **ELL students** — linguistic accommodations per DESE ELL testing guidance
+- Students with **[IEPs](../roles/specialists.md)** — accommodations specified in the IEP
+- Students with **[504 plans](../../templates/specialist/plans-and-forms.md)** — accommodations specified in the 504 plan
+- **[ELL students](../programs/english-learners.md)** — linguistic accommodations per DESE ELL testing guidance
 
 ### Common Accommodations
 | Category | Examples |
@@ -274,3 +274,13 @@ ESSA and MSIP 6 require data disaggregation by:
 - Attributing causation to correlation
 - Comparing year-over-year data without accounting for cohort differences
 - Using single assessment data points to make high-stakes decisions
+
+---
+
+## Related Resources
+
+- [Graduation Audit Template](../../templates/counselor/graduation-audit.md) -- EOC participation tracking as part of graduation requirements
+- [Students & Parents Reference](../roles/students.md) -- graduation requirements, A+ Scholarship, and EOC exam details
+- [MSIP 6 & Accreditation](../roles/administrators.md) -- how assessment data drives accreditation and accountability
+- [Specialists (IEP & 504)](../roles/specialists.md) -- assessment accommodations and MAP-A eligibility criteria
+- [English Learners](../programs/english-learners.md) -- WIDA ACCESS assessment and ELL accommodations
