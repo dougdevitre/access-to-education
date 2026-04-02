@@ -1,5 +1,23 @@
 # Teacher Templates — Observation & Evaluation Prep
 
+```mermaid
+flowchart TD
+    A[Observation & Evaluation Cycle] --> B[Pre-Observation Planning]
+    B --> B1[Context & Standards]
+    B --> B2[MEES Alignment - 8 Standards]
+    B --> B3[Differentiation Plan]
+    B --> B4[Lesson Flow]
+    A --> C[Observation Day]
+    C --> D[Post-Observation Self-Reflection]
+    D --> D1[What Went Well / What to Change]
+    D --> D2[Student Learning Evidence]
+    D --> D3[MEES Self-Rating]
+    A --> E[Summative Evaluation Prep]
+    E --> E1[Evidence Portfolio by Standard]
+    E --> E2[Growth Data & PD Hours]
+    E --> E3[Goals for Next Year]
+```
+
 ## Pre-Observation Planning Guide
 
 Use this to prepare for a formal observation. Aligned to the 8 Missouri Teaching Standards (MEES).
