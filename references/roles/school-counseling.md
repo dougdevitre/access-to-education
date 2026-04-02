@@ -126,7 +126,7 @@ Common group topics:
 - Substance use awareness
 
 ### Crisis Response
-See `references/health-wellness.md` for detailed crisis protocols. School counselor's role:
+See [Crisis & Emergency](../operations/crisis-emergency.md) for detailed crisis protocols. School counselor's role:
 - Member of the Building Crisis Team
 - Conduct suicide risk screenings (C-SSRS, ASQ)
 - Provide immediate emotional support
@@ -219,7 +219,7 @@ Many Missouri districts exceed this ratio significantly:
 
 ### FAFSA Completion
 - Missouri has emphasized FAFSA completion rates as a school quality indicator
-- A+ Scholarship requires FAFSA completion (or waiver)
+- [A+ Scholarship](../roles/students.md) requires FAFSA completion (or waiver)
 - School counselors host FAFSA completion events and provide individual assistance
 - FAFSA opens October 1 annually; Missouri priority deadline typically February 1
 - FAFSA Simplification (2024-25 forward) reduces questions and uses IRS data transfer

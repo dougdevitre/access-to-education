@@ -218,7 +218,7 @@ _______________
 
 **Teacher:** ___________________________ **Room:** _____ **Date:** _______________
 
-## Class Schedule
+### Class Schedule
 | Period | Time | Subject/Course | Room |
 |--------|------|---------------|------|
 | 1 | | | |
@@ -228,27 +228,27 @@ _______________
 | 5 | | | |
 | 6 | | | |
 
-## Seating Charts: ☐ On desk ☐ In sub folder ☐ Projected ☐ Posted
+### Seating Charts ☐ On desk ☐ In sub folder ☐ Projected ☐ Posted
 
-## Students to Watch For
+### Students to Watch For
 | Student | Notes (medical, behavioral, IEP accommodation — brief) |
 |---------|-------|
 | | |
 
-## Lesson Plans by Period
+### Lesson Plans by Period
 *(Keep each plan simple and self-contained — assume the sub has no context)*
 
 **Period ___:** _______________________________________________________________________________
 **Period ___:** _______________________________________________________________________________
 **Period ___:** _______________________________________________________________________________
 
-## Emergency Procedures
+### Emergency Procedures
 - **Fire:** exit via ___; assemble at ___
 - **Tornado:** go to ___
 - **Lockdown:** lock door, lights off, students away from door/windows
 - **Medical:** call office (ext ___), send student with buddy
 
-## Key People
+### Key People
 | Person | Role | Location/Extension |
 |--------|------|--------------------|
 | Neighbor teacher | Help if needed | Room ___ / ext ___ |
@@ -256,5 +256,5 @@ _______________
 | Nurse | Medical | ext ___ |
 | Office | Attendance, supplies | ext ___ |
 
-## End of Day
+### End of Day
 ☐ Lock room ☐ Return keys to ___ ☐ Leave notes for teacher about: _______________
