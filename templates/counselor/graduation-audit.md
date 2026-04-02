@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-## A+ Program Eligibility Check
+## [A+ Program](../../references/roles/students.md) Eligibility Check
 
 | Criterion | Status | Details |
 |-----------|--------|---------|
@@ -102,3 +102,13 @@ flowchart TD
 **Student signature:** ___________________________________ **Date:** _______________
 **Parent/Guardian signature:** ___________________________________ **Date:** _______________
 **Counselor signature:** ___________________________________ **Date:** _______________
+
+---
+
+## Related Resources
+
+- [Students & Parents Reference](../../references/roles/students.md) -- graduation requirements, A+ Scholarship details, and college readiness
+- [School Counseling Reference](../../references/roles/school-counseling.md) -- counselor role in academic planning and college advising
+- [Assessments](../../references/operations/assessments.md) -- EOC exam details, MAP, ACT, and assessment accommodations
+- [Specialists (IEP & 504)](../../references/roles/specialists.md) -- modified graduation requirements for students with IEPs
+- [Counselor Checklists](../../templates/counselor/checklists.md) -- additional counselor planning and tracking tools

@@ -16,6 +16,13 @@ flowchart LR
     F --> K[Mediation / Due Process / IEE]
 ```
 
+## Table of Contents
+- [1. Request for Special Education Evaluation](#1-request-for-special-education-evaluation)
+- [2. Request for Education Records (FERPA)](#2-request-for-education-records-ferpa)
+- [3. Request for IEP Meeting](#3-request-for-iep-meeting)
+- [4. Section 504 Evaluation Request](#4-section-504-evaluation-request)
+- [5. Dispute / Disagreement Letter](#5-dispute-disagreement-letter)
+
 ---
 
 ## 1. Request for Special Education Evaluation

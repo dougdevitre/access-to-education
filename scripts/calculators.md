@@ -19,6 +19,14 @@ graph TD
     DE --> O
 ```
 
+## Table of Contents
+- [Calculator 1: PSRS Retirement Eligibility](#calculator-1-psrs-retirement-eligibility)
+- [Calculator 2: A+ Eligibility Check](#calculator-2-a-eligibility-check)
+- [Calculator 3: Graduation Credit Tracker](#calculator-3-graduation-credit-tracker)
+- [Calculator 4: Special Education Timeline Tracker](#calculator-4-special-education-timeline-tracker)
+- [Calculator 5: Funding Estimator (Simplified)](#calculator-5-funding-estimator-simplified)
+- [Decision Engine: Which Complaint Mechanism?](#decision-engine-which-complaint-mechanism)
+
 ---
 
 ## Calculator 1: PSRS Retirement Eligibility

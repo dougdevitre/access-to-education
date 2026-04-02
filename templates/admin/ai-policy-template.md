@@ -22,6 +22,25 @@ flowchart TD
     A --> N[Annual Policy Review]
 ```
 
+## Table of Contents
+- [Section 1: Purpose & Scope](#section-1-purpose-scope)
+- [Section 2: Guiding Principles](#section-2-guiding-principles)
+- [Section 3: Approved AI Tools](#section-3-approved-ai-tools)
+- [Section 4: Staff Use of AI](#section-4-staff-use-of-ai)
+  - [Permitted Uses](#permitted-uses)
+  - [Prohibited Uses](#prohibited-uses)
+  - [Required Practices](#required-practices)
+- [Section 5: Student Use of AI](#section-5-student-use-of-ai)
+  - [Grade-Level Expectations](#grade-level-expectations)
+  - [Academic Integrity](#academic-integrity)
+  - [Student AI Literacy](#student-ai-literacy)
+- [Section 6: Data Privacy & Security](#section-6-data-privacy-security)
+- [Section 7: Equity & Access](#section-7-equity-access)
+- [Section 8: Professional Development](#section-8-professional-development)
+- [Section 9: Transparency & Communication](#section-9-transparency-communication)
+- [Section 10: Policy Review](#section-10-policy-review)
+- [Section 11: Definitions](#section-11-definitions)
+
 ---
 
 ## Section 1: Purpose & Scope
