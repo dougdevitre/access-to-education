@@ -178,19 +178,19 @@ _______________________________________________________________________________
 
 ---
 
-# Meeting Agenda Template
+## Meeting Agenda Template
 
 **Meeting:** ___________________________
 **Date:** _______________ **Time:** _______________ **Location:** _______________
 **Facilitator:** ___________________________ **Notetaker:** ___________________________
 
-## Attendees
+### Attendees
 | Name | Role |
 |------|------|
 | | |
 | | |
 
-## Agenda
+### Agenda
 
 | # | Topic | Time | Lead | Action Needed |
 |---|-------|------|------|--------------|
@@ -200,20 +200,21 @@ _______________________________________________________________________________
 | 4 | | min | | ☐ Info ☐ Discussion ☐ Decision |
 | 5 | Action items / next steps | min | | |
 
-## Decisions Made
+### Decisions Made
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 
-## Action Items
+### Action Items
 | Action | Owner | Due Date |
 |--------|-------|----------|
 | | | |
 
-## Next Meeting: _______________
+### Next Meeting
+_______________
 
 ---
 
-# Emergency Substitute Teacher Plan
+## Emergency Substitute Teacher Plan
 
 **Teacher:** ___________________________ **Room:** _____ **Date:** _______________
 
