@@ -5,6 +5,23 @@
 **Teacher:** ___________________________ **Room:** _____
 **School:** ___________________________ **Last Updated:** _______________
 
+```mermaid
+flowchart TD
+    A[Sub Binder Sections] --> B[1. Welcome Letter]
+    A --> C[2. Student Alerts - Confidential]
+    A --> D[3. Seating Charts]
+    A --> E[4. Daily Schedule]
+    A --> F[5. Lesson Plans]
+    A --> G[6. Emergency Procedures]
+    A --> H[7. Key People & Contacts]
+    A --> I[8. Sub Feedback Form]
+    C --> C1[Medical / Behavioral / IEP-504 / ELL]
+    F --> F1[Period-by-Period Plans]
+    F --> F2[Emergency Backup Activities]
+    F --> F3[Extended Absence Weekly Grid]
+    G --> G1[Fire / Tornado / Lockdown / Medical]
+```
+
 ---
 
 ## Section 1: Welcome Letter to the Substitute
