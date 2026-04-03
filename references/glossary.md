@@ -72,6 +72,7 @@ graph TD
 |------|---------|-----------|
 | **DESE** | *Departamento de Educación Primaria y Secundaria de Missouri* | Missouri Department of Elementary and Secondary Education |
 | **DSIP** | *Plan de Mejora Escolar del Distrito* | District School Improvement Plan |
+| **Dyslexia** | *Dislexia* | Specific learning disability affecting reading fluency and comprehension |
 | **ECS** | *Sistema de Certificación de Educadores* | Educator Certification System — DESE's online certification portal |
 | **ECSE** | *Educación Especial para la Primera Infancia* | Early Childhood Special Education (ages 3-5, IDEA Part B/619) |
 | **ELL** | *Estudiante de Inglés como Segundo Idioma* | English Language Learner |
@@ -88,11 +89,13 @@ graph TD
 | **FAPE** | *Educación Pública Gratuita y Apropiada* | Free Appropriate Public Education — the right of every student with a disability under IDEA |
 | **FBA** | *Evaluación Funcional de Comportamiento* | Functional Behavior Assessment — systematic process to determine WHY a behavior occurs |
 | **FERPA** | *Ley de Derechos Educativos y Privacidad Familiar* | Family Educational Rights and Privacy Act — federal law protecting student education records |
+| **First-Generation College Student** | *Estudiante Universitario de Primera Generación* | Student whose parents did not complete a 4-year degree |
 | **FPL** | *Nivel Federal de Pobreza* | Federal Poverty Level — income threshold used for program eligibility (free lunch ≤130%, reduced ≤185%) |
 | **FRPM** | *Comidas Gratuitas o a Precio Reducido* | Free and Reduced Price Meals |
 | **FTE** | *Equivalente de Tiempo Completo* | Full-Time Equivalent — staffing measurement (1.0 FTE = one full-time position) |
 | **GAL** | *Tutor Ad Litem* | Guardian Ad Litem (family court context) |
 | **GED** | *Desarrollo Educativo General* | General Educational Development (Missouri uses HiSET, not GED) |
+| **GPA (Weighted vs. Unweighted)** | *Promedio de Calificaciones* | Grade Point Average — weighted includes bonus points for AP/honors; unweighted does not |
 | **GPO** | *Compensación de Pensión Gubernamental* | Government Pension Offset — may reduce Social Security spousal benefits for PSRS members |
 
 ## H-I
@@ -114,6 +117,7 @@ graph TD
 | Term | Spanish | Definition |
 |------|---------|-----------|
 | **LEA** | *Agencia de Educación Local (distrito escolar)* | Local Education Agency — school district |
+| **LLM** | *Modelo de Lenguaje Grande* | Large Language Model — AI system trained on text data (e.g., ChatGPT, Claude) |
 | **LRE** | *Ambiente Menos Restrictivo* | Least Restrictive Environment — IDEA principle that students with disabilities should be educated with non-disabled peers to the maximum extent appropriate |
 | **MAP** | *Programa de Evaluación de Missouri* | Missouri Assessment Program — state academic assessments (grades 3-8) |
 | **MAP-A** | *Evaluación Alternativa MAP* | MAP Alternate Assessment — for students with the most significant cognitive disabilities |
@@ -146,6 +150,7 @@ graph TD
 | **PII** | *Información de Identificación Personal* | Personally Identifiable Information |
 | **PLAAFP** | *Niveles Actuales de Rendimiento Académico y Desempeño Funcional* | Present Levels of Academic Achievement and Functional Performance (IEP section) |
 | **PLC** | *Comunidad de Aprendizaje Profesional* | Professional Learning Community |
+| **Prompt Engineering** | *Ingeniería de Indicaciones* | Crafting effective instructions for AI tools |
 | **PSLF** | *Condonación de Préstamos por Servicio Público* | Public Service Loan Forgiveness |
 | **PSRS** | *Sistema de Jubilación de Escuelas Públicas de Missouri* | Public School Retirement System of Missouri (certificated staff) |
 | **PT** | *Terapia Física / Terapeuta Físico* | Physical Therapy / Physical Therapist |
@@ -154,6 +159,7 @@ graph TD
 ## R-S
 | Term | Spanish | Definition |
 |------|---------|-----------|
+| **Restorative Justice** | *Justicia Restaurativa* | Discipline approach focused on repairing harm rather than punishment |
 | **RPDC** | *Centro Regional de Desarrollo Profesional* | Regional Professional Development Center |
 | **RTI** | *Respuesta a la Intervención* | Response to Intervention — predecessor framework to MTSS |
 | **SAT** | *Meta de Suficiencia Estatal / Examen de Evaluación Escolar* | State Adequacy Target (funding formula context) OR Scholastic Assessment Test (college readiness context) |

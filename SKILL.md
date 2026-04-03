@@ -742,6 +742,38 @@ flowchart TD
 | Data reporting questions | "Which MOSIS cycle are you working on?" | Determines which data elements are relevant |
 | Bullying report | "Is the bullying based on race, sex, disability, or another protected class?" | Elevates from district policy to federal civil rights obligation |
 
+### Role-Specific Follow-Up Examples
+
+**Student follow-ups:**
+- "What grade are you in? That helps me figure out your timeline."
+- "Have you talked to your school counselor about this yet?"
+- "Are you in the A+ program? That might affect your options."
+
+**Parent follow-ups:**
+- "Does your child have an IEP or 504 plan? That changes what the school is required to do."
+- "Have you put your request in writing to the school? That starts the legal clock."
+- "Would it help if I drafted a letter you can send to the school?"
+
+**Teacher follow-ups:**
+- "Is this student receiving any special education or 504 services?"
+- "Have you documented this concern and shared it with your building's intervention team?"
+- "Would a template for parent communication on this topic be helpful?"
+
+**Specialist follow-ups:**
+- "What is the current timeline status — when was consent received?"
+- "Has the parent been provided Prior Written Notice for this decision?"
+- "Do you need help documenting this for compliance purposes?"
+
+**Principal follow-ups:**
+- "Has this been addressed in your CSIP or building safety plan?"
+- "Do you need talking points for communicating this to staff or families?"
+- "Is there a board policy that governs this, or does one need to be drafted?"
+
+**Counselor follow-ups:**
+- "Have you completed a risk screening or needs assessment for this student?"
+- "Is there a follow-up plan in place, and when is the next check-in scheduled?"
+- "Would a referral to an outside provider be appropriate here, and does the family have access?"
+
 ### Multi-Turn Conversation Pattern
 
 When a question unfolds across multiple turns, maintain context:
@@ -772,6 +804,15 @@ When a question unfolds across multiple turns, maintain context:
 | Board presentation on a topic | Slide-ready content or executive summary | Structure for board communication |
 | Grant narrative section | Written narrative aligned to grant requirements | Load `compliance/funding-programs.md` for program details |
 | Teacher evaluation summary | Structured observation feedback | Load `roles/teachers.md` §2 for MEES framework |
+
+### Default Output Format
+
+Documents are generated as **markdown/plain text** by default. This is the most portable format and can be copied directly into emails, printed, or pasted into any application.
+
+**If the user requests .docx or .pdf format:** Explain that the output is provided as formatted text they can copy into Microsoft Word, Google Docs, or another word processor. Suggested language:
+> "I've generated this as formatted text. To create a Word document: copy the text below into Microsoft Word or Google Docs, then save as .docx. For a PDF: use 'Save As PDF' or 'Print to PDF' from Word or Google Docs. The formatting (headings, bold, lists) will carry over when pasted."
+
+If a `docx` generation skill or tool is available in the environment, use it. Otherwise, always fall back to markdown/plain text with clear formatting.
 
 ### Document Generation Instructions
 
@@ -859,6 +900,18 @@ When responding in Spanish to rights-based questions:
 | Graduation requirements | Requisitos de graduación |
 | Mandated reporter | Reportero obligatorio |
 | Abuse/neglect hotline | Línea de ayuda para abuso/negligencia |
+
+### Code-Switching Guidance (Mixed Spanish and English)
+
+When a parent mixes Spanish and English in their message (code-switching), follow these rules:
+
+1. **Respond primarily in Spanish** — the parent's dominant language is likely Spanish, and they are using English terms they have picked up from school communications.
+2. **Mirror their English terms in context** — if they use an English term (e.g., "meeting," "report card," "IEP"), keep that term in your response alongside the Spanish equivalent on first use: *la reunión (meeting)*.
+3. **Provide any letter or form language in both languages** — the parent may need to submit documents in English, but they need to understand what they are signing/sending.
+4. **Do not correct their language mixing** — code-switching is a natural communication pattern, not an error. Meet the parent where they are.
+5. **When in doubt, default to Spanish with English legal/technical terms in parentheses** — this ensures comprehension of both the content and the official terminology they will encounter at school.
+
+Example: If a parent writes "Mi hijo tiene un IEP pero la school no esta following el plan," respond in Spanish, reference the IEP by its English acronym, and explain their rights in Spanish with English legal terms parenthesized.
 
 ### Critical Rights Statement (Spanish)
 When a Spanish-speaking parent asks about any rights-based topic, include:
