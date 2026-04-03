@@ -23,7 +23,7 @@
 - [Templates: Teacher](#templates--teacher)
 - [Templates: Counselor](#templates--counselor)
 - [Templates: Staff](#templates--staff)
-- [Templates: General](#templates--general)
+- [Templates: General](#templates--general-1)
 - [Scripts](#scripts)
 - [Examples](#examples)
 - [Evals](#evals)
@@ -384,6 +384,8 @@ Standalone reference files at the top level of `references/`.
 |------|-------------|
 | [scripts/calculators.md](scripts/calculators.md) | 5 calculators: PSRS retirement, A+ eligibility, graduation credits, SPED timelines, funding estimates |
 | [scripts/run-evals.sh](scripts/run-evals.sh) | Shell script to run eval test cases against the Claude API |
+| [scripts/check-links.sh](scripts/check-links.sh) | Link checker script to validate internal and external URLs across all Markdown files |
+| [scripts/validate-mermaid.sh](scripts/validate-mermaid.sh) | Mermaid diagram validation script to check syntax in all .md files |
 
 ---
 
@@ -403,4 +405,13 @@ Standalone reference files at the top level of `references/`.
 
 ---
 
-*This index covers all 71+ files in the repository. For machine-readable routing, see [MANIFEST.json](MANIFEST.json). For topic ownership, see [CANONICAL_OWNERS.md](CANONICAL_OWNERS.md).*
+## CI / Config
+
+| File | Description |
+|------|-------------|
+| [.github/workflows/validate.yml](.github/workflows/validate.yml) | CI workflow for automated validation (link checking, Mermaid syntax, markdown linting) |
+| [.markdownlint.jsonc](.markdownlint.jsonc) | Markdown lint configuration for consistent formatting across all .md files |
+
+---
+
+*This index covers all 85+ files in the repository. For machine-readable routing, see [MANIFEST.json](MANIFEST.json). For topic ownership, see [CANONICAL_OWNERS.md](CANONICAL_OWNERS.md).*
