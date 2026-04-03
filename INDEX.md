@@ -332,6 +332,7 @@ Standalone reference files at the top level of `references/`.
 | [templates/specialist/iep-compliance-checklist.md](templates/specialist/iep-compliance-checklist.md) | IEP compliance audit checklist with all required components |
 | [templates/specialist/iep-meeting-prep.md](templates/specialist/iep-meeting-prep.md) | IEP meeting preparation guide and progress monitoring templates |
 | [templates/specialist/plans-and-forms.md](templates/specialist/plans-and-forms.md) | 504 accommodation plans, FBA templates, and specialist forms |
+| [templates/specialist/504-decision-tree.md](templates/specialist/504-decision-tree.md) | 504 process walkthrough with IEP vs 504 decision tree and accommodation planning |
 
 ---
 
@@ -363,6 +364,17 @@ Standalone reference files at the top level of `references/`.
 | File | Description |
 |------|-------------|
 | [templates/staff/checklists.md](templates/staff/checklists.md) | Mandated reporter reference, new employee orientation, and staff checklists |
+| [templates/staff/paraprofessional-guide.md](templates/staff/paraprofessional-guide.md) | Paraprofessional guide covering roles, responsibilities, IEP support, and professional boundaries |
+| [templates/staff/transportation-safety.md](templates/staff/transportation-safety.md) | Bus and transportation safety procedures, driver checklists, route protocols |
+| [templates/staff/food-service-safety.md](templates/staff/food-service-safety.md) | Food service allergy management, safety protocols, and cafeteria operations |
+
+---
+
+## Templates -- General
+
+| File | Description |
+|------|-------------|
+| [templates/printable-checklists.md](templates/printable-checklists.md) | 10 printable checklists for common tasks across all roles |
 
 ---
 
