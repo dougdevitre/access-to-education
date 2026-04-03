@@ -165,8 +165,9 @@ graph TD
 | **SAT** | *Meta de Suficiencia Estatal / Examen de Evaluación Escolar* | State Adequacy Target (funding formula context) OR Scholastic Assessment Test (college readiness context) |
 | **SBG** | *Calificación Basada en Estándares* | Standards-Based Grading |
 | **SBHC** | *Centro de Salud Escolar* | School-Based Health Center |
-| **SEL** | *Aprendizaje Socioemocional* | Social-Emotional Learning |
+| **SEL** | *Aprendizaje Socioemocional* | Social-Emotional Learning — skills for managing emotions, relationships, and decision-making |
 | **SIFE** | *Estudiantes con Educación Formal Interrumpida* | Students with Interrupted Formal Education |
+| **SIOP** | *Protocolo de Observación de Instrucción Protegida* | Sheltered Instruction Observation Protocol — framework for teaching content to ELLs |
 | **SIS** | *Sistema de Información Estudiantil* | Student Information System (e.g., PowerSchool, Tyler SIS) |
 | **SLD** | *Discapacidad Específica de Aprendizaje* | Specific Learning Disability (dyslexia, dyscalculia, dysgraphia) |
 | **SLP** | *Patólogo del Habla y Lenguaje* | Speech-Language Pathologist |
