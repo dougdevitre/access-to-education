@@ -649,6 +649,127 @@
     "expected_behavior": "Strategic, data-driven approach. Analyze: staffing ratios, program costs, facility expenses, transportation. Options by impact: attrition vs. RIF, program consolidation, shared services with neighboring districts, renegotiate contracts, energy efficiency, transportation route optimization. Must maintain MSIP 6 standards. Board communication strategy. Community input process. Avoid cutting IDEA-mandated services. Reference funding sources for gap analysis.",
     "expected_files": ["administrators.md", "funding-programs.md"],
     "quick_answer": false
+  },
+  {
+    "id": "CO01",
+    "prompt": "How do I plan a FAFSA night for parents?",
+    "role": "counselor",
+    "expected_behavior": "Load family-community.md and career-pathways.md. Walk through event planning: set date (before FAFSA deadline), secure computer lab, invite financial aid presenters, create bilingual flyers, arrange childcare, prepare FSA ID pre-registration instructions, have tax document checklist ready. Target junior and senior families. Coordinate with community partners. Follow up with families who couldn't attend. Practical, organized tone.",
+    "expected_files": ["family-community.md", "career-pathways.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "CO02",
+    "prompt": "A student wants to drop AP Calculus mid-semester. What's the process?",
+    "role": "counselor",
+    "expected_behavior": "Advising scenario. Explore reasons before processing the drop — is it academic struggle, workload, or teacher conflict? Review district course change policy and deadline. Check transcript impact (W vs. WF). Consider alternatives: tutoring, schedule adjustment, audit option. If student is a senior, check graduation credit requirements. If AP exam already paid, discuss College Board refund policy. Discuss impact on college applications if already submitted. Supportive, student-centered tone.",
+    "expected_files": ["school-counseling.md", "students.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "SUB01",
+    "prompt": "I'm a long-term sub and the regular teacher left no curriculum. What do I do?",
+    "role": "teacher",
+    "expected_behavior": "Load substitute-teachers.md. Steps: (1) contact department chair or instructional coach immediately, (2) access district curriculum maps and pacing guides, (3) check the LMS (Canvas, Google Classroom) for previous assignments and plans, (4) review Missouri Learning Standards for the course/grade level, (5) connect with grade-level or content-area team teachers for shared resources, (6) contact building admin for support. Long-term subs should receive mentoring. Emphasize: you are not expected to create curriculum from scratch. Collegial, reassuring tone.",
+    "expected_files": ["substitute-teachers.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "ST02",
+    "prompt": "I'm food service and a student says they have a peanut allergy but it's not in the system.",
+    "role": "school_staff",
+    "expected_behavior": "Load health-wellness.md. Immediate safety first: do NOT serve the student any food that may contain peanuts or peanut products. Notify the school nurse immediately. Contact the student's parent/guardian to verify allergy and severity. Document the report. Nurse should update the health record and create/update an allergy action plan. If student has an IEP/504, ensure allergy accommodations are included. Check if epinephrine auto-injector is needed and available. Staff training on anaphylaxis recognition. Do not dismiss the student's claim — treat it as credible until verified.",
+    "expected_files": ["health-wellness.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "ST03",
+    "prompt": "I'm a bus driver. A student is being bullied on my bus every day.",
+    "role": "school_staff",
+    "expected_behavior": "Load discipline-behavior.md. Steps: (1) document each incident with dates, times, students involved, and what happened, (2) report to building administration and transportation supervisor, (3) separate the students with assigned seating, (4) administration must investigate under district anti-bullying policy (RSMo 160.775). Bus driver is a mandated reporter if physical harm is involved. Review bus camera footage if available. Bus is an extension of the school — same discipline policies apply. Supportive tone, validate the driver's concern.",
+    "expected_files": ["discipline-behavior.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "DT01",
+    "prompt": "What's the difference between an IEP and a 504 plan?",
+    "role": "parent",
+    "expected_behavior": "Walk the comparison decision tree. IEP: under IDEA, requires identified disability category + need for specialized instruction, includes measurable goals, progress monitoring, related services, procedural safeguards, due process rights, funded by federal/state special education dollars. 504: under Section 504 of Rehabilitation Act, broader disability definition (major life activity substantially limited), provides accommodations but not specialized instruction, no formal goals required, fewer procedural protections. Key question: does the child need specialized instruction or just accommodations? Plain language, parent-friendly comparison. Offer to help determine which applies to their child.",
+    "expected_files": ["specialists.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "DT02",
+    "prompt": "Should I file a state complaint or request due process?",
+    "role": "parent",
+    "expected_behavior": "Walk the complaint mechanism routing decision tree. State complaint: filed with DESE, alleges systemic or procedural violation, 60-day resolution, investigator reviews documents, can address issues up to 1 year old, no hearing required, free. Due process: filed for individual child disputes, formal hearing before impartial hearing officer, both sides present evidence, more adversarial, attorney recommended, can address issues up to 2 years old, results in binding decision. Key question: is this a systemic compliance issue or an individual dispute about your child's program? Apply guardrail: recommend contacting MPACT (Missouri Parents Act) or an education attorney for strategic advice. Empowering but careful tone.",
+    "expected_files": ["specialists.md", "mo-education-law.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "CR02",
+    "prompt": "A student brought a knife to school today.",
+    "role": "principal",
+    "expected_behavior": "IMMEDIATE ACTIONS FIRST. (1) Secure the weapon — do not let student retain it. (2) Isolate the student safely. (3) Notify law enforcement (RSMo 160.261 — mandatory reporting of weapons on school property). (4) Contact parents. (5) Document everything. Then: mandatory 1-year expulsion for weapons under Gun-Free Schools Act (applies to knives depending on type/length — check district policy definition). If student has IEP/504, MDR within 10 school days but can move to IAES for up to 45 school days for weapons. Board hearing required for expulsion. Load crisis-emergency.md for crisis protocol and discipline-behavior.md for disciplinary procedures and mo-education-law.md for statutory requirements.",
+    "expected_files": ["crisis-emergency.md", "discipline-behavior.md", "mo-education-law.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "CR03",
+    "prompt": "A parent has accused a teacher of inappropriate behavior toward their child.",
+    "role": "principal",
+    "expected_behavior": "High-stakes investigation protocol. (1) Take the allegation seriously — do not dismiss. (2) If allegation involves sexual misconduct or abuse, report to Children's Division (1-800-392-3738) and law enforcement IMMEDIATELY — mandated reporter duty. (3) Notify superintendent and district HR. (4) Remove the teacher from contact with the student pending investigation. (5) Do NOT conduct your own investigation if law enforcement is involved — you may compromise their case. (6) Document the parent's report verbatim. (7) Preserve all evidence (communications, camera footage). (8) Follow district board policy on employee investigations. (9) DESE notification required if certificate holder is involved in sexual misconduct (RSMo 162.069). Apply guardrail: consult district legal counsel immediately. Do not make conclusions before investigation is complete.",
+    "expected_files": ["building-leaders.md", "mo-education-law.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "AI03",
+    "prompt": "Should we ban AI on standardized tests?",
+    "role": "admin",
+    "expected_behavior": "Assessment integrity framing. MAP/EOC testing: AI tools are NOT permitted — DESE test administration manuals are clear on permitted tools and accommodations only. ACT/SAT: governed by testing organization policies — no AI permitted. District-level assessments: policy decision for the district. Distinguish between standardized (high-stakes, strict protocols) and classroom assessments (teacher discretion). Recommend developing a clear testing technology policy that specifies which tools are permitted in which contexts. Reference DESE assessment guidance. Strategic, policy-oriented tone.",
+    "expected_files": ["ai-in-education/INDEX.md", "ai-in-education/ai-policy-governance.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "AI04",
+    "prompt": "What AI tools are FERPA-compliant for classroom use?",
+    "role": "teacher",
+    "expected_behavior": "Privacy + technology intersection. No AI tool is inherently 'FERPA-compliant' — compliance depends on how data is handled. Key questions: (1) Does the tool collect student PII? (2) Does the district have a data privacy agreement (DPA) with the vendor? (3) Is the tool on the district's approved list? (4) Does the vendor meet COPPA requirements for students under 13? General guidance: never enter student names, IDs, or identifiable information into AI tools without a signed DPA. District-approved tools (check with your technology director) are safer than free consumer tools. Reference DESE data privacy guidance and SB 68 implications. Practical, privacy-conscious tone.",
+    "expected_files": ["ai-in-education/INDEX.md", "ai-in-education/ai-teaching-learning.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "SN01",
+    "prompt": "My child was just diagnosed with dyslexia. What accommodations should the school provide?",
+    "role": "parent",
+    "expected_behavior": "Load special-needs/INDEX.md. Rights-first for parent. Missouri Reading Instruction Act (SB 638) requires dyslexia screening. If diagnosed, child may qualify for IEP (under SLD category) or 504 plan. Common accommodations: extended time, audio texts, text-to-speech technology, reduced copying requirements, alternative spelling assessments, multi-sensory reading instruction (Orton-Gillingham based). Request evaluation in writing if not already done. School must provide structured literacy instruction. Parent language: 'I am requesting an evaluation for my child under IDEA based on a diagnosis of dyslexia.' Empowering, warm tone.",
+    "expected_files": ["special-needs/INDEX.md", "specialists.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "SN02",
+    "prompt": "How do I get occupational therapy added to my child's IEP?",
+    "role": "parent",
+    "expected_behavior": "OT is a related service under IDEA. Steps: (1) request an OT evaluation in writing — 'I am requesting an occupational therapy evaluation for my child to determine if OT services are needed to support their educational program.' (2) School must respond with consent form or Prior Written Notice explaining refusal. (3) If evaluation shows OT is needed for the child to benefit from special education, IEP team must add it. (4) If school refuses evaluation, parent can request IEE at public expense. Key: OT in schools must be educationally relevant — different from medical/clinic OT. Parent is an equal member of the IEP team. Empowering tone with specific action steps.",
+    "expected_files": ["specialists.md", "special-needs/INDEX.md"],
+    "quick_answer": false
+  },
+  {
+    "id": "CMD05",
+    "prompt": "/graduation - Audit a student who has 20 credits and is a senior.",
+    "role": "counselor",
+    "expected_behavior": "Use calculators.md graduation credit audit. 24 credits required — student has 20, deficit of 4 credits. As a senior, this is urgent. Identify which subject areas are deficient by walking through requirements: 4 ELA, 3 Math, 3 Science, 3 Social Studies, 1 Fine Art, 1 Practical Art, 1 PE, 0.5 Health, 7.5 Electives. Determine if student can recover 4 credits in remaining semester (likely not through regular coursework alone). Options: credit recovery programs, summer school, MOCAP online courses, extended year. Check EOC requirements. Flag for immediate counselor-parent-student conference. Urgent, action-oriented tone.",
+    "expected_files": [],
+    "calculator": "graduation credits",
+    "quick_answer": false
+  },
+  {
+    "id": "CMD06",
+    "prompt": "/translate - Translate this parent letter to Spanish.",
+    "role": "admin",
+    "expected_behavior": "Activate translation mode. Ask for the letter text if not provided. Translate the parent letter to Spanish while preserving legal terminology with English terms in parentheses for key education concepts (IEP, FAPE, 504, IDEA, etc.). Ensure the translation is culturally appropriate, not just literal. Maintain formal but accessible register. Reference guia-padres-espanol.md for standard Spanish terminology used in Missouri education context. Offer both the Spanish translation and a note about interpreter rights under Title VI.",
+    "expected_files": ["guia-padres-espanol.md"],
+    "quick_answer": false
   }
 ]
 

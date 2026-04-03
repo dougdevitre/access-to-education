@@ -179,7 +179,9 @@ graph TD
 | Term | Spanish | Definition |
 |------|---------|-----------|
 | **TAC** | *Certificado de Autorización Temporal* | Temporary Authorization Certificate — interim teaching certificate |
+| **Trauma-Informed Care** | *Atención Informada sobre el Trauma* | Approach recognizing impact of adverse experiences on learning |
 | **TVI** | *Maestro de Estudiantes con Discapacidad Visual* | Teacher of the Visually Impaired |
+| **Twice-Exceptional (2e)** | *Doblemente Excepcional* | Student who is both gifted and has a disability |
 | **UDL** | *Diseño Universal para el Aprendizaje* | Universal Design for Learning |
 | **WADA** | *Asistencia Diaria Promedio Ponderada* | Weighted Average Daily Attendance — ADA adjusted for special populations (funding formula) |
 | **WBL** | *Aprendizaje Basado en el Trabajo* | Work-Based Learning |
