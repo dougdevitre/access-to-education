@@ -229,6 +229,7 @@ Law, policy, funding, and deadlines.
 | [references/compliance/governance-policy.md](references/compliance/governance-policy.md) | Board policy development, Sunshine Law, superintendent evaluation |
 | [references/compliance/funding-programs.md](references/compliance/funding-programs.md) | State funding formula, Title I-IV, Perkins grants, E-Rate |
 | [references/compliance/equity-access.md](references/compliance/equity-access.md) | McKinney-Vento (homeless), foster care, migrant students, Title IX |
+| [references/compliance/title-ix.md](references/compliance/title-ix.md) | Title IX compliance procedures, sexual harassment policies, athletics equity, grievance processes |
 
 ---
 
@@ -247,6 +248,7 @@ Populations and programs across Missouri K-12.
 | [references/programs/rural-education.md](references/programs/rural-education.md) | Consolidation, 4-day school weeks, shared services models |
 | [references/programs/mo-districts-regions.md](references/programs/mo-districts-regions.md) | District lookup, RPDC regions, enrollment demographics |
 | [references/programs/english-learners.md](references/programs/english-learners.md) | ELL/ESL instruction, WIDA proficiency levels, sheltered instruction, Title III |
+| [references/programs/gifted-education.md](references/programs/gifted-education.md) | Gifted & talented education, identification criteria, programming models, Missouri GTE requirements |
 
 ---
 
