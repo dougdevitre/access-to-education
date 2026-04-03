@@ -167,7 +167,7 @@ graph LR
 ### Key Files
 
 - [Students & Parents Reference](roles/students.md) -- graduation, A+, attendance, discipline, FERPA, college readiness
-- [Career Pathways](programs/career-pathways.md) -- CTE clusters, dual credit, Missouri Connections
+- [Career Pathways](operations/career-pathways.md) -- CTE clusters, dual credit, Missouri Connections
 - [FAQ](faq.md) -- quick answers to common student questions
 - [Missouri Data Tables](mo-data-tables.md) -- statute lookups and key numbers
 
@@ -286,7 +286,7 @@ graph LR
 
 - [District Administration Reference](roles/administrators.md) -- MSIP 6, funding, governance, ESSA, Title programs, data reporting, fiscal management
 - [Compliance Calendar](compliance/compliance-calendar.md) -- month-by-month federal and state deadlines
-- [Funding & Finance](compliance/funding-finance.md) -- detailed funding formula, Title programs, audit requirements
+- [Funding & Finance](compliance/funding-programs.md) -- detailed funding formula, Title programs, audit requirements
 - [Data Reporting](operations/data-reporting.md) -- MOSIS, Core Data, APR submission cycles
 - [Policy Templates](../templates/admin/) -- board-ready policy documents
 

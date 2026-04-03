@@ -23,9 +23,11 @@
 - [Templates: Teacher](#templates--teacher)
 - [Templates: Counselor](#templates--counselor)
 - [Templates: Staff](#templates--staff)
+- [Templates: General](#templates--general-1)
 - [Scripts](#scripts)
 - [Examples](#examples)
 - [Evals](#evals)
+- [CI / Config](#ci--config)
 
 ---
 
@@ -42,6 +44,8 @@ graph LR
     ROOT --> SCR["scripts/"]
     ROOT --> EX["examples/"]
     ROOT --> EV["evals/"]
+    ROOT --> GH[".github/"]
+    ROOT --> CONF["Config Files"]
 
     CORE --> SKILL["SKILL.md"]
     CORE --> CLAUDE["CLAUDE.md"]
@@ -88,6 +92,7 @@ graph LR
     COMP --> C3["governance-policy.md"]
     COMP --> C4["funding-programs.md"]
     COMP --> C5["equity-access.md"]
+    COMP --> C6["title-ix.md"]
 
     PROG --> P1["special-populations.md"]
     PROG --> P2["early-childhood.md"]
@@ -98,6 +103,7 @@ graph LR
     PROG --> P7["rural-education.md"]
     PROG --> P8["mo-districts-regions.md"]
     PROG --> P9["english-learners.md"]
+    PROG --> P10["gifted-education.md"]
 
     AI --> A1["INDEX.md"]
     AI --> A2["ai-teaching-learning.md"]
@@ -119,6 +125,8 @@ graph LR
     GEN --> G4["links-and-resources.md"]
     GEN --> G5["scenario-walkthroughs.md"]
     GEN --> G6["guia-padres-espanol.md"]
+    GEN --> G7["quick-start-cards.md"]
+    GEN --> G8["keyword-index.md"]
 
     TPL --> TP["parent/"]
     TPL --> TA["admin/"]
@@ -126,12 +134,26 @@ graph LR
     TPL --> TT["teacher/"]
     TPL --> TC["counselor/"]
     TPL --> TST["staff/"]
+    TPL --> TGEN["General templates"]
+
+    TP --> TP2["cartas-padres-espanol.md"]
+    TS --> TS2["504-decision-tree.md"]
+    TST --> TST2["paraprofessional-guide.md"]
+    TST --> TST3["transportation-safety.md"]
+    TST --> TST4["food-service-safety.md"]
+    TGEN --> TG1["printable-checklists.md"]
 
     SCR --> SC1["calculators.md"]
     SCR --> SC2["run-evals.sh"]
+    SCR --> SC3["check-links.sh"]
+    SCR --> SC4["validate-mermaid.sh"]
 
     EX --> EX1["sample-outputs.md"]
     EV --> EV1["test-cases.json"]
+
+    GH --> GHW["workflows/"]
+    GHW --> GHW1["validate.yml"]
+    CONF --> CONF1[".markdownlint.jsonc"]
 ```
 
 ---
@@ -207,6 +229,7 @@ Law, policy, funding, and deadlines.
 | [references/compliance/governance-policy.md](references/compliance/governance-policy.md) | Board policy development, Sunshine Law, superintendent evaluation |
 | [references/compliance/funding-programs.md](references/compliance/funding-programs.md) | State funding formula, Title I-IV, Perkins grants, E-Rate |
 | [references/compliance/equity-access.md](references/compliance/equity-access.md) | McKinney-Vento (homeless), foster care, migrant students, Title IX |
+| [references/compliance/title-ix.md](references/compliance/title-ix.md) | Title IX compliance procedures, sexual harassment policies, athletics equity, grievance processes |
 
 ---
 
@@ -225,6 +248,7 @@ Populations and programs across Missouri K-12.
 | [references/programs/rural-education.md](references/programs/rural-education.md) | Consolidation, 4-day school weeks, shared services models |
 | [references/programs/mo-districts-regions.md](references/programs/mo-districts-regions.md) | District lookup, RPDC regions, enrollment demographics |
 | [references/programs/english-learners.md](references/programs/english-learners.md) | ELL/ESL instruction, WIDA proficiency levels, sheltered instruction, Title III |
+| [references/programs/gifted-education.md](references/programs/gifted-education.md) | Gifted & talented education, identification criteria, programming models, Missouri GTE requirements |
 
 ---
 
@@ -274,6 +298,8 @@ Standalone reference files at the top level of `references/`.
 | [references/links-and-resources.md](references/links-and-resources.md) | 70+ verified URLs to DESE portals, federal resources, and Missouri-specific tools |
 | [references/scenario-walkthroughs.md](references/scenario-walkthroughs.md) | 10 complete step-by-step journey narratives for common education scenarios |
 | [references/guia-padres-espanol.md](references/guia-padres-espanol.md) | Full parent rights guide in Spanish with English legal terms preserved |
+| [references/quick-start-cards.md](references/quick-start-cards.md) | Quick-start role cards for all 7 roles with key tasks and first steps |
+| [references/keyword-index.md](references/keyword-index.md) | Searchable keyword-to-file mapping for fast topic lookups across the repository |
 
 ---
 
@@ -282,6 +308,7 @@ Standalone reference files at the top level of `references/`.
 | File | Description |
 |------|-------------|
 | [templates/parent/letters.md](templates/parent/letters.md) | 5 letter templates: evaluation request, records request, IEP meeting, dispute, 504 request |
+| [templates/parent/cartas-padres-espanol.md](templates/parent/cartas-padres-espanol.md) | Spanish parent letter templates for evaluation requests, IEP meetings, records requests |
 
 ---
 
@@ -305,6 +332,7 @@ Standalone reference files at the top level of `references/`.
 | [templates/specialist/iep-compliance-checklist.md](templates/specialist/iep-compliance-checklist.md) | IEP compliance audit checklist with all required components |
 | [templates/specialist/iep-meeting-prep.md](templates/specialist/iep-meeting-prep.md) | IEP meeting preparation guide and progress monitoring templates |
 | [templates/specialist/plans-and-forms.md](templates/specialist/plans-and-forms.md) | 504 accommodation plans, FBA templates, and specialist forms |
+| [templates/specialist/504-decision-tree.md](templates/specialist/504-decision-tree.md) | 504 process walkthrough with IEP vs 504 decision tree and accommodation planning |
 
 ---
 
@@ -336,6 +364,17 @@ Standalone reference files at the top level of `references/`.
 | File | Description |
 |------|-------------|
 | [templates/staff/checklists.md](templates/staff/checklists.md) | Mandated reporter reference, new employee orientation, and staff checklists |
+| [templates/staff/paraprofessional-guide.md](templates/staff/paraprofessional-guide.md) | Paraprofessional guide covering roles, responsibilities, IEP support, and professional boundaries |
+| [templates/staff/transportation-safety.md](templates/staff/transportation-safety.md) | Bus and transportation safety procedures, driver checklists, route protocols |
+| [templates/staff/food-service-safety.md](templates/staff/food-service-safety.md) | Food service allergy management, safety protocols, and cafeteria operations |
+
+---
+
+## Templates -- General
+
+| File | Description |
+|------|-------------|
+| [templates/printable-checklists.md](templates/printable-checklists.md) | 10 printable checklists for common tasks across all roles |
 
 ---
 
@@ -345,6 +384,8 @@ Standalone reference files at the top level of `references/`.
 |------|-------------|
 | [scripts/calculators.md](scripts/calculators.md) | 5 calculators: PSRS retirement, A+ eligibility, graduation credits, SPED timelines, funding estimates |
 | [scripts/run-evals.sh](scripts/run-evals.sh) | Shell script to run eval test cases against the Claude API |
+| [scripts/check-links.sh](scripts/check-links.sh) | Link checker script to validate internal and external URLs across all Markdown files |
+| [scripts/validate-mermaid.sh](scripts/validate-mermaid.sh) | Mermaid diagram validation script to check syntax in all .md files |
 
 ---
 
@@ -364,4 +405,13 @@ Standalone reference files at the top level of `references/`.
 
 ---
 
-*This index covers all 71+ files in the repository. For machine-readable routing, see [MANIFEST.json](MANIFEST.json). For topic ownership, see [CANONICAL_OWNERS.md](CANONICAL_OWNERS.md).*
+## CI / Config
+
+| File | Description |
+|------|-------------|
+| [.github/workflows/validate.yml](.github/workflows/validate.yml) | CI workflow for automated validation (link checking, Mermaid syntax, markdown linting) |
+| [.markdownlint.jsonc](.markdownlint.jsonc) | Markdown lint configuration for consistent formatting across all .md files |
+
+---
+
+*This index covers all 85+ files in the repository. For machine-readable routing, see [MANIFEST.json](MANIFEST.json). For topic ownership, see [CANONICAL_OWNERS.md](CANONICAL_OWNERS.md).*
