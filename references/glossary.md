@@ -52,6 +52,7 @@ graph TD
 |------|---------|-----------|
 | **BIP** | *Plan de Intervención de Comportamiento* | Behavior Intervention Plan — individualized plan based on an FBA to address challenging behavior |
 | **BID** | *Determinación del Mejor Interés* | Best Interest Determination — process for deciding school placement for foster care students |
+| **CAPS** | *Sistema de Planificación Universitaria y Profesional* | College and Career Planning System |
 | **CASEL** | *Colaboración para el Aprendizaje Académico, Social y Emocional* | Collaborative for Academic, Social, and Emotional Learning |
 | **CCPC** | *Certificado Profesional de Carrera Continua* | Career Continuous Professional Certificate — Missouri's career teaching certificate (lifetime with renewal) |
 | **CCSS** | *Estándares Estatales Comunes* | Common Core State Standards — Missouri developed its own Missouri Learning Standards (not Common Core) |
@@ -61,15 +62,17 @@ graph TD
 | **CLNA** | *Evaluación Integral de Necesidades Locales* | Comprehensive Local Needs Assessment — required under Perkins V for CTE programs |
 | **COPPA** | *Ley de Protección de la Privacidad en Línea de los Niños* | Children's Online Privacy Protection Act — protects data of children under 13 online |
 | **CSIP** | *Plan Integral de Mejora Escolar* | Comprehensive School Improvement Plan — required for every Missouri school (RSMo 160.526) |
-| **CSTAG** | *Guías Integrales de Evaluación de Amenazas Escolares* | Comprehensive School Threat Assessment Guidelines (Dr. Dewey Cornell) |
+| **CSTAG** | *Guías Integrales de Evaluación de Amenazas Escolares* | Comprehensive School Threat Assessment Guidelines — based on Dr. Dewey Cornell's research at University of Virginia |
 | **CTE** | *Educación Técnica y Profesional* | Career and Technical Education |
 | **CTSO** | *Organización Estudiantil de Carreras Técnicas* | Career and Technical Student Organization (FFA, FBLA, DECA, HOSA, etc.) |
+| **CVI** | *Impedimento Visual Cortical* | Cortical Visual Impairment — visual processing difficulty in the brain rather than the eye |
 
 ## D-E
 | Term | Spanish | Definition |
 |------|---------|-----------|
 | **DESE** | *Departamento de Educación Primaria y Secundaria de Missouri* | Missouri Department of Elementary and Secondary Education |
 | **DSIP** | *Plan de Mejora Escolar del Distrito* | District School Improvement Plan |
+| **Dyslexia** | *Dislexia* | Specific learning disability affecting reading fluency and comprehension |
 | **ECS** | *Sistema de Certificación de Educadores* | Educator Certification System — DESE's online certification portal |
 | **ECSE** | *Educación Especial para la Primera Infancia* | Early Childhood Special Education (ages 3-5, IDEA Part B/619) |
 | **ELL** | *Estudiante de Inglés como Segundo Idioma* | English Language Learner |
@@ -86,11 +89,13 @@ graph TD
 | **FAPE** | *Educación Pública Gratuita y Apropiada* | Free Appropriate Public Education — the right of every student with a disability under IDEA |
 | **FBA** | *Evaluación Funcional de Comportamiento* | Functional Behavior Assessment — systematic process to determine WHY a behavior occurs |
 | **FERPA** | *Ley de Derechos Educativos y Privacidad Familiar* | Family Educational Rights and Privacy Act — federal law protecting student education records |
+| **First-Generation College Student** | *Estudiante Universitario de Primera Generación* | Student whose parents did not complete a 4-year degree |
 | **FPL** | *Nivel Federal de Pobreza* | Federal Poverty Level — income threshold used for program eligibility (free lunch ≤130%, reduced ≤185%) |
 | **FRPM** | *Comidas Gratuitas o a Precio Reducido* | Free and Reduced Price Meals |
 | **FTE** | *Equivalente de Tiempo Completo* | Full-Time Equivalent — staffing measurement (1.0 FTE = one full-time position) |
 | **GAL** | *Tutor Ad Litem* | Guardian Ad Litem (family court context) |
 | **GED** | *Desarrollo Educativo General* | General Educational Development (Missouri uses HiSET, not GED) |
+| **GPA (Weighted vs. Unweighted)** | *Promedio de Calificaciones* | Grade Point Average — weighted includes bonus points for AP/honors; unweighted does not |
 | **GPO** | *Compensación de Pensión Gubernamental* | Government Pension Offset — may reduce Social Security spousal benefits for PSRS members |
 
 ## H-I
@@ -112,6 +117,7 @@ graph TD
 | Term | Spanish | Definition |
 |------|---------|-----------|
 | **LEA** | *Agencia de Educación Local (distrito escolar)* | Local Education Agency — school district |
+| **LLM** | *Modelo de Lenguaje Grande* | Large Language Model — AI system trained on text data (e.g., ChatGPT, Claude) |
 | **LRE** | *Ambiente Menos Restrictivo* | Least Restrictive Environment — IDEA principle that students with disabilities should be educated with non-disabled peers to the maximum extent appropriate |
 | **MAP** | *Programa de Evaluación de Missouri* | Missouri Assessment Program — state academic assessments (grades 3-8) |
 | **MAP-A** | *Evaluación Alternativa MAP* | MAP Alternate Assessment — for students with the most significant cognitive disabilities |
@@ -144,6 +150,7 @@ graph TD
 | **PII** | *Información de Identificación Personal* | Personally Identifiable Information |
 | **PLAAFP** | *Niveles Actuales de Rendimiento Académico y Desempeño Funcional* | Present Levels of Academic Achievement and Functional Performance (IEP section) |
 | **PLC** | *Comunidad de Aprendizaje Profesional* | Professional Learning Community |
+| **Prompt Engineering** | *Ingeniería de Indicaciones* | Crafting effective instructions for AI tools |
 | **PSLF** | *Condonación de Préstamos por Servicio Público* | Public Service Loan Forgiveness |
 | **PSRS** | *Sistema de Jubilación de Escuelas Públicas de Missouri* | Public School Retirement System of Missouri (certificated staff) |
 | **PT** | *Terapia Física / Terapeuta Físico* | Physical Therapy / Physical Therapist |
@@ -152,13 +159,15 @@ graph TD
 ## R-S
 | Term | Spanish | Definition |
 |------|---------|-----------|
+| **Restorative Justice** | *Justicia Restaurativa* | Discipline approach focused on repairing harm rather than punishment |
 | **RPDC** | *Centro Regional de Desarrollo Profesional* | Regional Professional Development Center |
 | **RTI** | *Respuesta a la Intervención* | Response to Intervention — predecessor framework to MTSS |
 | **SAT** | *Meta de Suficiencia Estatal / Examen de Evaluación Escolar* | State Adequacy Target (funding formula context) OR Scholastic Assessment Test (college readiness context) |
 | **SBG** | *Calificación Basada en Estándares* | Standards-Based Grading |
 | **SBHC** | *Centro de Salud Escolar* | School-Based Health Center |
-| **SEL** | *Aprendizaje Socioemocional* | Social-Emotional Learning |
+| **SEL** | *Aprendizaje Socioemocional* | Social-Emotional Learning — skills for managing emotions, relationships, and decision-making |
 | **SIFE** | *Estudiantes con Educación Formal Interrumpida* | Students with Interrupted Formal Education |
+| **SIOP** | *Protocolo de Observación de Instrucción Protegida* | Sheltered Instruction Observation Protocol — framework for teaching content to ELLs |
 | **SIS** | *Sistema de Información Estudiantil* | Student Information System (e.g., PowerSchool, Tyler SIS) |
 | **SLD** | *Discapacidad Específica de Aprendizaje* | Specific Learning Disability (dyslexia, dyscalculia, dysgraphia) |
 | **SLP** | *Patólogo del Habla y Lenguaje* | Speech-Language Pathologist |
@@ -170,7 +179,9 @@ graph TD
 | Term | Spanish | Definition |
 |------|---------|-----------|
 | **TAC** | *Certificado de Autorización Temporal* | Temporary Authorization Certificate — interim teaching certificate |
+| **Trauma-Informed Care** | *Atención Informada sobre el Trauma* | Approach recognizing impact of adverse experiences on learning |
 | **TVI** | *Maestro de Estudiantes con Discapacidad Visual* | Teacher of the Visually Impaired |
+| **Twice-Exceptional (2e)** | *Doblemente Excepcional* | Student who is both gifted and has a disability |
 | **UDL** | *Diseño Universal para el Aprendizaje* | Universal Design for Learning |
 | **WADA** | *Asistencia Diaria Promedio Ponderada* | Weighted Average Daily Attendance — ADA adjusted for special populations (funding formula) |
 | **WBL** | *Aprendizaje Basado en el Trabajo* | Work-Based Learning |

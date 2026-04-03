@@ -298,3 +298,91 @@ _______________________________________________________________________________
 |--------|-----|---------|
 | | | |
 | | | |
+
+---
+
+### Worked Example — Scaffold Examples by WIDA Proficiency Level
+
+The following examples show concrete scaffolds for a 4th-grade science lesson on the water cycle. The **content objective** is the same for all students: "Students will explain the three stages of the water cycle (evaporation, condensation, precipitation)." The scaffolds are tiered by WIDA proficiency level.
+
+---
+
+#### Level 1 — Entering (Minimal English Proficiency)
+
+**Language Objective:** Students will label a diagram of the water cycle using key vocabulary words with picture support.
+
+**Scaffolds:**
+- **Picture vocabulary cards** — Each key term (evaporation, condensation, precipitation, water, sun, cloud, rain) paired with a clear image and the word in English and the student's home language
+- **Word bank** posted on desk and on the board:
+  > evaporation | condensation | precipitation | sun | cloud | water | rain | heat
+- **Labeled diagram** — Provide a pre-drawn water cycle diagram with arrows. Student matches vocabulary cards to the correct location.
+- **Sentence frame for verbal or written response:**
+  > "The ___ is ___."
+  > "The water goes ___."
+  > "___ makes the water ___."
+- **Total Physical Response (TPR):** Teacher models hand motions — wiggling fingers rising upward for evaporation, hands forming a cloud shape for condensation, fingers falling downward for precipitation. Students repeat.
+
+**Assessment:** Student correctly labels all three stages on the diagram and verbally says or points to each stage using the sentence frame "The ___ is ___." (e.g., "The water is going up.")
+
+---
+
+#### Level 3 — Developing (Intermediate English Proficiency)
+
+**Language Objective:** Students will write a short paragraph describing the water cycle using a paragraph frame, a graphic organizer, and academic vocabulary.
+
+**Scaffolds:**
+- **Graphic organizer** — A three-column chart:
+
+  | Stage | What Happens | Key Vocabulary |
+  |-------|-------------|----------------|
+  | Evaporation | | heat, liquid, gas, rise, sun |
+  | Condensation | | cool, gas, liquid, cloud, droplets |
+  | Precipitation | | heavy, fall, rain, snow, sleet |
+
+  Student fills in "What Happens" using their own words and the provided vocabulary.
+
+- **Academic vocabulary list** with student-friendly definitions:
+  > - **evaporation** — when water heats up and changes from liquid to gas (water vapor)
+  > - **condensation** — when water vapor cools down and turns back into tiny water droplets (forms clouds)
+  > - **precipitation** — when water droplets in clouds get heavy and fall as rain, snow, or sleet
+  > - **water cycle** — the way water moves from the ground to the sky and back again, over and over
+
+- **Paragraph frame:**
+  > "The water cycle has three main stages. First, ___ happens when ___. Next, ___ occurs because ___. Finally, ___ takes place when ___. The water cycle is important because ___."
+
+- **Sentence starters for discussion:**
+  > "One difference between evaporation and condensation is ___."
+  > "I think precipitation happens because ___."
+  > "This reminds me of ___ because ___."
+
+**Assessment:** Student completes the paragraph frame with accurate content. Writing includes at least 3 academic vocabulary terms used correctly. Student can verbally explain one stage to a partner using 2-3 complete sentences.
+
+---
+
+#### Level 5 — Bridging (Near-Native English Proficiency)
+
+**Language Objective:** Students will write a multi-paragraph explanation of the water cycle using academic language, including cause-and-effect relationships, with scaffolds removed.
+
+**Scaffolds (minimal — supports are being faded):**
+- **No sentence frames or paragraph frames provided.** Student writes independently.
+- **No word bank provided.** Student is expected to use academic vocabulary from prior lessons without a reference list.
+- **Complex text analysis:** Student reads a grade-level passage about the water cycle's role in weather patterns (no adapted text). Student annotates the passage by:
+  - Underlining cause-and-effect signal words (because, as a result, therefore, leads to)
+  - Circling unfamiliar vocabulary and using context clues to determine meaning
+  - Writing a one-sentence margin summary for each paragraph
+- **Higher-order prompt:** "Explain how the water cycle would be affected if the Earth's average temperature increased by 5 degrees. Use evidence from the text and your knowledge of evaporation and precipitation to support your answer."
+- **Peer review only:** Instead of teacher-provided frames, student exchanges drafts with a peer for feedback using a simple rubric (content accuracy, use of academic vocabulary, cause-effect language, organization).
+
+**Assessment:** Student writes a 2-3 paragraph response that accurately explains the water cycle, uses cause-and-effect language (because, as a result, therefore), incorporates at least 5 academic vocabulary terms, and makes a supported prediction about temperature effects. Writing is evaluated on the same rubric as general education peers, with minor allowances for grammatical errors that do not impede meaning.
+
+---
+
+#### Summary — Scaffold Progression
+
+| Element | Level 1 (Entering) | Level 3 (Developing) | Level 5 (Bridging) |
+|---------|--------------------|-----------------------|---------------------|
+| Vocabulary support | Picture cards + word bank in L1 and English | Academic word list with student-friendly definitions | No word bank — student uses learned vocabulary independently |
+| Text | Labeled diagrams only | Graphic organizers + paragraph frames | Grade-level text, no adaptation |
+| Writing support | Sentence frames: "The ___ is ___." | Paragraph frames with cause-effect connectors | No frames — independent multi-paragraph writing |
+| Response format | Label, point, say single words/phrases | Complete a structured paragraph | Write extended response with analysis |
+| Assessment | Label diagram; say one sentence per stage | Complete paragraph with 3+ vocabulary terms | 2-3 paragraph essay evaluated on grade-level rubric |

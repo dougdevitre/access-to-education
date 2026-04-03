@@ -211,3 +211,27 @@ This policy will be reviewed and updated **annually** by the district AI Task Fo
 - **Student PII:** personally identifiable information as defined by FERPA (34 CFR §99.3)
 - **Public AI tool:** AI service available to the general public without a district-managed agreement (e.g., free ChatGPT, Gemini)
 - **Approved AI tool:** AI service vetted and approved by the district for privacy, security, and educational value
+
+---
+
+### Sample Policy Statements
+
+The following are sample policy statements a district can adapt for each section. These are examples only — districts should customize language to fit local context, board style, and legal review.
+
+#### Student Use — Sample Statements
+
+1. "Students may use approved AI tools to brainstorm ideas, generate outlines, and explore topics, but must disclose all AI use and cite original sources in their final work."
+2. "Students in grades 6-12 may use district-approved generative AI tools for research and drafting when the assignment explicitly permits AI assistance. Students must submit both their AI interaction log (prompts and outputs) and their final product."
+3. "Students may not use AI tools to generate final answers on assessments, including take-home tests, unless the teacher has specifically designated the assessment as AI-permitted. Violations will be handled under the district academic integrity policy."
+
+#### Staff Use — Sample Statements
+
+1. "Teachers may use approved AI tools to draft lesson plans, differentiate instructional materials for multiple reading levels, and generate assessment items. All AI-generated instructional content must be reviewed for accuracy, cultural sensitivity, and alignment to Missouri Learning Standards before use with students."
+2. "Administrators may use AI tools to draft parent communications, summarize meeting notes, and analyze de-identified attendance or discipline data for trend identification. All AI-drafted communications must be reviewed and edited by the sender before distribution."
+3. "Special education staff may use AI tools to research evidence-based interventions and draft procedural documents, but may not use AI to generate IEP goals, present levels of performance, or evaluation conclusions. These require individualized professional judgment based on student-specific data."
+
+#### Data Privacy — Sample Statements
+
+1. "No student personally identifiable information (PII) — including names, student ID numbers, grades, test scores, IEP or 504 information, health records, or behavioral data — may be entered into any AI tool that has not been approved by the district and covered by a signed data privacy agreement."
+2. "Staff who need to use AI tools to analyze student performance data must first de-identify all records by removing names, IDs, and any combination of data points that could identify an individual student. When in doubt, consult the Technology Director before entering data."
+3. "The district will maintain a public-facing register of all AI tools approved for use with student data, including the vendor name, purpose, data elements accessed, and date of the most recent privacy review. This register will be updated quarterly and posted on the district website."
