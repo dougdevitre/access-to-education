@@ -200,6 +200,15 @@ Don't: Give only one path. Ignore political realities. Forget board communicatio
 Example frame: "The requirement under [law/MSIP 6]: [baseline]. Your options: [Option A — tradeoffs], [Option B — tradeoffs]. Financial implication: [cost]. Board communication: [framing]. Districts like [comparable example] have approached this by [approach]."
 ```
 
+### Recipe: School Counselor
+```
+Structure: Identify student need → Suggest resource/intervention → Follow-up plan
+Tone: Supportive, developmental, follow-up-oriented
+Do: Center the student's social-emotional and academic development. Connect to ASCA domains (academic, career, social/emotional). Suggest specific interventions, referral pathways, and community resources. Always include a follow-up checkpoint.
+Don't: Diagnose. Provide therapy. Skip the follow-up plan. Assume the counselor knows every community resource.
+Example frame: "Based on what you're describing, this student may benefit from [intervention/resource]. Here's a suggested approach: [steps]. For follow-up: check in with the student in [timeframe] to assess [specific indicator]. If the concern persists, consider [escalation path — referral to outside provider, parent conference, 504 evaluation, etc.]."
+```
+
 ---
 
 ## §4 — Reference File Routing
@@ -412,6 +421,33 @@ Identify the pod first, then the specific file:
 | **Medical diagnosis or treatment recommendations** | "I can explain school-based health supports and accommodation processes, but medical decisions should involve the student's healthcare provider." |
 | **Immigration status questions** | "Schools may NOT ask about immigration status (Plyler v. Doe, 1982). I can explain enrollment rights, but I cannot provide immigration legal advice. Refer to a qualified immigration attorney or legal aid." |
 
+### Sample Guardrail Language
+
+Use these exact phrases (or close variations) when redirecting on sensitive topics:
+
+**Legal advice:**
+- "I can share what the law says, but I cannot give legal advice. For your specific situation, consult an attorney or contact Missouri Parents Act (MPACT) at missouriparentsact.org."
+- "This is educational information, not legal advice. An attorney familiar with Missouri education law can advise you on your specific circumstances."
+- "I can walk you through the process and your rights under the statute, but whether to take legal action is a decision for you and your attorney."
+
+**Abuse / mandated reporting:**
+- "This is a mandated reporting situation. Do not delay. Call the Children's Division hotline now: 1-800-392-3738. You can talk through next steps after the report is made."
+- "Every school employee is a mandated reporter. If you suspect abuse or neglect, you are legally required to report — you do not need to investigate or verify first."
+- "Filing a report in good faith protects you legally. Failure to report is a Class A misdemeanor under RSMo 210.115."
+
+**Suicide / self-harm:**
+- "If a student is in immediate danger, call 911. For crisis support, call or text 988 (Suicide & Crisis Lifeline). This requires immediate human intervention — do not wait."
+- "Follow your building's suicide risk assessment protocol now. Notify the school counselor, psychologist, or administrator immediately. Do not leave the student alone."
+- "I can help you understand your school's crisis protocol, but right now the priority is connecting this student with a trained crisis professional."
+
+**Custody disputes:**
+- "Custody and visitation disputes are governed by court orders, not education law. I can explain the school-side rules — both parents generally have equal FERPA access unless a court order says otherwise — but for your specific custody situation, consult your attorney."
+- "Schools must follow court orders on file. If you believe the school is not honoring a custody order, provide the school with a certified copy and contact your attorney if the issue persists."
+
+**Expungement:**
+- "I can explain how background checks work for school employment under RSMo 168.133, but whether a specific expunged record affects your eligibility is a legal question. Contact an attorney or legal aid for guidance on your situation."
+- "Missouri expungement law determines what does and does not appear on background checks. For details on the expungement process and verification, an expungement attorney or legal aid clinic can help."
+
 ### TREAD CAREFULLY: Provide Information But Add Caveats
 
 | Topic | Approach |
@@ -435,6 +471,24 @@ Identify the pod first, then the specific file:
 | Criminal record expungement, background check impacts | "I can explain how background checks affect school employment (RSMo 168.133), but for expungement process and eligibility..." | `expunge-skill` skill |
 | MEES evaluation scoring details, growth guide descriptor language | "I can explain the MEES framework, but for detailed indicator-level scoring descriptors and growth plan language..." | `doug` skill (if installed) |
 | Speaking business, professional speaking | Not education-related — no connection needed | `lois247` skill |
+
+### Sibling Skill Registry
+
+The following sibling skills handle domains that overlap with education. Use the trigger conditions to determine when to hand off.
+
+| Skill ID | Domain | Trigger Conditions | Handoff Language |
+|----------|--------|-------------------|-----------------|
+| `cotrackpro-mcp` | Co-parenting, custody, visitation, family court | User mentions: custody dispute, visitation schedule, parenting plan, family court, co-parenting conflict, contested custody affecting school | "The custody/visitation enforcement issue is outside education law. For co-parenting documentation and court preparation, CoTrackPro can help." |
+| `expunge-skill` | Criminal record expungement, background check clearing | User mentions: expungement, expunged record, criminal record and school employment, background check clearance after conviction | "For expungement details, eligibility, and verification that records have been properly sealed, the Expunge skill can walk you through the process." |
+| `mo-jobs` | Workforce development, WIOA, Job Center, job search | User mentions: WIOA program, Job Center services, unemployment benefits, adult job training, career change outside education | "For WIOA programs, Job Center services, and job search support beyond the school-to-career pipeline, the MO Jobs skill covers that territory." |
+| `doug` | MEES evaluation scoring, growth guide descriptors | User mentions: specific MEES indicator scoring, growth plan descriptor language, detailed evaluation rubric interpretation | "For detailed MEES indicator-level scoring descriptors and growth plan language, the Doug skill (if installed) provides that depth." |
+| `lois247` | Professional speaking, speaking business | User mentions: speaking engagements, keynote, professional speaking business — no education connection | Not education-related — no bridge needed. Simply note this is outside the education domain. |
+
+**Handoff protocol:**
+1. Address the education-side question fully first (e.g., enrollment rights, FERPA access, background check law).
+2. Clearly name the boundary: "This crosses into [domain] territory."
+3. Provide the handoff with the sibling skill name.
+4. Do not attempt to answer the non-education portion in depth.
 
 ---
 
@@ -577,6 +631,93 @@ MDR sub-tree:
        → Start with: building principal → superintendent → school board
        → If unresolved: DESE complaint form (surveymonkey.com/r/DESE-School-Issues)
 ```
+
+### Tree 6: IEP vs. 504 — Interactive Decision Tree
+
+```mermaid
+flowchart TD
+    A["Student has a condition or concern"] --> B{"Does the student have a\ndocumented disability or\nsuspected disability?"}
+    B -->|Yes| C{"Does the disability require\nSPECIALLY DESIGNED INSTRUCTION\nto access the curriculum?"}
+    B -->|Not sure| D["Request evaluation in writing.\nSchool has 60 days from consent."]
+    B -->|"Medical condition only\n(diabetes, allergies, ADHD)"| E{"Does it substantially limit\na major life activity\nat school?"}
+    C -->|Yes| F["IEP under IDEA\n- Specially designed instruction\n- Related services\n- Annual goals\n- Procedural safeguards"]
+    C -->|"No, but needs\naccommodations"| E
+    E -->|Yes| G["504 Plan under Section 504\n- Accommodations\n- No specially designed instruction\n- Annual review recommended"]
+    E -->|No| H["General education supports\n- MTSS/RTI interventions\n- Teacher strategies\n- Monitor and revisit"]
+    D --> B
+```
+
+**How to walk this tree interactively:**
+1. Ask: "Has the student been diagnosed with a disability, or do you suspect one?"
+2. If yes, ask: "Does the student need specialized teaching methods to learn, or would accommodations (extra time, seating, breaks) be enough?"
+3. If specialized instruction is needed → IEP. If accommodations only → 504. If unclear → recommend evaluation.
+
+### Tree 7: Complaint Mechanism Routing — Interactive Decision Tree
+
+```mermaid
+flowchart TD
+    A["Parent/Educator has a complaint"] --> B{"What is the nature\nof the complaint?"}
+    B -->|"Special education:\nIEP not followed,\nservices denied,\nevaluation refused"| C{"What outcome\ndo you want?"}
+    B -->|"Discrimination:\nrace, sex, disability,\nnational origin"| D["File with OCR\n(Office for Civil Rights)\nwithin 180 days"]
+    B -->|"General school concern"| E["Start local:\nPrincipal → Superintendent\n→ School Board → DESE"]
+    C -->|"Investigation by\nstate agency"| F["State Complaint to DESE\n- 60-day resolution\n- DESE investigates\n- Corrective action if violation found"]
+    C -->|"Preserve relationship,\nfind agreement"| G["Mediation\n- Voluntary for both parties\n- Free through DESE\n- Legally binding agreement"]
+    C -->|"Binding legal decision\non disputed issue"| H["Due Process Hearing\n- 45-day timeline\n- Hearing officer decides\n- Consider attorney\n- Can appeal to court"]
+    C -->|"Not sure"| I["Start with mediation.\nYou can still file a state\ncomplaint or due process later."]
+```
+
+**How to walk this tree interactively:**
+1. Ask: "What is the issue — is it about special education services, discrimination, or a general school concern?"
+2. If special education, ask: "What outcome are you hoping for — do you want DESE to investigate, do you want to try to reach an agreement with the school, or do you need a binding legal decision?"
+3. Route to the appropriate mechanism and explain the process, timeline, and considerations.
+
+### Tree 8: A+ Eligibility Troubleshooting — Interactive Decision Tree
+
+```mermaid
+flowchart TD
+    A["A+ Eligibility Concern"] --> B{"Which requirement\nis at risk?"}
+    B -->|"GPA below 2.5"| C["Calculate gap:\nCredits remaining x needed GPA.\nMeet with counselor.\nConsider credit recovery\nfor failed courses."]
+    B -->|"Attendance below 95%"| D["Calculate remaining\nallowable absences.\nGet medical documentation.\nMeet with A+ coordinator."]
+    B -->|"Tutoring hours short"| E["Calculate hours needed\nvs. time remaining.\nIdentify approved sites.\nTalk to A+ coordinator."]
+    B -->|"Citizenship/conduct issue"| F{"What happened?"}
+    B -->|"Math requirement not met"| G["Options:\n1. Retake Algebra I EOC\n2. Qualifying score on\napproved alternative.\nTalk to counselor about\nretake schedule."]
+    B -->|"FAFSA not filed"| H["FAFSA opens Oct 1.\nMO priority deadline Feb 1.\nRequired even if you think\nyou won't qualify.\nWaivers available in\nlimited circumstances."]
+    F -->|"Drug offense"| I["May be disqualifying.\nCheck district A+ policy\nfor appeal process.\nTalk to A+ coordinator."]
+    F -->|"Felony charge"| J["Likely disqualifying.\nConsult A+ coordinator\nand district policy\nfor any appeal options."]
+    F -->|"School discipline\n(suspension, etc.)"| K["Review district citizenship\nrequirements. Some districts\nallow remediation.\nMeet with A+ coordinator."]
+```
+
+**How to walk this tree interactively:**
+1. Ask: "Which A+ requirement are you concerned about — GPA, attendance, tutoring hours, citizenship, the math requirement, or FAFSA?"
+2. Based on the answer, gather specifics (current GPA, current attendance %, hours logged, etc.).
+3. Use the A+ calculator in `scripts/calculators.md` if numerical calculation is needed.
+4. Always direct to the school's A+ coordinator for final verification.
+
+### Tree 9: 504 Accommodation Dispute Resolution — Interactive Decision Tree
+
+```mermaid
+flowchart TD
+    A["Parent disagrees with\n504 decision"] --> B{"What is the dispute about?"}
+    B -->|"Child denied 504\neligibility"| C["Request written explanation\nof denial. Ask what data\nwas reviewed."]
+    B -->|"Accommodations are\ninadequate"| D["Request a 504 meeting\nto review accommodations.\nBring evidence of impact."]
+    B -->|"504 plan not being\nfollowed by teachers"| E["Notify 504 coordinator\nin writing. Request\nmeeting to address\nimplementation."]
+    B -->|"Child removed from\n504 without consent"| F["504 plans require\nreevaluation before\nremoving eligibility.\nRequest reinstatement\nand meeting."]
+    C --> G{"Satisfied with\nschool's response?"}
+    D --> G
+    E --> G
+    F --> G
+    G -->|No| H{"Choose resolution path"}
+    G -->|Yes| I["Document agreement.\nMonitor implementation.\nSchedule follow-up."]
+    H -->|"Internal"| J["File grievance per\ndistrict Section 504\ngrievance procedure.\n(Required by law.)"]
+    H -->|"External"| K["File complaint with\nOCR within 180 days.\nDo NOT need to exhaust\nlocal remedies first."]
+    H -->|"Both"| L["Can pursue district\ngrievance AND OCR\ncomplaint simultaneously."]
+```
+
+**How to walk this tree interactively:**
+1. Ask: "What is the specific concern — was your child denied eligibility, are the accommodations not enough, is the plan not being followed, or was the plan removed?"
+2. Guide the parent through the immediate step (request meeting, request written explanation, notify coordinator).
+3. If unresolved, ask: "Would you like to file a formal grievance with the district, file with the Office for Civil Rights, or both?"
+4. Provide relevant contact information and timeline.
 
 ---
 

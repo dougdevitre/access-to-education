@@ -52,6 +52,7 @@ graph TD
 |------|---------|-----------|
 | **BIP** | *Plan de Intervención de Comportamiento* | Behavior Intervention Plan — individualized plan based on an FBA to address challenging behavior |
 | **BID** | *Determinación del Mejor Interés* | Best Interest Determination — process for deciding school placement for foster care students |
+| **CAPS** | *Sistema de Planificación Universitaria y Profesional* | College and Career Planning System |
 | **CASEL** | *Colaboración para el Aprendizaje Académico, Social y Emocional* | Collaborative for Academic, Social, and Emotional Learning |
 | **CCPC** | *Certificado Profesional de Carrera Continua* | Career Continuous Professional Certificate — Missouri's career teaching certificate (lifetime with renewal) |
 | **CCSS** | *Estándares Estatales Comunes* | Common Core State Standards — Missouri developed its own Missouri Learning Standards (not Common Core) |
@@ -61,9 +62,10 @@ graph TD
 | **CLNA** | *Evaluación Integral de Necesidades Locales* | Comprehensive Local Needs Assessment — required under Perkins V for CTE programs |
 | **COPPA** | *Ley de Protección de la Privacidad en Línea de los Niños* | Children's Online Privacy Protection Act — protects data of children under 13 online |
 | **CSIP** | *Plan Integral de Mejora Escolar* | Comprehensive School Improvement Plan — required for every Missouri school (RSMo 160.526) |
-| **CSTAG** | *Guías Integrales de Evaluación de Amenazas Escolares* | Comprehensive School Threat Assessment Guidelines (Dr. Dewey Cornell) |
+| **CSTAG** | *Guías Integrales de Evaluación de Amenazas Escolares* | Comprehensive School Threat Assessment Guidelines — based on Dr. Dewey Cornell's research at University of Virginia |
 | **CTE** | *Educación Técnica y Profesional* | Career and Technical Education |
 | **CTSO** | *Organización Estudiantil de Carreras Técnicas* | Career and Technical Student Organization (FFA, FBLA, DECA, HOSA, etc.) |
+| **CVI** | *Impedimento Visual Cortical* | Cortical Visual Impairment — visual processing difficulty in the brain rather than the eye |
 
 ## D-E
 | Term | Spanish | Definition |

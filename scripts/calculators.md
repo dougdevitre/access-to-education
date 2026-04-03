@@ -10,12 +10,14 @@ graph TD
     R --> C3["3: Graduation Credits<br/>24 credits across 10 subjects"]
     R --> C4["4: SPED Timelines<br/>60-day eval, annual review, triennial"]
     R --> C5["5: Funding Estimator<br/>Enrollment x SAT x weight"]
+    R --> C6["6: IEP Goal Progress<br/>On-track / At-risk / Behind"]
     R --> DE["Decision Engine:<br/>Complaint Mechanism Routing"]
     C1 --> O[Collect Inputs --> Calculate --> Present Result]
     C2 --> O
     C3 --> O
     C4 --> O
     C5 --> O
+    C6 --> O
     DE --> O
 ```
 
@@ -25,6 +27,7 @@ graph TD
 - [Calculator 3: Graduation Credit Tracker](#calculator-3-graduation-credit-tracker)
 - [Calculator 4: Special Education Timeline Tracker](#calculator-4-special-education-timeline-tracker)
 - [Calculator 5: Funding Estimator (Simplified)](#calculator-5-funding-estimator-simplified)
+- [Calculator 6: IEP Goal Progress Tracker](#calculator-6-iep-goal-progress-tracker)
 - [Decision Engine: Which Complaint Mechanism?](#decision-engine-which-complaint-mechanism)
 
 ---
