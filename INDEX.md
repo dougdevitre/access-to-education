@@ -298,6 +298,8 @@ Standalone reference files at the top level of `references/`.
 | [references/links-and-resources.md](references/links-and-resources.md) | 70+ verified URLs to DESE portals, federal resources, and Missouri-specific tools |
 | [references/scenario-walkthroughs.md](references/scenario-walkthroughs.md) | 10 complete step-by-step journey narratives for common education scenarios |
 | [references/guia-padres-espanol.md](references/guia-padres-espanol.md) | Full parent rights guide in Spanish with English legal terms preserved |
+| [references/quick-start-cards.md](references/quick-start-cards.md) | Quick-start role cards for all 7 roles with key tasks and first steps |
+| [references/keyword-index.md](references/keyword-index.md) | Searchable keyword-to-file mapping for fast topic lookups across the repository |
 
 ---
 
@@ -306,6 +308,7 @@ Standalone reference files at the top level of `references/`.
 | File | Description |
 |------|-------------|
 | [templates/parent/letters.md](templates/parent/letters.md) | 5 letter templates: evaluation request, records request, IEP meeting, dispute, 504 request |
+| [templates/parent/cartas-padres-espanol.md](templates/parent/cartas-padres-espanol.md) | Spanish parent letter templates for evaluation requests, IEP meetings, records requests |
 
 ---
 
