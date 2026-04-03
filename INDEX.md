@@ -134,12 +134,26 @@ graph LR
     TPL --> TT["teacher/"]
     TPL --> TC["counselor/"]
     TPL --> TST["staff/"]
+    TPL --> TGEN["General templates"]
+
+    TP --> TP2["cartas-padres-espanol.md"]
+    TS --> TS2["504-decision-tree.md"]
+    TST --> TST2["paraprofessional-guide.md"]
+    TST --> TST3["transportation-safety.md"]
+    TST --> TST4["food-service-safety.md"]
+    TGEN --> TG1["printable-checklists.md"]
 
     SCR --> SC1["calculators.md"]
     SCR --> SC2["run-evals.sh"]
+    SCR --> SC3["check-links.sh"]
+    SCR --> SC4["validate-mermaid.sh"]
 
     EX --> EX1["sample-outputs.md"]
     EV --> EV1["test-cases.json"]
+
+    GH --> GHW["workflows/"]
+    GHW --> GHW1["validate.yml"]
+    CONF --> CONF1[".markdownlint.jsonc"]
 ```
 
 ---
