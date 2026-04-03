@@ -17,7 +17,30 @@ timeline
                : Decision trees, Spanish support, document generation
     2026-03-28 : v7.0.0 Pod Architecture
                : 22 commands, 50+ templates, calculators
+    2026-04-03 : v8.0.0 Visual & Content Expansion
+               : Mermaid diagrams, 3 new references, Spanish expansion
 ```
+
+## v8.0.0 (2026-04-03) — Visual & Content Expansion
+### Added
+- Mermaid diagrams added to 80+ markdown files (flowcharts, timelines, Gantt charts)
+- `references/special-needs/gifted-education.md` — 307 lines, gifted education guide
+- `references/compliance/title-ix.md` — 410 lines, Title IX reference
+- `references/special-needs/504-decision-tree.md` — 480 lines, 504 decision tree guide
+- `templates/parent/cartas-padres-espanol.md` — 5 Spanish parent letter templates
+- 3 new staff templates: paraprofessional, transportation, food service safety
+- Quick-start role cards, printable checklists, keyword index, root `INDEX.md` site map
+- 15 new glossary terms with Spanish translations
+- GitHub Actions CI workflow, link checker and Mermaid validator scripts
+- Worked examples added to FBA, AI policy, graduation audit, ELL planning templates
+### Changed
+- `references/guia-padres-espanol.md` expanded from 161 → 428 lines (+9 sections, 15 FAQs)
+- `SKILL.md` expanded from 814 → 1,015 lines (counselor recipe, guardrails, 4 decision trees, cross-skill handoffs)
+- `scripts/calculators.md` expanded from 212 → 565 lines (completed Decision Engine, IEP Progress Tracker)
+- `references/scenario-walkthroughs.md` expanded from 10 → 22 scenarios
+- `evals/test-cases.json` expanded from 30 → 95 test cases
+- Cross-reference links added across 12 high-traffic files
+- TOCs added to 19 long files, heading standardization across 8 templates
 
 ## v7.0.0 (2026-03-28) — Pod Architecture + Commands + Templates
 ### Added

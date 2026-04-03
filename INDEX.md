@@ -23,9 +23,11 @@
 - [Templates: Teacher](#templates--teacher)
 - [Templates: Counselor](#templates--counselor)
 - [Templates: Staff](#templates--staff)
+- [Templates: General](#templates--general)
 - [Scripts](#scripts)
 - [Examples](#examples)
 - [Evals](#evals)
+- [CI / Config](#ci--config)
 
 ---
 
@@ -42,6 +44,8 @@ graph LR
     ROOT --> SCR["scripts/"]
     ROOT --> EX["examples/"]
     ROOT --> EV["evals/"]
+    ROOT --> GH[".github/"]
+    ROOT --> CONF["Config Files"]
 
     CORE --> SKILL["SKILL.md"]
     CORE --> CLAUDE["CLAUDE.md"]
@@ -88,6 +92,7 @@ graph LR
     COMP --> C3["governance-policy.md"]
     COMP --> C4["funding-programs.md"]
     COMP --> C5["equity-access.md"]
+    COMP --> C6["title-ix.md"]
 
     PROG --> P1["special-populations.md"]
     PROG --> P2["early-childhood.md"]
@@ -98,6 +103,7 @@ graph LR
     PROG --> P7["rural-education.md"]
     PROG --> P8["mo-districts-regions.md"]
     PROG --> P9["english-learners.md"]
+    PROG --> P10["gifted-education.md"]
 
     AI --> A1["INDEX.md"]
     AI --> A2["ai-teaching-learning.md"]
@@ -119,6 +125,8 @@ graph LR
     GEN --> G4["links-and-resources.md"]
     GEN --> G5["scenario-walkthroughs.md"]
     GEN --> G6["guia-padres-espanol.md"]
+    GEN --> G7["quick-start-cards.md"]
+    GEN --> G8["keyword-index.md"]
 
     TPL --> TP["parent/"]
     TPL --> TA["admin/"]
