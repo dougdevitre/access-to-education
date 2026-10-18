@@ -3,3 +3,12 @@
 
 # tel: links are phone numbers, not web pages, so there is nothing to fetch.
 ^tel:
+
+# These sites answer browsers but not the GitHub runner, so the failure says nothing
+# about the link. Each was checked by hand on 2026-10-18.
+# masaonline.org: the runner's TLS handshake fails; the MASA home page loads in a browser.
+^https://www\.masaonline\.org
+# mocase.org and rems.ed.gov: the runner's connection is refused; both servers are up
+# (they answer with a robots.txt that blocks automated readers).
+^https://www\.mocase\.org
+^https://rems\.ed\.gov
