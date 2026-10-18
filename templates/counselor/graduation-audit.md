@@ -34,7 +34,7 @@ flowchart TD
 | Practical Arts | 1.0 | | | | |
 | Physical Education | 1.0 | | | | |
 | Health | 0.5 | | | | |
-| Personal Finance (RSMo 170.013) | 0.5 | | | | |
+| Personal Finance | 0.5 | | | | |
 | Electives | 7.0 | | | | |
 | **TOTAL** | **24.0** | | | | |
 
@@ -135,7 +135,7 @@ flowchart TD
 | Practical Arts | 1.0 | 1.0 | 0 | 0 | Intro to Business |
 | Physical Education | 1.0 | 1.0 | 0 | 0 | Complete |
 | Health | 0.5 | 0.5 | 0 | 0 | Complete |
-| Personal Finance (RSMo 170.013) | 0.5 | 0.5 | 0 | 0 | Completed fall semester, junior year |
+| Personal Finance | 0.5 | 0.5 | 0 | 0 | Completed fall semester, junior year |
 | Electives | 7.0 | 7.0 | 0 | 0 | Spanish I, Spanish II, Yearbook, Computer Apps, Career Exploration, Band (2 years) |
 | **TOTAL** | **24.0** | **22.5** | **0.5** | **1.0** | **Will have 23.0 after spring if Chemistry completed; still short 1.0 science** |
 

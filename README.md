@@ -7,13 +7,13 @@
 
 **A comprehensive Missouri K-12 education navigator powered by AI.**
 
-> Part of **[Access To](https://dougdevitre.org)** — open-source tools for the access gaps that matter most. [See all projects →](https://dougdevitre.org/#pillars)
+> Part of **[Access To](https://dougdevitre.github.io/access-to/)** — open-source tools for the access gaps that matter most. [See all projects →](https://dougdevitre.github.io/access-to/about.html#pillars)
 
 Answers questions, generates documents, and walks through complex processes for students, parents, teachers, specialists, principals, school staff, and district administrators -- grounded in Missouri law (RSMo 160-178), IDEA, ESSA, and DESE guidance.
 
-[![Version](https://img.shields.io/badge/version-7.1.0-blue)]()
-[![Files](https://img.shields.io/badge/files-71-green)]()
-[![Words](https://img.shields.io/badge/words-120%2C759-orange)]()
+![Version](https://img.shields.io/badge/version-7.1.0-blue)
+![Files](https://img.shields.io/badge/files-71-green)
+![Words](https://img.shields.io/badge/words-120%2C759-orange)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---

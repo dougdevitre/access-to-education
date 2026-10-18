@@ -81,7 +81,7 @@ flowchart TD
 
 > **Key distinction:** IEP = student needs *specially designed instruction* to make progress. 504 = student needs *accommodations or modifications* to access the same education as peers, but not specialized instruction.
 
-> **Missouri note:** Under RSMo 162.675-162.695 and DESE guidance, school districts must have a 504 coordinator and written procedures. There is no state funding tied to 504 plans (unlike IEP, which generates state/federal special education funds).
+> **Missouri note:** Under the Section 504 regulations (34 CFR Part 104) and DESE guidance, school districts must have a 504 coordinator and written procedures. There is no state funding tied to 504 plans (unlike IEP, which generates state/federal special education funds).
 
 ---
 
@@ -432,7 +432,7 @@ flowchart TD
 **Step 4A: Office for Civil Rights (OCR) Complaint**
 - File a complaint with the U.S. Department of Education, Office for Civil Rights
 - **Deadline:** Within 180 calendar days of the discriminatory act
-- **How to file:** Online at [ocr.ed.gov](https://ocr.ed.gov/complaints) or by mail to the Kansas City OCR office (covers Missouri)
+- **How to file:** Online at [ocrcas.ed.gov](https://ocrcas.ed.gov) or by mail to the Kansas City OCR office (covers Missouri)
 - OCR will investigate whether the district violated Section 504
 - No cost to the parent
 
@@ -463,10 +463,10 @@ flowchart TD
 ### External References
 - **Section 504 of the Rehabilitation Act of 1973** — 34 CFR Part 104
 - **ADA Amendments Act of 2008 (ADAAA)** — Broadened the definition of disability; applies to 504 eligibility
-- **OCR Complaint Filing** — [https://ocr.ed.gov/complaints](https://ocr.ed.gov/complaints)
+- **OCR Complaint Filing** — [https://ocrcas.ed.gov](https://ocrcas.ed.gov)
 - **OCR Kansas City Office** (serves Missouri) — (816) 268-0550
 - **DESE Special Education** — [https://dese.mo.gov/special-education](https://dese.mo.gov/special-education)
-- **Missouri Protection & Advocacy Services (Mo P&A)** — [https://moadvocacy.org](https://moadvocacy.org) — Free advocacy services for disability rights
+- **Missouri Protection & Advocacy Services (Mo P&A)** — [https://www.moadvocacy.org](https://www.moadvocacy.org) — Free advocacy services for disability rights
 - **Parent Training & Information Center (PTI) Missouri** — [https://missouriparentsact.org](https://missouriparentsact.org) — Free training and support for parents
 
 ### Commands

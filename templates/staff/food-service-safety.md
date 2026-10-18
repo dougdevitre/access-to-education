@@ -37,7 +37,7 @@ flowchart TD
 
 ### Epinephrine Access
 - Know the location of the student's prescribed **EpiPen** (typically with the nurse or in the classroom)
-- If your district stocks **undesignated epinephrine** (RSMo 167.640), know where it is stored in the cafeteria area
+- If your district stocks **undesignated epinephrine** (RSMo 167.630), know where it is stored in the cafeteria area
 - Only administer epinephrine if you have been **trained and authorized** by the school nurse
 - After administering epinephrine, **always call 911** — epinephrine is a bridge, not a cure
 
@@ -180,7 +180,7 @@ Every food service operation must follow HACCP principles to prevent foodborne i
 | **Children's Division Hotline** | 1-800-392-3738 |
 | **Mandated reporter law** | RSMo 210.115 |
 | **Meal confidentiality regulation** | 7 CFR 245.6 |
-| **Undesignated epinephrine law** | RSMo 167.640 |
+| **Undesignated epinephrine law** | RSMo 167.630 |
 | **USDA dietary accommodation form** | Medical Statement for Special Dietary Needs |
 | **Hot holding temperature** | 135F or above |
 | **Cold holding temperature** | 41F or below |

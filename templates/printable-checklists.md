@@ -83,7 +83,7 @@ flowchart TD
 - [ ] Practical Arts -- 1.0 credit
 - [ ] Physical Education -- 1.0 credit
 - [ ] Health -- 0.5 credit
-- [ ] Personal Finance (RSMo 170.013) -- 0.5 credit
+- [ ] Personal Finance -- 0.5 credit
 - [ ] Electives -- 7.0 credits
 - [ ] Total credits earned or in progress meet 24.0 minimum
 
@@ -520,7 +520,7 @@ flowchart TD
 - [ ] District discipline code overview provided
 
 ### First Month -- Role-Specific
-- [ ] Mentor assigned (RSMo 168.028 for certified staff)
+- [ ] Mentor assigned (for certified staff)
 - [ ] Curriculum, standards, or role-specific procedures reviewed
 - [ ] IEP/504 student accommodations reviewed with special education team
 - [ ] PLC or team assignment and meeting schedule confirmed
