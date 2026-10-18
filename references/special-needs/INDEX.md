@@ -41,9 +41,9 @@ graph TD
 
 ## Key Quick Facts
 
-- **Missouri School for the Blind (MSB):** 3815 Magnolia Ave, St. Louis / msb.dese.mo.gov / 314-633-1592
+- **Missouri School for the Blind (MSB):** 3815 Magnolia Ave, St. Louis / msb.dese.mo.gov / 314-776-4320
 - **Missouri School for the Deaf (MSD):** 505 E 5th St, Fulton / msd.dese.mo.gov / (573) 592-4000
-- **RSMo 162.1120:** Braille instruction must be considered for ALL students with visual impairments
+- **IDEA §300.324(a)(2)(iii):** Braille instruction must be considered for ALL students with visual impairments
 - **Blindness Skills Specialists:** Available at each RPDC (RSMo 162.1133)
 - **FM system leasing:** Available through MSD Resource Center on Deafness: (573) 592-2543
 - **Missouri Assistive Technology (MoAT):** at.mo.gov — device loan, demo, reutilization

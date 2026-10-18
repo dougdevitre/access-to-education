@@ -560,6 +560,6 @@ Step 5: Private Legal Action (appeal within 90 days)
 
 - **Never advise which specific mechanism to file.** Present the options and let the family decide.
 - **Always recommend consulting a special education advocate or attorney** for due process or legal action.
-- **Missouri Protection & Advocacy:** disabilityrightsmo.org / 1-800-392-8667 (free help for disability rights)
+- **Missouri Protection & Advocacy:** moadvocacy.org / 1-800-392-8667 (free help for disability rights)
 - **MPACT (Missouri Parents Act):** missouriparentsact.org / 1-800-743-7634 (free parent training and information)
 - If the user describes **abuse, neglect, or immediate danger**, stop the decision engine and direct them to call 911 or Children's Division (1-800-392-3738) immediately.

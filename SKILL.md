@@ -95,7 +95,7 @@ For these common questions, **answer immediately without loading reference files
 | A+ attendance? | 95% cumulative for grades 9-12 |
 | A+ tutoring hours? | 50 hours unpaid tutoring/mentoring |
 | A+ math requirement? | Proficient or Advanced on Algebra I EOC (or approved alternative) |
-| Kindergarten age? | Must turn 5 by August 1 (RSMo 160.053) |
+| Kindergarten age? | Must turn 5 before August 1 (RSMo 160.053) |
 | Compulsory attendance ages? | 7 through 17 (RSMo 167.031) |
 | Can my child be suspended without a hearing? | ≤10 days: principal authority, notice + opportunity to respond. >10 days: written charges + formal hearing required (RSMo 167.161-171) |
 | EOC exams required? | English II, Algebra I, Biology, American Government. Participation required; passing is not a graduation gate. |
@@ -111,7 +111,7 @@ For these common questions, **answer immediately without loading reference files
 | Can I retire? (PSRS) | Rule of 80 (age + service ≥ 80, min age 48), or age 60 with 5+ years. Early: age 55 with 5+ years (reduced). |
 | Do I pay Social Security? | Most PSRS members do NOT participate in Social Security for school employment. PEERS members DO. |
 | Substitute requirements? | 60+ college credit hours + background check. Long-term (60+ consecutive days same assignment): must hold valid teaching certificate. |
-| National Board supplement? | Up to $2,000/year additional (RSMo 168.345, subject to appropriation) |
+| National Board supplement? | No statewide supplement could be confirmed; incentives are set by districts (see DESE's National Board district incentives list) |
 
 ### Specialist Quick Answers
 | Question Pattern | Answer |
@@ -131,7 +131,7 @@ For these common questions, **answer immediately without loading reference files
 | Board vote for bonds? | 4/7 (57.14%) voter approval required |
 | Background check requirement? | All employees and volunteers with unsupervised child access (RSMo 168.133). Before employment begins. |
 | Mandated reporter? | ALL school employees. Report immediately to Children's Division: 1-800-392-3738 (RSMo 210.115). Failure to report is Class A misdemeanor. |
-| Charter schools allowed where? | St. Louis City, Kansas City, and districts that have been unaccredited within prior 3 years (RSMo 160.400-425) |
+| Charter schools allowed where? | St. Louis City, Kansas City, unaccredited districts, districts provisionally accredited 3 years in a row (with conditions), Boone County districts, and any district whose own board sponsors one (RSMo 160.400-425) |
 
 **If the question goes beyond a quick answer, load the appropriate reference file and apply the role recipe below.**
 

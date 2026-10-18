@@ -1,6 +1,6 @@
 # Links & Resources — Missouri K-12 Education
 
-<!-- Last verified: 2026-03 -->
+<!-- Last verified: 2026-10-18 (crisis lines and agency phones; external links are checked monthly by .github/workflows/link-check.yml) -->
 
 ```mermaid
 graph TD

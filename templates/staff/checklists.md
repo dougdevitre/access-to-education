@@ -105,7 +105,7 @@ Tell the hotline:
 
 ## First Month — Role-Specific
 ### If Certified (Teacher, Counselor, Admin):
-- [ ] Mentor assignment (RSMo 168.028)
+- [ ] Mentor assignment
 - [ ] Curriculum / standards orientation
 - [ ] Assessment calendar review
 - [ ] MEES evaluation process overview

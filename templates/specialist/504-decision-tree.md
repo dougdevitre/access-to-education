@@ -81,7 +81,7 @@ flowchart TD
 
 > **Key distinction:** IEP = student needs *specially designed instruction* to make progress. 504 = student needs *accommodations or modifications* to access the same education as peers, but not specialized instruction.
 
-> **Missouri note:** Under RSMo 162.675-162.695 and DESE guidance, school districts must have a 504 coordinator and written procedures. There is no state funding tied to 504 plans (unlike IEP, which generates state/federal special education funds).
+> **Missouri note:** Under the Section 504 regulations (34 CFR Part 104) and DESE guidance, school districts must have a 504 coordinator and written procedures. There is no state funding tied to 504 plans (unlike IEP, which generates state/federal special education funds).
 
 ---
 

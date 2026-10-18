@@ -240,7 +240,7 @@
     "id": "GP01",
     "prompt": "Can a board member's spouse work in the district?",
     "role": "admin",
-    "expected_behavior": "Explain: Missouri doesn't have a comprehensive statewide nepotism statute for school boards, but RSMo 105.454 addresses some conflicts. Board policy governs — many districts have anti-nepotism policies. Board member must disclose any conflict (RSMo 162.215) and abstain from voting on the hiring decision. Apply guardrail: recommend consulting legal counsel for the specific situation.",
+    "expected_behavior": "Explain: Missouri doesn't have a comprehensive statewide nepotism statute for school boards, but RSMo 105.454 addresses some conflicts. Board policy governs — many districts have anti-nepotism policies. Board member must disclose any conflict and abstain from voting on the hiring decision. Apply guardrail: recommend consulting legal counsel for the specific situation.",
     "expected_files": ["governance-policy.md"],
     "quick_answer": false
   },
@@ -248,7 +248,7 @@
     "id": "VI01",
     "prompt": "My daughter is blind and starting kindergarten. What services should the school provide?",
     "role": "parent",
-    "expected_behavior": "Load special-needs/vision-impairment.md. Parent recipe: rights-first. Cover: TVI services, O&M assessment, braille instruction (RSMo 162.1120 — presumption in favor of braille), LMA and FVA assessments, ECC areas, AT assessment, MSB outreach/MoSPIN. Give parent language to request these services in writing. Warm, empowering tone.",
+    "expected_behavior": "Load special-needs/vision-impairment.md. Parent recipe: rights-first. Cover: TVI services, O&M assessment, braille instruction (IDEA §300.324(a)(2)(iii) — presumption in favor of braille), LMA and FVA assessments, ECC areas, AT assessment, MSB outreach/MoSPIN. Give parent language to request these services in writing. Warm, empowering tone.",
     "expected_files": ["special-needs/INDEX.md", "special-needs/vision-impairment.md"],
     "quick_answer": false
   },

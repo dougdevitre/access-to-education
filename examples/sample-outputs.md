@@ -27,7 +27,7 @@ flowchart LR
 Your son has significant protections here. Let me walk through them.
 
 **Immediate rights (the 10-day suspension):**
-Under RSMo 167.161, your son should have received notice of the charges and a chance to tell his side before the suspension took effect. If that didn't happen, the suspension itself may be procedurally flawed.
+Under RSMo 167.171, your son should have received notice of the charges and a chance to tell his side before the suspension took effect. If that didn't happen, the suspension itself may be procedurally flawed.
 
 **Critical step before any extension:**
 Because your son has a 504 plan, the school **must** hold a Manifestation Determination Review (MDR) before extending the suspension beyond 10 cumulative days in this school year. This is a federal requirement under Section 504 and cannot be skipped.
