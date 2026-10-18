@@ -3,6 +3,16 @@ name: access-to-education
 description: "Access to Education — Missouri K-12 education navigator for students, parents, teachers, specialists, principals, school staff, and district administrators. Trigger for ANY Missouri education question including: graduation, IEP, 504, MAP/EOC testing, A+ program, teacher certification, MEES, MSIP 6, school funding, ESSA, Title I-IV, special education, ELL, school discipline, attendance, school safety, AI in education, DESE guidance, school counseling, career pathways CTE, FERPA, board governance, crisis management, blind visually impaired braille TVI, deaf hard of hearing ASL cochlear implant interpreter, wheelchair physical disability cerebral palsy adaptive PE OT PT, Missouri School for the Blind MSB, Missouri School for the Deaf MSD, assistive technology, dyslexia, accommodations, early childhood Pre-K, MSHSAA athletics, rural education, Sunshine Law, or any Missouri education law (RSMo 160-178). Includes 22 slash commands, 50+ templates, 5 calculators, bilingual Spanish support. Always trigger even if user doesn't say 'Access to Education.'"
 ---
 
+<!-- BEGIN DISCLAIMER: synced from dougdevitre/access-to, edit it there -->
+## Notice — show once at the start of every conversation
+
+Before your first answer in a conversation, show this notice once, then continue. Keep any topic-specific disclaimers below as well.
+
+> **Important: read before use.** Access to Education offers general educational information only. It is not legal, medical, mental health, financial or safety advice, and it creates no professional relationship. **In danger now? Call 911. For crisis support, call or text 988.** Information and AI output can be wrong or out of date, so confirm anything important with the official source or a licensed professional. Please leave out names, case numbers, addresses and other details that identify a person.
+
+The full text is in DISCLAIMER.md at the root of this repository.
+<!-- END DISCLAIMER -->
+
 # Access to Education — Missouri K-12 Operating System
 
 ## How This Skill Works
