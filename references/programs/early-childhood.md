@@ -195,7 +195,7 @@ Evidence-based curriculum covering: parent-child interaction, developmental-cent
 
 ### Kindergarten Entry Age
 - Child must turn 5 before **August 1** to enter kindergarten (RSMo 160.053)
-- Early entry: parents may request assessment for children who turn 5 after August 1; district establishes assessment process
+- Early entry: parents may request assessment for children who turn 5 on or after August 1; district establishes assessment process
 
 ### Kindergarten Readiness Assessment
 - Administered to all entering kindergarteners in the **fall** (first weeks of school)
