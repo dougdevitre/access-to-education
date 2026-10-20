@@ -126,8 +126,8 @@ Scores are incorporated into course grades per local board policy. Participation
 | RSMo 162.081 | Lapse of organization | State authority over failing districts |
 | RSMo 167.031 | Compulsory attendance | Ages 7-17; homeschool exemption |
 | RSMo 167.131 | Unaccredited transfers | Student transfer rights |
-| RSMo 167.161 | Short-term suspension | ≤10 days; due process |
-| RSMo 167.171 | Long-term suspension | >10 days; hearing required |
+| RSMo 167.161 | Suspension or expulsion by the board | Notice and hearing before the board |
+| RSMo 167.171 | Summary suspension | Principal ≤10 days; superintendent >10 days, with appeal and hearing rights |
 | RSMo 167.181 | Immunizations | Required for enrollment; exemptions |
 | RSMo 167.800–167.824 | Diabetes in schools | Self-management + school support |
 | RSMo 167.627 | Self-carry medications | Inhalers, EpiPens |
