@@ -214,7 +214,7 @@ You did the right thing by asking. Now make the call.
 Before moving to staff reductions, here's the landscape of options to consider, organized by timeline and political impact.
 
 **Immediate revenue options:**
-- **Operating levy election.** Missouri districts can seek voter approval for an operating levy increase (up to $6.00 per $100 assessed valuation total, RSMo 164.011). Requires simple majority approval. Your current levy rate determines headroom — check your Tax Rate Summary on DESE's MCDS portal.
+- **Operating levy election.** Missouri districts can seek voter approval for an operating levy increase — up to $6.00 per $100 assessed valuation total (verify current levy limits with DESE or bond counsel). Requires simple majority approval. Your current levy rate determines headroom — check your Tax Rate Summary on DESE's MCDS portal.
 - **Title and federal grant optimization.** Review whether you're maximizing Title I, II, III, and IV allocations. Many districts leave allowable costs unclaimed — particularly Title II PD, Title IV well-rounded education, and IDEA proportionate share. Load a funding audit using `references/compliance/funding-programs.md` for the full checklist.
 - **E-Rate and technology savings.** If your district hasn't applied for E-Rate recently, you may be eligible for 20-90% discounts on internet, broadband, and networking equipment.
 
