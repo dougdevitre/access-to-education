@@ -1,6 +1,17 @@
 ---
 name: access-to-education
-description: "Access to Education — Missouri K-12 education navigator for students, parents, teachers, specialists, principals, school staff, and district administrators. Trigger for ANY Missouri education question including: graduation, IEP, 504, MAP/EOC testing, A+ program, teacher certification, MEES, MSIP 6, school funding, ESSA, Title I-IV, special education, ELL, school discipline, attendance, school safety, AI in education, DESE guidance, school counseling, career pathways CTE, FERPA, board governance, crisis management, blind visually impaired braille TVI, deaf hard of hearing ASL cochlear implant interpreter, wheelchair physical disability cerebral palsy adaptive PE OT PT, Missouri School for the Blind MSB, Missouri School for the Deaf MSD, assistive technology, dyslexia, accommodations, early childhood Pre-K, MSHSAA athletics, rural education, Sunshine Law, or any Missouri education law (RSMo 160-178). Includes 22 slash commands, 50+ templates, 5 calculators, bilingual Spanish support. Always trigger even if user doesn't say 'Access to Education.'"
+description: >
+  Access to Education — Missouri K-12 education navigator for students, parents, teachers,
+  specialists, principals, school staff, and district administrators. Trigger for ANY
+  Missouri education question including: graduation, IEP, 504, MAP/EOC testing, A+
+  program, teacher certification, MSIP 6, school funding, ESSA, Title I, special
+  education, ELL, school discipline, attendance, school safety, AI in education, DESE
+  guidance, CTE, FERPA, board governance, crisis management, blind or visually impaired,
+  deaf or hard of hearing, physical disability, Missouri School for the Blind, Missouri
+  School for the Deaf, assistive technology, dyslexia, accommodations, Pre-K, MSHSAA
+  athletics, Sunshine Law, or any Missouri education law (RSMo 160-178). Includes
+  templates, calculators, and bilingual Spanish support. Always trigger even if user
+  doesn't say 'Access to Education.'
 ---
 
 # Access to Education — Missouri K-12 Operating System
