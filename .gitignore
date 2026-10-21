@@ -24,3 +24,6 @@ Desktop.ini
 
 # Eval results (generated, not committed)
 evals/results-*.json
+
+# claude.ai install zip, built by scripts/build-skill-zip.sh
+dist/

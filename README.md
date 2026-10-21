@@ -79,14 +79,31 @@ Then just ask a question:
 > Mi hijo necesita una evaluacion. Que hago?
 ```
 
-### Option 2: Claude Project
+### Option 2: Use as a Claude Skill
+
+Add Access to Education to Claude at [claude.ai](https://claude.ai) in a few clicks. It works on the Free, Pro, Max, Team and Enterprise plans.
+
+1. **Download the install file:** [access-to-education.zip](https://github.com/dougdevitre/access-to-education/releases/download/skill-latest/access-to-education.zip)
+2. **Don't unzip it.** Claude needs the `.zip` file just as it downloaded.
+3. **Turn on code execution.** Skills need it.
+   - **Free, Pro or Max:** open **Settings > Capabilities** and turn on **Code execution and file creation**.
+   - **Team or Enterprise:** an organization owner opens **Organization settings > Plugins & skills**, clicks the **Policy** tab, and turns on both **Code execution and file creation** and **Skills**.
+4. **Upload it:** open **Customize > Skills**, click **+**, then **+ Create skill**, then **Upload a skill**, and choose `access-to-education.zip`.
+5. **Turn it on:** in **Customize > Skills**, switch on **access-to-education**. Claude will now use it for any Missouri K-12 education question.
+
+These steps come from Claude's help center: [Use Skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
+If the link 404s, the first release hasn't been published yet.
+
+Maintainers and forks: `scripts/build-skill-zip.sh` builds the same file into `dist/`. The Skill package workflow republishes it on every change to `main`.
+
+### Option 3: Claude Project
 
 1. Create a new [Claude Project](https://claude.ai)
 2. Paste the contents of `SKILL.md` as the **custom instructions**
 3. Upload everything in `references/`, `templates/`, `scripts/`, and `examples/` as **project knowledge**
 4. Start chatting
 
-### Option 3: API / Custom Integration
+### Option 4: API / Custom Integration
 
 Use `MANIFEST.json` as the routing layer. It maps every topic to its canonical reference file, making it straightforward to build retrieval-augmented generation (RAG) pipelines or chatbot backends.
 
