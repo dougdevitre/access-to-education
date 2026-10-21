@@ -29,7 +29,7 @@ flowchart TD
 ```
 
 ## Table of Contents
-- [1. Missouri Gifted Definition (RSMo 162.675-162.695)](#1-missouri-gifted-definition-rsmo-162675-162695)
+- [1. Missouri Gifted Definition (RSMo 162.670–162.995)](#1-missouri-gifted-definition-rsmo-162670162995)
 - [2. Identification Process](#2-identification-process)
   - [Referral Sources](#referral-sources)
   - [Assessment Tools](#assessment-tools)
@@ -46,16 +46,16 @@ flowchart TD
 
 ---
 
-## 1. Missouri Gifted Definition (RSMo 162.675-162.695)
+## 1. Missouri Gifted Definition (RSMo 162.670–162.995)
 
 Missouri statute defines **gifted children** as students who exhibit high performance capability in intellectual, creative, or artistic areas, possess an unusual leadership capacity, or excel in specific academic fields, and who require services or activities not ordinarily provided by the school in order to fully develop those capabilities.
 
-Key statutory provisions under RSMo 162.675-162.695:
+Key statutory provisions under RSMo 162.670–162.995 (see 162.675 definitions):
 - **162.675** -- Definitions; "gifted children" means those identified as possessing demonstrated or potential ability that gives evidence of high performance in areas such as intellectual, creative, specific academic, or leadership ability
 - **162.680** -- Each district **may** establish a program for gifted education; DESE provides guidelines and technical assistance
 - **162.685** -- State funding provisions for approved gifted programs
 - **162.690** -- DESE shall develop and distribute guidelines covering identification procedures, program standards, and teacher qualifications
-- **162.695** -- Annual reporting requirements; districts with approved programs must submit data to DESE on students served, services provided, and program outcomes
+- **162.695** -- *(verify with an attorney: no RSMo 162.695 appears on revisor.mo.gov)* Annual reporting requirements; districts with approved programs must submit data to DESE on students served, services provided, and program outcomes
 
 **Important distinction:** Missouri gifted education is **permissive, not mandatory**. Districts are encouraged but not required to offer gifted programs. However, districts that do operate programs must follow DESE guidelines and meet reporting requirements.
 
