@@ -49,7 +49,8 @@ PSRS is the defined benefit pension system for certificated (certified) employee
 ### Retirement Eligibility
 | Condition | Requirements |
 |-----------|-------------|
-| **Normal retirement (Rule of 80)** | Age + years of service = 80 (minimum age 48) |
+| **Normal retirement (Rule of 80)** | Age + years of service ≥ 80 |
+| **Normal retirement (30 years)** | 30+ years of service at any age |
 | **Normal retirement (age/service)** | Age 60 with 5+ years of service |
 | **Early retirement** | Age 55 with 5+ years of service (reduced benefit) |
 | **25-and-out** | 25 years of service regardless of age (with reduction if under Rule of 80) |
@@ -300,7 +301,7 @@ See `references/health-wellness.md` (Staff Wellness section) for detailed inform
 ### Strategies to Address Substitute Shortages
 - Increase daily pay rates (competitive analysis with neighboring districts)
 - Provide long-term substitute benefits (health insurance, pro-rated)
-- Streamline substitute certification process (DESE substitute certificate requires only 60 credit hours)
+- Streamline substitute certification process (DESE substitute certificate requires 36 college semester hours, or 20 clock hours of DESE-approved training)
 - Build a dedicated substitute pool (recruit retirees, community members, college students)
 - Partner with substitute management companies (Kelly Education, Swing Education, etc.)
 - Internal coverage systems (admin coverage rotation, study hall consolidation, combined classes as last resort)

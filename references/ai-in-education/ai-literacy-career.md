@@ -187,7 +187,7 @@ AI fundamentally challenges traditional assessment (take-home essays, worksheet-
 8. **Embed conferencing** — student-teacher conferences to verify understanding
 
 ### Standards-Based Grading and AI
-Standards-based grading (see `references/curriculum-instruction.md`) is well-suited to the AI era because it:
+Standards-based grading (see `references/curriculum-instruction/instructional-practice.md`, §19) is well-suited to the AI era because it:
 - Focuses on what students know and can demonstrate (not what they produced at home)
 - Values multiple forms of evidence (not just written products)
 - Emphasizes growth and mastery (multiple opportunities to demonstrate)

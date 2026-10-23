@@ -296,7 +296,7 @@ gantt
 - [ ] Tenure determinations made after 5 consecutive years (RSMo 168.104)
 - [ ] MEES evaluations completed per schedule (non-tenured: annually; tenured: per district schedule)
 - [ ] Mentoring program provided for new teachers
-- [ ] Substitute certificates verified (60+ credit hours; background check)
+- [ ] Substitute certificates verified (valid DESE substitute certificate; background check)
 - [ ] Paraprofessional qualifications verified (ESSA requirements for Title I schools)
 - [ ] Workers' compensation coverage maintained
 - [ ] FMLA procedures in place (districts with 50+ employees)

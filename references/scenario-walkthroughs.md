@@ -260,7 +260,8 @@ Within 1-2 weeks, convene the crisis team: What was supposed to happen? What act
 **Step 2: Check eligibility.**
 | Path | Requirement |
 |------|------------|
-| Rule of 80 | Age + years of service ≥ 80 (minimum age 48) |
+| Rule of 80 | Age + years of service ≥ 80 |
+| 30 years | 30+ years of service at any age |
 | Age + service | Age 60 with 5+ years of service |
 | Early retirement | Age 55 with 5+ years (reduced benefit) |
 | 25-and-out | 25 years regardless of age (reduced if under Rule of 80) |

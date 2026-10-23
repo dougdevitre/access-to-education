@@ -280,7 +280,7 @@ Scores are incorporated into course grades per local board policy. Participation
 |-------------|----------|-----------------|
 | Initial Professional Certificate (IPC) | 4 years | Bachelor's, approved program, assessments, background check |
 | Career Continuous Professional Certificate (CCPC) | Lifetime (with renewal) | 4 years on IPC, mentoring, PD, district recommendation |
-| Substitute Certificate | 4 years | 60+ college credit hours, background check |
+| Substitute Certificate | 4 years | 36+ college semester hours, or HS diploma/equivalent + 20 clock hours of DESE-approved training; background check |
 | Temporary Authorization Certificate (TAC) | 1-3 years | District-specific; DESE approval; enrolled in coursework |
 | CTE Certificate of License to Teach | Varies | Industry experience + education coursework |
 
@@ -290,7 +290,8 @@ Scores are incorporated into course grades per local board policy. Participation
 
 | Path | Requirements |
 |------|-------------|
-| Rule of 80 | Age + years of service ≥ 80 (minimum age 48) |
+| Rule of 80 | Age + years of service ≥ 80 |
+| 30 years | 30+ years of service at any age |
 | Age + service | Age 60 with 5+ years |
 | Early retirement | Age 55 with 5+ years (reduced benefit) |
 | 25-and-out | 25 years regardless of age (reduced if under Rule of 80) |

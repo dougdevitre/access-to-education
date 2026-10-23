@@ -338,7 +338,7 @@ Required every 2 years. Must include:
 
 ### Missouri Workforce Development
 - **Missouri Job Centers:** statewide network providing job search, training, and employer services
-- **WIOA (Workforce Innovation and Opportunity Act):** federal framework for workforce development (see `mo-jobs` skill for detail)
+- **WIOA (Workforce Innovation and Opportunity Act):** federal framework for workforce development (for detail, see the `access-to-jobs` skill, if installed, or your local Job Center)
 - **Missouri Division of Workforce Development:** administers WIOA, apprenticeship, and labor market information
 - **MoScores:** Missouri's labor market data tool for career exploration and program alignment
 

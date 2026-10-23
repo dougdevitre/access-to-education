@@ -158,18 +158,18 @@
     "id": "X01",
     "prompt": "My ex-husband won't return my child after his weekend. The school is involved because my daughter missed Monday.",
     "role": "parent",
-    "expected_behavior": "Cross-skill handoff. Address the school attendance side (excused absence process, McKinney-Vento if housing is disrupted). Then handoff: 'The custody/visitation enforcement issue is outside education law. For co-parenting documentation and court preparation, CoTrackPro can help.' Apply guardrail for custody disputes.",
+    "expected_behavior": "Cross-skill handoff. Address the school attendance side (excused absence process, McKinney-Vento if housing is disrupted). Then handoff: the custody/visitation enforcement issue is outside education law; point to a family law attorney or legal aid, and to the access-to-peace skill (if installed) for co-parenting communication. Apply guardrail for custody disputes.",
     "expected_files": ["students.md"],
-    "handoff_skill": "cotrackpro-mcp",
+    "handoff_skill": "access-to-peace",
     "quick_answer": false
   },
   {
     "id": "X02",
     "prompt": "I just got my record expunged. Can I work in a school now?",
     "role": "general",
-    "expected_behavior": "Explain RSMo 168.133 background check requirements. Note that expunged records should not appear on background checks per Missouri expungement law. But apply guardrail: 'Whether a specific expunged offense affects school employment eligibility is a legal question. For expungement details and verification...' → handoff to expunge-skill.",
+    "expected_behavior": "Explain RSMo 168.133 background check requirements. Note that expunged records should not appear on background checks per Missouri expungement law. But apply guardrail: 'Whether a specific expunged offense affects school employment eligibility is a legal question. Talk with an attorney or legal aid...' → handoff to the access-to-services skill (if installed) for reentry and record-clearing resources.",
     "expected_files": [],
-    "handoff_skill": "expunge-skill",
+    "handoff_skill": "access-to-services",
     "quick_answer": false
   },
   {

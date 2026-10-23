@@ -98,7 +98,7 @@ Students in certain categories receive additional weight:
 ### Local Revenue Sources
 - **Property tax (operating levy):** primary local funding source; Proposition C (1982) dedicated a portion of sales tax to education
 - **Operating levy cap:** $6.00 per $100 assessed valuation (with voter override possible)
-- **Bond issues:** for capital improvements, technology, transportation; require 4/7 (57%) voter approval
+- **Bond issues:** for capital improvements, technology, transportation; require 4/7 (57%) voter approval at the general municipal election day, primary or general elections, 2/3 at other elections (Mo. Const. art. VI §26(b))
 - **Proposition C sales tax:** state sales tax distributed to districts based on ADA
 
 ### Federal Funding

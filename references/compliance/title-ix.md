@@ -400,9 +400,9 @@ If a student, parent, or employee believes the district has not adequately addre
 ### Within This Knowledge Base
 - `references/compliance/mo-education-law.md` -- federal laws applicable to Missouri schools, including civil rights statutes
 - `references/compliance/equity-access.md` -- broader equity and access guidance
-- `references/roles/role-parent.md` -- parent rights, including how to advocate around Title IX
-- `references/roles/role-principal.md` -- building-level compliance responsibilities
-- `references/operations/school-safety.md` -- safety protocols related to sexual violence and threat assessment
+- `references/roles/students.md` -- student and parent rights (see §6 Parent Rights in Education), including how to advocate around Title IX
+- `references/roles/building-leaders.md` -- building-level compliance responsibilities
+- `references/operations/crisis-emergency.md` -- safety and crisis response protocols, including threat assessment
 - `templates/` -- letter templates for parent complaints, due process requests, and formal grievances
 
 ---

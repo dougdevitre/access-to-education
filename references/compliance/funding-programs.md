@@ -315,7 +315,7 @@ Districts receiving E-Rate must comply with the Children's Internet Protection A
 
 ### General Obligation Bonds
 - Used for capital projects: building construction/renovation, technology infrastructure, buses, equipment
-- Require **4/7 voter approval** (57.14%) at a regular or special election
+- Require **4/7 voter approval** (57.14%) at the general municipal election day, primary or general elections; **2/3** at all other elections (Mo. Const. art. VI §26(b))
 - Bonded indebtedness limits: generally 15% of assessed valuation (verify with bond counsel)
 - Repaid through debt service property tax levy
 

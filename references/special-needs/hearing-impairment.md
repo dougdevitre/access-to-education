@@ -80,7 +80,7 @@ Many young children experience fluctuating conductive hearing loss due to chroni
 - **Communication approach:** bilingual — American Sign Language (ASL) and English
 - **Residential program:** dormitory/cottage-style housing; students travel home weekends
 - **Transportation:** MSD provides statewide transportation between campus and designated pickup points
-- **Superintendent:** Christopher Daily, (573) 592-2504
+- **Main office:** (573) 592-4000 (voice)
 - **Website:** msd.dese.mo.gov
 
 ### MSD Resource Center on Deafness (Outreach — Statewide)

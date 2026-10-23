@@ -15,6 +15,22 @@ graph TD
     A --> L[Homeschool /<br/>HiSET Options]
 ```
 
+## If You Need Help Right Now
+
+If you are a student or parent and something feels unsafe or too heavy to carry alone, you can reach someone today. These lines are free, confidential and open 24/7.
+
+| Situation | Who to contact |
+| --- | --- |
+| In danger right now | Call **911** |
+| Thinking about hurting yourself, or feeling hopeless | Call or text **988** (Suicide & Crisis Lifeline). En español: llame al 988 y marque 2, o envíe AYUDA al 988. |
+| Want to text instead of call | Text **HOME** to **741741** (Crisis Text Line). En español: envíe HOLA al 741741. |
+| LGBTQ+ young people | **Trevor Project:** call 1-866-488-7386, or text START to 678-678 |
+| Someone at home is hurting you or not taking care of you | **Childhelp:** call or text 1-800-422-4453. In Missouri, you or an adult can also call the **Child Abuse & Neglect Hotline** at 1-800-392-3738 (Missouri only). |
+
+You can also tell a school counselor, teacher or other adult you trust. You do not have to have the right words. Saying "I need help" is enough.
+
+---
+
 ## Table of Contents
 1. Graduation Requirements
 2. A+ Schools Program
@@ -139,7 +155,7 @@ ESSA defines chronic absenteeism as missing 10% or more of school days (excused 
 - Right to appeal to the school board (if initial hearing was before a hearing officer)
 
 ### Discipline of Students with Disabilities (IDEA / [Section 504](../../templates/specialist/plans-and-forms.md))
-- **Manifestation Determination Review (MDR):** required before any removal exceeding 10 cumulative school days in a year for a student with an [IEP](../roles/specialists.md) or [504 plan](../../templates/specialist/plans-and-forms.md)
+- **Manifestation Determination Review (MDR):** required for a disciplinary removal that changes placement (more than 10 consecutive school days, or a series totaling more than 10 school days in a year that forms a pattern; 34 CFR 300.536) for a student with an [IEP](../roles/specialists.md) or [504 plan](../../templates/specialist/plans-and-forms.md)
 - MDR team must determine: (1) Was the conduct caused by or substantially related to the disability? (2) Was the conduct a direct result of the district's failure to implement the IEP/504?
 - If YES to either → the behavior IS a manifestation → student returns to placement; IEP/504 team reviews and revises the plan; FBA/BIP conducted
 - If NO → district may apply standard discipline, but must continue FAPE (Free Appropriate Public Education) during removal
