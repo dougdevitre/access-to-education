@@ -28,6 +28,7 @@ flowchart TD
 **Case Manager:** ___________________________
 
 ### 2+ Weeks Before
+
 - [ ] Send parent invitation (Prior Written Notice of meeting)
   - Includes: purpose, date, time, location, who will attend, parent rights
   - Sent via: ☐ Mail ☐ Email ☐ Hand-delivered ☐ Interpreter arranged (language: ___)
@@ -45,6 +46,7 @@ flowchart TD
 - [ ] Request excusal forms if any required member cannot attend (parent must agree in writing)
 
 ### 1 Week Before
+
 - [ ] Collect and review all data:
   - [ ] Current grades and attendance
   - [ ] Progress on current IEP goals (most recent progress reports)
@@ -65,6 +67,7 @@ flowchart TD
 - [ ] Reserve meeting room
 
 ### Day of Meeting
+
 - [ ] Set up room — seating for all team members, copies at each seat
 - [ ] Have blank forms ready (in case new goals or services are added)
 - [ ] Start on time; introduce all team members
@@ -73,6 +76,7 @@ flowchart TD
 - [ ] Document all decisions — who proposed, who agreed, any disagreements
 
 ### Immediately After
+
 - [ ] Provide parent a copy of the finalized IEP (or indicate when they'll receive it)
 - [ ] Provide Procedural Safeguards if not given at meeting start
 - [ ] Get parent consent for initial placement (initial IEPs only)
@@ -95,7 +99,7 @@ flowchart TD
 ### Goal Progress Summary
 
 | Goal # | Goal Area | Goal Statement (abbreviated) | Baseline | Target | Current Level | Status |
-|--------|----------|---------------------------|----------|--------|--------------|--------|
+| -------- | ---------- | --------------------------- | ---------- | -------- | -------------- | -------- |
 | 1 | | | | | | ☐ Met ☐ Progressing ☐ Insufficient ☐ Not addressed |
 | 2 | | | | | | ☐ Met ☐ Progressing ☐ Insufficient ☐ Not addressed |
 | 3 | | | | | | ☐ Met ☐ Progressing ☐ Insufficient ☐ Not addressed |
@@ -109,7 +113,7 @@ flowchart TD
 **Measurement method:** ☐ Data collection ☐ Work samples ☐ Observation ☐ Assessment ☐ Other: ___
 
 | Date | Data Point / Score | Notes |
-|------|-------------------|-------|
+| ------ | ------------------- | ------- |
 | | | |
 | | | |
 | | | |
@@ -130,7 +134,7 @@ flowchart TD
 ### Services Delivered This Period
 
 | Service | IEP Says (frequency/duration) | Actually Delivered | Missed Sessions | Reason for Misses |
-|---------|------------------------------|-------------------|----------------|------------------|
+| --------- | ------------------------------ | ------------------- | ---------------- | ------------------ |
 | | | | | |
 | | | | | |
 | | | | | |
@@ -138,10 +142,11 @@ flowchart TD
 **Compensatory services needed?** ☐ No ☐ Yes — for: _______________
 
 ### Progress Report to Parents
+
 **Reporting frequency:** ☐ Quarterly (with report cards) ☐ Other: ___
 
 | Period | Sent to Parent | Method | Date |
-|--------|---------------|--------|------|
+| -------- | --------------- | -------- | ------ |
 | Q1 | ☐ Yes ☐ No | ☐ Mail ☐ Email ☐ Conference ☐ Portal | |
 | Q2 | ☐ Yes ☐ No | ☐ Mail ☐ Email ☐ Conference ☐ Portal | |
 | Q3 | ☐ Yes ☐ No | ☐ Mail ☐ Email ☐ Conference ☐ Portal | |
@@ -157,7 +162,7 @@ flowchart TD
 ### Transition Assessments (required before writing transition goals)
 
 | Assessment Type | Tool Used | Date | Results Summary |
-|----------------|----------|------|----------------|
+| ---------------- | ---------- | ------ | ---------------- |
 | **Interest/preference** | ☐ Missouri Connections ☐ Other: ___ | | |
 | **Aptitude/ability** | | | |
 | **Independent living skills** | | | |
@@ -174,7 +179,7 @@ flowchart TD
 ### Transition Services & Activities
 
 | Area | Activity | Who's Responsible | Timeline |
-|------|---------|------------------|----------|
+| ------ | --------- | ------------------ | ---------- |
 | **Instruction** (courses, curriculum aligned to goals) | | | |
 | **Related services** (supports needed to reach goals) | | | |
 | **Community experiences** (jobs, volunteering, campus visits) | | | |
@@ -184,7 +189,7 @@ flowchart TD
 ### Agency Connections
 
 | Agency | Contact | Purpose | Consent Obtained? |
-|--------|---------|---------|------------------|
+| -------- | --------- | --------- | ------------------ |
 | Vocational Rehabilitation (VR) | | | ☐ Yes ☐ No ☐ N/A |
 | Sheltered workshop / supported employment | | | ☐ Yes ☐ No ☐ N/A |
 | Community mental health | | | ☐ Yes ☐ No ☐ N/A |
@@ -193,10 +198,12 @@ flowchart TD
 | Other: ___ | | | ☐ Yes ☐ No ☐ N/A |
 
 ### Age of Majority
+
 - [ ] Student informed of transfer of rights at least 1 year before age 18
 - [ ] Rights transfer notification documented in IEP
 - [ ] Student invited to participate in IEP meeting (required)
 
 ### Summary of Performance (complete before graduation)
+
 - [ ] SOP drafted — includes: academic achievement, functional performance, recommendations for post-secondary supports
 - [ ] Given to student and family before exiting high school

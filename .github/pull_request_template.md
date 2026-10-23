@@ -18,3 +18,6 @@
 ## Source
 
 <!-- Link or citation for the change. -->
+
+<!-- A pull request body sits under the PR title, so it starts at "##" on purpose. -->
+<!-- markdownlint-disable-file MD041 -->

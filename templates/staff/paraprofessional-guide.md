@@ -22,7 +22,7 @@ flowchart TD
 Under the Every Student Succeeds Act (ESSA), paraprofessionals working in Title I programs or Title I schoolwide buildings must meet **one** of the following:
 
 | Pathway | Requirement |
-|---------|-------------|
+| --------- | ------------- |
 | **College coursework** | Completed at least **60 semester hours** of college credit from an accredited institution |
 | **Associate's degree** | Hold an associate's degree (or higher) from an accredited institution |
 | **Assessment** | Passed the Missouri ParaPro Assessment or approved local assessment demonstrating knowledge in reading, writing, and math |
@@ -38,6 +38,7 @@ Under the Every Student Succeeds Act (ESSA), paraprofessionals working in Title 
 ## Scope of Duties: What Paras CAN and CANNOT Do
 
 ### What You CAN Do (Under Teacher Supervision)
+
 - [x] Provide one-on-one or small-group reinforcement of lessons **planned by the teacher**
 - [x] Assist students with assignments and classwork
 - [x] Implement accommodations and modifications listed in a student's IEP or 504 plan
@@ -50,6 +51,7 @@ Under the Every Student Succeeds Act (ESSA), paraprofessionals working in Title 
 - [x] Support classroom behavior management under the teacher's plan
 
 ### What You CANNOT Do Independently
+
 - ✗ **Plan or design instruction** — the teacher must create all lesson plans
 - ✗ **Introduce new concepts or skills** without teacher direction
 - ✗ **Make instructional decisions** about what a student should learn
@@ -64,6 +66,7 @@ Under the Every Student Succeeds Act (ESSA), paraprofessionals working in Title 
 ## Working with IEP Students
 
 ### Accommodation Implementation
+
 - Review each assigned student's IEP accommodation page **at the start of the year** and after every IEP meeting
 - Ask the special education teacher to clarify any accommodation you do not understand
 - Common accommodations you may implement:
@@ -77,10 +80,11 @@ Under the Every Student Succeeds Act (ESSA), paraprofessionals working in Title 
   - [ ] Behavior support (token boards, check-in/check-out, sensory tools)
 
 ### Data Collection
+
 Accurate data is critical to IEP progress monitoring. You may be asked to record:
 
 | Data Type | How to Record |
-|-----------|---------------|
+| ----------- | --------------- |
 | **Frequency** | Tally marks each time a target behavior occurs |
 | **Duration** | Start/stop timer for how long a behavior lasts |
 | **Task completion** | Percentage of items completed or correct |
@@ -131,12 +135,14 @@ Paraprofessionals often develop close relationships with students, especially in
 Effective communication with your supervising teacher is essential to student success.
 
 ### Daily Communication
+
 - [ ] Review the daily schedule and any changes before students arrive
 - [ ] Ask clarifying questions about lesson plans or accommodations
 - [ ] Report any student concerns (behavioral, emotional, academic) the same day
 - [ ] Submit data sheets and anecdotal notes on the agreed schedule
 
 ### When to Escalate Immediately
+
 - Student makes a statement about self-harm or harm to others
 - Student discloses abuse or neglect
 - Student has a medical emergency (seizure, allergic reaction, injury)
@@ -144,6 +150,7 @@ Effective communication with your supervising teacher is essential to student su
 - A conflict or safety concern arises that you cannot manage safely
 
 ### Best Practices
+
 - Use a shared communication log (binder, digital document, or app) for non-urgent items
 - Attend team meetings and IEP meetings when invited — your observations are valuable
 - Ask for feedback on your work regularly
@@ -169,7 +176,7 @@ Know your role in every emergency scenario. Review these with your building admi
 ## Quick Reference Card
 
 | Item | Details |
-|------|---------|
+| ------ | --------- |
 | **Children's Division Hotline** | 1-800-392-3738 |
 | **ESSA qualification** | 60 hours / associate's / assessment |
 | **Key law: mandated reporting** | RSMo 210.115 |

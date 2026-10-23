@@ -22,6 +22,7 @@ graph TD
 ```
 
 ## Table of Contents
+
 - [Calculator 1: PSRS Retirement Eligibility](#calculator-1-psrs-retirement-eligibility)
 - [Calculator 2: A+ Eligibility Check](#calculator-2-a-eligibility-check)
 - [Calculator 3: Graduation Credit Tracker](#calculator-3-graduation-credit-tracker)
@@ -35,12 +36,14 @@ graph TD
 ## Calculator 1: PSRS Retirement Eligibility
 
 ### Inputs Needed
+
 1. Current age
 2. Years of creditable PSRS service
 3. Planned retirement date (optional)
 
 ### Calculation
-```
+
+```text
 Rule of 80:     age + service ≥ 80
 30 years:       service ≥ 30 (any age)
 Age/Service:    age ≥ 60 AND service ≥ 5
@@ -49,6 +52,7 @@ Early:          age ≥ 55 AND service ≥ 5 (reduced benefit)
 ```
 
 ### How to Present
+
 1. Calculate current Rule of 80 sum: `age + service = ___`
 2. If ≥ 80: "You're eligible now under Rule of 80."
 3. If < 80: "You need ___ more points. Each year you keep working adds about 2 points (1 year of age + 1 year of service), so that's approximately ___ years from now (age ___)."
@@ -59,6 +63,7 @@ Early:          age ≥ 55 AND service ≥ 5 (reduced benefit)
 8. Flag WEP/GPO if they mention Social Security from other work.
 
 ### Example
+
 > Teacher, age 53, 28 years of service.
 > Rule of 80: 53 + 28 = 81 ✓
 > **Eligible NOW under Rule of 80.**
@@ -70,6 +75,7 @@ Early:          age ≥ 55 AND service ≥ 5 (reduced benefit)
 ## Calculator 2: A+ Eligibility Check
 
 ### Inputs Needed
+
 1. Is the school an A+ designated school?
 2. How many consecutive years has the student attended?
 3. Current cumulative GPA (unweighted)
@@ -80,7 +86,8 @@ Early:          age ≥ 55 AND service ≥ 5 (reduced benefit)
 8. Algebra I EOC score (Proficient/Advanced, or approved alternative)
 
 ### Decision Logic
-```
+
+```text
 School designated A+?          → NO = ineligible (school must apply to DESE)
 Attended 3+ consecutive years? → NO = may still qualify if enrolled entire HS career
 GPA ≥ 2.5?                    → NO = calculate what's needed to reach 2.5
@@ -92,10 +99,12 @@ Algebra I EOC Proficient+?    → NO = retake options, alternative assessments
 ```
 
 ### How to Present
+
 For each requirement: ✅ Met or ⚠️ Not yet met + specific action to fix.
 Always end with: "Meet with your A+ coordinator at [school] to verify your status."
 
 ### Recovery Calculations
+
 **GPA recovery:** If current GPA is below 2.5, calculate approximate grades needed:
 - "You need approximately [X] semester hours at [Y] grade average to bring your cumulative GPA to 2.5."
 - Credit recovery for failed courses can help (replacing an F with a passing grade raises GPA).
@@ -110,10 +119,11 @@ Always end with: "Meet with your A+ coordinator at [school] to verify your statu
 ## Calculator 3: Graduation Credit Tracker
 
 ### Inputs Needed
+
 Collect credits earned by subject area (can work from a transcript or self-report):
 
 | Subject | Required | Earned | In Progress | Remaining |
-|---------|----------|--------|-------------|-----------|
+| --------- | ---------- | -------- | ------------- | ----------- |
 | ELA | 4.0 | | | |
 | Math | 3.0 | | | |
 | Science | 3.0 | | | |
@@ -127,10 +137,12 @@ Collect credits earned by subject area (can work from a transcript or self-repor
 | **TOTAL** | **24.0** | | | |
 
 ### Calculation
+
 For each subject: `remaining = required - earned - in_progress`
 Flag any subject where remaining > 0 and available semesters may not be sufficient.
 
 ### How to Present
+
 1. Subject-by-subject status (✅ complete, 🔄 in progress, ⚠️ need more)
 2. Total credits earned vs. total needed
 3. Semesters remaining × credits per semester = capacity
@@ -143,6 +155,7 @@ Flag any subject where remaining > 0 and available semesters may not be sufficie
 ## Calculator 4: Special Education Timeline Tracker
 
 ### Inputs Needed
+
 1. Date of referral
 2. Date parent consent for evaluation was received
 3. Date evaluation was completed
@@ -153,7 +166,8 @@ Flag any subject where remaining > 0 and available semesters may not be sufficie
 8. Student's date of birth (for transition and age of majority)
 
 ### Timeline Checks
-```
+
+```text
 Evaluation: consent received + 60 calendar days = deadline → was eval completed on time?
 IEP development: eligibility + 30 calendar days = deadline → was IEP developed on time?
 Annual review: last IEP date + 365 days = next review due → is it overdue?
@@ -163,6 +177,7 @@ Age of majority: DOB + 17 years = notification due (1 year before 18th birthday)
 ```
 
 ### How to Present
+
 Traffic-light status for each timeline:
 - 🟢 On time / compliant
 - 🟡 Coming due within 30 days
@@ -175,10 +190,12 @@ Always provide: the specific date of the deadline and the number of days remaini
 ## Calculator 5: Funding Estimator (Simplified)
 
 ### Purpose
+
 Help administrators estimate state aid impact of enrollment changes.
 
 ### Simplified Formula
-```
+
+```text
 Estimated State Aid Change = ΔEnrollment × SAT × avg_weight_factor
 ```
 Where:
@@ -187,6 +204,7 @@ Where:
 - avg_weight_factor = approximate weighting (typically 1.3-1.5 for a mixed population)
 
 ### Caveats
+
 - This is a rough estimate only
 - Actual formula is far more complex (local effort deduction, hold harmless, tier calculations)
 - Always verify with DESE's School Finance office or the district's financial consultant
@@ -197,9 +215,11 @@ Where:
 ## Calculator 6: IEP Goal Progress Tracker
 
 ### Purpose
+
 Help parents, teachers, and case managers determine whether a student is on track to meet IEP goals before the next annual review.
 
 ### Inputs Needed
+
 1. **Number of IEP goals** being tracked
 2. **Current progress %** for each goal (0-100)
 3. **Date of last IEP** (when goals were written)
@@ -207,7 +227,7 @@ Help parents, teachers, and case managers determine whether a student is on trac
 
 ### Calculation
 
-```
+```text
 For each goal:
   total_days      = next_review_date - last_iep_date
   elapsed_days    = today - last_iep_date
@@ -231,7 +251,7 @@ For each goal:
 For each goal, display:
 
 | Field | Value |
-|-------|-------|
+| ------- | ------- |
 | Goal # | [number and brief description] |
 | IEP Year Progress | [pct_year_elapsed]% of the year has elapsed |
 | Current Progress | [current_progress]% |
@@ -273,7 +293,7 @@ Then provide an overall summary:
 > - % of year elapsed: 200 / 365 = **54.8%**
 >
 > | Goal | Description | Current % | Expected % | Ratio | Status | Gap |
-> |------|------------|-----------|------------|-------|--------|-----|
+> | ------ | ------------ | ----------- | ------------ | ------- | -------- | ----- |
 > | 1 | Reading fluency: 120 wpm | 60% | 54.8% | 1.09 | ON TRACK | +5.2% ahead |
 > | 2 | Math computation: 2-digit multiplication | 35% | 54.8% | 0.64 | AT RISK | -19.8% behind |
 > | 3 | Written expression: 5-sentence paragraph | 20% | 54.8% | 0.37 | BEHIND | -34.8% behind |
@@ -291,6 +311,7 @@ Then provide an overall summary:
 ## Decision Engine: Which Complaint Mechanism?
 
 ### Inputs
+
 1. What is the issue? (special education, discrimination, open meetings, safety, abuse, general)
 2. Against whom? (school, district, individual, board)
 3. What outcome is desired? (investigation, corrective action, legal ruling, policy change)
@@ -299,6 +320,7 @@ Then provide an overall summary:
 6. What is your budget for resolution?
 
 ### Routing Logic
+
 See SKILL.md SS8, Decision Tree 5 for the full interactive version.
 
 ### Decision Tree Flowchart
@@ -350,7 +372,7 @@ graph TD
 ### Quick Reference Table
 
 | Issue | File With | Timeline |
-|-------|----------|----------|
+| ------- | ---------- | ---------- |
 | Special education (IDEA) | DESE: state complaint (60 days) or due process (45 days) | 1 year (state) / 2 years (due process) |
 | Discrimination (race, sex, disability) | OCR (180 days from incident) | 180 days |
 | Sunshine Law violation | Missouri Attorney General | Varies |
@@ -365,7 +387,7 @@ graph TD
 #### 1. State IDEA Complaint (filed with DESE)
 
 | Attribute | Detail |
-|-----------|--------|
+| ----------- | -------- |
 | **Filed with** | Missouri DESE, Office of Special Education |
 | **Filing deadline** | Within **1 year** of the alleged violation |
 | **Cost** | **Free** |
@@ -377,7 +399,7 @@ graph TD
 **When to use:** The district missed a timeline, failed to follow the IEP, denied a service, or committed a clear procedural violation within the past year. Best for systemic issues or when you have documentation of a straightforward violation.
 
 | Pros | Cons |
-|------|------|
+| ------ | ------ |
 | Free to file | Limited to violations within the past year |
 | No attorney needed | DESE investigates (you do not present evidence at a hearing) |
 | 60-day resolution is relatively fast | Less control over the process than a hearing |
@@ -389,7 +411,7 @@ graph TD
 #### 2. Due Process Hearing
 
 | Attribute | Detail |
-|-----------|--------|
+| ----------- | -------- |
 | **Filed with** | DESE (administered by Administrative Hearing Commission) |
 | **Filing deadline** | **2-year statute of limitations** from when you knew or should have known about the violation (no strict filing window like the state complaint) |
 | **Cost** | **Potentially expensive** -- attorney fees, expert witnesses, preparation time; however, prevailing parents may recover attorney fees from the district |
@@ -401,7 +423,7 @@ graph TD
 **When to use:** You need a legally binding decision, the stakes are high (e.g., reimbursement for private school, significant compensatory services), the violation is older than 1 year, or you have already tried other avenues without success.
 
 | Pros | Cons |
-|------|------|
+| ------ | ------ |
 | Most powerful IDEA remedy available | Expensive (attorney strongly recommended) |
 | Legally binding decision | Adversarial -- can damage school relationship |
 | Can award compensatory services and reimbursement | Time-consuming preparation |
@@ -414,7 +436,7 @@ graph TD
 #### 3. OCR Civil Rights Complaint
 
 | Attribute | Detail |
-|-----------|--------|
+| ----------- | -------- |
 | **Filed with** | U.S. Department of Education, Office for Civil Rights (OCR) -- Kansas City regional office for Missouri |
 | **Filing deadline** | Within **180 calendar days** of the discriminatory act (waiver possible for good cause) |
 | **Cost** | **Free** |
@@ -426,7 +448,7 @@ graph TD
 **When to use:** The issue involves discrimination -- a student was treated differently because of disability, race, sex, or national origin. Particularly useful for Section 504 issues (which IDEA complaints do not cover) and systemic discrimination.
 
 | Pros | Cons |
-|------|------|
+| ------ | ------ |
 | Free and no attorney needed | 180-day filing deadline is strict |
 | Federal investigation carries weight | Slower than state complaint |
 | Covers Section 504 (beyond IDEA) | Less control over outcome |
@@ -439,7 +461,7 @@ graph TD
 #### 4. Mediation
 
 | Attribute | Detail |
-|-----------|--------|
+| ----------- | -------- |
 | **Filed with** | Request through DESE; a neutral mediator is assigned |
 | **Filing deadline** | **No deadline** -- available at any time a dispute exists |
 | **Cost** | **Free** (DESE provides and pays for the mediator) |
@@ -451,7 +473,7 @@ graph TD
 **When to use:** You want to resolve a disagreement collaboratively, preserve the working relationship with the school, or reach a creative solution. Excellent first step before escalating to a complaint or hearing.
 
 | Pros | Cons |
-|------|------|
+| ------ | ------ |
 | Free | Both parties must agree (district can refuse) |
 | Fast (often 1-2 sessions) | No admission of fault by either party |
 | Preserves parent-school relationship | No investigation of wrongdoing |
@@ -465,7 +487,7 @@ graph TD
 #### 5. Private Legal Action (Federal or State Court)
 
 | Attribute | Detail |
-|-----------|--------|
+| ----------- | -------- |
 | **Filed with** | Federal district court or Missouri state court |
 | **Filing deadline** | Within **90 days** of the due process hearing decision (for IDEA appeals); other statutes vary |
 | **Cost** | **Expensive** -- requires an attorney; prevailing parents may recover fees under IDEA |
@@ -477,7 +499,7 @@ graph TD
 **When to use:** Administrative remedies have been exhausted and the family needs a court order, or the claim involves damages beyond what IDEA administrative proceedings can provide (e.g., ADA discrimination damages).
 
 | Pros | Cons |
-|------|------|
+| ------ | ------ |
 | Full judicial review | Must exhaust administrative remedies first (IDEA) |
 | Can award monetary damages (ADA/504) | Expensive -- attorney required |
 | Legally binding court order | Very slow (months to years) |
@@ -494,7 +516,7 @@ Answer these four questions to find your best starting point:
 #### Question 1: What happened?
 
 | If the issue is... | Start with... |
-|---------------------|--------------|
+| --------------------- | -------------- |
 | IEP not being followed | Mediation, then State Complaint |
 | Evaluation was denied or delayed | State Complaint |
 | Child was suspended/expelled improperly (IDEA) | Due Process (expedited) |
@@ -509,7 +531,7 @@ Answer these four questions to find your best starting point:
 #### Question 2: Who is responsible?
 
 | Responsible party | Best mechanism |
-|-------------------|---------------|
+| ------------------- | --------------- |
 | Individual teacher (service delivery) | Start with principal; escalate to State Complaint if systemic |
 | IEP team / school building | Mediation first, then State Complaint |
 | District administration or policy | State Complaint (systemic) or OCR (if discrimination) |
@@ -518,7 +540,7 @@ Answer these four questions to find your best starting point:
 #### Question 3: What outcome do you want?
 
 | Desired outcome | Best mechanism |
-|-----------------|---------------|
+| ----------------- | --------------- |
 | Fix the problem going forward | Mediation |
 | Corrective action + compliance monitoring | State Complaint |
 | Compensatory services for past harm | Due Process |
@@ -530,7 +552,7 @@ Answer these four questions to find your best starting point:
 #### Question 4: What are your constraints?
 
 | Constraint | Recommendation |
-|------------|---------------|
+| ------------ | --------------- |
 | No money for an attorney | Mediation (free) or State Complaint (free) or OCR (free) |
 | Need resolution fast | Mediation (30 days) or State Complaint (60 days) |
 | Violation happened > 1 year ago | Due Process (2-year SOL) or OCR (if within 180 days) |
@@ -543,7 +565,7 @@ Answer these four questions to find your best starting point:
 
 For most special education disputes, follow this sequence. You can enter at any step depending on urgency:
 
-```
+```text
 Step 1: Informal resolution
    ↓ (if unresolved after 2-4 weeks)
 Step 2: Mediation (free, ~30 days)

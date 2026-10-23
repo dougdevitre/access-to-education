@@ -19,9 +19,10 @@ flowchart TD
 ```
 
 ## Table of Contents
+
 - [Template 1: ELL Student Profile](#template-1-ell-student-profile)
   - [Current WIDA Proficiency Levels (from most recent ACCESS)](#current-wida-proficiency-levels-from-most-recent-access)
-  - [Program & Services](#program-services)
+  - [Program & Services](#program--services)
   - [Strengths](#strengths)
   - [Priority Needs](#priority-needs)
   - [What Works for This Student](#what-works-for-this-student)
@@ -31,10 +32,10 @@ flowchart TD
   - [Content Objective (same for all students)](#content-objective-same-for-all-students)
   - [Language Objective (tiered)](#language-objective-tiered)
   - [Key Vocabulary](#key-vocabulary)
-  - [Lesson Delivery — Differentiated by Level](#lesson-delivery-differentiated-by-level)
+  - [Lesson Delivery — Differentiated by Level](#lesson-delivery--differentiated-by-level)
   - [Scaffolds Used in This Lesson](#scaffolds-used-in-this-lesson)
-  - [Sentence Frames / Starters for This Lesson](#sentence-frames-starters-for-this-lesson)
-  - [Assessment — How I'll Know They Got It](#assessment-how-ill-know-they-got-it)
+  - [Sentence Frames / Starters for This Lesson](#sentence-frames--starters-for-this-lesson)
+  - [Assessment — How I'll Know They Got It](#assessment--how-ill-know-they-got-it)
   - [Reflection (After Teaching)](#reflection-after-teaching)
 - [Template 3: ELL Accommodation Tracker](#template-3-ell-accommodation-tracker)
   - [Accommodations by Class](#accommodations-by-class)
@@ -56,7 +57,7 @@ flowchart TD
 ### Current WIDA Proficiency Levels (from most recent ACCESS)
 
 | Domain | Level (1-6) | Score |
-|--------|------------|-------|
+| -------- | ------------ | ------- |
 | Listening | | |
 | Speaking | | |
 | Reading | | |
@@ -64,6 +65,7 @@ flowchart TD
 | **Overall Composite** | | |
 
 ### Program & Services
+
 - [ ] Pull-out ESL (___ minutes/week)
 - [ ] Push-in ESL (classes: ___________________________)
 - [ ] Sheltered instruction (all classes)
@@ -74,12 +76,14 @@ flowchart TD
 - [ ] Also has 504 plan
 
 ### Strengths
+
 *(What can this student do? Include home language literacy, content knowledge, social skills)*
 
 _______________________________________________________________________________
 _______________________________________________________________________________
 
 ### Priority Needs
+
 *(What are the most important language and academic goals right now?)*
 
 1. _______________________________________________________________________________
@@ -87,17 +91,20 @@ _______________________________________________________________________________
 3. _______________________________________________________________________________
 
 ### What Works for This Student
+
 *(Strategies, supports, grouping that help this student learn)*
 
 _______________________________________________________________________________
 _______________________________________________________________________________
 
 ### Cultural Considerations
+
 *(Family communication preferences, cultural practices relevant to school, any sensitivities)*
 
 _______________________________________________________________________________
 
 ### Parent/Family Contact
+
 - **Primary contact:** ___________________________ **Relationship:** _______________
 - **Language for communication:** ___________________________
 - **Best way to reach:** ☐ Phone ☐ Text ☐ Written note ☐ App (___________)
@@ -112,20 +119,21 @@ _______________________________________________________________________________
 **Subject:** ___________________________ **Grade:** _____
 
 ### Content Objective (same for all students)
+
 *Missouri Learning Standard:* _______________________________________________
 *Students will:* _______________________________________________
 
 ### Language Objective (tiered)
 
 | WIDA Levels 1-2 | WIDA Levels 3-4 | WIDA Level 5+ |
-|-----------------|-----------------|---------------|
+| --- | --- | --- |
 | Students will [verb] using [support] | Students will [verb] using [support] | Students will [verb] |
 | | | |
 
 ### Key Vocabulary
 
 | Tier 2 (academic, cross-content) | Tier 3 (subject-specific) |
-|--------------------------------|--------------------------|
+| -------------------------------- | -------------------------- |
 | | |
 | | |
 | | |
@@ -137,7 +145,7 @@ _______________________________________________________________________________
 ### Lesson Delivery — Differentiated by Level
 
 | Lesson Phase | All Students | Levels 1-2 Adaptations | Levels 3-4 Adaptations |
-|-------------|-------------|----------------------|----------------------|
+| ------------- | ------------- | ---------------------- | ---------------------- |
 | **Opening / hook** | | | |
 | **Input (I do)** | | | |
 | **Guided practice (We do)** | | | |
@@ -147,7 +155,7 @@ _______________________________________________________________________________
 ### Scaffolds Used in This Lesson
 
 | Scaffold | ☐ | Details |
-|----------|---|---------|
+| ---------- | --- | --------- |
 | Visual supports (images, diagrams, realia) | ☐ | |
 | Word bank / vocabulary wall | ☐ | |
 | Sentence frames | ☐ | |
@@ -174,7 +182,7 @@ _______________________________________________________________________________
 ### Assessment — How I'll Know They Got It
 
 | Level | How students show understanding |
-|-------|-------------------------------|
+| ------- | ------------------------------- |
 | Levels 1-2 | |
 | Levels 3-4 | |
 | Level 5+ | |
@@ -201,7 +209,7 @@ Use this to document and track accommodations for each ELL student across classe
 ### Accommodations by Class
 
 | Class/Teacher | Accommodations Provided | Working? (Y/N) | Notes |
-|--------------|------------------------|----------------|-------|
+| -------------- | ------------------------ | ---------------- | ------- |
 | | | | |
 | | | | |
 | | | | |
@@ -238,7 +246,7 @@ Use this to document and track accommodations for each ELL student across classe
 ### Quarterly Progress Check
 
 | Quarter | Listening | Speaking | Reading | Writing | Overall Progress | Accommodation Changes |
-|---------|-----------|---------|---------|---------|-----------------|---------------------|
+| --------- | ----------- | --------- | --------- | --------- | ----------------- | --------------------- |
 | Q1 | | | | | | |
 | Q2 | | | | | | |
 | Q3 | | | | | | |
@@ -253,6 +261,7 @@ Use this to document and track accommodations for each ELL student across classe
 **Interpreter name:** ___________________________
 
 ### Before the Conference
+
 - [ ] Arrange interpreter (NOT the student)
 - [ ] Prepare translated documents if available
 - [ ] Gather student work samples showing progress
@@ -295,7 +304,7 @@ _______________________________________________________________________________
 ### Follow-Up Actions
 
 | Action | Who | By When |
-|--------|-----|---------|
+| --- | --- | --- |
 | | | |
 | | | |
 
@@ -334,7 +343,7 @@ The following examples show concrete scaffolds for a 4th-grade science lesson on
 - **Graphic organizer** — A three-column chart:
 
   | Stage | What Happens | Key Vocabulary |
-  |-------|-------------|----------------|
+  | ------- | ------------- | ---------------- |
   | Evaporation | | heat, liquid, gas, rise, sun |
   | Condensation | | cool, gas, liquid, cloud, droplets |
   | Precipitation | | heavy, fall, rain, snow, sleet |
@@ -380,9 +389,12 @@ The following examples show concrete scaffolds for a 4th-grade science lesson on
 #### Summary — Scaffold Progression
 
 | Element | Level 1 (Entering) | Level 3 (Developing) | Level 5 (Bridging) |
-|---------|--------------------|-----------------------|---------------------|
+| --------- | -------------------- | ----------------------- | --------------------- |
 | Vocabulary support | Picture cards + word bank in L1 and English | Academic word list with student-friendly definitions | No word bank — student uses learned vocabulary independently |
 | Text | Labeled diagrams only | Graphic organizers + paragraph frames | Grade-level text, no adaptation |
 | Writing support | Sentence frames: "The ___ is ___." | Paragraph frames with cause-effect connectors | No frames — independent multi-paragraph writing |
 | Response format | Label, point, say single words/phrases | Complete a structured paragraph | Write extended response with analysis |
 | Assessment | Label diagram; say one sentence per stage | Complete paragraph with 3+ vocabulary terms | 2-3 paragraph essay evaluated on grade-level rubric |
+
+<!-- The "___" fill-in blanks in this file read to markdownlint as underscore emphasis, so the emphasis-style rules are off here. -->
+<!-- markdownlint-disable-file MD049 MD050 -->

@@ -18,7 +18,7 @@ graph TD
 ## Sub-File Router
 
 | Sub-File | When to Read |
-|----------|-------------|
+| ---------- | ------------- |
 | `special-needs/vision-impairment.md` | Blind, visually impaired, low vision, CVI, braille, TVI, O&M, MSB, MIRC, magnification, screen readers, ECC, tactile graphics |
 | `special-needs/hearing-impairment.md` | Deaf, hard of hearing, ASL, cochlear implant, FM system, interpreter, captioning, MSD, TOD, audiology, CART, deaf culture, auditory processing |
 | `special-needs/motor-impairment.md` | Physical disability, wheelchair, cerebral palsy, spina bifida, muscular dystrophy, OT, PT, adaptive PE, fine motor, gross motor, AT for access, handwriting alternatives, accessibility, positioning |
@@ -26,12 +26,13 @@ graph TD
 ## When to Use These Files vs. `roles/specialists.md`
 
 | Question Type | Use |
-|--------------|-----|
+| -------------- | ----- |
 | "What is an IEP?" / "How does the evaluation process work?" / "What are the 13 IDEA categories?" | `roles/specialists.md` — general special education process |
 | "What accommodations does a blind student need?" / "How do FM systems work?" / "What AT does a student with CP need?" | **This directory** — disability-specific depth |
 | "How do I write IEP goals for a student who is deaf?" | **This directory** — each file includes an IEP goal bank |
 
 ## Cross-References
+
 - `roles/specialists.md` → general IEP process, 504 plans, 13 IDEA categories, related services, ELL, gifted, dispute resolution
 - `operations/health-wellness.md` → mental health, suicide prevention, chronic conditions (non-motor-specific)
 - `operations/crisis-emergency.md` → emergency evacuation plans (PEEP for students with motor impairments)

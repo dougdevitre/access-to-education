@@ -27,6 +27,7 @@ flowchart TD
 **Student of Concern:** ___________________________ **Grade:** _____ **DOB:** _______________
 
 ## Table of Contents
+
 - [Step 1: Threat Report](#step-1-threat-report)
 - [Step 2: Threat Classification](#step-2-threat-classification)
 - [Step 3: Substantive Threat Assessment](#step-3-substantive-threat-assessment)
@@ -35,7 +36,7 @@ flowchart TD
   - [Target Interview](#target-interview)
   - [Records Review](#records-review)
   - [Parent/Guardian Contact](#parentguardian-contact)
-- [Step 5: Risk Factors & Protective Factors](#step-5-risk-factors-protective-factors)
+- [Step 5: Risk Factors & Protective Factors](#step-5-risk-factors--protective-factors)
 - [Step 6: Response Actions](#step-6-response-actions)
   - [Immediate Safety Actions](#immediate-safety-actions)
   - [Support Actions](#support-actions)
@@ -110,8 +111,9 @@ _______________________________________________________________________________
 ## Step 4: Information Gathering
 
 ### Student Interview
+
 | Question | Response |
-|----------|---------|
+| ---------- | --------- |
 | What happened? | |
 | What did you mean? | |
 | How were you feeling? | |
@@ -120,16 +122,18 @@ _______________________________________________________________________________
 | Have you been thinking about hurting yourself or others? | |
 
 ### Target Interview
+
 | Question | Response |
-|----------|---------|
+| ---------- | --------- |
 | What happened from your perspective? | |
 | Has anything like this happened before? | |
 | Are you afraid? Why/why not? | |
 | Is there anything else we should know? | |
 
 ### Records Review
+
 | Source | Reviewed? | Relevant Findings |
-|--------|----------|------------------|
+| -------- | ---------- | ------------------ |
 | Discipline history | ☐ | |
 | Attendance records | ☐ | |
 | Academic records | ☐ | |
@@ -139,6 +143,7 @@ _______________________________________________________________________________
 | Law enforcement records (SRO) | ☐ | |
 
 ### Parent/Guardian Contact
+
 **Parent contacted:** ☐ Yes ☐ No (document reason if no)
 **Date/time:** _______________ **By whom:** ___________________________
 **Parent response/information:**
@@ -150,6 +155,7 @@ _______________________________________________________________________________
 ## Step 5: Risk Factors & Protective Factors
 
 ### Risk Factors Present
+
 ☐ Access to weapons
 ☐ History of violence or aggression
 ☐ History of threats
@@ -164,6 +170,7 @@ _______________________________________________________________________________
 ☐ Suicidal ideation or self-harm
 
 ### Protective Factors Present
+
 ☐ Strong family support
 ☐ Positive peer relationships
 ☐ Connected to trusted adult at school
@@ -178,6 +185,7 @@ _______________________________________________________________________________
 ## Step 6: Response Actions
 
 ### Immediate Safety Actions
+
 ☐ Target notified and safety plan established
 ☐ Target's parents notified
 ☐ Student of concern's parents notified
@@ -187,6 +195,7 @@ _______________________________________________________________________________
 ☐ Supervision increased
 
 ### Support Actions
+
 ☐ Mental health assessment referral
 ☐ Counseling initiated
 ☐ IEP/504 team convened (if applicable — MDR may be required)
@@ -195,6 +204,7 @@ _______________________________________________________________________________
 ☐ FBA/BIP initiated or revised
 
 ### Disciplinary Actions
+
 ☐ In-school consequence: ___________________________
 ☐ Short-term suspension: ___ days
 ☐ Long-term suspension recommended (hearing required)
@@ -206,7 +216,7 @@ _______________________________________________________________________________
 ## Step 7: Safety Plan
 
 | Element | Plan Detail |
-|---------|------------|
+| --------- | ------------ |
 | Supervision modifications | |
 | Schedule modifications | |
 | Check-in schedule (who, when) | |
@@ -220,7 +230,7 @@ _______________________________________________________________________________
 ## Step 8: Follow-Up
 
 | Date | Action | By Whom | Outcome |
-|------|--------|---------|---------|
+| ------ | -------- | --------- | --------- |
 | | | | |
 | | | | |
 | | | | |
@@ -232,7 +242,7 @@ _______________________________________________________________________________
 ## Threat Assessment Team Members
 
 | Name | Role | Present at Assessment? |
-|------|------|----------------------|
+| ------ | ------ | ---------------------- |
 | | Administrator | ☐ |
 | | School Counselor | ☐ |
 | | School Psychologist | ☐ |

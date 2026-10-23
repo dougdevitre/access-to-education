@@ -21,7 +21,7 @@ graph TD
 ## Sub-File Router
 
 | Sub-File | When to Read |
-|----------|-------------|
+| ---------- | ------------- |
 | `curriculum-instruction/mo-learning-standards.md` | Missouri Learning Standards by subject (ELA strands, math domains, science core ideas, social studies, fine arts, health/PE, computer science, world languages), standards code formats, priority standards |
 | `curriculum-instruction/instructional-practice.md` | Science of Reading, dyslexia screening, structured literacy, curriculum design and adoption, evidence-based instructional strategies, differentiated instruction, UDL, co-teaching models, formative assessment, textbook adoption, culturally responsive teaching, PBL, standards-based grading, reading/math intervention programs, ESSA evidence tiers |
 
