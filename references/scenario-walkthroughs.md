@@ -143,7 +143,7 @@ Ask: What exactly is my child accused of? Who are the witnesses? What evidence d
 **Step 3: Know the consequence level and your rights.**
 
 | Consequence | Your Rights |
-|------------|------------|
+| ------------ | ------------ |
 | Detention, in-school suspension, minor consequence | Limited formal rights; school should follow board policy |
 | Out-of-school suspension 1-10 days | Notice of charges + opportunity for child to respond + parent notification |
 | Out-of-school suspension >10 days | Written charges + formal hearing + right to representation + right to present evidence + written decision + appeal |
@@ -170,14 +170,16 @@ If your child is removed from school, the district must continue educational ser
 
 ### The Full Path: Explore → Prepare → Apply → Fund → Decide → Transition
 
-**Grades 9-10: Explore and Build**
+#### Grades 9-10: Explore and Build
+
 - Take challenging courses (honors, pre-AP, dual credit when available)
 - Complete career assessments on Missouri Connections (missouriconnections.org)
 - Begin your Individual Learning Plan (ILP) with your school counselor
 - Get involved in activities (clubs, sports, community service, work)
 - Start tracking A+ eligibility if your school is an A+ school (2.5 GPA, 95% attendance, tutoring hours, citizenship)
 
-**Grade 11: Prepare**
+#### Grade 11: Prepare
+
 - Take the ACT (free statewide administration for all juniors)
 - Consider retaking the ACT or taking the SAT for better scores
 - Visit college campuses (in-state options, community colleges, universities)
@@ -186,7 +188,8 @@ If your child is removed from school, the district must continue educational ser
 - Attend college fairs and financial aid nights
 - Begin scholarship search
 
-**Grade 12 (Fall): Apply**
+#### Grade 12 (Fall): Apply
+
 - Complete college applications (most deadlines: November-February)
 - Request transcripts from your school counselor
 - Ask teachers and counselors for recommendation letters (give them 3+ weeks)
@@ -195,7 +198,8 @@ If your child is removed from school, the district must continue educational ser
 - Apply for scholarships (local, state, national)
 - Submit A+ eligibility verification with your A+ coordinator
 
-**Grade 12 (Spring): Decide**
+#### Grade 12 (Spring): Decide
+
 - Compare financial aid award letters (cost of attendance minus aid = what you actually pay)
 - Visit finalist schools
 - Commit by May 1 (typical national decision deadline)
@@ -258,8 +262,9 @@ Within 1-2 weeks, convene the crisis team: What was supposed to happen? What act
 - **PEERS** (non-certificated staff — paras, bus drivers, food service): defined benefit pension. You DO pay Social Security.
 
 **Step 2: Check eligibility.**
+
 | Path | Requirement |
-|------|------------|
+| ------ | ------------ |
 | Rule of 80 | Age + years of service ≥ 80 |
 | 30 years | 30+ years of service at any age |
 | Age + service | Age 60 with 5+ years of service |

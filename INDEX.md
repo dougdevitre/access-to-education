@@ -9,21 +9,21 @@
 - [Repository Structure Diagram](#repository-structure-diagram)
 - [Root Files](#root-files)
 - [Commands](#commands)
-- [References: Roles](#references--roles)
-- [References: Operations](#references--operations)
-- [References: Compliance](#references--compliance)
-- [References: Programs](#references--programs)
-- [References: AI in Education](#references--ai-in-education)
-- [References: Curriculum and Instruction](#references--curriculum-and-instruction)
-- [References: Special Needs](#references--special-needs)
-- [References: General](#references--general)
-- [Templates: Parent](#templates--parent)
-- [Templates: Admin](#templates--admin)
-- [Templates: Specialist](#templates--specialist)
-- [Templates: Teacher](#templates--teacher)
-- [Templates: Counselor](#templates--counselor)
-- [Templates: Staff](#templates--staff)
-- [Templates: General](#templates--general-1)
+- [References: Roles](#references----roles)
+- [References: Operations](#references----operations)
+- [References: Compliance](#references----compliance)
+- [References: Programs](#references----programs)
+- [References: AI in Education](#references----ai-in-education)
+- [References: Curriculum and Instruction](#references----curriculum-and-instruction)
+- [References: Special Needs](#references----special-needs)
+- [References: General](#references----general)
+- [Templates: Parent](#templates----parent)
+- [Templates: Admin](#templates----admin)
+- [Templates: Specialist](#templates----specialist)
+- [Templates: Teacher](#templates----teacher)
+- [Templates: Counselor](#templates----counselor)
+- [Templates: Staff](#templates----staff)
+- [Templates: General](#templates----general)
 - [Scripts](#scripts)
 - [Examples](#examples)
 - [Evals](#evals)
@@ -161,7 +161,7 @@ graph LR
 ## Root Files
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [README.md](README.md) | Project overview, quick start guide, and repository structure summary |
 | [SKILL.md](SKILL.md) | Core behavioral system -- the "operating system" with all rules (SS1-SS13) |
 | [CLAUDE.md](CLAUDE.md) | Auto-activates the skill when opened in Claude Code |
@@ -177,7 +177,7 @@ graph LR
 ## Commands
 
 | File | Description |
-|------|-------------|
+| --- | --- |
 | [commands/COMMANDS.md](commands/COMMANDS.md) | Definitions for all 22 slash commands (`/start`, `/rights`, `/letter`, `/graduation`, `/iep-check`, `/policy`, `/csip`, `/safety-plan`, `/threat`, `/comply`, `/crisis`, `/lookup`, `/retire`, `/a-plus`, `/translate`, `/compare`, `/district`, `/enroll`, `/data`, `/pd`, `/walkthrough`, `/evaluate`) |
 
 ---
@@ -187,7 +187,7 @@ graph LR
 One file per audience, covering the topics most relevant to that role.
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [references/roles/students.md](references/roles/students.md) | Graduation requirements, A+ program, discipline rights, FERPA, attendance |
 | [references/roles/teachers.md](references/roles/teachers.md) | Certification, MEES evaluation, tenure, professional development, salary schedules |
 | [references/roles/specialists.md](references/roles/specialists.md) | IEP process, 504 plans, IDEA disability categories, ELL, FBA, transition planning |
@@ -204,7 +204,7 @@ One file per audience, covering the topics most relevant to that role.
 How schools run day-to-day.
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [references/operations/assessments.md](references/operations/assessments.md) | MAP, EOC, ACT, WIDA ACCESS, testing accommodations and scheduling |
 | [references/operations/crisis-emergency.md](references/operations/crisis-emergency.md) | Emergency Operations Plans, active threat protocols, drills, reunification |
 | [references/operations/discipline-behavior.md](references/operations/discipline-behavior.md) | PBIS frameworks, restorative practices, bullying policy, seclusion/restraint rules |
@@ -223,7 +223,7 @@ How schools run day-to-day.
 Law, policy, funding, and deadlines.
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [references/compliance/mo-education-law.md](references/compliance/mo-education-law.md) | RSMo 160-178, DESE administrative rules, relevant case law |
 | [references/compliance/compliance-calendar.md](references/compliance/compliance-calendar.md) | Month-by-month compliance requirements and reporting deadlines |
 | [references/compliance/governance-policy.md](references/compliance/governance-policy.md) | Board policy development, Sunshine Law, superintendent evaluation |
@@ -238,7 +238,7 @@ Law, policy, funding, and deadlines.
 Populations and programs across Missouri K-12.
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [references/programs/special-populations.md](references/programs/special-populations.md) | Military-connected, immigrant, teen parents, LGBTQ+ students |
 | [references/programs/early-childhood.md](references/programs/early-childhood.md) | Pre-K programs, Head Start, First Steps, Parents as Teachers (PAT) |
 | [references/programs/alternative-education.md](references/programs/alternative-education.md) | Virtual/MOCAP, homebound instruction, GED, credit recovery |
@@ -255,7 +255,7 @@ Populations and programs across Missouri K-12.
 ## References -- AI in Education
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [references/ai-in-education/INDEX.md](references/ai-in-education/INDEX.md) | Router file -- read first, then load the relevant sub-file |
 | [references/ai-in-education/ai-teaching-learning.md](references/ai-in-education/ai-teaching-learning.md) | AI-enhanced instruction, prompt engineering for educators, adaptive learning, AI tutoring |
 | [references/ai-in-education/ai-policy-governance.md](references/ai-in-education/ai-policy-governance.md) | DESE AI guidance, academic integrity, AI data privacy, responsible AI frameworks |
@@ -266,7 +266,7 @@ Populations and programs across Missouri K-12.
 ## References -- Curriculum and Instruction
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [references/curriculum-instruction/INDEX.md](references/curriculum-instruction/INDEX.md) | Router file -- read first, then load the relevant sub-file |
 | [references/curriculum-instruction/mo-learning-standards.md](references/curriculum-instruction/mo-learning-standards.md) | Missouri Learning Standards for ELA, math, science, social studies, fine arts, CS |
 | [references/curriculum-instruction/instructional-practice.md](references/curriculum-instruction/instructional-practice.md) | Science of Reading, differentiation, co-teaching, standards-based grading, PBL |
@@ -278,7 +278,7 @@ Populations and programs across Missouri K-12.
 Disability-specific depth guides.
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [references/special-needs/INDEX.md](references/special-needs/INDEX.md) | Router file -- read first for any disability-specific question |
 | [references/special-needs/vision-impairment.md](references/special-needs/vision-impairment.md) | Braille, TVI services, O&M, CVI, Missouri School for the Blind (MSB), ECC |
 | [references/special-needs/hearing-impairment.md](references/special-needs/hearing-impairment.md) | ASL, cochlear implants, interpreters, Missouri School for the Deaf (MSD), audiology |
@@ -291,7 +291,7 @@ Disability-specific depth guides.
 Standalone reference files at the top level of `references/`.
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [references/glossary.md](references/glossary.md) | 150+ education acronyms and terms defined for non-specialist audiences |
 | [references/faq.md](references/faq.md) | Top 10 pre-built FAQ answers per role for speed and consistency |
 | [references/mo-data-tables.md](references/mo-data-tables.md) | 17 structured lookup tables with Missouri education facts, numbers, and dates |
@@ -306,7 +306,7 @@ Standalone reference files at the top level of `references/`.
 ## Templates -- Parent
 
 | File | Description |
-|------|-------------|
+| --- | --- |
 | [templates/parent/letters.md](templates/parent/letters.md) | 5 letter templates: evaluation request, records request, IEP meeting, dispute, 504 request |
 | [templates/parent/cartas-padres-espanol.md](templates/parent/cartas-padres-espanol.md) | Spanish parent letter templates for evaluation requests, IEP meetings, records requests |
 
@@ -315,7 +315,7 @@ Standalone reference files at the top level of `references/`.
 ## Templates -- Admin
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [templates/admin/csip-template.md](templates/admin/csip-template.md) | Comprehensive School Improvement Plan (CSIP) template |
 | [templates/admin/ai-policy-template.md](templates/admin/ai-policy-template.md) | District AI Acceptable Use Policy template |
 | [templates/admin/safety-plan-outline.md](templates/admin/safety-plan-outline.md) | School Emergency Operations Plan (EOP) outline |
@@ -328,7 +328,7 @@ Standalone reference files at the top level of `references/`.
 ## Templates -- Specialist
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [templates/specialist/iep-compliance-checklist.md](templates/specialist/iep-compliance-checklist.md) | IEP compliance audit checklist with all required components |
 | [templates/specialist/iep-meeting-prep.md](templates/specialist/iep-meeting-prep.md) | IEP meeting preparation guide and progress monitoring templates |
 | [templates/specialist/plans-and-forms.md](templates/specialist/plans-and-forms.md) | 504 accommodation plans, FBA templates, and specialist forms |
@@ -339,7 +339,7 @@ Standalone reference files at the top level of `references/`.
 ## Templates -- Teacher
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [templates/teacher/plans.md](templates/teacher/plans.md) | PD growth plans and instructional planning templates |
 | [templates/teacher/observation-prep.md](templates/teacher/observation-prep.md) | Observation and MEES evaluation preparation templates |
 | [templates/teacher/classroom-admin.md](templates/teacher/classroom-admin.md) | Attendance trackers, classroom administration time-savers |
@@ -352,7 +352,7 @@ Standalone reference files at the top level of `references/`.
 ## Templates -- Counselor
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [templates/counselor/graduation-audit.md](templates/counselor/graduation-audit.md) | Student graduation credit audit worksheet |
 | [templates/counselor/checklists.md](templates/counselor/checklists.md) | College planning checklists for juniors and seniors |
 | [templates/counselor/caseload-management.md](templates/counselor/caseload-management.md) | Caseload management, needs assessment intake, and student support templates |
@@ -362,7 +362,7 @@ Standalone reference files at the top level of `references/`.
 ## Templates -- Staff
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [templates/staff/checklists.md](templates/staff/checklists.md) | Mandated reporter reference, new employee orientation, and staff checklists |
 | [templates/staff/paraprofessional-guide.md](templates/staff/paraprofessional-guide.md) | Paraprofessional guide covering roles, responsibilities, IEP support, and professional boundaries |
 | [templates/staff/transportation-safety.md](templates/staff/transportation-safety.md) | Bus and transportation safety procedures, driver checklists, route protocols |
@@ -373,7 +373,7 @@ Standalone reference files at the top level of `references/`.
 ## Templates -- General
 
 | File | Description |
-|------|-------------|
+| --- | --- |
 | [templates/printable-checklists.md](templates/printable-checklists.md) | 10 printable checklists for common tasks across all roles |
 
 ---
@@ -381,7 +381,7 @@ Standalone reference files at the top level of `references/`.
 ## Scripts
 
 | File | Description |
-|------|-------------|
+| ------ | ------------- |
 | [scripts/calculators.md](scripts/calculators.md) | 5 calculators: PSRS retirement, A+ eligibility, graduation credits, SPED timelines, funding estimates |
 | [scripts/run-evals.sh](scripts/run-evals.sh) | Shell script to run eval test cases against the Claude API |
 | [scripts/check-links.sh](scripts/check-links.sh) | Link checker script to validate internal and external URLs across all Markdown files |
@@ -392,7 +392,7 @@ Standalone reference files at the top level of `references/`.
 ## Examples
 
 | File | Description |
-|------|-------------|
+| --- | --- |
 | [examples/sample-outputs.md](examples/sample-outputs.md) | 8 example responses showing target quality across all 7 roles plus parent audience |
 
 ---
@@ -400,7 +400,7 @@ Standalone reference files at the top level of `references/`.
 ## Evals
 
 | File | Description |
-|------|-------------|
+| --- | --- |
 | [evals/test-cases.json](evals/test-cases.json) | 30 test cases across all roles for validation and quality assurance |
 
 ---
@@ -408,7 +408,7 @@ Standalone reference files at the top level of `references/`.
 ## CI / Config
 
 | File | Description |
-|------|-------------|
+| --- | --- |
 | [.github/workflows/validate.yml](.github/workflows/validate.yml) | CI workflow for automated validation (link checking, Mermaid syntax, markdown linting) |
 | [.markdownlint.jsonc](.markdownlint.jsonc) | Markdown lint configuration for consistent formatting across all .md files |
 

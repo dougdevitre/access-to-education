@@ -19,10 +19,11 @@ flowchart TD
 ```
 
 ## Table of Contents
+
 - [Pre-Observation Planning Guide](#pre-observation-planning-guide)
   - [Section 1: Context for the Evaluator](#section-1-context-for-the-evaluator)
-  - [Section 2: Standards & Objectives](#section-2-standards-objectives)
-  - [Section 3: MEES Alignment — What to Watch For](#section-3-mees-alignment-what-to-watch-for)
+  - [Section 2: Standards & Objectives](#section-2-standards--objectives)
+  - [Section 3: MEES Alignment — What to Watch For](#section-3-mees-alignment--what-to-watch-for)
   - [Section 4: Differentiation Plan](#section-4-differentiation-plan)
   - [Section 5: Lesson Flow](#section-5-lesson-flow)
   - [Section 6: Questions for Post-Observation](#section-6-questions-for-post-observation)
@@ -60,7 +61,7 @@ _______________________________________________________________________________
 ## Section 2: Standards & Objectives
 
 | Missouri Learning Standard Code | Description |
-|-------------------------------|-------------|
+| ------------------------------- | ------------- |
 | | |
 | | |
 
@@ -79,7 +80,7 @@ _______________________________________________________________________________
 *Highlight 2-3 standards you want the evaluator to focus on:*
 
 | MEES Standard | What you'll see in this lesson |
-|--------------|-------------------------------|
+| -------------- | ------------------------------- |
 | 1. Content Knowledge | |
 | 2. Student Learning | |
 | 3. Curriculum Implementation | |
@@ -94,7 +95,7 @@ _______________________________________________________________________________
 ## Section 4: Differentiation Plan
 
 | Student Group | What I'm doing differently |
-|--------------|--------------------------|
+| -------------- | -------------------------- |
 | **Advanced learners** | |
 | **On-level** | |
 | **Struggling / below grade** | |
@@ -107,7 +108,7 @@ _______________________________________________________________________________
 ## Section 5: Lesson Flow
 
 | Time | Phase | What I do | What students do |
-|------|-------|----------|-----------------|
+| ------ | ------- | ---------- | ----------------- |
 | | Opening / bell ringer | | |
 | | Introduction / hook | | |
 | | Instruction (I do) | | |
@@ -134,6 +135,7 @@ Complete this before your post-observation conference.
 **Teacher:** ___________________________ **Observation Date:** _______________
 
 ## What went well?
+
 *(Be specific — reference student actions, engagement, data)*
 
 _______________________________________________________________________________
@@ -150,6 +152,7 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 ## Student learning evidence
+
 - Exit ticket results: ___/___  students met the objective (___%)
 - Observations during practice: _______________________________________________
 - Surprising moment: _______________________________________________
@@ -157,7 +160,7 @@ _______________________________________________________________________________
 ## MEES self-rating for this lesson
 
 | Standard | My Rating | Evidence |
-|----------|-----------|---------|
+| ---------- | ----------- | --------- |
 | 1. Content Knowledge | ☐E ☐D ☐P ☐Dist | |
 | 2. Student Learning | ☐E ☐D ☐P ☐Dist | |
 | 3. Curriculum Implementation | ☐E ☐D ☐P ☐Dist | |
@@ -180,7 +183,7 @@ Use this to gather your evidence before your end-of-year summative evaluation me
 ## Evidence Portfolio
 
 | MEES Standard | Evidence I Can Bring | ☐ |
-|--------------|---------------------|---|
+| -------------- | --------------------- | --- |
 | 1. Content Knowledge | Lesson plans showing standards alignment, assessment data showing student mastery, unit plans | ☐ |
 | 2. Student Learning | Pre/post assessment comparison, growth data, student work samples showing progress | ☐ |
 | 3. Curriculum Implementation | Unit plans, pacing guides, curriculum maps, vertical alignment work | ☐ |
@@ -213,3 +216,6 @@ _______________________________________________________________________________
 **My goal for next year:**
 
 _______________________________________________________________________________
+
+<!-- The "___" fill-in blanks in this file read to markdownlint as underscore emphasis, so the emphasis-style rules are off here. -->
+<!-- markdownlint-disable-file MD049 MD050 -->

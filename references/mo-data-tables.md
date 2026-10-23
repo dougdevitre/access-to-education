@@ -35,7 +35,7 @@ graph LR
 ## Table 1: Graduation Credit Requirements (DESE Minimum)
 
 | Subject | Credits | Notes |
-|---------|---------|-------|
+| --------- | --------- | ------- |
 | English Language Arts | 4.0 | |
 | Mathematics | 3.0 | Must include Algebra I or higher |
 | Science | 3.0 | Must include at least 1 lab science |
@@ -55,7 +55,7 @@ graph LR
 ## Table 2: EOC Exam Subjects
 
 | Subject | Course Tied To | Participation |
-|---------|---------------|--------------|
+| --------- | --------------- | -------------- |
 | English II | English II | Required |
 | Algebra I | Algebra I (or Algebra II) | Required |
 | Biology | Biology | Required |
@@ -68,7 +68,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 3: A+ Schools Program Requirements
 
 | Requirement | Threshold | Statute |
-|-------------|-----------|---------|
+| ------------- | ----------- | --------- |
 | School attendance | Designated A+ school for 3 consecutive years prior to graduation | RSMo 160.545 |
 | GPA | ≥ 2.5 cumulative unweighted | RSMo 160.545 |
 | Attendance | ≥ 95% cumulative grades 9-12 | RSMo 160.545 |
@@ -84,7 +84,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 4: Missouri Immunization Requirements (School Entry)
 
 | Vaccine | Required Doses | Entry Level |
-|---------|---------------|-------------|
+| --------- | --------------- | ------------- |
 | DTaP | 4-5 doses | K entry |
 | IPV (Polio) | 3-4 doses | K entry |
 | MMR | 2 doses | K entry |
@@ -99,7 +99,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 5: Assessment Calendar (Typical)
 
 | Assessment | Grades | Typical Window | Purpose |
-|-----------|--------|---------------|---------|
+| ----------- | -------- | --------------- | --------- |
 | Kindergarten Readiness | K entry | August-September (first weeks) | Instructional planning |
 | MAP ELA | 3, 4, 5, 6, 7, 8 | March-May | State accountability |
 | MAP Math | 3, 4, 5, 6, 7, 8 | March-May | State accountability |
@@ -114,7 +114,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 6: Key Missouri Education Statutes (Quick Lookup)
 
 | Statute | Topic | Key Provision |
-|---------|-------|--------------|
+| --------- | ------- | -------------- |
 | RSMo 160.053 | Kindergarten age | Turn 5 before August 1 |
 | RSMo 160.261 | Discipline policy | Board must adopt; mandatory reporting for weapons/drugs/assault |
 | RSMo 160.400-425 | Charter schools | Authorization, governance, funding |
@@ -154,7 +154,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 7: MEES Scoring Rubric
 
 | Score | Level |
-|-------|-------|
+| ------- | ------- |
 | 0-2 | Emerging |
 | 3-4 | Developing |
 | 5-6 | Proficient |
@@ -167,7 +167,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 8: IDEA Disability Categories (Missouri)
 
 | # | Category |
-|---|---------|
+| --- | --------- |
 | 1 | Autism Spectrum Disorder |
 | 2 | Deaf-Blindness |
 | 3 | Deafness |
@@ -188,7 +188,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 9: ACT College Readiness Benchmarks
 
 | Subject | Benchmark Score |
-|---------|----------------|
+| --------- | ---------------- |
 | English | 18 |
 | Mathematics | 22 |
 | Reading | 22 |
@@ -200,7 +200,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 10: MSIP 6 Standards
 
 | # | Standard | Focus |
-|---|---------|-------|
+| --- | --------- | ------- |
 | 1 | Academic Achievement | Student proficiency on MAP/EOC/ACT |
 | 2 | Subgroup Achievement | Performance of historically underperforming subgroups |
 | 3 | College & Career Readiness | Graduation rate, post-secondary enrollment, credentials |
@@ -212,7 +212,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 11: Required Drill Schedule
 
 | Drill | Minimum Frequency | Basis |
-|-------|-------------------|-------|
+| ------- | ------------------- | ------- |
 | Fire | Monthly (min 2/semester) | State Fire Marshal |
 | Tornado / severe weather | 2/year | DESE guidance |
 | Earthquake | 2/year | DESE guidance (New Madrid zone) |
@@ -224,7 +224,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 12: Missouri State Scholarships
 
 | Scholarship | Basis | Amount | Requirements |
-|-------------|-------|--------|-------------|
+| ------------- | ------- | -------- | ------------- |
 | A+ Scholarship | Merit + need | Tuition at community colleges | See Table 3 |
 | Bright Flight | Merit | Up to $3,000/year | Top ACT/SAT scores; in-state institution |
 | Access Missouri | Need | $300-$2,850/year | EFC-based; enrolled at approved MO institution |
@@ -234,7 +234,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 13: Key Education Hotlines & Contact Numbers
 
 | Service | Number |
-|---------|--------|
+| --------- | -------- |
 | Children's Division (abuse/neglect) | **1-800-392-3738** |
 | 988 Suicide & Crisis Lifeline | Call or text **988** |
 | Crisis Text Line | Text **HOME** to **741741** |
@@ -247,7 +247,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 14: Key Timelines in Special Education
 
 | Process | Timeline |
-|---------|---------|
+| --------- | --------- |
 | Evaluation (from consent) | 60 calendar days |
 | IEP development (from eligibility) | 30 calendar days |
 | IEP annual review | Every 365 days |
@@ -265,7 +265,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 15: FRPM Income Eligibility (Federal Poverty Level)
 
 | Category | Income Threshold |
-|----------|-----------------|
+| ---------- | ----------------- |
 | Free meals | ≤ 130% Federal Poverty Level |
 | Reduced-price meals | 131-185% Federal Poverty Level |
 | Paid | > 185% Federal Poverty Level |
@@ -277,7 +277,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 16: Teacher Certificate Types
 
 | Certificate | Duration | Key Requirements |
-|-------------|----------|-----------------|
+| ------------- | ---------- | ----------------- |
 | Initial Professional Certificate (IPC) | 4 years | Bachelor's, approved program, assessments, background check |
 | Career Continuous Professional Certificate (CCPC) | Lifetime (with renewal) | 4 years on IPC, mentoring, PD, district recommendation |
 | Substitute Certificate | 4 years | 36+ college semester hours, or HS diploma/equivalent + 20 clock hours of DESE-approved training; background check |
@@ -289,7 +289,7 @@ Scores are incorporated into course grades per local board policy. Participation
 ## Table 17: PSRS Retirement Eligibility
 
 | Path | Requirements |
-|------|-------------|
+| ------ | ------------- |
 | Rule of 80 | Age + years of service ≥ 80 |
 | 30 years | 30+ years of service at any age |
 | Age + service | Age 60 with 5+ years |

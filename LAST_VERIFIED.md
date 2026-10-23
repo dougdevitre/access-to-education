@@ -9,7 +9,7 @@
 ## Volatile Data Points
 
 | File | Data Point | Value | Source | Last Verified | Volatility |
-|------|-----------|-------|--------|--------------|------------|
+| ------ | ----------- | ------- | -------- | -------------- | ------------ |
 | mo-districts-regions.md | Total public school districts | ~518 | DESE MCDS | 2025-10 | Medium |
 | mo-districts-regions.md | Total student enrollment | ~880,000 | DESE MCDS | 2025-10 | High |
 | mo-districts-regions.md | Total certified staff | ~69,000 | DESE Core Data | 2025-10 | High |
@@ -68,7 +68,7 @@ Federal citations (IDEA, ESSA, Title IX, FERPA, ADA, etc.) were verified as of *
 ## Content Review Dates
 
 | File | Last Full Content Review |
-|------|------------------------|
+| ------ | ------------------------ |
 | SKILL.md | 2026-03 |
 | All references/*.md | 2026-03 (initial creation) |
 | All references/ai-in-education/*.md | 2026-03 (initial creation) |

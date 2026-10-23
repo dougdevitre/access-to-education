@@ -44,7 +44,7 @@ graph TD
 ## Command Index
 
 | Command | Description | Workflow |
-|---------|-------------|---------|
+| --------- | ------------- | --------- |
 | `/start` | New user intake — detect role, explain capabilities | Ask role → give 3-sentence overview of what this skill can do for that role → ask "What can I help you with?" |
 | `/rights` | Parent rights lookup | Ask: "What topic? (IEP, discipline, records, enrollment, 504, other)" → load appropriate reference → deliver rights-first response |
 | `/graduation [student name]` | Graduation audit | Load `templates/counselor/graduation-audit.md` → walk through credit tracker section by section |

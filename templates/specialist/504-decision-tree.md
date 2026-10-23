@@ -68,7 +68,7 @@ flowchart TD
 ### Common Examples by Condition
 
 | Condition | Typical Path | Reasoning |
-|-----------|-------------|-----------|
+| ----------- | ------------- | ----------- |
 | **Type 1 Diabetes** | 504 Plan | Substantially limits eating, caring for oneself; needs accommodations (nurse access, snack breaks, blood sugar monitoring) but not specialized instruction |
 | **Specific Learning Disability (Dyslexia)** | Usually IEP | Substantially limits reading/learning; typically requires specialized instruction (structured literacy, multisensory methods) |
 | **ADHD** | Could be either | If substantially limits concentrating/learning: 504 if only accommodations needed (preferential seating, breaks, extended time); IEP if specialized instruction needed for academic impact |
@@ -80,6 +80,8 @@ flowchart TD
 | **Vision impairment (corrected by glasses)** | Typically neither | Mitigating measures (glasses) considered only if impairment still substantially limits with correction under ADA Amendments Act |
 
 > **Key distinction:** IEP = student needs *specially designed instruction* to make progress. 504 = student needs *accommodations or modifications* to access the same education as peers, but not specialized instruction.
+
+<!-- separate callouts -->
 
 > **Missouri note:** Under the Section 504 regulations (34 CFR Part 104) and DESE guidance, school districts must have a 504 coordinator and written procedures. There is no state funding tied to 504 plans (unlike IEP, which generates state/federal special education funds).
 
@@ -128,7 +130,7 @@ _______________________________________________________________________________
 ### Evidence Reviewed
 
 | Source | Date | Reviewed? | Key Findings |
-|--------|------|-----------|-------------|
+| -------- | ------ | ----------- | ------------- |
 | Medical records / diagnosis | | ☐ | |
 | Teacher observations / input | | ☐ | |
 | Parent input | | ☐ | |
@@ -158,7 +160,7 @@ _______________________________________________________________________________
 ### 504 Team Members
 
 | Name | Role | Signature | Date |
-|------|------|-----------|------|
+| ------ | ------ | ----------- | ------ |
 | | Parent/Guardian | | |
 | | 504 Coordinator | | |
 | | General Ed Teacher | | |
@@ -184,7 +186,7 @@ _______________________________________________________________________________
 ### Testing Accommodations
 
 | # | Accommodation | Classroom Tests | District Assessments | State (MAP/EOC) |
-|---|--------------|:-:|:-:|:-:|
+| --- | -------------- | :-: | :-: | :-: |
 | 1 | Extended time (1.5x / 2x / ___) | ☐ | ☐ | ☐ |
 | 2 | Separate / reduced-distraction setting | ☐ | ☐ | ☐ |
 | 3 | Read-aloud (human reader or text-to-speech) | ☐ | ☐ | ☐ |
@@ -199,7 +201,7 @@ _______________________________________________________________________________
 ### Classroom Accommodations
 
 | # | Accommodation | Setting | Responsible Staff |
-|---|--------------|---------|------------------|
+| --- | -------------- | --------- | ------------------ |
 | 1 | Preferential seating (specify: front, near door, away from distractions) | ☐ All ☐ Specific: ___ | |
 | 2 | Movement breaks (frequency: ___) | ☐ All ☐ Specific: ___ | |
 | 3 | Fidget tools or sensory supports | ☐ All ☐ Specific: ___ | |
@@ -215,7 +217,7 @@ _______________________________________________________________________________
 ### Health Accommodations
 
 | # | Accommodation | Details | Responsible Staff |
-|---|--------------|---------|------------------|
+| --- | -------------- | --------- | ------------------ |
 | 1 | Access to medication during school day | Medication: ___ Schedule: ___ | |
 | 2 | Unlimited nurse / health office access | Condition: ___ | |
 | 3 | Emergency action plan on file | Plan dated: ___ Location: ___ | |
@@ -232,7 +234,7 @@ _______________________________________________________________________________
 ### Behavioral Accommodations
 
 | # | Accommodation | Setting | Responsible Staff |
-|---|--------------|---------|------------------|
+| --- | -------------- | --------- | ------------------ |
 | 1 | Regular check-ins with counselor / designated adult (frequency: ___) | | |
 | 2 | Modified behavioral expectations (specify: ___) | | |
 | 3 | Advance notice of schedule changes or transitions | | |
@@ -256,7 +258,7 @@ _______________________________________________________________________________
 ### 504 Team Signatures
 
 | Name | Role | Signature | Date |
-|------|------|-----------|------|
+| ------ | ------ | ----------- | ------ |
 | | Parent/Guardian | | |
 | | 504 Coordinator | | |
 | | General Ed Teacher | | |
@@ -281,7 +283,7 @@ _______________________________________________________________________________
 ### Agenda
 
 | # | Item | Time | Notes |
-|---|------|------|-------|
+| --- | ------ | ------ | ------- |
 | 1 | **Welcome & Introductions** — Identify team members, roles, purpose of meeting | 5 min | |
 | 2 | **Review Parent Rights** — Provide procedural safeguards notice; explain parent rights under Section 504 | 5 min | ☐ Rights document provided |
 | 3 | **Review Referral / Background** (Initial) OR **Review Current Plan** (Annual Review) — Discuss reason for referral or review effectiveness of current accommodations | 10 min | |
@@ -319,7 +321,7 @@ _______________________________________________________________________________
 ### Compliance Check
 
 | Item | Status | Notes |
-|------|--------|-------|
+| ------ | -------- | ------- |
 | Annual review conducted within 12 months of last meeting | ☐ Yes ☐ No | Last meeting date: _______ |
 | Parent notified and invited to meeting | ☐ Yes ☐ No | Date notified: _______ |
 | Procedural safeguards provided | ☐ Yes ☐ No | |
@@ -329,7 +331,7 @@ _______________________________________________________________________________
 ### Accommodation Effectiveness Review
 
 | Accommodation | Still Needed? | Effective? | Change Needed? | Notes |
-|--------------|:-:|:-:|:-:|-------|
+| -------------- | :-: | :-: | :-: | ------- |
 | | ☐ | ☐ | ☐ | |
 | | ☐ | ☐ | ☐ | |
 | | ☐ | ☐ | ☐ | |
@@ -339,7 +341,7 @@ _______________________________________________________________________________
 ### Data Review
 
 | Data Source | Current | Previous | Trend |
-|-------------|---------|----------|-------|
+| ------------- | --------- | ---------- | ------- |
 | Overall GPA | | | ☐ Up ☐ Same ☐ Down |
 | Core subject grades | | | ☐ Up ☐ Same ☐ Down |
 | Attendance (days absent) | | | ☐ Improved ☐ Same ☐ Declined |
@@ -356,14 +358,14 @@ _______________________________________________________________________________
 ☐ **Reevaluation needed** — significant change in condition or needs
 ☐ **Refer to Special Education** — student may now require specialized instruction
 ☐ **Exit 504 Plan** — student no longer meets eligibility criteria
-  - Reason: ☐ Condition resolved ☐ No longer substantially limited ☐ Other: ___
+- Reason: ☐ Condition resolved ☐ No longer substantially limited ☐ Other: ___
 
 **Prior Written Notice provided for any changes:** ☐ Yes — Date: _____________
 
 ### Next Steps
 
 | Action Item | Responsible Person | Due Date |
-|------------|-------------------|----------|
+| ------------ | ------------------- | ---------- |
 | | | |
 | | | |
 | | | |
@@ -411,38 +413,45 @@ flowchart TD
 
 ### Step-by-Step Dispute Resolution Guide
 
-**Step 1: Request a 504 Team Meeting**
+#### Step 1: Request a 504 Team Meeting
+
 - Put the request in writing (email or letter)
 - Clearly state your concern and the outcome you are requesting
 - The school should schedule a meeting within a reasonable time (5-10 school days)
 - Bring documentation supporting your position (medical records, report cards, teacher emails)
 - You may bring an advocate or support person
 
-**Step 2: Written Complaint to Building 504 Coordinator**
+#### Step 2: Written Complaint to Building 504 Coordinator
+
 - If the team meeting does not resolve the issue, submit a formal written complaint
 - Address it to the building-level 504 coordinator (usually the principal or counselor)
 - Include: student name, specific concern, actions already taken, requested remedy
 - Request a written response within 10 school days
 
-**Step 3: Appeal to District 504 Coordinator**
+#### Step 3: Appeal to District 504 Coordinator
+
 - If the building-level complaint does not resolve the issue, escalate to the district level
 - The district 504 coordinator must review the complaint and respond
 - Include copies of all prior correspondence and meeting notes
 
-**Step 4A: Office for Civil Rights (OCR) Complaint**
+#### Step 4A: Office for Civil Rights (OCR) Complaint
+
 - File a complaint with the U.S. Department of Education, Office for Civil Rights
 - **Deadline:** Within 180 calendar days of the discriminatory act
 - **How to file:** Online at [ocrcas.ed.gov](https://ocrcas.ed.gov) or by mail to the Kansas City OCR office (covers Missouri)
 - OCR will investigate whether the district violated Section 504
 - No cost to the parent
 
-**Step 4B: Impartial Due Process Hearing**
+#### Step 4B: Impartial Due Process Hearing
+
 - Under Section 504 (34 CFR 104.36), parents have the right to an impartial hearing
 - The district must provide a hearing officer who is not a district employee
 - Parents may bring an attorney or advocate
 - The hearing officer's decision is binding unless appealed to court
 
 > **Important:** Filing an OCR complaint and requesting a due process hearing are not mutually exclusive. A parent may pursue both simultaneously. However, OCR may defer investigation if a due process hearing is in progress.
+
+<!-- separate callouts -->
 
 > **Missouri Contact:** DESE does not administer Section 504 complaints (unlike IDEA/special education). 504 complaints go through the district or directly to OCR. The OCR regional office for Missouri is in Kansas City.
 
@@ -451,6 +460,7 @@ flowchart TD
 ## 7. Related Resources
 
 ### Internal References
+
 - `templates/specialist/plans-and-forms.md` — Additional 504 plan template and FBA template
 - `templates/specialist/iep-compliance-checklist.md` — IEP compliance audit (for students referred to special education)
 - `templates/specialist/iep-meeting-prep.md` — IEP meeting preparation guide
@@ -461,6 +471,7 @@ flowchart TD
 - `scripts/calculators.md` — SPED timeline calculator (adaptable for 504 timelines)
 
 ### External References
+
 - **Section 504 of the Rehabilitation Act of 1973** — 34 CFR Part 104
 - **ADA Amendments Act of 2008 (ADAAA)** — Broadened the definition of disability; applies to 504 eligibility
 - **OCR Complaint Filing** — [https://ocrcas.ed.gov](https://ocrcas.ed.gov)
@@ -470,6 +481,7 @@ flowchart TD
 - **Parent Training & Information Center (PTI) Missouri** — [https://missouriparentsact.org](https://missouriparentsact.org) — Free training and support for parents
 
 ### Commands
+
 - `/rights` — Look up parent rights under 504 and IDEA
 - `/letter 504-request` — Generate a parent letter requesting a 504 evaluation
 - `/letter 504-complaint` — Generate a parent letter for a 504 complaint

@@ -83,6 +83,14 @@ jobs:
       - name: Install Mermaid CLI
         run: npm install -g @mermaid-js/mermaid-cli
 
+      # mmdc renders each diagram in headless Chrome. On the hosted Ubuntu
+      # runners Chrome cannot start its sandbox (AppArmor blocks unprivileged
+      # user namespaces), so every diagram failed to render whatever its syntax.
+      # mermaid-cli's documented fix for CI and containers is --no-sandbox; the
+      # diagrams are this repo's own files. Parsing and rendering are unchanged.
+      - name: Write the Puppeteer config for mmdc
+        run: echo '{"args":["--no-sandbox"]}' > "$RUNNER_TEMP/puppeteer-config.json"
+
       - name: Extract and validate Mermaid blocks
         run: |
           errors=0
@@ -96,8 +104,9 @@ jobs:
               if [ "$line" = "---END_BLOCK---" ]; then
                 if [ -s /tmp/mermaid_block.mmd ]; then
                   block_count=$((block_count + 1))
-                  if ! mmdc -i /tmp/mermaid_block.mmd -o /tmp/mermaid_out.svg 2>/tmp/mermaid_err.txt; then
-                    echo "::error file=$file::Invalid Mermaid diagram in $file"
+                  if ! mmdc -p "$RUNNER_TEMP/puppeteer-config.json" -i /tmp/mermaid_block.mmd -o /tmp/mermaid_out.svg 2>/tmp/mermaid_err.txt; then
+                    reason=$(grep -m1 -E 'Error|error' /tmp/mermaid_err.txt | cut -c1-200)
+                    echo "::error file=$file::Invalid Mermaid diagram in $file: ${reason:-see log}"
                     cat /tmp/mermaid_err.txt
                     echo "1" >> /tmp/mermaid_errors
                   fi

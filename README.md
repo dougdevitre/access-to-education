@@ -44,7 +44,7 @@ graph TD
 ## What It Does
 
 | Capability | Details |
-|-----------|---------|
+| ----------- | --------- |
 | **Role-adaptive answers** | Detects who is asking (student, parent, teacher, specialist, principal, staff, admin) and shapes the tone, structure, and depth accordingly |
 | **Quick-answer layer** | 35+ instant answers to the most common questions -- no lookup needed |
 | **22 slash commands** | `/rights`, `/graduation`, `/letter`, `/iep-check`, `/crisis`, `/comply`, `/retire`, and more |
@@ -72,7 +72,7 @@ claude
 
 Then just ask a question:
 
-```
+```text
 > My child was suspended for 10 days. What are our rights?
 > /graduation
 > Can I retire? I'm 52 with 30 years in.
@@ -114,7 +114,7 @@ Use `MANIFEST.json` as the routing layer. It maps every topic to its canonical r
 Users can type these commands or just describe what they need in natural language.
 
 | Command | What it does |
-|---------|-------------|
+| --------- | ------------- |
 | `/start` | New user intake -- detects role, explains capabilities |
 | `/rights` | Parent rights lookup by topic |
 | `/letter [type]` | Generate a parent letter (evaluation, records, IEP meeting, dispute, 504) |
@@ -142,7 +142,7 @@ Users can type these commands or just describe what they need in natural languag
 
 ## Repository Structure
 
-```
+```text
 access-to-education/
 |
 |-- SKILL.md                     # Core behavioral system (the "operating system")
@@ -311,7 +311,7 @@ Each topic has a single canonical owner file (see `CANONICAL_OWNERS.md`). To upd
 ## Version History
 
 | Version | Date | Highlights |
-|---------|------|-----------|
+| --------- | ------ | ----------- |
 | 7.1.0 | 2026-03-28 | Repo restructure, CLAUDE.md for Claude Code activation |
 | 7.0.0 | 2026-03-28 | Pod architecture, 22 commands, 50+ templates, calculators, evals |
 | 6.0.0 | 2026-03-28 | Decision trees, follow-up anticipation, document generation, Spanish support |

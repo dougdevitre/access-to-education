@@ -17,11 +17,12 @@ flowchart TD
 ```
 
 ## Table of Contents
-- [Template 1: Daily Attendance & Participation Tracker](#template-1-daily-attendance-participation-tracker)
+
+- [Template 1: Daily Attendance & Participation Tracker](#template-1-daily-attendance--participation-tracker)
   - [Weekly Summary](#weekly-summary)
-- [Template 2: Grade Notification — Progress Report](#template-2-grade-notification-progress-report)
+- [Template 2: Grade Notification — Progress Report](#template-2-grade-notification--progress-report)
   - [Current Standing](#current-standing)
-  - [Missing / Incomplete Work](#missing-incomplete-work)
+  - [Missing / Incomplete Work](#missing--incomplete-work)
   - [Teacher Comments](#teacher-comments)
   - [Recommended Actions](#recommended-actions)
 - [Template 3: Parent Communication Log](#template-3-parent-communication-log)
@@ -34,11 +35,11 @@ flowchart TD
 - [Template 5: Beginning-of-Year Classroom Setup Checklist](#template-5-beginning-of-year-classroom-setup-checklist)
   - [Physical Space](#physical-space)
   - [Technology](#technology)
-  - [Paperwork & Systems](#paperwork-systems)
+  - [Paperwork & Systems](#paperwork--systems)
   - [Instructional Prep](#instructional-prep)
   - [Administrative](#administrative)
 - [Template 6: End-of-Year Closeout Checklist](#template-6-end-of-year-closeout-checklist)
-  - [Grades & Records](#grades-records)
+  - [Grades & Records](#grades--records)
   - [Student Materials](#student-materials)
   - [Classroom](#classroom)
   - [Professional](#professional)
@@ -51,7 +52,7 @@ flowchart TD
 **Week of:** _______________
 
 | Student Name | Mon | Tue | Wed | Thu | Fri | Notes |
-|-------------|-----|-----|-----|-----|-----|-------|
+| ------------- | ----- | ----- | ----- | ----- | ----- | ------- |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
@@ -64,6 +65,7 @@ flowchart TD
 **Key:** P = Present, A = Absent, T = Tardy, E = Excused absence, ISS = In-school suspension, OSS = Out-of-school suspension
 
 ### Weekly Summary
+
 - Total absences this week: ___
 - Students with 3+ absences this month: _______________________________________________
 - Students approaching chronic absence (10%+ of school days): _______________________________________________
@@ -87,7 +89,7 @@ flowchart TD
 ### Current Standing
 
 | Category | Current Grade | Class Average | Notes |
-|----------|-------------|--------------|-------|
+| ---------- | ------------- | -------------- | ------- |
 | Overall | | | |
 | Tests/Quizzes | | | |
 | Classwork | | | |
@@ -97,12 +99,13 @@ flowchart TD
 ### Missing / Incomplete Work
 
 | Assignment | Due Date | Points Possible | Status |
-|-----------|----------|----------------|--------|
+| ----------- | ---------- | ---------------- | -------- |
 | | | | ☐ Missing ☐ Incomplete ☐ Late |
 | | | | ☐ Missing ☐ Incomplete ☐ Late |
 | | | | ☐ Missing ☐ Incomplete ☐ Late |
 
 ### Teacher Comments
+
 ☐ Student is performing well — keep it up
 ☐ Student is capable of better work — needs more effort
 ☐ Student is struggling — intervention recommended
@@ -111,6 +114,7 @@ flowchart TD
 ☐ Other: _______________________________________________
 
 ### Recommended Actions
+
 - [ ] Student should attend tutoring on _______________
 - [ ] Parent conference requested — please contact me at _______________
 - [ ] Student should complete missing work by _______________
@@ -127,7 +131,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 **Teacher:** ___________________________ **School Year:** _______________
 
 | Date | Student | Parent Name | Method | Topic | Summary | Follow-Up Needed |
-|------|---------|------------|--------|-------|---------|-----------------|
+| ------ | --------- | ------------ | -------- | ------- | --------- | ----------------- |
 | | | | ☐ Call ☐ Email ☐ Conference ☐ Note | | | ☐ Yes ☐ No |
 | | | | ☐ Call ☐ Email ☐ Conference ☐ Note | | | ☐ Yes ☐ No |
 | | | | ☐ Call ☐ Email ☐ Conference ☐ Note | | | ☐ Yes ☐ No |
@@ -150,6 +154,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 **Destination:** ___________________________ **Grade/Class:** _______________
 
 ### 8+ Weeks Before
+
 - [ ] Get principal approval (verbal, then written)
 - [ ] Submit field trip request form to office
 - [ ] Confirm date with destination — get written confirmation
@@ -158,6 +163,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Identify funding source for students who cannot pay
 
 ### 4+ Weeks Before
+
 - [ ] Send permission slips home (must be signed by parent/guardian)
 - [ ] Include: destination, date, departure/return time, cost, lunch info, emergency contact
 - [ ] Recruit chaperones: ___ needed (ratio: ___)
@@ -167,6 +173,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Plan for students NOT attending (alternative assignment)
 
 ### 1 Week Before
+
 - [ ] Collect all permission slips — NO student goes without a signed slip
 - [ ] Create student roster with emergency contacts and medical alerts
 - [ ] Check IEP/504 accommodations — are any needed for the trip?
@@ -176,6 +183,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Distribute chaperone information packet (student groups, itinerary, emergency numbers)
 
 ### Day Of
+
 - [ ] Take attendance before departure — compare to permission slips
 - [ ] Bring: student roster, emergency contacts, first aid kit, cell phone, permission slips
 - [ ] Assign chaperone groups
@@ -183,6 +191,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Take attendance before return departure
 
 ### After
+
 - [ ] Send thank-you note to destination
 - [ ] Submit receipts for reimbursement
 - [ ] Debrief with students (what did you learn?)
@@ -194,6 +203,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 **Teacher:** ___________________________ **Room:** _____ **School Year:** _______________
 
 ### Physical Space
+
 - [ ] Desks/tables arranged for your teaching style (rows, groups, U-shape, stations)
 - [ ] Teacher desk positioned to monitor the room
 - [ ] Clear traffic flow — students can move without disruption
@@ -205,6 +215,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Tissue, hand sanitizer, pencil sharpener accessible
 
 ### Technology
+
 - [ ] Projector / smartboard working and tested
 - [ ] Student devices charged and numbered
 - [ ] LMS set up (Google Classroom / Canvas / Schoology): _______________
@@ -212,6 +223,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Backup plan for tech failure (printed materials ready)
 
 ### Paperwork & Systems
+
 - [ ] Class rosters printed (check for updates on day 1)
 - [ ] Seating charts created (or plan for first-day arrangement)
 - [ ] Grade book set up — categories and weights entered
@@ -221,6 +233,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Emergency sub binder created and in desk (see `templates/teacher/sub-binder.md`)
 
 ### Instructional Prep
+
 - [ ] First week lesson plans complete
 - [ ] First-day activities planned (icebreakers, expectations, routines practice)
 - [ ] Routines to teach explicitly in week 1:
@@ -235,6 +248,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] IEP/504 accommodation list received and reviewed
 
 ### Administrative
+
 - [ ] Reviewed student IEPs and 504 plans for all classes
 - [ ] Identified ELL students and WIDA levels
 - [ ] Reviewed building emergency procedures
@@ -255,6 +269,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 **Teacher:** ___________________________ **Room:** _____ **School Year:** _______________
 
 ### Grades & Records
+
 - [ ] Final grades submitted by deadline: _______________
 - [ ] Grade disputes resolved
 - [ ] Missing grade documentation complete
@@ -262,12 +277,14 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Student records updated in SIS
 
 ### Student Materials
+
 - [ ] Textbooks collected and counted — shortages reported to _______________
 - [ ] Technology devices collected, counted, and checked for damage
 - [ ] Student work / portfolios returned or filed
 - [ ] Lost & found items addressed
 
 ### Classroom
+
 - [ ] Personal items removed
 - [ ] Furniture arranged per custodial request (stacked / moved for cleaning)
 - [ ] Bulletin boards cleared (or left up per building policy)
@@ -277,6 +294,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Room secured
 
 ### Professional
+
 - [ ] PD hours logged and submitted for certificate renewal
 - [ ] MEES evaluation paperwork signed
 - [ ] PD growth plan completed or carried forward
@@ -284,6 +302,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] MEES portfolio evidence organized and saved
 
 ### Planning Ahead
+
 - [ ] Sub binder materials saved digitally for next year
 - [ ] First-week plans noted (what worked this year, what to change)
 - [ ] Student alerts passed to next year's teachers (per transition protocol)
@@ -291,6 +310,7 @@ Track all parent contacts in one place. Many districts require this documentatio
 - [ ] Summer PD registered (if planned)
 
 ### Data
+
 - [ ] Assessment data analyzed and summarized for department/team
 - [ ] Student growth evidence saved (for MEES Standard 2)
 - [ ] Any mandated reporting documentation finalized

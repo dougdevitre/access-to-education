@@ -25,7 +25,7 @@ flowchart TD
 ## Credit Requirements (24.0 Minimum — Verify District Requirements)
 
 | Subject | Required | Earned | In Progress | Remaining | Notes |
-|---------|----------|--------|-------------|-----------|-------|
+| --------- | ---------- | -------- | ------------- | ----------- | ------- |
 | English Language Arts | 4.0 | | | | |
 | Mathematics (incl. Algebra I+) | 3.0 | | | | |
 | Science (incl. 1 lab science) | 3.0 | | | | |
@@ -45,7 +45,7 @@ flowchart TD
 ## Assessment Participation
 
 | Assessment | Subject | Participated? | Score | Notes |
-|-----------|---------|--------------|-------|-------|
+| ----------- | --------- | -------------- | ------- | ------- |
 | EOC — English II | ELA | ☐ Yes ☐ No | | |
 | EOC — Algebra I | Math | ☐ Yes ☐ No | | |
 | EOC — Biology | Science | ☐ Yes ☐ No | | |
@@ -57,7 +57,7 @@ flowchart TD
 ## Additional Requirements
 
 | Requirement | Status | Notes |
-|-------------|--------|-------|
+| --- | --- | --- |
 | CPR instruction (RSMo 170.310) | ☐ Complete ☐ Incomplete | |
 | U.S./MO Constitution requirement | ☐ Complete ☐ Incomplete | Verify district policy |
 
@@ -66,7 +66,7 @@ flowchart TD
 ## [A+ Program](../../references/roles/students.md) Eligibility Check
 
 | Criterion | Status | Details |
-|-----------|--------|---------|
+| ----------- | -------- | --------- |
 | Attended A+ school 3 consecutive years | ☐ Met ☐ Not met | Entry date: ___________ |
 | Cumulative GPA ≥ 2.5 | ☐ Met ☐ Not met | Current GPA: ___________ |
 | Cumulative attendance ≥ 95% | ☐ Met ☐ Not met | Current: ___________% |
@@ -82,7 +82,7 @@ flowchart TD
 ## Post-Secondary Plan
 
 | Element | Detail |
-|---------|--------|
+| --------- | -------- |
 | Post-secondary goal | ☐ 4-year ☐ Community college ☐ Technical ☐ Military ☐ Workforce ☐ Apprenticeship |
 | Applications submitted | |
 | Financial aid status | ☐ FAFSA complete ☐ Scholarships applied ☐ A+ verified |
@@ -94,7 +94,7 @@ flowchart TD
 ## Action Items
 
 | Issue | Action | Responsible | Deadline | Status |
-|-------|--------|------------|----------|--------|
+| ------- | -------- | ------------ | ---------- | -------- |
 | | | | | |
 | | | | | |
 | | | | | |
@@ -126,7 +126,7 @@ flowchart TD
 #### Credit Requirements (24.0 Minimum)
 
 | Subject | Required | Earned | In Progress | Remaining | Notes |
-|---------|----------|--------|-------------|-----------|-------|
+| --------- | ---------- | -------- | ------------- | ----------- | ------- |
 | English Language Arts | 4.0 | 4.0 | 0 | 0 | Complete |
 | Mathematics (incl. Algebra I+) | 3.0 | 3.0 | 0 | 0 | Algebra I, Geometry, Algebra II — complete |
 | Science (incl. 1 lab science) | 3.0 | 1.5 | 0.5 | **1.0** | Biology (1.0) earned; Chemistry in progress (0.5 earned of 1.0); needs 1.0 more — see action items |
@@ -146,7 +146,7 @@ flowchart TD
 #### Assessment Participation
 
 | Assessment | Subject | Participated? | Score | Notes |
-|-----------|---------|--------------|-------|-------|
+| ----------- | --------- | -------------- | ------- | ------- |
 | EOC — English II | ELA | ☒ Yes ☐ No | Proficient | |
 | EOC — Algebra I | Math | ☒ Yes ☐ No | Proficient | |
 | EOC — Biology | Science | ☒ Yes ☐ No | Basic | |
@@ -158,7 +158,7 @@ flowchart TD
 #### Additional Requirements
 
 | Requirement | Status | Notes |
-|-------------|--------|-------|
+| --- | --- | --- |
 | CPR instruction (RSMo 170.310) | ☒ Complete ☐ Incomplete | Completed in Health class, sophomore year |
 | U.S./MO Constitution requirement | ☒ Complete ☐ Incomplete | Covered in Am. Government course |
 
@@ -167,7 +167,7 @@ flowchart TD
 #### A+ Program Eligibility Check
 
 | Criterion | Status | Details |
-|-----------|--------|---------|
+| ----------- | -------- | --------- |
 | Attended A+ school 3 consecutive years | ☒ Met ☐ Not met | Enrolled since 9th grade (4 years) |
 | Cumulative GPA ≥ 2.5 | ☒ Met ☐ Not met | Current GPA: 3.1 |
 | Cumulative attendance ≥ 95% | ☐ Met ☒ Not met | Current: **94.0%** — see action items |
@@ -185,7 +185,7 @@ flowchart TD
 #### Post-Secondary Plan
 
 | Element | Detail |
-|---------|--------|
+| --------- | -------- |
 | Post-secondary goal | ☒ Community college (plans to use A+ Scholarship at State Fair Community College, then transfer to a 4-year university) |
 | Applications submitted | Applied to State Fair CC and Ozarks Technical CC as backup |
 | Financial aid status | ☐ FAFSA complete ☒ FAFSA not yet submitted — needs to complete before May 1 |
@@ -197,7 +197,7 @@ flowchart TD
 #### Action Items
 
 | Issue | Action | Responsible | Deadline | Status |
-|-------|--------|------------|----------|--------|
+| ------- | -------- | ------------ | ---------- | -------- |
 | Missing 1.0 science credit | Enroll in summer school Environmental Science (1.0 credit) at Lincoln HS. If summer school not available, explore Missouri Virtual Instruction Program (MoVIP) or credit recovery. District will allow summer credit to fulfill graduation requirement — diploma held until credit earned. | Maria + Mr. Park (counselor) | Register by 04/15/2026 | In progress — summer school catalog opens 04/07 |
 | A+ attendance at 94% (needs 95%) | Maria must have zero additional unexcused absences for remainder of year. Begin A+ attendance appeal documentation now in case 95% is not met. Gather documentation of excused medical absences (3 days for flu in October were doctor-verified). | Mr. Park + A+ Coordinator | Appeal due by 05/15/2026 | Not started — schedule meeting with A+ Coordinator this week |
 | FAFSA not yet completed | Schedule FAFSA completion session with Maria and parent. School hosts FAFSA night on 04/10. If family cannot attend, schedule individual appointment with counselor. | Maria + parent + Mr. Park | Complete by 04/15/2026 | Not started |

@@ -24,6 +24,7 @@ flowchart TD
 ```
 
 ## Table of Contents
+
 - [1. District Profile](#1-district-profile)
 - [2. Mission, Vision, Values](#2-mission-vision-values)
 - [3. Needs Assessment Summary (Data-Driven)](#3-needs-assessment-summary-data-driven)
@@ -31,7 +32,7 @@ flowchart TD
 - [5. How Building CSIPs Align](#5-how-building-csips-align)
 - [6. Professional Development Plan (District-Wide)](#6-professional-development-plan-district-wide)
 - [7. Resource Allocation](#7-resource-allocation)
-- [8. Monitoring & Reporting Schedule](#8-monitoring-reporting-schedule)
+- [8. Monitoring & Reporting Schedule](#8-monitoring--reporting-schedule)
 - [9. Stakeholder Engagement Evidence](#9-stakeholder-engagement-evidence)
 - [Equity Audit Template](#equity-audit-template)
 - [Board Presentation Outline](#board-presentation-outline)
@@ -39,8 +40,9 @@ flowchart TD
 ---
 
 ## 1. District Profile
+
 | Metric | Value |
-|--------|-------|
+| -------- | ------- |
 | Total enrollment | |
 | Number of schools | |
 | % Free/Reduced Lunch | |
@@ -51,13 +53,15 @@ flowchart TD
 | Accreditation status | |
 
 ## 2. Mission, Vision, Values
+
 **Mission:** _______________________________________________________________________________
 **Vision:** _______________________________________________________________________________
 **Core Values:** _______________________________________________________________________________
 
 ## 3. Needs Assessment Summary (Data-Driven)
+
 | MSIP 6 Standard | Current Performance | Target | Gap |
-|-----------------|-------------------|--------|-----|
+| ----------------- | ------------------- | -------- | ----- |
 | 1. Academic Achievement | | | |
 | 2. Subgroup Achievement | | | |
 | 3. College & Career Readiness | | | |
@@ -67,8 +71,9 @@ flowchart TD
 ## 4. District Goals (3-5 year)
 
 ### Goal 1: ___________________________
+
 | Element | Detail |
-|---------|--------|
+| --------- | -------- |
 | MSIP 6 alignment | |
 | Measurable target | |
 | Strategies | |
@@ -81,28 +86,33 @@ flowchart TD
 *(Repeat for Goals 2-5)*
 
 ## 5. How Building CSIPs Align
+
 | School | CSIP Goal 1 | CSIP Goal 2 | DSIP Alignment |
-|--------|-------------|-------------|----------------|
+| --- | --- | --- | --- |
 | | | | |
 
 ## 6. Professional Development Plan (District-Wide)
+
 | PD Priority | Aligned to Goal | Audience | Timeline | Provider |
-|-------------|----------------|----------|----------|---------|
+| --- | --- | --- | --- | --- |
 | | | | | |
 
 ## 7. Resource Allocation
+
 | Goal | Funding Source | Amount |
-|------|--------------|--------|
+| --- | --- | --- |
 | | | |
 
 ## 8. Monitoring & Reporting Schedule
+
 | Review Point | Data Reviewed | Who Reviews | Decision Rules |
-|-------------|--------------|------------|---------------|
+| --- | --- | --- | --- |
 | | | | |
 
 ## 9. Stakeholder Engagement Evidence
+
 | Group | Method | Date | Key Input |
-|-------|--------|------|-----------|
+| --- | --- | --- | --- |
 | | | | |
 
 ---
@@ -113,16 +123,18 @@ flowchart TD
 **Audit Team Lead:** ___________________________
 
 ### 1. Academic Achievement Equity
+
 | Metric | White | Black | Hispanic | IEP | ELL | FRL | Gap? |
-|--------|-------|-------|----------|-----|-----|-----|------|
+| -------- | ------- | ------- | ---------- | ----- | ----- | ----- | ------ |
 | ELA proficiency % | | | | | | | |
 | Math proficiency % | | | | | | | |
 | Graduation rate | | | | | | | |
 | ACT composite avg | | | | | | | |
 
 ### 2. Access & Opportunity Equity
+
 | Program | White % | Black % | Hispanic % | IEP % | ELL % | FRL % | Proportionate? |
-|---------|---------|---------|-----------|-------|-------|-------|---------------|
+| --------- | --------- | --------- | ----------- | ------- | ------- | ------- | --------------- |
 | AP/IB enrollment | | | | | | | |
 | Gifted identified | | | | | | | |
 | Dual credit | | | | | | | |
@@ -130,24 +142,27 @@ flowchart TD
 | Extracurricular | | | | | | | |
 
 ### 3. Discipline Equity
+
 | Metric | White | Black | Hispanic | Male | Female | IEP | 504 | Disproportionate? |
-|--------|-------|-------|----------|------|--------|-----|-----|------------------|
+| -------- | ------- | ------- | ---------- | ------ | -------- | ----- | ----- | ------------------ |
 | Referral rate (per 100) | | | | | | | | |
 | ISS rate (per 100) | | | | | | | | |
 | OSS rate (per 100) | | | | | | | | |
 | Expulsion rate | | | | | | | | |
 
 ### 4. Staffing Equity
+
 | Metric | District | School A | School B | School C |
-|--------|---------|----------|----------|----------|
+| -------- | --------- | ---------- | ---------- | ---------- |
 | % experienced teachers (5+ yr) | | | | |
 | % certified in content | | | | |
 | Teacher turnover rate | | | | |
 | Staff diversity (% non-white) | | | | |
 
 ### 5. Resource Equity
+
 | Resource | Highest-poverty school | Lowest-poverty school | Equitable? |
-|----------|----------------------|----------------------|-----------|
+| ---------- | ---------------------- | ---------------------- | ----------- |
 | Per-pupil spending | | | |
 | Class size avg | | | |
 | Technology (student:device) | | | |
@@ -155,16 +170,18 @@ flowchart TD
 | Facility condition | | | |
 
 ### 6. Climate Equity (Survey Data Disaggregated)
+
 | Climate Domain | White | Black | Hispanic | IEP | ELL | Gap > 10pts? |
-|---------------|-------|-------|----------|-----|-----|-------------|
+| --------------- | ------- | ------- | ---------- | ----- | ----- | ------------- |
 | Safety | | | | | | |
 | Belonging | | | | | | |
 | Engagement | | | | | | |
 | Teacher-student relationships | | | | | | |
 
 ### 7. Policy Review
+
 | Policy | Reviewed for disparate impact? | Findings |
-|--------|-------------------------------|----------|
+| -------- | ------------------------------- | ---------- |
 | Discipline code | ☐ | |
 | Grading policy | ☐ | |
 | Attendance policy | ☐ | |
@@ -172,8 +189,9 @@ flowchart TD
 | AP/advanced course access | ☐ | |
 
 ### 8. Findings & Recommendations
+
 | Finding | Recommendation | Priority | Responsible | Timeline |
-|---------|---------------|----------|------------|---------|
+| --- | --- | --- | --- | --- |
 | | | | | |
 
 ---
@@ -186,36 +204,43 @@ flowchart TD
 **Estimated Time:** ___ minutes
 
 ### Slide 1: Title + Purpose
+
 - What is this about? (one sentence)
 - Why is it before the board? (information / discussion / action required)
 
 ### Slide 2: Background
+
 - Context the board needs (2-3 bullet points max)
 - How did we get here?
 
 ### Slide 3: Data
+
 - Key data points that support the recommendation
 - Visual: chart, table, or comparison
 - Source cited
 
 ### Slide 4: Options/Recommendation
+
 | Option | Pros | Cons | Cost |
-|--------|------|------|------|
+| -------- | ------ | ------ | ------ |
 | A | | | |
 | B | | | |
 | Recommended | | | |
 
 ### Slide 5: Impact
+
 - Who is affected? Students / Staff / Community / Budget
 - Timeline for implementation
 - Risks and mitigation
 
 ### Slide 6: Ask
+
 - What do you need from the board? (approve / direct staff / table for further study)
 - Next steps if approved
 - Questions?
 
 ### Appendix (leave-behind, not presented)
+
 - Detailed data tables
 - Legal citations
 - Peer district comparisons
