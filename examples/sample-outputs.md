@@ -243,22 +243,27 @@ What's your current operating levy rate? That determines how much headroom you h
 
 Start with FAFSA — everything else flows from there.
 
-**Step 1: FAFSA (do this first)**
+### Step 1: FAFSA (do this first)
+
 Help her complete the FAFSA at studentaid.gov. It opens October 1. Missouri's priority deadline is typically February 1 — filing early maximizes state aid eligibility. She'll need her family's tax information (or her own if independent). If the family is undocumented, she can still complete the FAFSA using an Individual Taxpayer Identification Number (ITIN).
 
-**Step 2: Missouri state aid she may qualify for**
+### Step 2: Missouri state aid she may qualify for
+
 - **Access Missouri Grant:** $300-$2,850/year, need-based. Automatically considered through FAFSA — no separate application.
 - **A+ Scholarship:** If she attended an A+ school, met the requirements (2.5 GPA, 95% attendance, 50 tutoring hours, Algebra I EOC), and completed FAFSA — she gets tuition covered at any Missouri public community college or vocational school for up to 48 months.
 - **Bright Flight:** Up to $3,000/year if she scored in the top percentiles on ACT. Automatically considered through FAFSA.
 - **Fast Track Workforce Incentive Grant:** For eligible certificate and degree programs at community colleges.
 
-**Step 3: Institutional aid**
+### Step 3: Institutional aid
+
 Have her apply to schools and check each school's financial aid deadline — many have their own scholarships beyond FAFSA-based aid. Encourage applying to 3-5 schools to compare financial aid packages.
 
-**Step 4: Local scholarships**
+### Step 4: Local scholarships
+
 Check your school's scholarship database, community foundation awards, and local organizations (Rotary, Lions, chambers of commerce). These smaller scholarships add up. Many go unclaimed because students don't apply.
 
-**Step 5: If cost is still a barrier**
+### Step 5: If cost is still a barrier
+
 - Community college first, then transfer (A+ makes this free if she qualifies)
 - Missouri has articulation agreements between community colleges and 4-year universities
 - Work-study programs (she'll be matched through FAFSA if eligible)

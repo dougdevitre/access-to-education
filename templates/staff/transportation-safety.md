@@ -26,6 +26,7 @@ flowchart TD
 **Complete this inspection BEFORE every route. Do NOT operate a bus that fails any critical item.**
 
 ### Exterior Check
+
 - [ ] Walk around the bus — check for body damage, fluid leaks, flat tires
 - [ ] All lights functional (headlights, brake lights, turn signals, hazard flashers, strobes)
 - [ ] Stop arm extends and retracts properly
@@ -35,6 +36,7 @@ flowchart TD
 - [ ] Tires: adequate tread depth, no cuts or bulges, proper inflation
 
 ### Interior Check
+
 - [ ] Engine starts and runs smoothly; gauges within normal range
 - [ ] Brakes: service brake firm, parking brake holds
 - [ ] Steering: no excessive play
@@ -55,6 +57,7 @@ flowchart TD
 ## Student Behavior Management on the Bus
 
 ### Expectations (Post These Rules Visibly on the Bus)
+
 1. Remain seated and facing forward while the bus is in motion
 2. Keep hands, feet, and objects to yourself
 3. Use appropriate language and volume
@@ -63,8 +66,9 @@ flowchart TD
 6. Keep the aisle clear at all times
 
 ### Progressive Response
+
 | Level | Behavior | Response |
-|-------|----------|----------|
+| ------- | ---------- | ---------- |
 | **1 — Minor** | Loud talking, standing briefly, minor horseplay | Verbal redirect; reassign seat if needed |
 | **2 — Moderate** | Repeated minor offenses, profanity, throwing objects | Written bus conduct report to school office; possible assigned seat |
 | **3 — Major** | Fighting, bullying, threats, vandalism, leaving seat while moving | Pull over safely if needed; radio dispatch; written report; administrator conference |
@@ -80,6 +84,7 @@ flowchart TD
 ## Emergency Procedures
 
 ### Vehicle Accident
+
 1. Stop the bus and turn off the engine (unless doing so creates additional danger)
 2. Activate hazard flashers
 3. Call **911** and then dispatch/transportation office
@@ -91,6 +96,7 @@ flowchart TD
 9. Complete the district accident report before end of day
 
 ### Medical Emergency
+
 1. Pull over to a safe location and secure the bus
 2. Call **911** — provide exact location, nature of emergency, student age
 3. Radio dispatch immediately
@@ -101,11 +107,13 @@ flowchart TD
 8. Remain with the student until EMS arrives
 
 ### Severe Weather
+
 - **Tornado warning while en route:** Do NOT return to school. Drive away from the storm path if possible. If you cannot outrun it, evacuate the bus and move students to the nearest low-lying area or sturdy building. Students should lie flat and cover their heads. Do NOT shelter under the bus.
 - **Flash flooding:** Never drive through standing water. Turn around and find an alternate route. Radio dispatch for guidance.
 - **Ice/snow:** Reduce speed, increase following distance, and radio dispatch if conditions are unsafe. You have the authority to stop and wait for conditions to improve.
 
 ### Evacuation Procedure
+
 1. Determine whether front-door or rear-door evacuation is safest
 2. Direct the two oldest or most capable students to exit first and assist others
 3. Students cross to a safe location at least **100 feet** from the bus
@@ -117,6 +125,7 @@ flowchart TD
 ## Special Needs Student Transport
 
 ### Wheelchair Students
+
 - [ ] Wheelchair securements inspected daily — straps, tracks, and floor anchors in good condition
 - [ ] Secure wheelchair at **all four** floor anchor points AND apply the wheelchair's own brakes
 - [ ] Use lap belt and shoulder harness on the student as required by IEP transportation plan
@@ -125,12 +134,14 @@ flowchart TD
 - [ ] Practice loading/unloading procedure with the student and family at the start of the year
 
 ### Students with Behavioral Plans
+
 - Review the student's **Behavioral Transportation Plan** (BTP) before the first day of service
 - Know the student's triggers, de-escalation strategies, and reinforcers
 - If a 1:1 aide is assigned, coordinate seating and communication signals
 - Document behavioral incidents and share with the school and transportation director
 
 ### Students with Medical Needs
+
 - Know which students have medical conditions (seizures, diabetes, severe allergies)
 - Verify that any required equipment (EpiPen, glucose tablets) is on the bus per the student's health plan
 - Know the location of the student's emergency health card
@@ -166,7 +177,7 @@ You may observe signs of abuse or neglect that other school staff do not see —
 **Complete this form for any behavioral, medical, or safety incident. Submit to the Transportation Director and building administrator within 24 hours.**
 
 | Field | Details |
-|-------|---------|
+| ------- | --------- |
 | **Date:** | _____________ |
 | **Time:** | _____________ |
 | **Route #:** | _____________ |
@@ -177,7 +188,7 @@ You may observe signs of abuse or neglect that other school staff do not see —
 **Students Involved:**
 
 | Name | Grade | School |
-|------|-------|--------|
+| --- | --- | --- |
 | | | |
 | | | |
 
@@ -202,12 +213,12 @@ _____________________________________________________________________________
 **Witnesses:**
 
 | Name | Role |
-|------|------|
+| --- | --- |
 | | |
 | | |
 
 | | Signature | Date |
-|---|-----------|------|
+| --- | ----------- | ------ |
 | **Driver** | | |
 | **Transportation Director** | | |
 | **Building Administrator** | | |

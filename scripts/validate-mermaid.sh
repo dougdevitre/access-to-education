@@ -31,6 +31,37 @@ else
 fi
 
 # ---------------------------------------------------------------------------
+# is_single_node_decl LINE -- true when LINE is one node id followed by one
+# bracketed shape ([..], (..), {..}, [[..]], ((..)), {{..}}, [(..)], >..]) and
+# nothing else except an optional :::class and ';'. Quoted labels may contain
+# brackets.
+# ---------------------------------------------------------------------------
+is_single_node_decl() {
+    printf '%s\n' "$1" | awk '
+    {
+        s = $0
+        sub(/[[:space:]]*;?[[:space:]]*$/, "", s)
+        sub(/:::[A-Za-z0-9_-]+$/, "", s)
+        if (!match(s, /^[A-Za-z0-9_]+/)) exit 1
+        rest = substr(s, RLENGTH + 1)
+        first = substr(rest, 1, 1)
+        if (first != "[" && first != "(" && first != "{" && first != ">") exit 1
+        depth = 0; inq = 0
+        for (i = 1; i <= length(rest); i++) {
+            c = substr(rest, i, 1)
+            if (c == "\"") { inq = !inq; continue }
+            if (inq) continue
+            if (c == "[" || c == "(" || c == "{" || (i == 1 && c == ">")) depth++
+            else if (c == "]" || c == ")" || c == "}") {
+                depth--
+                if (depth == 0 && i < length(rest)) exit 1
+            }
+        }
+        exit (depth == 0 && !inq) ? 0 : 1
+    }'
+}
+
+# ---------------------------------------------------------------------------
 # Counters
 # ---------------------------------------------------------------------------
 TOTAL_BLOCKS=0
@@ -122,6 +153,14 @@ for md_file in "${MD_FILES[@]}"; do
                             || [[ -z "$stripped" ]] \
                             || [[ "$stripped" =~ ^%% ]] \
                             || [[ "$stripped" =~ ^(style|class|classDef|subgraph|end|click|linkStyle) ]]; then
+                            continue
+                        fi
+                        # A line that is exactly one node declaration, such as
+                        # ID["label"] or ID{label}:::cls, is valid Mermaid: it
+                        # defines a node (often inside a subgraph) that edges use
+                        # later. Skip it; two nodes on a line with no arrow are
+                        # still flagged below.
+                        if is_single_node_decl "$stripped"; then
                             continue
                         fi
                         # If a line has node-like content (e.g., A[text]) but

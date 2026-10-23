@@ -17,16 +17,17 @@ flowchart TD
 ```
 
 ## Table of Contents
+
 - [Parent Communication Email Templates](#parent-communication-email-templates)
-  - [Template 1: Positive Behavior / Academic Update](#template-1-positive-behavior-academic-update)
-  - [Template 2: Academic Concern — Early Intervention](#template-2-academic-concern-early-intervention)
+  - [Template 1: Positive Behavior / Academic Update](#template-1-positive-behavior--academic-update)
+  - [Template 2: Academic Concern — Early Intervention](#template-2-academic-concern--early-intervention)
   - [Template 3: Behavior Concern](#template-3-behavior-concern)
   - [Template 4: Missing Work Notification](#template-4-missing-work-notification)
   - [Template 5: IEP/504 Accommodation Confirmation](#template-5-iep504-accommodation-confirmation)
 - [Classroom Management Templates](#classroom-management-templates)
   - [Template 6: Classroom Expectations Document](#template-6-classroom-expectations-document)
   - [Template 7: Student Behavior Reflection Form](#template-7-student-behavior-reflection-form)
-- [Observation & Feedback Templates](#observation-feedback-templates)
+- [Observation & Feedback Templates](#observation--feedback-templates)
   - [Template 8: Peer Observation Form](#template-8-peer-observation-form)
   - [Template 9: Student Feedback Survey (End of Unit/Semester)](#template-9-student-feedback-survey-end-of-unitsemester)
 
@@ -114,7 +115,7 @@ Dear [Parent/Guardian Name],
 [Student Name] currently has the following missing assignments in [class]:
 
 | Assignment | Due Date | Points | Status |
-|-----------|----------|--------|--------|
+| ----------- | ---------- | -------- | -------- |
 | | | | Missing |
 | | | | Missing |
 | | | | Incomplete |
@@ -140,7 +141,7 @@ Dear [Case Manager / Parent],
 I'm writing to confirm the accommodations I'm implementing for [Student Name] in [class/period] per their [IEP / 504 plan]:
 
 | Accommodation | How I'm Implementing It |
-|--------------|------------------------|
+| -------------- | ------------------------ |
 | Extended time on tests | [Student] receives [X] additional minutes in [location] |
 | Preferential seating | Seated [location — e.g., front row, near the door, away from distractions] |
 | Copies of notes | Provided via [method — printed, digital, peer notes] |
@@ -166,17 +167,20 @@ Please let me know if I should adjust anything or if the team would like to meet
 ### [Teacher Name]'s [Subject] — Classroom Expectations
 
 #### Our Learning Community
+
 In this classroom, every student has the right to learn and every person has the right to be treated with respect.
 
 #### Expectations
+
 1. **Be prepared** — Bring materials. Be in your seat when the bell rings. Charge your device at home.
 2. **Be respectful** — Listen when others speak. Use kind language. Respect differences.
 3. **Be engaged** — Participate. Ask questions. Try your best even when it's hard.
 4. **Be responsible** — Turn in your work. Own your mistakes. Ask for help when you need it.
 
 #### What happens when expectations aren't met
+
 | Step | Response |
-|------|----------|
+| ------ | ---------- |
 | 1st | Verbal redirect / private conversation |
 | 2nd | Teacher-student conference (brief, after class) |
 | 3rd | Parent contact (phone/email) |
@@ -185,17 +189,20 @@ In this classroom, every student has the right to learn and every person has the
 **Note:** Severe disruptions (threats, fighting, property destruction) skip to immediate office referral.
 
 #### Grading
+
 | Category | Weight |
-|----------|--------|
+| ---------- | -------- |
 | Assessments (tests, quizzes, projects) | ___% |
 | Classwork / practice | ___% |
 | Homework | ___% |
 | Participation / engagement | ___% |
 
 #### Late Work Policy
+
 [State your policy]
 
 #### How to Reach Me
+
 - **Email:** [email] (preferred — I respond within 24 hours on school days)
 - **Office hours:** [days/times]
 - **Remind / ClassDojo / other:** [info]
@@ -255,7 +262,7 @@ _______________________________________________________________________________
 #### What I Saw
 
 | Time | What the teacher did | What students did |
-|------|---------------------|-------------------|
+| ------ | --------------------- | ------------------- |
 | | | |
 | | | |
 | | | |
@@ -263,12 +270,14 @@ _______________________________________________________________________________
 | | | |
 
 #### Strengths I Noticed
+
 *(Connect to the agreed focus area when possible)*
 
 1. _______________________________________________________________________________
 2. _______________________________________________________________________________
 
 #### Questions to Discuss
+
 *(Curious, not evaluative — "I noticed X, what was your thinking?")*
 
 1. _______________________________________________________________________________

@@ -24,6 +24,7 @@ flowchart TD
 ```
 
 ### Pre-Meeting
+
 - [ ] Confirm annual review date is within 365 days of last IEP
 - [ ] Send written meeting invitation to parent/guardian (10+ calendar days ahead)
 - [ ] Invite all required team members (parent, gen ed teacher, sped teacher, LEA rep, evaluation interpreter)
@@ -33,6 +34,7 @@ flowchart TD
 - [ ] Review current evaluation data; determine if triennial reevaluation is due
 
 ### During Meeting
+
 - [ ] Provide procedural safeguards to parent
 - [ ] Review and update Present Levels (PLAAFP) -- academic and functional
 - [ ] Develop measurable annual goals (with baselines and criteria)
@@ -45,6 +47,7 @@ flowchart TD
 - [ ] Complete transition plan if student is 16 or older
 
 ### Post-Meeting
+
 - [ ] Issue Prior Written Notice (PWN) for all proposed/refused actions
 - [ ] Provide copy of finalized IEP to parent
 - [ ] Distribute IEP-at-a-glance to all service providers and teachers
@@ -75,6 +78,7 @@ flowchart TD
 ```
 
 ### Credit Requirements (24.0 Minimum -- verify district policy)
+
 - [ ] English Language Arts -- 4.0 credits
 - [ ] Mathematics (including Algebra I or higher) -- 3.0 credits
 - [ ] Science (including 1 lab science) -- 3.0 credits
@@ -88,6 +92,7 @@ flowchart TD
 - [ ] Total credits earned or in progress meet 24.0 minimum
 
 ### Assessment Participation
+
 - [ ] EOC -- English II (participated)
 - [ ] EOC -- Algebra I (participated)
 - [ ] EOC -- Biology (participated)
@@ -95,11 +100,13 @@ flowchart TD
 - [ ] ACT taken (Grade 11 statewide administration)
 
 ### Additional Requirements
+
 - [ ] CPR instruction completed (RSMo 170.310)
 - [ ] U.S. and Missouri Constitution requirement met
 - [ ] District-specific additional requirements met (if any)
 
 ### A+ Program Eligibility (if applicable)
+
 - [ ] Attended an A+ designated school for 3 consecutive years
 - [ ] Cumulative GPA is 2.5 or higher
 - [ ] Cumulative attendance is 95% or higher
@@ -135,6 +142,7 @@ flowchart TD
 ```
 
 ### Required Documents
+
 - [ ] Proof of residency (utility bill, lease, or affidavit)
 - [ ] Birth certificate or equivalent proof of age
 - [ ] Immunization records (RSMo 167.181) -- or exemption on file
@@ -143,6 +151,7 @@ flowchart TD
 - [ ] Free/reduced meal application provided to family
 
 ### System Entry
+
 - [ ] Student entered into SIS with correct demographics
 - [ ] Home Language Survey completed
 - [ ] If home language is not English, refer for ELL screening (WIDA Screener)
@@ -152,6 +161,7 @@ flowchart TD
 - [ ] Issue student ID and technology accounts
 
 ### Orientation
+
 - [ ] Building tour provided (or buddy assigned)
 - [ ] Student handbook and code of conduct provided
 - [ ] Locker/supplies assigned
@@ -182,6 +192,7 @@ flowchart TD
 ```
 
 ### Before Students Arrive
+
 - [ ] Complete mandated reporter training (RSMo 210.115)
 - [ ] Complete bloodborne pathogens training (OSHA)
 - [ ] Review FERPA student confidentiality requirements
@@ -192,6 +203,7 @@ flowchart TD
 - [ ] Review roster and student records (IEPs, 504 plans, health alerts, ELL status)
 
 ### First Week
+
 - [ ] Post and teach classroom rules, expectations, and procedures
 - [ ] Practice emergency drill procedures with students
 - [ ] Distribute and review student/parent handbook or syllabus
@@ -202,6 +214,7 @@ flowchart TD
 - [ ] Set up gradebook with correct categories and weights
 
 ### First Month
+
 - [ ] Complete MEES pre-observation conference (if non-tenured)
 - [ ] Submit emergency sub plan to office
 - [ ] Establish parent communication routine (weekly update, newsletter, etc.)
@@ -231,6 +244,7 @@ flowchart TD
 ```
 
 ### Student Records
+
 - [ ] Final grades entered and verified in SIS
 - [ ] Missing assignments and incompletes resolved
 - [ ] Report cards generated and distributed
@@ -240,11 +254,13 @@ flowchart TD
 - [ ] Transition paperwork completed for students moving to next level
 
 ### Assessments and Data
+
 - [ ] All MAP/EOC testing materials returned and accounted for
 - [ ] End-of-year MOSIS data reviewed for accuracy (attendance, discipline, grades)
 - [ ] A+ eligibility verification completed for graduating seniors
 
 ### Classroom and Inventory
+
 - [ ] Textbooks collected and inventory reconciled
 - [ ] Technology devices collected, checked in, and stored
 - [ ] Classroom cleaned and furniture arranged per building protocol
@@ -253,6 +269,7 @@ flowchart TD
 - [ ] Supply requests submitted for next year
 
 ### Administrative
+
 - [ ] MEES end-of-year evaluation conference completed (if applicable)
 - [ ] Professional development hours logged and documentation submitted
 - [ ] Leave balances verified
@@ -284,6 +301,7 @@ flowchart TD
 ```
 
 ### Safety (Every Month)
+
 - [ ] Fire drill conducted and documented (date, time, evacuation time)
 - [ ] AED inspected and functional
 - [ ] First aid kits inspected and restocked as needed
@@ -291,6 +309,7 @@ flowchart TD
 - [ ] Emergency contact lists updated for any new students or staff
 
 ### Special Education
+
 - [ ] IEP annual reviews due this month identified and scheduled
 - [ ] Triennial reevaluations due this month identified and scheduled
 - [ ] Evaluation timelines tracked (60-day consent clock)
@@ -298,6 +317,7 @@ flowchart TD
 - [ ] Any discipline removals tracked (monitor 10-day cumulative threshold)
 
 ### Data and Records
+
 - [ ] Attendance data reviewed for accuracy
 - [ ] Chronic absence students identified (below 90% attendance)
 - [ ] Discipline data entered and current
@@ -305,11 +325,13 @@ flowchart TD
 - [ ] Board meeting materials prepared (if board meets this month)
 
 ### Personnel
+
 - [ ] New hire paperwork and background checks completed for any new staff
 - [ ] Substitute teacher credentials verified for any new subs
 - [ ] Required training tracked (any overdue completions flagged)
 
 ### Communications
+
 - [ ] Parent communication sent (newsletter, update, or notification)
 - [ ] Community posting requirements met (board agenda, notices)
 
@@ -335,6 +357,7 @@ flowchart TD
 ```
 
 ### Scheduling
+
 - [ ] Date and time set with parent availability in mind
 - [ ] Written invitation sent (include purpose, date, time, location, attendees)
 - [ ] Interpreter arranged if family speaks a language other than English
@@ -343,6 +366,7 @@ flowchart TD
 - [ ] Childcare or transportation need identified and addressed (if possible)
 
 ### Preparation
+
 - [ ] Agenda prepared and shared with team in advance
 - [ ] Student data compiled (grades, attendance, behavior, assessment scores)
 - [ ] Work samples or progress monitoring data gathered
@@ -352,6 +376,7 @@ flowchart TD
 - [ ] Room reserved and set up (copies, tissues, water, seating arrangement)
 
 ### During Meeting
+
 - [ ] Welcome parent and make introductions
 - [ ] State purpose of meeting and review agenda
 - [ ] Ask parent for their input and observations first
@@ -360,6 +385,7 @@ flowchart TD
 - [ ] Ensure parent understands their rights (especially for IEP/504/discipline)
 
 ### After Meeting
+
 - [ ] Provide parent with copies of all documents (IEP, PWN, 504, notes)
 - [ ] Send Prior Written Notice if required (IEP/504 decisions)
 - [ ] Enter action items with owners and deadlines
@@ -389,6 +415,7 @@ flowchart TD
 ```
 
 ### Pre-Review
+
 - [ ] Confirm annual review is scheduled (504 plans reviewed at least annually)
 - [ ] Notify parent/guardian of meeting date and invite to participate
 - [ ] Collect current medical documentation or physician input (if needed)
@@ -397,6 +424,7 @@ flowchart TD
 - [ ] Review previous 504 plan and any evaluation data
 
 ### During Review Meeting
+
 - [ ] Confirm student still has a qualifying disability under Section 504
 - [ ] Review how the disability substantially limits a major life activity
 - [ ] Evaluate whether current accommodations are effective
@@ -407,6 +435,7 @@ flowchart TD
 - [ ] Discuss transition needs for students changing buildings
 
 ### Post-Review
+
 - [ ] Finalize updated 504 plan with all accommodations listed
 - [ ] Provide copy of plan to parent/guardian
 - [ ] Distribute accommodation list to all teachers and relevant staff
@@ -440,6 +469,7 @@ flowchart TD
 ```
 
 ### Pre-Drill
+
 - [ ] Drill type selected per schedule (fire: monthly; tornado: 2x/year; earthquake: 2x/year; lockdown: 2x/year)
 - [ ] Staff notified of drill (or unannounced, per admin decision)
 - [ ] Observers assigned to monitor hallways, exits, and assembly areas
@@ -447,6 +477,7 @@ flowchart TD
 - [ ] Visitor and volunteer procedures reviewed
 
 ### During Drill
+
 - [ ] Alarm or announcement activated at designated time
 - [ ] All classrooms evacuated or secured (per drill type)
 - [ ] Teachers took attendance at assembly point or in secured location
@@ -456,6 +487,7 @@ flowchart TD
 - [ ] Communication systems functioned (PA, radios, phones)
 
 ### Post-Drill
+
 - [ ] Total evacuation/response time recorded: _______ minutes _______ seconds
 - [ ] Debrief conducted with staff (issues, bottlenecks, successes)
 - [ ] Any problems documented (blocked exits, confusion, slow response, missing students)
@@ -465,6 +497,7 @@ flowchart TD
 - [ ] Next drill date scheduled
 
 ### Annual Drill Requirements (Missouri)
+
 - [ ] Fire drills: minimum 1 per month school is in session
 - [ ] Tornado drills: minimum 2 per year
 - [ ] Earthquake drills: minimum 2 per year
@@ -493,6 +526,7 @@ flowchart TD
 ```
 
 ### Before First Day
+
 - [ ] Background check cleared (RSMo 168.133) -- must clear before start date
 - [ ] Employment paperwork completed (I-9, W-4, benefits enrollment, direct deposit)
 - [ ] Photo ID badge issued
@@ -502,6 +536,7 @@ flowchart TD
 - [ ] Employee handbook provided
 
 ### Day 1 -- Building Orientation
+
 - [ ] Building tour (classrooms, office, nurse, cafeteria, gym, exits, staff lounge)
 - [ ] Introduced to principal, office staff, custodian, nurse
 - [ ] Emergency procedures reviewed (fire exits, tornado shelter, lockdown, AED location)
@@ -511,6 +546,7 @@ flowchart TD
 - [ ] Supply locations identified
 
 ### Week 1 -- Required Training
+
 - [ ] Mandated reporter training completed (RSMo 210.115)
 - [ ] Bloodborne pathogens training completed (OSHA)
 - [ ] FERPA / student confidentiality overview completed
@@ -520,6 +556,7 @@ flowchart TD
 - [ ] District discipline code overview provided
 
 ### First Month -- Role-Specific
+
 - [ ] Mentor assigned (for certified staff)
 - [ ] Curriculum, standards, or role-specific procedures reviewed
 - [ ] IEP/504 student accommodations reviewed with special education team
@@ -528,8 +565,9 @@ flowchart TD
 - [ ] 30-day check-in meeting with supervisor completed
 
 ### Signatures
+
 | Item | Employee Signature | Date |
-|------|-------------------|------|
+| ------ | ------------------- | ------ |
 | Handbook received | | |
 | Emergency procedures reviewed | | |
 | Mandated reporter training completed | | |

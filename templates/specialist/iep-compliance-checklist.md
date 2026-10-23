@@ -26,7 +26,7 @@ flowchart TD
 ## Timelines
 
 | Requirement | Due Date | Completed | Notes |
-|-------------|----------|-----------|-------|
+| ------------- | ---------- | ----------- | ------- |
 | Annual review (within 365 days of last IEP) | | ☐ | Last IEP date: _______ |
 | Triennial reevaluation (within 3 years) | | ☐ | Last eval date: _______ |
 | Evaluation completed within 60 calendar days of consent | N/A or: | ☐ | Consent date: _______ |
@@ -37,7 +37,7 @@ flowchart TD
 ## IEP Document Components (IDEA §300.320)
 
 | Component | Present? | Compliant? | Notes |
-|-----------|----------|------------|-------|
+| ----------- | ---------- | ------------ | ------- |
 | Present levels (PLAAFP) — academic | ☐ | ☐ | |
 | Present levels (PLAAFP) — functional | ☐ | ☐ | |
 | Measurable annual goals | ☐ | ☐ | Goals measurable? ☐ Yes ☐ No |
@@ -61,7 +61,7 @@ flowchart TD
 ## Procedural Safeguards
 
 | Requirement | Met? | Date | Notes |
-|-------------|------|------|-------|
+| ------------- | ------ | ------ | ------- |
 | Procedural safeguards provided to parent | ☐ | | |
 | Prior Written Notice (PWN) for proposed actions | ☐ | | |
 | Parent consent for evaluation | ☐ | | |
@@ -73,7 +73,7 @@ flowchart TD
 ## IEP Team Members Present
 
 | Required Member | Present? | Excused? | Notes |
-|----------------|----------|----------|-------|
+| ---------------- | ---------- | ---------- | ------- |
 | Parent/Guardian | ☐ | ☐ | |
 | Regular ed teacher | ☐ | ☐ | Written agreement if excused |
 | Special ed teacher | ☐ | ☐ | |
@@ -85,7 +85,7 @@ flowchart TD
 ## Service Delivery Verification
 
 | Service | IEP Minutes/Frequency | Actual Delivered | Gap? | Notes |
-|---------|----------------------|-----------------|------|-------|
+| --------- | ---------------------- | ----------------- | ------ | ------- |
 | | | | ☐ | |
 | | | | ☐ | |
 | | | | ☐ | |
@@ -96,7 +96,7 @@ flowchart TD
 ☐ **Non-compliant** — Corrective actions required (list below)
 
 | Finding | Corrective Action | Responsible | Deadline |
-|---------|-------------------|------------|----------|
+| --------- | ------------------- | ------------ | ---------- |
 | | | | |
 | | | | |
 

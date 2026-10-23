@@ -23,7 +23,8 @@ flowchart TD
 ```
 
 ## Table of Contents
-- [Section 1: Purpose & Scope](#section-1-purpose-scope)
+
+- [Section 1: Purpose & Scope](#section-1-purpose--scope)
 - [Section 2: Guiding Principles](#section-2-guiding-principles)
 - [Section 3: Approved AI Tools](#section-3-approved-ai-tools)
 - [Section 4: Staff Use of AI](#section-4-staff-use-of-ai)
@@ -34,10 +35,10 @@ flowchart TD
   - [Grade-Level Expectations](#grade-level-expectations)
   - [Academic Integrity](#academic-integrity)
   - [Student AI Literacy](#student-ai-literacy)
-- [Section 6: Data Privacy & Security](#section-6-data-privacy-security)
-- [Section 7: Equity & Access](#section-7-equity-access)
+- [Section 6: Data Privacy & Security](#section-6-data-privacy--security)
+- [Section 7: Equity & Access](#section-7-equity--access)
 - [Section 8: Professional Development](#section-8-professional-development)
-- [Section 9: Transparency & Communication](#section-9-transparency-communication)
+- [Section 9: Transparency & Communication](#section-9-transparency--communication)
 - [Section 10: Policy Review](#section-10-policy-review)
 - [Section 11: Definitions](#section-11-definitions)
 
@@ -46,9 +47,11 @@ flowchart TD
 ## Section 1: Purpose & Scope
 
 ### Purpose
+
 [District name] recognizes that artificial intelligence (AI) tools are increasingly integrated into education and daily life. This policy establishes expectations for the responsible, safe, and equitable use of AI technologies by students, staff, and administrators to enhance teaching and learning while protecting student privacy, maintaining academic integrity, and ensuring human oversight.
 
 ### Scope
+
 This policy applies to:
 - All generative AI tools (e.g., ChatGPT, Claude, Gemini, Copilot, and similar)
 - Adaptive learning platforms with AI capabilities
@@ -57,6 +60,7 @@ This policy applies to:
 - Use on district-owned devices and networks, AND personal devices used for school purposes
 
 ### Alignment
+
 This policy aligns with:
 - Missouri DESE AI Guidance for Local Education Agencies (Version 1.0, 2025-26)
 - District technology Acceptable Use Policy (Policy ___)
@@ -86,7 +90,7 @@ The district maintains an approved list of AI tools vetted for privacy, security
 **Approval Process:** Requests for new AI tools must be submitted to [Technology Director/Committee] for privacy and security review before classroom use.
 
 | Category | Approved Tools | Grade Level |
-|----------|---------------|-------------|
+| ---------- | --------------- | ------------- |
 | Teacher productivity | [List] | Staff only |
 | Adaptive learning | [List] | [Specify] |
 | Student-facing generative AI | [List — if any] | [Specify; minimum age 13] |
@@ -98,6 +102,7 @@ The district maintains an approved list of AI tools vetted for privacy, security
 ## Section 4: Staff Use of AI
 
 ### Permitted Uses
+
 - Lesson planning, activity design, and resource creation
 - Generating differentiated materials at multiple levels
 - Creating assessment items (with human review for accuracy and alignment)
@@ -106,6 +111,7 @@ The district maintains an approved list of AI tools vetted for privacy, security
 - Professional learning and skill development
 
 ### Prohibited Uses
+
 - Entering student PII (names, IDs, grades, IEP data, health info, behavioral records) into public AI tools
 - Using AI to generate IEP goals, 504 accommodations, or evaluation reports without specialist review and customization
 - Using AI to make disciplinary decisions without human review
@@ -114,6 +120,7 @@ The district maintains an approved list of AI tools vetted for privacy, security
 - Submitting AI-generated professional work as one's own without disclosure
 
 ### Required Practices
+
 - Review all AI outputs for accuracy, bias, and alignment before use
 - Disclose significant AI assistance in professional documents when appropriate
 - Maintain student data privacy at all times
@@ -124,20 +131,23 @@ The district maintains an approved list of AI tools vetted for privacy, security
 ## Section 5: Student Use of AI
 
 ### Grade-Level Expectations
+
 | Grade Band | Permitted AI Use | Restrictions |
-|-----------|-----------------|-------------|
+| ----------- | ----------------- | ------------- |
 | K-2 | Teacher-selected adaptive learning tools only | No student access to generative AI chatbots |
 | 3-5 | Teacher-directed adaptive tools; AI-assisted practice; no independent generative AI use | Teacher supervises all AI interactions |
 | 6-8 | Curriculum-embedded AI tools; teacher-guided generative AI use with disclosure | Students must verify AI outputs; AI use declared per assignment |
 | 9-12 | Broader AI use as a learning tool with disclosure; AI literacy integrated into coursework | Original thinking demonstrated; AI use documented per assignment policy |
 
 ### Academic Integrity
+
 - Students must disclose AI assistance according to assignment-specific instructions
 - Submitting AI-generated work as one's own without disclosure is a violation of the academic integrity policy
 - Teachers will specify AI expectations for each assignment: [Prohibited / Permitted with disclosure / Required]
 - Consequences for AI-related academic integrity violations follow the existing academic integrity policy (Policy ___)
 
 ### Student AI Literacy
+
 The district will integrate AI literacy into the curriculum aligned to Missouri Computer Science Standards, including:
 - Understanding how AI works (age-appropriate)
 - Evaluating AI outputs for accuracy and bias

@@ -78,19 +78,25 @@ anchor_exists() {
     anchor="${anchor#\#}"
     [[ -z "$anchor" ]] && return 0   # bare "#" means top of file -- always valid
 
-    # Convert markdown headings to their GitHub-style anchor slugs:
-    #   - lowercase, strip non-alphanumeric except hyphens and spaces,
-    #     replace spaces with hyphens, collapse consecutive hyphens
+    # Convert markdown headings to their GitHub-style anchor slugs, the way
+    # GitHub (and markdownlint's MD051) build them:
+    #   - lowercase, strip everything except letters, digits, spaces, "-" and "_",
+    #     then replace each space with a hyphen. Consecutive hyphens are kept:
+    #     "Purpose & Scope" -> "purpose--scope", "CI / Config" -> "ci--config".
+    #   - a repeated heading gets -1, -2, ... in order of appearance.
+    local -A seen=()
     while IFS= read -r heading; do
-        # Strip leading # marks and whitespace
-        heading="$(echo "$heading" | sed 's/^#\+[[:space:]]*//')"
-        # Build slug: lowercase, keep alnum / spaces / hyphens, spaces->hyphens
+        # Strip leading # marks, surrounding whitespace and closing # marks
+        heading="$(echo "$heading" | sed 's/^#\+[[:space:]]*//;s/[[:space:]]\+#\+[[:space:]]*$//;s/[[:space:]]*$//')"
         local slug
         slug="$(echo "$heading" | tr '[:upper:]' '[:lower:]' \
             | sed 's/[^a-z0-9 _-]//g' \
-            | sed 's/ /-/g' \
-            | sed 's/--\+/-/g' \
-            | sed 's/^-//;s/-$//')"
+            | sed 's/ /-/g')"
+        local n="${seen[$slug]:-0}"
+        seen[$slug]=$((n + 1))
+        if [[ "$n" -gt 0 ]]; then
+            slug="${slug}-${n}"
+        fi
         if [[ "$slug" == "$anchor" ]]; then
             return 0
         fi

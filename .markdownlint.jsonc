@@ -25,5 +25,23 @@
   "MD034": false,
 
   // Do not require blank lines around lists
-  "MD032": false
+  "MD032": false,
+
+  // Fill-in blanks. The templates and calculators use runs of underscores as
+  // write-in blanks ("The ___ is ___.", "Date: ________") and full-width
+  // underscore lines as write-in lines in printable forms. markdownlint reads
+  // those underscores as emphasis markers and as horizontal rules, so:
+  //   MD037 flags every "___ word ___" blank as "spaces inside emphasis", and
+  //   --fix would delete the spaces and turn the blanks into bold-italic text;
+  //   MD035 flags the write-in lines as a second horizontal-rule style next to
+  //   the "---" section dividers, and --fix would turn them into "---".
+  // Every hit of both rules in this repo is a blank, so they are off.
+  "MD037": false,
+  "MD035": false,
+
+  // Template instructions. Forms carry italic parenthetical notes on their own
+  // line, such as "*(Copy this section for each goal)*". They are directions to
+  // the person filling in the form, not headings, so a line ending in ")" is
+  // treated like one ending in "." (MD036's default punctuation list plus ")").
+  "MD036": { "punctuation": ".,;:!?)" }
 }

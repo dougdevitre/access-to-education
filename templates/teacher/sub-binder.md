@@ -23,21 +23,22 @@ flowchart TD
 ```
 
 ## Table of Contents
+
 - [Section 1: Welcome Letter to the Substitute](#section-1-welcome-letter-to-the-substitute)
 - [Section 2: Student Alerts (CONFIDENTIAL)](#section-2-student-alerts-confidential)
   - [Medical Alerts](#medical-alerts)
-  - [Behavioral / Emotional Alerts](#behavioral-emotional-alerts)
-  - [IEP / 504 Accommodations the Sub Must Follow](#iep-504-accommodations-the-sub-must-follow)
+  - [Behavioral / Emotional Alerts](#behavioral--emotional-alerts)
+  - [IEP / 504 Accommodations the Sub Must Follow](#iep--504-accommodations-the-sub-must-follow)
   - [ELL Students](#ell-students)
 - [Section 3: Seating Charts](#section-3-seating-charts)
 - [Section 4: Daily Schedule](#section-4-daily-schedule)
 - [Section 5: Lesson Plans](#section-5-lesson-plans)
   - [How to Use These Plans](#how-to-use-these-plans)
-  - [Emergency / "Plans Fell Through" Activities](#emergency-plans-fell-through-activities)
-  - [Extended Absence — Weekly Plan Grid](#extended-absence-weekly-plan-grid)
+  - [Emergency / "Plans Fell Through" Activities](#emergency--plans-fell-through-activities)
+  - [Extended Absence — Weekly Plan Grid](#extended-absence--weekly-plan-grid)
 - [Section 6: Emergency Procedures](#section-6-emergency-procedures)
   - [Fire](#fire)
-  - [Tornado / Severe Weather](#tornado-severe-weather)
+  - [Tornado / Severe Weather](#tornado--severe-weather)
   - [Lockdown](#lockdown)
   - [Medical Emergency](#medical-emergency)
   - [Student Leaves Without Permission](#student-leaves-without-permission)
@@ -93,7 +94,7 @@ Thank you,
 ### Medical Alerts
 
 | Student | Period | Condition | What to Do |
-|---------|--------|-----------|-----------|
+| --------- | -------- | ----------- | ----------- |
 | | | Severe allergy (___) | EpiPen location: ___. Call nurse immediately: ext ___ |
 | | | Diabetes | May need to check blood sugar / eat snack. Nurse: ext ___ |
 | | | Seizure disorder | Do not restrain. Clear area. Time the seizure. Call 911 if >5 min. Notify nurse: ext ___ |
@@ -103,7 +104,7 @@ Thank you,
 ### Behavioral / Emotional Alerts
 
 | Student | Period | What to Know | Strategy |
-|---------|--------|-------------|---------|
+| --------- | -------- | ------------- | --------- |
 | | | | |
 | | | | |
 | | | | |
@@ -111,7 +112,7 @@ Thank you,
 ### IEP / 504 Accommodations the Sub Must Follow
 
 | Student | Period | Accommodations | Notes |
-|---------|--------|---------------|-------|
+| --------- | -------- | --------------- | ------- |
 | | | Extended time, preferential seating | Sits in front row |
 | | | Breaks every 20 min | Has a pass to walk the hall for 3 min |
 | | | Reduced assignment length | Give the "modified" version (marked in folder) |
@@ -120,7 +121,7 @@ Thank you,
 ### ELL Students
 
 | Student | Period | WIDA Level | Key Supports |
-|---------|--------|-----------|-------------|
+| --------- | -------- | ----------- | ------------- |
 | | | | Bilingual buddy: ___. Sentence frames in folder. |
 | | | | |
 
@@ -147,7 +148,7 @@ Thank you,
 ## Section 4: Daily Schedule
 
 | Period / Time | Subject / Course | Room | Notes |
-|--------------|-----------------|------|-------|
+| -------------- | ----------------- | ------ | ------- |
 | | | | |
 | | | | |
 | | | | |
@@ -179,7 +180,7 @@ Each period has its own lesson plan on the following pages. Plans are designed t
 **Objective:** _______________________________________________
 
 | Time | Activity | Materials | Notes for Sub |
-|------|---------|-----------|--------------|
+| ------ | --------- | ----------- | -------------- |
 | First 5 min | Bell ringer / warm-up | On board / projected / in packet | Students know the routine |
 | min | | | |
 | min | | | |
@@ -201,7 +202,7 @@ Each period has its own lesson plan on the following pages. Plans are designed t
 If the lesson plans are missing or don't work, use one of these backup activities:
 
 | Grade Level | Activity | Time | Materials |
-|------------|---------|------|-----------|
+| ------------ | --------- | ------ | ----------- |
 | Elementary | Read-aloud + journal response | 30-45 min | Book: ___ (on desk). Journals in ___. |
 | Elementary | Math fact practice + coloring sheet | 30 min | In "emergency sub" folder |
 | Middle | Silent reading + summary paragraph | 40 min | Students have books. Paper in ___. |
@@ -216,7 +217,7 @@ If the lesson plans are missing or don't work, use one of these backup activitie
 ### Extended Absence — Weekly Plan Grid
 
 | Day | Period ___ | Period ___ | Period ___ | Period ___ |
-|-----|----------|----------|----------|----------|
+| ----- | ---------- | ---------- | ---------- | ---------- |
 | Monday | | | | |
 | Tuesday | | | | |
 | Wednesday | | | | |
@@ -230,27 +231,32 @@ If the lesson plans are missing or don't work, use one of these backup activitie
 ## Section 6: Emergency Procedures
 
 ### Fire
+
 1. _______________________________________________________________________________
 2. Exit route: _______________________________________________
 3. Assembly point: _______________________________________________
 4. Take: ☐ Class roster ☐ Emergency folder ☐ Phone
 
 ### Tornado / Severe Weather
+
 1. _______________________________________________________________________________
 2. Safe location: _______________________________________________
 3. Students sit: _______________________________________________
 
 ### Lockdown
+
 1. Lock the door. Turn off lights. Move students away from door/windows.
 2. Do NOT open the door for anyone until an administrator gives the all-clear.
 3. Take attendance. Account for all students.
 
 ### Medical Emergency
+
 1. Call the nurse: ext ___. If life-threatening, call 911 first.
 2. Send a student to the office with a note: "[Student name] needs help in room ___"
 3. Do NOT move an injured student unless there is immediate danger.
 
 ### Student Leaves Without Permission
+
 1. Do NOT chase the student.
 2. Call the office immediately: ext ___
 3. Note the time and direction the student went.
@@ -260,7 +266,7 @@ If the lesson plans are missing or don't work, use one of these backup activitie
 ## Section 7: Key People
 
 | Role | Name | Room / Extension | When to Contact |
-|------|------|-----------------|----------------|
+| ------ | ------ | ----------------- | ---------------- |
 | Neighbor teacher (first call) | | | Any classroom question |
 | Department chair | | | Curriculum or schedule questions |
 | Administrator | | | Discipline, emergencies, parent calls |
@@ -280,7 +286,7 @@ If the lesson plans are missing or don't work, use one of these backup activitie
 ### How did each class go?
 
 | Period | Subject | How it went (great / okay / rough) | Notes |
-|--------|---------|-----------------------------------|-------|
+| -------- | --------- | ----------------------------------- | ------- |
 | | | | |
 | | | | |
 | | | | |
@@ -288,23 +294,28 @@ If the lesson plans are missing or don't work, use one of these backup activitie
 | | | | |
 
 ### Students who were helpful
+
 _______________________________________________________________________________
 
 ### Behavior concerns (name + what happened)
+
 _______________________________________________________________________________
 _______________________________________________________________________________
 
 ### Did students complete the work?
+
 ☐ All classes completed the assignment
 ☐ Most did — exceptions: _______________________________________________
 ☐ Many did not — here's what happened: _______________________________________________
 
 ### Were the lesson plans clear and easy to follow?
+
 ☐ Yes, no issues
 ☐ Mostly, but I had questions about: _______________________________________________
 ☐ No — here's what was confusing: _______________________________________________
 
 ### Anything else the teacher should know?
+
 _______________________________________________________________________________
 _______________________________________________________________________________
 
