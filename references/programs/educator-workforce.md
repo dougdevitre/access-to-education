@@ -71,11 +71,11 @@ Annual Benefit = Years of Service × Multiplier × Final Average Salary
 - **Service purchase:** members may purchase credit for certain types of prior service (military, out-of-state teaching, etc.)
 - **No Social Security:** most PSRS members do NOT participate in Social Security for their school employment (Missouri is a non-Social Security state for public school employees)
 
-### WEP and GPO
-Because PSRS members typically do not pay Social Security:
-- **Windfall Elimination Provision (WEP):** may reduce Social Security benefits earned from other employment
-- **Government Pension Offset (GPO):** may reduce spousal/survivor Social Security benefits
-- Important financial planning consideration for educators
+### WEP and GPO (repealed)
+The Social Security Fairness Act, signed January 5, 2025, ended both provisions for Social Security benefits payable for months after December 2023 ([SSA](https://www.ssa.gov/benefits/retirement/social-security-fairness-act.html)):
+- **Windfall Elimination Provision (WEP):** no longer reduces Social Security benefits earned from other employment because of a PSRS pension
+- **Government Pension Offset (GPO):** no longer reduces spousal/survivor Social Security benefits because of a PSRS pension
+- Still a planning point: PSRS school service does not earn Social Security credits, so any Social Security benefit comes from other covered work. Check your own record and estimate with SSA (ssa.gov).
 
 ---
 
