@@ -159,3 +159,25 @@ jobs:
             exit 1
           fi
           echo "All JSON files are valid"
+
+  fact-ledger:
+    name: Fact ledger
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Unit tests for the ledger check
+        run: node --test scripts/test/check-facts.test.mjs
+
+      # facts/ledger.json records every verified phone number, dollar figure,
+      # deadline and program-status claim with its primary source and date.
+      # Fails when a fact is past its recheck date, a listed file is missing,
+      # or the value no longer appears in any listed file.
+      - name: Check the fact ledger
+        run: node scripts/check-facts.mjs
