@@ -18,6 +18,7 @@
 | educator-workforce.md | PSRS contribution rate | ~14.5% | PSRS.org | 2026-10 | Medium |
 | educator-workforce.md | PEERS contribution rate | ~6.86% | PSRS.org | 2026-10 | Medium |
 | educator-workforce.md | NBCT supplement amount | No statewide supplement confirmed; district incentives only (RSMo 168.345 does not exist) | DESE NBC district incentives | 2026-10 | Low |
+| educator-workforce.md | WEP/GPO status | Repealed by the Social Security Fairness Act (signed 2025-01-05) for benefits payable for months after December 2023 | ssa.gov (Social Security Fairness Act page; Legislative Bulletin 2025-01-06) | 2026-10 | Low |
 | students.md | Minimum graduation credits | 24 | DESE | 2025-08 | Low |
 | students.md | A+ GPA requirement | 2.5 | RSMo 160.545 | 2026-10 | Low |
 | students.md | A+ attendance requirement | 95% | RSMo 160.545 | 2026-10 | Low |

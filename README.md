@@ -266,7 +266,7 @@ The system responds with: immediate rights under RSMo 167.161, the MDR requireme
 **Teacher asking about retirement:**
 > "I'm 52 with 30 years in. Can I retire?"
 
-The system calculates Rule of 80 (52 + 30 = 82), confirms eligibility, estimates the benefit at 75% of final average salary, flags the Social Security/WEP issue, and directs to PSRS.
+The system calculates Rule of 80 (52 + 30 = 82), confirms eligibility, estimates the benefit at 75% of final average salary, notes that PSRS service earns no Social Security credits (WEP and GPO were repealed in 2025), and directs to PSRS.
 
 **Spanish-speaking parent:**
 > "Mi hijo necesita ayuda en la escuela pero no se por donde empezar."

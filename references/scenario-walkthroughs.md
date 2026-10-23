@@ -275,8 +275,7 @@ Within 1-2 weeks, convene the crisis team: What was supposed to happen? What act
 Annual benefit = Years of service × 2.5% × Final Average Salary (3 highest consecutive years). Contact PSRS/PEERS (psrs-peers.org) for a personalized estimate.
 
 **Step 4: Understand the fine print.**
-- **WEP (Windfall Elimination Provision):** if you also worked in a Social Security-covered job, your Social Security benefit may be reduced
-- **GPO (Government Pension Offset):** if your spouse has Social Security, your spousal benefit may be reduced
+- **WEP and GPO no longer apply:** the Social Security Fairness Act (signed January 5, 2025) ended the Windfall Elimination Provision and the Government Pension Offset for benefits payable for months after December 2023 ([SSA](https://www.ssa.gov/benefits/retirement/social-security-fairness-act.html)). A PSRS pension no longer reduces your own Social Security benefit from other covered work or a spousal/survivor benefit. Check your record and estimate with SSA (ssa.gov).
 - **Working after retirement:** PSRS limits post-retirement school employment. Working too many hours/days can affect your pension. Check current rules with PSRS.
 - **Health insurance:** PSRS offers retiree health insurance options, but they're not automatic. Plan ahead.
 

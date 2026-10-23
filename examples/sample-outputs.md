@@ -63,7 +63,7 @@ Yes — you're eligible now.
 **Your estimated benefit:** 30 years × 2.5% = **75% of your Final Average Salary** (average of your 3 highest consecutive salary years). If your FAS is $65,000, that's approximately $48,750 per year.
 
 **Two things to plan for:**
-- **No Social Security on school earnings.** Most PSRS members don't participate in Social Security for their teaching income. If you have Social Security credits from other work, the Windfall Elimination Provision (WEP) may reduce that benefit.
+- **No Social Security on school earnings.** Most PSRS members don't participate in Social Security for their teaching income. If you have Social Security credits from other work, the Windfall Elimination Provision (WEP) no longer reduces that benefit: the Social Security Fairness Act ended WEP and GPO for benefits payable after December 2023 (ssa.gov).
 - **Health insurance.** PSRS offers retiree health insurance options, but coverage and cost change at 65 (Medicare eligibility). Start planning now.
 
 **Next step:** Contact PSRS directly (psrs-peers.org / 573-634-5290) at least 3-6 months before your intended retirement date. They'll give you a personalized benefit estimate and walk you through your options (single life, joint survivor, etc.).

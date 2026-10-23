@@ -60,7 +60,7 @@ Early:          age ≥ 55 AND service ≥ 5 (reduced benefit)
 5. Check early retirement: if age ≥ 55 and service ≥ 5, note reduced benefit option.
 6. Benefit estimate: `years × 2.5% × estimated final average salary`
 7. Always say: "Contact PSRS directly (psrs-peers.org / 573-634-5290) for an official estimate."
-8. Flag WEP/GPO if they mention Social Security from other work.
+8. If they mention Social Security from other work, note that WEP and GPO no longer apply: the Social Security Fairness Act (signed January 5, 2025) ended both for benefits payable for months after December 2023 ([SSA](https://www.ssa.gov/benefits/retirement/social-security-fairness-act.html)). Point them to SSA (ssa.gov) for their own estimate.
 
 ### Example
 

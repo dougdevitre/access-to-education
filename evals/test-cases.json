@@ -59,7 +59,7 @@
     "id": "T02",
     "prompt": "When can I retire? I have 28 years in and I'm 53.",
     "role": "teacher",
-    "expected_behavior": "Quick-answer: Rule of 80 → 53 + 28 = 81. Eligible under Rule of 80 (minimum age 48 met). Also eligible for 25-and-out. Mention WEP/GPO implications if they have Social Security from other work. Suggest contacting PSRS directly for benefit estimate.",
+    "expected_behavior": "Quick-answer: Rule of 80 → 53 + 28 = 81. Eligible under Rule of 80 (minimum age 48 met). Also eligible for 25-and-out. If they have Social Security from other work, say WEP/GPO no longer apply (Social Security Fairness Act, signed Jan. 5, 2025, effective for benefits payable after Dec. 2023) and point to SSA. Suggest contacting PSRS directly for benefit estimate.",
     "expected_files": [],
     "quick_answer": true
   },

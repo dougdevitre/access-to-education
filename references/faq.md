@@ -76,7 +76,7 @@ After 5 consecutive years in the same district with satisfactory evaluations (RS
 PSRS: age 60 with 5+ years, OR 30+ years at any age, OR Rule of 80 (age + service ≥ 80). Early (reduced): age 55 with 5+ years, OR 25+ years. Benefit = years × 2.5% × final average salary (3 highest consecutive years). Contact PSRS (psrs-peers.org) for a personalized estimate.
 
 **4. Do I pay Social Security?**
-Most PSRS members do NOT pay Social Security on school earnings. If you have Social Security from other work, WEP may reduce your Social Security benefit. GPO may reduce spousal Social Security benefits. This is a critical retirement planning consideration.
+Most PSRS members do NOT pay Social Security on school earnings. If you have Social Security from other work, the Windfall Elimination Provision (WEP) and Government Pension Offset (GPO) no longer reduce it: the Social Security Fairness Act, signed January 5, 2025, ended both for benefits payable for months after December 2023 ([SSA](https://www.ssa.gov/benefits/retirement/social-security-fairness-act.html)). Check your Social Security record and estimate with SSA (ssa.gov).
 
 **5. Can I be non-renewed without a reason?**
 If you're non-tenured (first 5 years), yes — the district can non-renew without stating a cause. But they must notify you by April 15 (RSMo 168.126). If notification is late, the non-renewal may be invalid. If you're tenured, you can only be terminated for cause with a hearing.

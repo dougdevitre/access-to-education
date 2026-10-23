@@ -191,7 +191,7 @@ graph TD
 | Keyword | File(s) | Context |
 | --------- | --------- | --------- |
 | Restorative Justice | [discipline-behavior.md](operations/discipline-behavior.md), [school-culture-climate.md](operations/school-culture-climate.md) | Alternative to exclusionary discipline |
-| Retirement | [teachers.md](roles/teachers.md), [educator-workforce.md](programs/educator-workforce.md) | Rule of 80, PSRS benefits, WEP/GPO |
+| Retirement | [teachers.md](roles/teachers.md), [educator-workforce.md](programs/educator-workforce.md) | Rule of 80, PSRS benefits, WEP/GPO (repealed 2025) |
 | RPDC | [professional-learning.md](programs/professional-learning.md) | Regional Professional Development Centers |
 | Rural Education | [rural-education.md](programs/rural-education.md) | Shared services, 4-day weeks, teacher shortage |
 

@@ -101,7 +101,7 @@ graph TD
 | **GAL** | *Tutor Ad Litem* | Guardian Ad Litem (family court context) |
 | **GED** | *Desarrollo Educativo General* | General Educational Development (Missouri uses HiSET, not GED) |
 | **GPA (Weighted vs. Unweighted)** | *Promedio de Calificaciones* | Grade Point Average — weighted includes bonus points for AP/honors; unweighted does not |
-| **GPO** | *Compensación de Pensión Gubernamental* | Government Pension Offset — may reduce Social Security spousal benefits for PSRS members |
+| **GPO** | *Compensación de Pensión Gubernamental* | Government Pension Offset — formerly reduced Social Security spousal/survivor benefits for PSRS members; repealed by the Social Security Fairness Act (signed Jan. 5, 2025) for benefits payable after December 2023 (ssa.gov) |
 
 ## H-I
 
@@ -196,7 +196,7 @@ graph TD
 | **WADA** | *Asistencia Diaria Promedio Ponderada* | Weighted Average Daily Attendance — ADA adjusted for special populations (funding formula) |
 | **WBL** | *Aprendizaje Basado en el Trabajo* | Work-Based Learning |
 | **WCAG** | *Pautas de Accesibilidad para el Contenido Web* | Web Content Accessibility Guidelines |
-| **WEP** | *Provisión de Eliminación por Ganancias Inesperadas* | Windfall Elimination Provision — may reduce Social Security for PSRS members with other covered employment |
+| **WEP** | *Provisión de Eliminación por Ganancias Inesperadas* | Windfall Elimination Provision — formerly reduced Social Security for PSRS members with other covered employment; repealed by the Social Security Fairness Act (signed Jan. 5, 2025) for benefits payable after December 2023 (ssa.gov) |
 | **WIDA** | *Diseño y Evaluación Instruccional de Clase Mundial* | World-class Instructional Design and Assessment — consortium for ELL assessment (ACCESS test) |
 | **WIOA** | *Ley de Innovación y Oportunidad de la Fuerza Laboral* | Workforce Innovation and Opportunity Act |
 | **YC-DD** | *Niño Pequeño con Retraso en el Desarrollo* | Young Child with a Developmental Delay — IDEA eligibility category for ages 3-5 |
