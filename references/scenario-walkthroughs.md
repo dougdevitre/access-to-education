@@ -298,7 +298,7 @@ Survey your staff: What AI tools are you already using? For what? With what over
 Read: DESE AI Guidance (Version 1.0), MSBA model AI policy, MCE sample policies, peer district policies, TeachAI toolkit. Load `references/ai-in-education/ai-policy-governance.md` for the full framework.
 
 **Step 4: Draft the policy.**
-Use `templates/ai-policy-template.md` as your scaffold. Key sections: scope, guiding principles, approved tools list, staff use (permitted/prohibited), student use (by grade band), academic integrity, data privacy, equity, PD requirements, transparency, review cycle.
+Use `templates/admin/ai-policy-template.md` as your scaffold. Key sections: scope, guiding principles, approved tools list, staff use (permitted/prohibited), student use (by grade band), academic integrity, data privacy, equity, PD requirements, transparency, review cycle.
 
 **Step 5: Gather stakeholder input.**
 Share the draft with: all staff (feedback survey + Q&A session), parents (information session + comment period), students (advisory council or classroom discussion), board (work session).

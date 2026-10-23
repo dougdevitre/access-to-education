@@ -25,16 +25,7 @@ LINKED_DIRS=(references templates commands examples scripts)
 # different folder. Fixing them is a SKILL.md edit for a human. Until then the
 # build warns about each one instead of failing, but only while a file with
 # that name is somewhere in the zip. Remove an entry once SKILL.md is fixed.
-KNOWN_MISPLACED=(
-  references/cartas-padres-espanol.md
-  references/food-service-safety.md
-  references/paraprofessional-guide.md
-  references/transportation-safety.md
-  templates/ai-policy-template.md
-  templates/csip-template.md
-  templates/safety-plan-outline.md
-  templates/threat-assessment-form.md
-)
+KNOWN_MISPLACED=()
 # Fixed timestamp for every entry, so rebuilds are reproducible.
 FIXED_TIME="2026-01-01 00:00:00"
 

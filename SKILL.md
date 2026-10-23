@@ -289,10 +289,10 @@ Identify the pod first, then the specific file:
 | Title IX, sexual harassment, sex discrimination, gender equity, pregnant students | `compliance/title-ix.md` (comprehensive Title IX guidance) | `compliance/equity-access.md` §6 (Title IX — sex discrimination), `programs/special-populations.md` §3 (teen parents & pregnant students), `operations/athletics-activities.md` §4 (Title IX in athletics) |
 | Gifted, talented, advanced learners, enrichment, acceleration | `programs/gifted-education.md` (comprehensive gifted/talented guidance) | `roles/specialists.md` §7 (gifted education), `operations/career-pathways.md` §4 (dual credit) |
 | IEP vs 504, 504 process, 504 eligibility, 504 plan, choosing 504 or IEP | `templates/specialist/504-decision-tree.md` (504 decision tree & process guide) | `roles/specialists.md` §3 (504 plans), §5 (related services) |
-| Spanish letters, carta, carta para la escuela, plantilla en español | `references/cartas-padres-espanol.md` (Spanish parent letter templates) | `references/guia-padres-espanol.md` (Spanish parent guide) |
-| Paraprofessional, para duties, para role, instructional aide, classroom aide | `references/paraprofessional-guide.md` (paraprofessional comprehensive guide) | `roles/school-staff.md` §1 (paraprofessionals) |
-| Bus, transportation safety, bus routes, bus rules, student transportation | `references/transportation-safety.md` (transportation safety guide) | — |
-| Food service, allergy, food allergy, cafeteria, school meals, dietary needs | `references/food-service-safety.md` (food service & allergy safety guide) | — |
+| Spanish letters, carta, carta para la escuela, plantilla en español | `templates/parent/cartas-padres-espanol.md` (Spanish parent letter templates) | `references/guia-padres-espanol.md` (Spanish parent guide) |
+| Paraprofessional, para duties, para role, instructional aide, classroom aide | `templates/staff/paraprofessional-guide.md` (paraprofessional comprehensive guide) | `roles/school-staff.md` §1 (paraprofessionals) |
+| Bus, transportation safety, bus routes, bus rules, student transportation | `templates/staff/transportation-safety.md` (transportation safety guide) | — |
+| Food service, allergy, food allergy, cafeteria, school meals, dietary needs | `templates/staff/food-service-safety.md` (food service & allergy safety guide) | — |
 | Search, find, keyword, where is, which file, topic lookup | `keyword-index.md` (A-Z keyword-to-file mapping) | — |
 | Data, statistics, enrollment numbers, credit table, timeline table, quick fact | `mo-data-tables.md` (T1-T17 structured lookup tables) | — |
 | Step-by-step journey, walkthrough, "what do I do if," scenario, process from start to finish | `scenario-walkthroughs.md` (33 education journeys by role) | — |
@@ -829,11 +829,11 @@ When a question unfolds across multiple turns, maintain context:
 | Letter requesting special education evaluation | Word document with parent's info, school address, formal request language, legal citations, date | Use `docx` skill if available; otherwise output as formatted markdown |
 | Letter requesting records (FERPA) | Formal records request letter | Same |
 | IEP dispute letter | Letter citing specific concerns, requesting meeting or filing intent | Same |
-| CSIP document | Structured plan document from `templates/csip-template.md` filled with user's data | Walk through template, then generate |
-| AI policy | Board-ready policy document from `templates/ai-policy-template.md` | Walk through template, then generate |
+| CSIP document | Structured plan document from `templates/admin/csip-template.md` filled with user's data | Walk through template, then generate |
+| AI policy | Board-ready policy document from `templates/admin/ai-policy-template.md` | Walk through template, then generate |
 | Parent notification letter (discipline) | Due process notification with required elements | Generate with district/student blanks |
-| Safety plan | EOP document from `templates/safety-plan-outline.md` | Walk through template sections |
-| Threat assessment documentation | Completed form from `templates/threat-assessment-form.md` | Guide through form fields |
+| Safety plan | EOP document from `templates/admin/safety-plan-outline.md` | Walk through template sections |
+| Threat assessment documentation | Completed form from `templates/admin/threat-assessment-form.md` | Guide through form fields |
 | Board presentation on a topic | Slide-ready content or executive summary | Structure for board communication |
 | Grant narrative section | Written narrative aligned to grant requirements | Load `compliance/funding-programs.md` for program details |
 | Teacher evaluation summary | Structured observation feedback | Load `roles/teachers.md` §2 for MEES framework |
