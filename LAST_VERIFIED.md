@@ -35,12 +35,12 @@
 | funding-programs.md | FRPM thresholds | 130%/185% FPL | USDA | 2025-07 | Medium |
 | funding-programs.md | Single Audit threshold | $1,000,000 (fiscal years starting on or after 2024-10-01) | 2 CFR Part 200 / FAC | 2026-10 | Low |
 | facilities-operations.md | Prevailing wage threshold | $75,000 | RSMo 290.210 | 2026-10 | Low |
-| facilities-operations.md | Bond approval requirement | 4/7 vote | Verify with bond counsel (RSMo 164.011 covers tax rates, not bonds) | 2026-10 | Low |
+| facilities-operations.md | Bond approval requirement | 4/7 at general municipal, primary or general elections; 2/3 at other elections | Mo. Const. art. VI §26(b) | 2026-10 | Low |
 | rural-education.md | % districts on 4-day week | ~25% | DESE/media reports | 2025-10 | Medium |
 | ai-in-education/ | DESE AI guidance version | 1.0 (2025-26) | DESE | 2025-07 | High |
 | ai-in-education/ | SB 68 signed | July 9, 2025 | Missouri Legislature | 2026-10 | Low |
 | ai-in-education/ | States with AI guidance | 31+ | aiforeducation.io | 2026-01 | High |
-| school-staff.md | Substitute cert credit hours | 60 | DESE | 2025-08 | Low |
+| teachers.md, substitute-teachers.md | Substitute cert routes | 36 semester hours, or HS diploma + 20 clock hours DESE-approved training | DESE (dese.mo.gov substitute teachers page; SB 681, 2022) | 2026-10 | Low |
 | school-staff.md | Mandated reporter penalty | Class A misdemeanor | RSMo 210.165 | 2026-10 | Low |
 
 ---

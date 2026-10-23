@@ -174,7 +174,7 @@ Under **RSMo 210.115**, ALL school employees — including substitutes — must 
 | Requirement | Details |
 |------------|---------|
 | **Certificate** | Substitute certificate from DESE (4-year validity) |
-| **Education** | Minimum 60 college credit hours |
+| **Education** | 36+ college semester hours, OR a high school diploma/equivalent plus 20 clock hours of DESE-approved substitute training |
 | **Background check** | FBI fingerprint + Missouri Highway Patrol |
 | **Long-term sub (60+ days same assignment)** | Must hold a valid Missouri teaching certificate |
 | **Pay** | Set by district — typically $80-$150/day (no state minimum) |

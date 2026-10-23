@@ -41,7 +41,8 @@ graph TD
 
 ### Calculation
 ```
-Rule of 80:     age + service ≥ 80 AND age ≥ 48
+Rule of 80:     age + service ≥ 80
+30 years:       service ≥ 30 (any age)
 Age/Service:    age ≥ 60 AND service ≥ 5
 Early:          age ≥ 55 AND service ≥ 5 (reduced benefit)
 25-and-out:     service ≥ 25 (reduced if age + service < 80)
@@ -49,9 +50,9 @@ Early:          age ≥ 55 AND service ≥ 5 (reduced benefit)
 
 ### How to Present
 1. Calculate current Rule of 80 sum: `age + service = ___`
-2. If ≥ 80 and age ≥ 48: "You're eligible now under Rule of 80."
-3. If < 80: "You need ___ more points. At 1 point per year, that's approximately ___ years from now (age ___)."
-4. Check age/service: if age ≥ 60 and service ≥ 5, note this path too.
+2. If ≥ 80: "You're eligible now under Rule of 80."
+3. If < 80: "You need ___ more points. Each year you keep working adds about 2 points (1 year of age + 1 year of service), so that's approximately ___ years from now (age ___)."
+4. Check the 30-year path: if service ≥ 30, they are eligible at any age. Check age/service: if age ≥ 60 and service ≥ 5, note this path too.
 5. Check early retirement: if age ≥ 55 and service ≥ 5, note reduced benefit option.
 6. Benefit estimate: `years × 2.5% × estimated final average salary`
 7. Always say: "Contact PSRS directly (psrs-peers.org / 573-634-5290) for an official estimate."
@@ -59,7 +60,7 @@ Early:          age ≥ 55 AND service ≥ 5 (reduced benefit)
 
 ### Example
 > Teacher, age 53, 28 years of service.
-> Rule of 80: 53 + 28 = 81 ✓ (and age ≥ 48 ✓)
+> Rule of 80: 53 + 28 = 81 ✓
 > **Eligible NOW under Rule of 80.**
 > Also eligible under 25-and-out (28 years ≥ 25) — full benefit since Rule of 80 is met.
 > Estimated benefit: 28 × 2.5% = 70% of final average salary.

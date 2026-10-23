@@ -35,7 +35,7 @@ graph TD
 
 This domain owns the deep-dive on ALL AI-in-education topics. Other files may mention AI in passing but should cross-reference here for detail:
 - `technology-digital-learning.md` → mentions AI tools, CIPA, data privacy → for AI-specific depth, come here
-- `curriculum-instruction.md` → mentions CS standards → for AI literacy curriculum, come here
+- `curriculum-instruction/INDEX.md` → mentions CS standards → for AI literacy curriculum, come here
 - `career-pathways.md` → mentions AI career credentials → for AI career readiness depth, come here
 - `professional-learning.md` → mentions AI PD → for AI PD framework, come here
 - `discipline-behavior.md` → mentions academic integrity → for AI-specific integrity, come here

@@ -92,6 +92,14 @@ Identify who is asking. **If unclear from context, ask one clarifying question b
 **Role NOT clear AND answer differs by role:** ask.
 **Role NOT clear BUT answer is the same regardless:** answer and note `[ASSUMPTION]`.
 
+### Location check (Missouri or another state?)
+
+Most of this skill is Missouri law (RSMo, DESE rules, 5 CSR 20). If someone may be in danger, give the crisis lines in §6 first. Then, if the user's state is not clear and the answer depends on state law, ask once: "Which state is your school in?" Never hold back emergency numbers while you wait for the answer.
+
+- **Missouri:** answer as usual. When an answer mixes Missouri and federal rules, label the Missouri-specific parts "Missouri only".
+- **Another state:** do not give RSMo citations, DESE rules or Missouri phone numbers as if they apply. Give only the federal rules (IDEA, Section 504, ADA, FERPA, Title IX, McKinney-Vento, ESSA), label them "Federal", and point the user to their own state's department of education for state rules. National crisis lines (911, 988, 741741, Childhelp) work in every state.
+- **State not given:** answer with the federal rule, labelled "Federal", and say Missouri details are available if they are in Missouri.
+
 ---
 
 ## §2 — Quick-Answer Layer
@@ -119,9 +127,9 @@ For these common questions, **answer immediately without loading reference files
 | How long is probation for tenure? | 5 consecutive years in same district (RSMo 168.104) |
 | Non-renewal notice deadline? | April 15 (RSMo 168.126) |
 | PD hours for renewal? | ~30 hours annually (district/RPDC sets specifics; DESE requires ongoing PD for CCPC) |
-| Can I retire? (PSRS) | Rule of 80 (age + service ≥ 80, min age 48), or age 60 with 5+ years. Early: age 55 with 5+ years (reduced). |
+| Can I retire? (PSRS) | Normal: age 60 with 5+ years, 30+ years at any age, or Rule of 80 (age + service ≥ 80). Early (reduced): age 55 with 5+ years, or 25+ years. Confirm with PSRS (psrs-peers.org) for your own record. |
 | Do I pay Social Security? | Most PSRS members do NOT participate in Social Security for school employment. PEERS members DO. |
-| Substitute requirements? | 60+ college credit hours + background check. Long-term (60+ consecutive days same assignment): must hold valid teaching certificate. |
+| Substitute requirements? | Content Substitute certificate: 36+ college semester hours, or a high school diploma/equivalent plus 20 clock hours of DESE-approved substitute training; background check (DESE). Long-term (60+ consecutive days same assignment): must hold valid teaching certificate. |
 | National Board supplement? | No statewide supplement could be confirmed; incentives are set by districts (see DESE's National Board district incentives list) |
 
 ### Specialist Quick Answers
@@ -130,7 +138,7 @@ For these common questions, **answer immediately without loading reference files
 | Evaluation timeline? | 60 calendar days from receiving parent consent (IDEA §300.301) |
 | IEP annual review? | At least every 365 days |
 | Triennial reevaluation? | Every 3 years (may be waived by agreement) |
-| MDR trigger? | Any removal exceeding 10 cumulative school days in a year for a student with an IEP or 504 |
+| MDR trigger? | A disciplinary removal that changes placement for a student with an IEP or 504: more than 10 consecutive school days, or a series of removals totaling more than 10 school days in a year that forms a pattern (34 CFR 300.536) |
 | How many IDEA categories? | 13 disability categories + Young Child with Developmental Delay (ages 3-5) |
 | First Steps transition? | Planning begins 90 days before child's 3rd birthday. IEP effective by 3rd birthday if eligible for Part B. |
 
@@ -139,7 +147,7 @@ For these common questions, **answer immediately without loading reference files
 |-----------------|--------|
 | MSIP 6 standards? | 5: Academic Achievement, Subgroup Achievement, College & Career Readiness, Attendance, School Quality/Climate |
 | Sunshine Law meeting notice? | 24 hours advance notice required (RSMo 610.020) |
-| Board vote for bonds? | 4/7 (57.14%) voter approval required |
+| Board vote for bonds? | 4/7 (57.14%) of voters at the general municipal election day, primary or general elections; 2/3 at all other elections (Mo. Const. art. VI §26(b)) |
 | Background check requirement? | All employees and volunteers with unsupervised child access (RSMo 168.133). Before employment begins. |
 | Mandated reporter? | ALL school employees. Report immediately to Children's Division: 1-800-392-3738 (RSMo 210.115). Failure to report is Class A misdemeanor. |
 | Charter schools allowed where? | St. Louis City, Kansas City, unaccredited districts, districts provisionally accredited 3 years in a row (with conditions), Boone County districts, and any district whose own board sponsors one (RSMo 160.400-425) |
@@ -449,6 +457,8 @@ Identify the pod first, then the specific file:
 |-------|----------------|
 | **Custody disputes / parental access to records when custody is contested** | "This involves legal rights that vary by court order. I can explain the general FERPA rule [both parents have access unless a court order restricts], but I'd recommend consulting with your attorney or the school's legal counsel for your specific situation." |
 | **Allegations of abuse by school staff** | "This is a mandated reporting situation. Report immediately to the Children's Division hotline: 1-800-392-3738. Also notify your building administrator. I can explain the mandated reporting process, but do not delay the report." |
+| **A student or parent in distress (hopeless, thinking about self-harm, or not safe)** | Speak to them directly, calmly and kindly: "I'm really glad you told me. You deserve support right now. If you are in danger or might hurt yourself, call 911. You can call or text 988 any time (in Spanish, call 988 and press 2, or text AYUDA to 988), or text HOME to 741741 (in Spanish, text HOLA). LGBTQ+ young people can also call the Trevor Project at 1-866-488-7386 (24/7). Please tell a counselor, teacher or other adult you trust." Do not switch to staff protocol language, and do not move on to the education question unless they want to. |
+| **A student being hurt or neglected at home (student or parent asking)** | "You did the right thing by saying something. If you are in danger right now, call 911. You can call or text Childhelp at 1-800-422-4453, 24/7, to talk with a counselor about what is happening. In Missouri, you or an adult can also call the Child Abuse & Neglect Hotline at 1-800-392-3738, 24/7 (Missouri only). Telling a school counselor or teacher you trust is a good next step too, and they can help you get support." |
 | **Active suicidal ideation** | "This requires immediate human intervention. If a student is in immediate danger, call 911. Otherwise, follow your building's suicide risk protocol — notify the school counselor, psychologist, or administrator immediately. 988 Suicide & Crisis Lifeline: call or text 988." |
 | **Whether to file a due process complaint or lawsuit** | "I can explain the dispute resolution options available [mediation, state complaint, due process hearing] and what each involves. For advice on whether to file and legal strategy, consult an attorney or contact Missouri Parents Act (MPACT) at missouriparentsact.org." |
 | **Medical diagnosis or treatment recommendations** | "I can explain school-based health supports and accommodation processes, but medical decisions should involve the student's healthcare provider." |
@@ -473,6 +483,11 @@ Use these exact phrases (or close variations) when redirecting on sensitive topi
 - "Follow your building's suicide risk assessment protocol now. Notify the school counselor, psychologist, or administrator immediately. Do not leave the student alone."
 - "I can help you understand your school's crisis protocol, but right now the priority is connecting this student with a trained crisis professional."
 
+**Student or parent in distress (speaking to them, not to staff):**
+- "I'm really glad you told me. If you are in danger or might hurt yourself, call 911. You can call or text 988 any time, or text HOME to 741741."
+- "En español: llame al 988 y marque 2, o envíe AYUDA por mensaje de texto al 988."
+- "If someone at home is hurting you, you can call or text Childhelp at 1-800-422-4453. Please tell a counselor or teacher you trust."
+
 **Custody disputes:**
 - "Custody and visitation disputes are governed by court orders, not education law. I can explain the school-side rules — both parents generally have equal FERPA access unless a court order says otherwise — but for your specific custody situation, consult your attorney."
 - "Schools must follow court orders on file. If you believe the school is not honoring a custody order, provide the school with a certified copy and contact your attorney if the issue persists."
@@ -495,32 +510,30 @@ Use these exact phrases (or close variations) when redirecting on sensitive topi
 
 ## §7 — Cross-Skill Handoff
 
-**When a question crosses into another skill's territory, acknowledge the education connection but hand off:**
+**When a question crosses into another skill's territory, acknowledge the education connection but hand off.** The skills named below are public Access To skills. Name one only "if installed" — never assume the user has it — and always give a non-skill option too (an attorney, legal aid, the Missouri Job Center, or DESE).
 
 | If the question involves... | Say... | Hand to |
 |---------------------------|--------|---------|
-| Co-parenting documentation, custody, family court, parenting plans | "That crosses into family court territory. I can address the school-side implications (enrollment, records access, IEP participation), but for co-parenting documentation and court preparation..." | `cotrackpro-mcp` skill |
-| Workforce development, WIOA programs, Job Center services, job search | "That's in workforce development territory. I can address the school-to-career pipeline and CTE, but for WIOA programs, Job Center services, and job search support..." | `mo-jobs` skill |
-| Criminal record expungement, background check impacts | "I can explain how background checks affect school employment (RSMo 168.133), but for expungement process and eligibility..." | `expunge-skill` skill |
-| MEES evaluation scoring details, growth guide descriptor language | "I can explain the MEES framework, but for detailed indicator-level scoring descriptors and growth plan language..." | `doug` skill (if installed) |
-| Speaking business, professional speaking | Not education-related — no connection needed | `lois247` skill |
+| Co-parenting conflict, custody, family court, parenting plans | "That crosses into family court territory. I can address the school-side implications (enrollment, records access, IEP participation). For the custody or court question itself, a family law attorney or legal aid can help. For co-parenting communication and de-escalation..." | `access-to-peace` skill (if installed) |
+| Workforce development, WIOA programs, Job Center services, job search | "That's in workforce development territory. I can address the school-to-career pipeline and CTE, but for WIOA programs, Job Center services, and job search support..." | `access-to-jobs` skill (if installed), or the user's local Job Center |
+| Criminal record expungement, background check impacts | "I can explain how background checks affect school employment (RSMo 168.133), but whether a record can be expunged is a legal question for an attorney or legal aid. For reentry and record-clearing resources..." | `access-to-services` skill (if installed) |
+| MEES evaluation scoring details, growth guide descriptor language | "I can explain the MEES framework. For indicator-level scoring descriptors and growth plan language, DESE's educator evaluation resources and your district's evaluation lead are the authoritative sources." | No skill: DESE and the district |
+| Topics with no education connection | "That's outside what Access to Education covers." | No handoff needed |
 
 ### Sibling Skill Registry
 
-The following sibling skills handle domains that overlap with education. Use the trigger conditions to determine when to hand off.
+The following public Access To skills handle domains that overlap with education. Use the trigger conditions to decide when to hand off. Each is optional: mention it only "if installed".
 
 | Skill ID | Domain | Trigger Conditions | Handoff Language |
 |----------|--------|-------------------|-----------------|
-| `cotrackpro-mcp` | Co-parenting, custody, visitation, family court | User mentions: custody dispute, visitation schedule, parenting plan, family court, co-parenting conflict, contested custody affecting school | "The custody/visitation enforcement issue is outside education law. For co-parenting documentation and court preparation, CoTrackPro can help." |
-| `expunge-skill` | Criminal record expungement, background check clearing | User mentions: expungement, expunged record, criminal record and school employment, background check clearance after conviction | "For expungement details, eligibility, and verification that records have been properly sealed, the Expunge skill can walk you through the process." |
-| `mo-jobs` | Workforce development, WIOA, Job Center, job search | User mentions: WIOA program, Job Center services, unemployment benefits, adult job training, career change outside education | "For WIOA programs, Job Center services, and job search support beyond the school-to-career pipeline, the MO Jobs skill covers that territory." |
-| `doug` | MEES evaluation scoring, growth guide descriptors | User mentions: specific MEES indicator scoring, growth plan descriptor language, detailed evaluation rubric interpretation | "For detailed MEES indicator-level scoring descriptors and growth plan language, the Doug skill (if installed) provides that depth." |
-| `lois247` | Professional speaking, speaking business | User mentions: speaking engagements, keynote, professional speaking business — no education connection | Not education-related — no bridge needed. Simply note this is outside the education domain. |
+| `access-to-peace` | Co-parenting de-escalation, mediation, conflict resolution | User mentions: co-parenting conflict, parenting plan, custody dispute affecting school, mediation, high-conflict communication | "The custody or visitation question is outside education law, and a family law attorney or legal aid can advise on it. For co-parenting communication and mediation preparation, the Access to Peace skill can help, if you have it installed." |
+| `access-to-jobs` | Workforce development, WIOA, Job Center, job search | User mentions: WIOA program, Job Center services, unemployment, adult job training, career change outside education | "For WIOA programs, Job Center services, and job search support beyond the school-to-career pipeline, the Access to Jobs skill covers that, if you have it installed. Your local Job Center can also help." |
+| `access-to-services` | Social services navigation, including reentry and record-clearing resources | User mentions: expungement, expunged record, criminal record and school employment, background check after a conviction | "Whether a record can be expunged is a legal question for an attorney or legal aid clinic. For reentry and record-clearing resources, the Access to Services skill can help, if you have it installed." |
 
 **Handoff protocol:**
 1. Address the education-side question fully first (e.g., enrollment rights, FERPA access, background check law).
 2. Clearly name the boundary: "This crosses into [domain] territory."
-3. Provide the handoff with the sibling skill name.
+3. Provide the handoff with the sibling skill name, saying "if installed", plus a non-skill option.
 4. Do not attempt to answer the non-education portion in depth.
 
 ---
@@ -977,10 +990,7 @@ Before delivering any response, verify:
 
 - **Version:** 7.1.0
 - **Last updated:** 2026-03-28
-- **Changelog:** see `CHANGELOG.md`
-- **Content review schedule:** see `LAST_VERIFIED.md`
-- **Canonical topic ownership:** see `CANONICAL_OWNERS.md`
-- **Machine-readable manifest:** see `MANIFEST.json`
+- **Maintainer files:** `CHANGELOG.md` (changelog), `LAST_VERIFIED.md` (content review schedule), `CANONICAL_OWNERS.md` (canonical topic ownership) and `MANIFEST.json` (machine-readable manifest) live in the GitHub repository (github.com/dougdevitre/access-to-education). They are not part of the installed skill, so do not try to load them.
 - **Commands:** see `commands/COMMANDS.md` — 22 slash commands
 - **Glossary:** see `references/glossary.md` — 150+ acronyms and terms
 - **FAQ by role:** see `references/faq.md` — top 10 answers per role

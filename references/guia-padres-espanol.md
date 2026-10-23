@@ -115,7 +115,7 @@ Su hijo tiene derecho a permanecer en su escuela de origen y a inscripción inme
 | Servicio | Número |
 |----------|--------|
 | Línea de abuso/negligencia infantil (Children's Division) | **1-800-392-3738** |
-| Línea de crisis (988 Suicide & Crisis Lifeline) | Llame o envíe texto al **988** |
+| Línea de crisis (988 Suicide & Crisis Lifeline) | Llame al **988** y marque 2 para hablar en español, o envíe AYUDA por mensaje de texto al **988** |
 | DESE (Departamento de Educación de Missouri) | 573-751-4212 |
 | MPACT (defensoría de padres para educación especial) | missouriparentsact.org |
 | FAFSA (ayuda financiera universitaria) | studentaid.gov |
@@ -367,7 +367,7 @@ Cuando un estudiante es suspendido por **más de 10 días** (o acumulados), tien
 ### Qué Hacer
 1. Hable con su hijo — escuche sin juzgar
 2. Contacte al **consejero escolar** — pueden conectar a su hijo con servicios
-3. Si hay riesgo inmediato, llame al **988** (Línea de Prevención del Suicidio, disponible en español)
+3. Si hay riesgo inmediato, llame al **988** y marque 2 para hablar en español, o envíe AYUDA por mensaje de texto al **988** (Línea de Prevención del Suicidio y Crisis)
 4. Si es una emergencia, llame al **911**
 
 ### Servicios Disponibles

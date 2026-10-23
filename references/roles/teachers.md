@@ -36,7 +36,7 @@ graph TD
 | **Initial Professional Certificate (IPC)** | 4 years | Bachelor's degree, approved educator preparation program, passing scores on required assessments (MoGEA or equivalent + content area exam), background check |
 | **Career Continuous Professional Certificate (CCPC)** | Lifetime (with renewal) | 4 years teaching on IPC, completion of mentoring program, recommendation from employing district, professional development |
 | **Temporary Authorization Certificate (TAC)** | 1-3 years | For teachers who have not completed all requirements; district-specific, requires DESE approval |
-| **Substitute Certificate** | 4 years | 60 college credit hours minimum, background check; or valid teaching certificate |
+| **Substitute Certificate** | 4 years | 36+ college semester hours, or a high school diploma/equivalent plus 20 clock hours of DESE-approved substitute training; background check; or valid teaching certificate |
 | **Career Education (CTE) Certificate** | Varies | Industry experience + DESE-approved pathway; may not require traditional educator preparation |
 
 ### Certification Assessments
@@ -169,7 +169,7 @@ Many districts identify "priority" or "power" standards — the most essential s
 ## 5. Substitute Teachers
 
 ### Requirements
-- **Standard substitute certificate:** 60+ college credit hours + background check
+- **Content substitute certificate:** 36+ college semester hours, or a high school diploma/equivalent plus 20 clock hours of DESE-approved substitute training; background check
 - **Substitute with teaching certificate:** valid Missouri teaching certificate
 - **Long-term substitute (60+ consecutive days in same assignment):** must hold a valid teaching certificate in the relevant content area
 

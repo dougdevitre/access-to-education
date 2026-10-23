@@ -73,7 +73,7 @@ flowchart TD
 - **Technical assistance** for LEAs serving students with visual impairments
 - **Professional development** for teachers and staff
 - **MoSPIN (Missouri Statewide Parent Involvement Network):** free home-based program for families of children birth-5 who are visually impaired
-- **Contact:** Jane Herder, Director Outreach, 314-633-1582, jane.herder@msb.dese.mo.gov
+- **Contact:** Missouri School for the Blind main office, 314-776-4320 (ask for Outreach Services)
 
 ### Missouri Instructional Resource Center (MIRC)
 - Coordinates registration of students who are legally blind

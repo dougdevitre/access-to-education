@@ -58,7 +58,7 @@ Would you like me to draft the MDR request letter for you?
 
 Yes — you're eligible now.
 
-**Rule of 80:** 52 + 30 = 82. You exceed 80, and you meet the minimum age requirement of 48. You qualify for a full, unreduced benefit.
+**Rule of 80:** 52 + 30 = 82. You exceed 80, and with 30 years of service you also qualify at any age. You qualify for a full, unreduced benefit.
 
 **Your estimated benefit:** 30 years × 2.5% = **75% of your Final Average Salary** (average of your 3 highest consecutive salary years). If your FAS is $65,000, that's approximately $48,750 per year.
 
