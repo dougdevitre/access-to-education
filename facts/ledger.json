@@ -1,0 +1,381 @@
+{
+  "$comment": "Fact ledger: every phone number, dollar figure, deadline and program-status claim this skill states, with the primary source it was verified on, the date, and the files that carry it. scripts/check-facts.mjs fails CI when a fact is past its recheck date, a listed file is missing, or the value (or each string in match) no longer appears in its listed files. Recheck intervals: phone numbers 180 days; dollar figures and program status 90; annual-cycle figures use recheck_on with the next cycle's date. Only add an entry you verified on its source today; never back-date. Facts still awaiting verification are listed in LAST_VERIFIED.md.",
+  "recheck_days_default": 90,
+  "facts": [
+    {
+      "id": "childhelp-hotline",
+      "claim": "Childhelp National Child Abuse Hotline number (call or text)",
+      "value": "1-800-422-4453",
+      "source": "https://www.childhelphotline.org/",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "SKILL.md",
+        "references/roles/students.md"
+      ]
+    },
+    {
+      "id": "mo-child-abuse-hotline",
+      "claim": "Missouri Child Abuse & Neglect Hotline (Children's Division), 24/7",
+      "value": "1-800-392-3738",
+      "source": "https://dss.mo.gov/cd/keeping-kids-safe/can.htm",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "SKILL.md",
+        "references/mo-data-tables.md",
+        "references/roles/students.md"
+      ]
+    },
+    {
+      "id": "988-lifeline",
+      "claim": "988 Suicide & Crisis Lifeline: call or text 988, 24/7",
+      "value": "988",
+      "source": "https://988lifeline.org/",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "SKILL.md",
+        "references/roles/students.md",
+        "references/guia-padres-espanol.md"
+      ]
+    },
+    {
+      "id": "988-spanish-text",
+      "claim": "988 in Spanish: press 2 on a call, or text AYUDA to 988",
+      "value": "AYUDA",
+      "source": "https://988lifeline.org/get-help/what-to-expect/",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "SKILL.md",
+        "references/roles/students.md",
+        "references/guia-padres-espanol.md"
+      ]
+    },
+    {
+      "id": "crisis-text-line",
+      "claim": "Crisis Text Line: text HOME to 741741",
+      "value": "HOME to 741741",
+      "source": "https://www.crisistextline.org/",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "SKILL.md",
+        "references/operations/health-wellness.md",
+        "templates/counselor/checklists.md"
+      ]
+    },
+    {
+      "id": "crisis-text-line-spanish",
+      "claim": "Crisis Text Line in Spanish: text HOLA to 741741",
+      "value": "HOLA",
+      "source": "https://www.crisistextline.org/",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "SKILL.md",
+        "references/roles/students.md"
+      ]
+    },
+    {
+      "id": "trevor-project-phone",
+      "claim": "Trevor Project crisis line for LGBTQ+ young people, 24/7",
+      "value": "1-866-488-7386",
+      "source": "https://www.thetrevorproject.org/get-help/",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "SKILL.md",
+        "references/roles/students.md",
+        "references/operations/health-wellness.md",
+        "templates/counselor/checklists.md"
+      ]
+    },
+    {
+      "id": "trevor-project-text",
+      "claim": "Trevor Project by text: START to 678-678",
+      "value": "START to 678-678",
+      "source": "https://www.thetrevorproject.org/get-help/",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "references/roles/students.md"
+      ]
+    },
+    {
+      "id": "dese-main-phone",
+      "claim": "DESE main phone line",
+      "value": "573-751-4212",
+      "source": "https://dese.mo.gov/educator-quality/certification/resources",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "references/mo-data-tables.md",
+        "references/guia-padres-espanol.md"
+      ]
+    },
+    {
+      "id": "dese-certification-phone",
+      "claim": "DESE Educator Certification phone line",
+      "value": "573-751-0051",
+      "source": "https://dese.mo.gov/educator-quality/certification/resources",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "references/mo-data-tables.md"
+      ]
+    },
+    {
+      "id": "msb-phone",
+      "claim": "Missouri School for the Blind main office phone",
+      "value": "314-776-4320",
+      "source": "https://msb.dese.mo.gov/",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "references/special-needs/vision-impairment.md",
+        "references/special-needs/INDEX.md"
+      ]
+    },
+    {
+      "id": "msd-phone",
+      "claim": "Missouri School for the Deaf main office phone (voice)",
+      "value": "(573) 592-4000",
+      "source": "https://msd.dese.mo.gov/about-us/contact-us",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "references/special-needs/hearing-impairment.md",
+        "references/special-needs/INDEX.md"
+      ]
+    },
+    {
+      "id": "mpact-phone",
+      "claim": "MPACT (Missouri Parents Act) toll-free phone",
+      "value": "1-800-743-7634",
+      "source": "https://www.missouriparentsact.org/wp-content/uploads/2021/03/MOCurriculumSites-SpanishBW.pdf",
+      "verified_on": "2026-10-24",
+      "recheck_days": 180,
+      "files": [
+        "scripts/calculators.md"
+      ]
+    },
+    {
+      "id": "a-plus-gpa",
+      "claim": "A+ Scholarship: unweighted cumulative GPA of at least 2.5 (RSMo 160.545)",
+      "value": "2.5",
+      "source": "https://dhewd.mo.gov/ppc/grants-scholarships/a-plus",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "SKILL.md",
+        "references/mo-data-tables.md",
+        "references/roles/students.md"
+      ]
+    },
+    {
+      "id": "a-plus-attendance",
+      "claim": "A+ Scholarship: at least 95% attendance for grades 9-12",
+      "value": "95%",
+      "source": "https://dhewd.mo.gov/ppc/grants-scholarships/a-plus",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "SKILL.md",
+        "references/mo-data-tables.md",
+        "references/roles/students.md"
+      ]
+    },
+    {
+      "id": "a-plus-tutoring-hours",
+      "claim": "A+ Scholarship: at least 50 hours of unpaid tutoring or mentoring",
+      "value": "50 hours",
+      "source": "https://dhewd.mo.gov/ppc/grants-scholarships/a-plus",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "SKILL.md",
+        "references/mo-data-tables.md",
+        "references/roles/students.md"
+      ]
+    },
+    {
+      "id": "bright-flight-max-award",
+      "claim": "Bright Flight top-tier award is up to $3,000 per year (2025-26 figure; recheck when the 2027-28 cycle is posted, due 2027-07-01)",
+      "value": "Up to $3,000/year",
+      "source": "https://dhewd.mo.gov/ppc/grants/brightflight.php",
+      "verified_on": "2026-10-24",
+      "recheck_on": "2027-07-01",
+      "files": [
+        "references/mo-data-tables.md",
+        "references/roles/students.md"
+      ]
+    },
+    {
+      "id": "prevailing-wage-threshold",
+      "claim": "Missouri prevailing wage applies to public works projects over $75,000 (RSMo 290.210)",
+      "value": "$75,000",
+      "source": "https://labor.mo.gov/DLS/PrevailingWage",
+      "verified_on": "2026-10-24",
+      "recheck_days": 90,
+      "files": [
+        "references/mo-data-tables.md",
+        "references/operations/facilities-operations.md",
+        "references/compliance/compliance-calendar.md"
+      ]
+    },
+    {
+      "id": "single-audit-threshold",
+      "claim": "Single Audit required at $1,000,000 of federal expenditures for fiscal years starting on or after 2024-10-01 (2 CFR 200.501)",
+      "value": "$1,000,000",
+      "source": "https://support.fac.gov/hc/en-us/articles/18792372809101-Is-my-organization-required-to-conduct-a-Single-Audit",
+      "verified_on": "2026-10-24",
+      "recheck_days": 90,
+      "files": [
+        "references/compliance/compliance-calendar.md",
+        "references/roles/administrators.md"
+      ]
+    },
+    {
+      "id": "compulsory-attendance-ages",
+      "claim": "Missouri compulsory attendance covers ages 7 to 17 (RSMo 167.031)",
+      "value": "Ages 7-17",
+      "source": "https://dese.mo.gov/governmental-affairs/freqaskques/Attendance",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "references/mo-data-tables.md",
+        "references/compliance/mo-education-law.md"
+      ]
+    },
+    {
+      "id": "kindergarten-entry-age",
+      "claim": "Kindergarten entry: child turns 5 before August 1 (RSMo 160.053)",
+      "value": "before August 1",
+      "match": [
+        "before August 1",
+        "before **August 1**"
+      ],
+      "source": "https://dese.mo.gov/governmental-affairs/kindergarten-first-grade-entry",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "SKILL.md",
+        "references/mo-data-tables.md",
+        "references/roles/students.md",
+        "references/programs/early-childhood.md",
+        "references/compliance/mo-education-law.md",
+        "references/operations/assessments.md"
+      ]
+    },
+    {
+      "id": "substitute-certificate-training-route",
+      "claim": "Content Substitute certificate: 36 semester hours, or 20 clock hours of DESE-approved substitute training",
+      "value": "20 clock hours",
+      "source": "https://dese.mo.gov/educator-quality/certification/substitute-teachers",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "SKILL.md",
+        "references/mo-data-tables.md",
+        "references/roles/substitute-teachers.md"
+      ]
+    },
+    {
+      "id": "substitute-certificate-credit-route",
+      "claim": "Content Substitute certificate: minimum of 36 college semester hours",
+      "value": "36+ college semester hours",
+      "source": "https://dese.mo.gov/educator-quality/certification/substitute-teachers",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "SKILL.md",
+        "references/mo-data-tables.md",
+        "references/roles/substitute-teachers.md"
+      ]
+    },
+    {
+      "id": "school-meals-free-threshold",
+      "claim": "Free school meals at or below 130% of the federal poverty guidelines (USDA IEGs for 2026-27; recheck when the 2027-28 notice is published, due 2027-07-01)",
+      "value": "130%",
+      "source": "https://public-inspection.federalregister.gov/2026-06842.pdf",
+      "verified_on": "2026-10-24",
+      "recheck_on": "2027-07-01",
+      "files": [
+        "references/mo-data-tables.md",
+        "references/compliance/funding-programs.md"
+      ]
+    },
+    {
+      "id": "school-meals-reduced-threshold",
+      "claim": "Reduced-price school meals up to 185% of the federal poverty guidelines (USDA IEGs for 2026-27; recheck due 2027-07-01)",
+      "value": "185%",
+      "source": "https://public-inspection.federalregister.gov/2026-06842.pdf",
+      "verified_on": "2026-10-24",
+      "recheck_on": "2027-07-01",
+      "files": [
+        "references/mo-data-tables.md",
+        "references/compliance/funding-programs.md"
+      ]
+    },
+    {
+      "id": "act-benchmark-english",
+      "claim": "ACT College Readiness Benchmark, English: 18",
+      "value": "| English | 18 |",
+      "source": "https://www.act.org/content/act/en/college-and-career-readiness/benchmarks.html",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "references/mo-data-tables.md"
+      ]
+    },
+    {
+      "id": "act-benchmark-math",
+      "claim": "ACT College Readiness Benchmark, Mathematics: 22",
+      "value": "| Mathematics | 22 |",
+      "source": "https://www.act.org/content/act/en/college-and-career-readiness/benchmarks.html",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "references/mo-data-tables.md"
+      ]
+    },
+    {
+      "id": "act-benchmark-reading",
+      "claim": "ACT College Readiness Benchmark, Reading: 22",
+      "value": "| Reading | 22 |",
+      "source": "https://www.act.org/content/act/en/college-and-career-readiness/benchmarks.html",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "references/mo-data-tables.md"
+      ]
+    },
+    {
+      "id": "act-benchmark-science",
+      "claim": "ACT College Readiness Benchmark, Science: 23",
+      "value": "| Science | 23 |",
+      "source": "https://www.act.org/content/act/en/college-and-career-readiness/benchmarks.html",
+      "verified_on": "2026-10-24",
+      "recheck_days": 365,
+      "files": [
+        "references/mo-data-tables.md"
+      ]
+    },
+    {
+      "id": "wep-gpo-repealed",
+      "claim": "WEP and GPO repealed by the Social Security Fairness Act (signed 2025-01-05); December 2023 is the last month they apply",
+      "value": "Social Security Fairness Act",
+      "source": "https://www.ssa.gov/benefits/retirement/social-security-fairness-act.html",
+      "verified_on": "2026-10-24",
+      "recheck_days": 90,
+      "files": [
+        "references/programs/educator-workforce.md",
+        "references/faq.md",
+        "references/glossary.md",
+        "scripts/calculators.md"
+      ]
+    }
+  ]
+}

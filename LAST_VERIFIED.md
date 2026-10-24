@@ -6,7 +6,13 @@
 
 ---
 
-## Volatile Data Points
+## Where facts are tracked
+
+Every phone number, dollar figure, deadline and program-status claim that has been verified on its primary source lives in **`facts/ledger.json`**, one entry per fact with the source URL, the verification date, the recheck interval and the files that state it. `scripts/check-facts.mjs` runs in CI (`Validate Content` → `Fact ledger`) and fails when a fact is past its recheck date, a listed file is missing, or the value no longer appears in any listed file. To refresh a fact: re-check it on the source, then update `verified_on` (and the value and files if they changed). Never add an entry you did not verify that day, and never back-date one.
+
+The table below holds the data points **not yet in the ledger**: each was recorded on the date shown, but was not re-checked on a primary source on the day the ledger was built, so CI does not yet vouch for it. Move a row into `facts/ledger.json` once you have confirmed it on the source.
+
+## Awaiting verification
 
 | File | Data Point | Value | Source | Last Verified | Volatility |
 | ------ | ----------- | ------- | -------- | -------------- | ------------ |
@@ -18,30 +24,18 @@
 | educator-workforce.md | PSRS contribution rate | ~14.5% | PSRS.org | 2026-10 | Medium |
 | educator-workforce.md | PEERS contribution rate | ~6.86% | PSRS.org | 2026-10 | Medium |
 | educator-workforce.md | NBCT supplement amount | No statewide supplement confirmed; district incentives only (RSMo 168.345 does not exist) | DESE NBC district incentives | 2026-10 | Low |
-| educator-workforce.md | WEP/GPO status | Repealed by the Social Security Fairness Act (signed 2025-01-05) for benefits payable for months after December 2023 | ssa.gov (Social Security Fairness Act page; Legislative Bulletin 2025-01-06) | 2026-10 | Low |
 | students.md | Minimum graduation credits | 24 | DESE | 2025-08 | Low |
-| students.md | A+ GPA requirement | 2.5 | RSMo 160.545 | 2026-10 | Low |
-| students.md | A+ attendance requirement | 95% | RSMo 160.545 | 2026-10 | Low |
-| students.md | A+ tutoring hours | 50 | RSMo 160.545 | 2026-10 | Low |
-| students.md | Compulsory attendance ages | 7-17 | RSMo 167.031 | 2026-10 | Low |
-| students.md | Kindergarten entry age cutoff | Turn 5 before August 1 | RSMo 160.053 | 2026-10 | Low |
-| students.md | Bright Flight amounts | Up to $3,000/yr | MDHEWD | 2026-10 | High |
 | students.md | Access Missouri amounts | $300-$2,850/yr | MDHEWD | 2025-01 | High |
 | teachers.md | Non-renewal deadline | April 15 | RSMo 168.126 | 2026-10 | Low |
 | teachers.md | Probationary period | 5 years | RSMo 168.104 | 2025-08 | Low |
 | specialists.md | Evaluation timeline | 60 calendar days | IDEA §300.301 | 2025-08 | Low |
 | specialists.md | IEP annual review | Every 365 days | IDEA §300.324 | 2025-08 | Low |
 | assessments.md | EOC required subjects | Eng II, Alg I, Bio, Am Gov | DESE | 2025-08 | Medium |
-| assessments.md | ACT college readiness benchmarks | 18/22/22/23 | ACT.org | 2026-10 | Low |
-| funding-programs.md | FRPM thresholds | 130%/185% FPL | USDA | 2025-07 | Medium |
-| funding-programs.md | Single Audit threshold | $1,000,000 (fiscal years starting on or after 2024-10-01) | 2 CFR Part 200 / FAC | 2026-10 | Low |
-| facilities-operations.md | Prevailing wage threshold | $75,000 | RSMo 290.210 | 2026-10 | Low |
 | facilities-operations.md | Bond approval requirement | 4/7 at general municipal, primary or general elections; 2/3 at other elections | Mo. Const. art. VI §26(b) | 2026-10 | Low |
 | rural-education.md | % districts on 4-day week | ~25% | DESE/media reports | 2025-10 | Medium |
 | ai-in-education/ | DESE AI guidance version | 1.0 (2025-26) | DESE | 2025-07 | High |
 | ai-in-education/ | SB 68 signed | July 9, 2025 | Missouri Legislature | 2026-10 | Low |
 | ai-in-education/ | States with AI guidance | 31+ | aiforeducation.io | 2026-01 | High |
-| teachers.md, substitute-teachers.md | Substitute cert routes | 36 semester hours, or HS diploma + 20 clock hours DESE-approved training | DESE (dese.mo.gov substitute teachers page; SB 681, 2022) | 2026-10 | Low |
 | school-staff.md | Mandated reporter penalty | Class A misdemeanor | RSMo 210.165 | 2026-10 | Low |
 
 ---
